@@ -1,0 +1,4 @@
+Inputs predominantes: Árboles doblados violentamente por el viento, presencia de columnas verticales que podrían ser chimeneas industriales o estructuras urbanas. Visibilidad muy reducida por condensación o partículas en suspensión.
+Estructura de la escena: Plano medio, posiblemente capturado desde el interior de un vehículo o estructura protegida. Las siluetas deformadas y el desenfoque inducido por movimiento o condiciones extremas dificultan la identificación precisa de elementos.
+Ambiente contextual: Entorno afectado por un fenómeno climático severo, posiblemente una tormenta súbita o tornado en zona semiurbana o industrial. La violencia del viento sugiere peligro inminente.
+Output esperado: Registro visual de cómo eventos extremos interrumpen lo cotidiano, distorsionan el entorno visible y desdibujan los límites entre naturaleza y artificio. Útil para reconstrucción atmosférica de eventos climáticos en entornos habitados.

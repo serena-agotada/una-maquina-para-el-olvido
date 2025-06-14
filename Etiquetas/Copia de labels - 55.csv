@@ -1,0 +1,479 @@
+Arm,Brazo,54
+Baby,Bebé,90
+Body Part,parte del cuerpo,100
+Finger,Dedo,100
+Floor,Piso,51
+Hand,Mano,100
+Person,Persona,100
+Skin,Piel,53
+Arm,Brazo,54
+Baby,Bebé,85
+Body Part,parte del cuerpo,100
+Cleaning,Limpieza,50
+Finger,Dedo,100
+Floor,Piso,59
+Hand,Mano,100
+Indoors,Dentro,52
+Interior Design,Diseño de interiores,52
+Person,Persona,100
+Skin,Piel,52
+Stain,Mancha,50
+Tar,Alquitrán,50
+Tile,Teja,53
+Arm,Brazo,54
+Baby,Bebé,74
+Body Part,parte del cuerpo,99
+Claw,Garra,50
+Cleaning,Limpieza,52
+Concrete,Concreto,50
+Construction,Construcción,50
+Electronics,Electrónica,52
+Finger,Dedo,99
+Floor,Piso,78
+Flooring,Piso,50
+Hand,Mano,99
+Hardware,Hardware,52
+Hook,Gancho,50
+Person,Persona,99
+Skin,Piel,54
+Stain,Mancha,51
+Tar,Alquitrán,52
+Tile,Teja,53
+Wrist,Muñeca,50
+Arm,Brazo,55
+Body Part,parte del cuerpo,99
+Claw,Garra,50
+Cleaning,Limpieza,53
+Cutlery,Cuchillería,52
+Electronics,Electrónica,52
+Finger,Dedo,99
+Floor,Piso,84
+Flooring,Piso,51
+Fork,Tenedor,52
+Hand,Mano,99
+Hardware,Hardware,52
+Hook,Gancho,50
+Indoors,Dentro,50
+Interior Design,Diseño de interiores,50
+Person,Persona,99
+Skin,Piel,55
+Stain,Mancha,52
+Tar,Alquitrán,52
+Tile,Teja,54
+Weapon,Arma,50
+Wrist,Muñeca,51
+Arm,Brazo,64
+Baby,Bebé,50
+Blade,Cuchilla,56
+Body Part,parte del cuerpo,99
+Dagger,Daga,53
+Electronics,Electrónica,50
+Finger,Dedo,99
+Floor,Piso,83
+Hand,Mano,99
+Hardware,Hardware,50
+Indoors,Dentro,52
+Interior Design,Diseño de interiores,52
+Knife,Cuchillo,53
+Person,Persona,99
+Skin,Piel,59
+Tattoo,Tatuaje,50
+Tile,Teja,54
+Weapon,Arma,60
+Wrist,Muñeca,51
+Arm,Brazo,72
+Blade,Cuchilla,56
+Body Part,parte del cuerpo,99
+Claw,Garra,52
+Cleaning,Limpieza,52
+Cutlery,Cuchillería,70
+Dagger,Daga,53
+Electronics,Electrónica,73
+Finger,Dedo,99
+Floor,Piso,56
+Fork,Tenedor,70
+Hand,Mano,99
+Hardware,Hardware,73
+Hook,Gancho,52
+Indoors,Dentro,50
+Interior Design,Diseño de interiores,50
+Knife,Cuchillo,53
+Person,Persona,99
+Skin,Piel,54
+Tar,Alquitrán,50
+Tattoo,Tatuaje,50
+Tile,Teja,52
+Weapon,Arma,61
+Wrist,Muñeca,55
+Arm,Brazo,53
+Body Part,parte del cuerpo,99
+Finger,Dedo,99
+Hand,Mano,99
+Person,Persona,99
+Skin,Piel,54
+Wrist,Muñeca,52
+Arm,Brazo,63
+Baby,Bebé,66
+Body Part,parte del cuerpo,99
+Electronics,Electrónica,51
+Finger,Dedo,99
+Hand,Mano,99
+Hardware,Hardware,51
+Person,Persona,99
+Skin,Piel,54
+Tattoo,Tatuaje,50
+Wrist,Muñeca,53
+Arm,Brazo,92
+Body Part,parte del cuerpo,99
+Finger,Dedo,99
+Hand,Mano,99
+Person,Persona,99
+Skin,Piel,56
+Weapon,Arma,60
+Wrist,Muñeca,54
+Arm,Brazo,97
+Baby,Bebé,71
+Body Part,parte del cuerpo,99
+Finger,Dedo,99
+Hand,Mano,99
+Person,Persona,99
+Skin,Piel,56
+Wrist,Muñeca,54
+Adult,Adulto,63
+Arm,Brazo,98
+Body Part,parte del cuerpo,99
+Dynamite,Dinamita,53
+Finger,Dedo,99
+Hand,Mano,99
+Male,Masculino,59
+Man,Hombre,59
+Person,Persona,99
+Skin,Piel,56
+Weapon,Arma,59
+Wrist,Muñeca,53
+Adult,Adulto,52
+Arm,Brazo,96
+Body Part,parte del cuerpo,99
+Dynamite,Dinamita,52
+Finger,Dedo,99
+Hand,Mano,99
+Male,Masculino,50
+Man,Hombre,50
+Person,Persona,99
+Skin,Piel,55
+Sport,Deporte,58
+Weapon,Arma,57
+Wrist,Muñeca,55
+Adult,Adulto,51
+Animal,Animal,50
+Arm,Brazo,79
+Body Part,parte del cuerpo,99
+Claw,Garra,52
+Electronics,Electrónica,72
+Finger,Dedo,99
+Hand,Mano,99
+Hardware,Hardware,72
+Hook,Gancho,52
+Male,Masculino,51
+Man,Hombre,51
+Person,Persona,99
+Skin,Piel,55
+Tattoo,Tatuaje,52
+Wrist,Muñeca,59
+Animal,Animal,68
+Arm,Brazo,89
+Body Part,parte del cuerpo,100
+Cat,Gato,64
+Electronics,Electrónica,53
+Finger,Dedo,100
+Hand,Mano,100
+Hardware,Hardware,53
+Mammal,Mamífero,68
+Person,Persona,100
+Pet,Mascota,64
+Skin,Piel,56
+Tattoo,Tatuaje,51
+Wrist,Muñeca,75
+Arm,Brazo,60
+Body Part,parte del cuerpo,100
+Finger,Dedo,100
+Hand,Mano,100
+Person,Persona,100
+Skin,Piel,53
+Thumbs Up,Pulgares hacia arriba,50
+Wrist,Muñeca,55
+Adult,Adulto,67
+Arm,Brazo,56
+Baby,Bebé,60
+Body Part,parte del cuerpo,100
+Female,Femenino,59
+Finger,Dedo,100
+Hand,Mano,100
+Person,Persona,100
+Skin,Piel,51
+Thumbs Up,Pulgares hacia arriba,51
+Woman,Mujer,59
+Wrist,Muñeca,52
+Arm,Brazo,74
+Baby,Bebé,54
+Body Part,parte del cuerpo,100
+Electronics,Electrónica,53
+Finger,Dedo,100
+Hand,Mano,100
+Hardware,Hardware,53
+Person,Persona,100
+Skin,Piel,54
+Tattoo,Tatuaje,50
+Wrist,Muñeca,53
+Arm,Brazo,55
+Baby,Bebé,55
+Body Part,parte del cuerpo,100
+Claw,Garra,54
+Electronics,Electrónica,87
+Finger,Dedo,100
+Hand,Mano,100
+Hardware,Hardware,87
+Hook,Gancho,54
+Person,Persona,100
+Skin,Piel,52
+Wrist,Muñeca,55
+Arm,Brazo,56
+Baby,Bebé,60
+Body Part,parte del cuerpo,100
+Claw,Garra,54
+Cleaning,Limpieza,50
+Electronics,Electrónica,86
+Finger,Dedo,100
+Hand,Mano,100
+Hardware,Hardware,86
+Hook,Gancho,54
+Person,Persona,100
+Skin,Piel,52
+Weapon,Arma,58
+Wrist,Muñeca,55
+Arm,Brazo,56
+Baby,Bebé,56
+Body Part,parte del cuerpo,100
+Claw,Garra,50
+Cleaning,Limpieza,51
+Electronics,Electrónica,56
+Finger,Dedo,100
+Hand,Mano,100
+Hardware,Hardware,56
+Hook,Gancho,50
+Person,Persona,100
+Skin,Piel,55
+Tile,Teja,50
+Wrist,Muñeca,55
+Arm,Brazo,58
+Baby,Bebé,62
+Body Part,parte del cuerpo,100
+Electronics,Electrónica,50
+Finger,Dedo,100
+Hand,Mano,100
+Hardware,Hardware,50
+Machine,Máquina,51
+Person,Persona,100
+Skin,Piel,53
+Thumbs Up,Pulgares hacia arriba,50
+Wrist,Muñeca,54
+Arm,Brazo,58
+Baby,Bebé,61
+Body Part,parte del cuerpo,100
+Claw,Garra,50
+Cleaning,Limpieza,50
+Electronics,Electrónica,53
+Finger,Dedo,100
+Hand,Mano,100
+Hardware,Hardware,53
+Hook,Gancho,50
+Person,Persona,100
+Skin,Piel,52
+Tattoo,Tatuaje,50
+Wrist,Muñeca,55
+Arm,Brazo,81
+Body Part,parte del cuerpo,100
+Finger,Dedo,100
+Hand,Mano,100
+Hockey,Hockey,50
+Ice Hockey,Hockey sobre hielo,50
+Ice Hockey Stick,Palo de hockey sobre hielo,50
+Person,Persona,100
+Rink,Pista,50
+Skating,Patinaje,50
+Skin,Piel,54
+Sport,Deporte,61
+Tattoo,Tatuaje,50
+Wrist,Muñeca,56
+Arm,Brazo,58
+Baby,Bebé,50
+Body Part,parte del cuerpo,100
+Finger,Dedo,100
+Hand,Mano,100
+Person,Persona,100
+Skin,Piel,54
+Tattoo,Tatuaje,50
+Thumbs Up,Pulgares hacia arriba,50
+Wrist,Muñeca,55
+Arm,Brazo,57
+Body Part,parte del cuerpo,100
+Finger,Dedo,100
+Hand,Mano,100
+Person,Persona,100
+Skin,Piel,57
+Tape,Cinta,52
+Thumbs Up,Pulgares hacia arriba,50
+Wrist,Muñeca,54
+Arm,Brazo,54
+Body Part,parte del cuerpo,100
+Finger,Dedo,100
+Hand,Mano,100
+Person,Persona,100
+Skin,Piel,58
+Tattoo,Tatuaje,50
+Wrist,Muñeca,55
+Arm,Brazo,52
+Body Part,parte del cuerpo,100
+Finger,Dedo,100
+Hand,Mano,100
+Massage,Masaje,50
+Person,Persona,100
+Skin,Piel,72
+Tattoo,Tatuaje,50
+Wrist,Muñeca,56
+Arm,Brazo,51
+Body Part,parte del cuerpo,100
+Finger,Dedo,100
+Hand,Mano,100
+Massage,Masaje,50
+Nail,Clavo,51
+Person,Persona,100
+Skin,Piel,82
+Tattoo,Tatuaje,50
+Wrist,Muñeca,56
+Baby,Bebé,75
+Body Part,parte del cuerpo,100
+Finger,Dedo,100
+Hand,Mano,100
+Hockey,Hockey,56
+Ice Hockey,Hockey sobre hielo,56
+Ice Hockey Puck,Disco de hockey sobre hielo,56
+Massage,Masaje,51
+Nail,Clavo,50
+Person,Persona,100
+Rink,Pista,56
+Skating,Patinaje,56
+Skin,Piel,94
+Sport,Deporte,64
+Tattoo,Tatuaje,50
+Wrist,Muñeca,56
+Arm,Brazo,50
+Baby,Bebé,77
+Body Part,parte del cuerpo,99
+Finger,Dedo,99
+Hand,Mano,99
+Massage,Masaje,50
+Person,Persona,99
+Skin,Piel,94
+Wrist,Muñeca,55
+Arm,Brazo,50
+Body Part,parte del cuerpo,98
+Finger,Dedo,98
+Hand,Mano,98
+Person,Persona,99
+Skin,Piel,84
+Wrist,Muñeca,50
+Body Part,parte del cuerpo,94
+Concrete,Concreto,50
+Construction,Construcción,51
+Finger,Dedo,94
+Floor,Piso,88
+Flooring,Piso,51
+Hand,Mano,94
+Outdoors,Al aire libre,56
+Path,Camino,53
+Person,Persona,97
+Road,Camino,73
+Tar,Alquitrán,58
+Tile,Teja,53
+Adult,Adulto,75
+Body Part,parte del cuerpo,64
+Cobblestone,Guijarro,50
+Concrete,Concreto,53
+Construction,Construcción,54
+Female,Femenino,75
+Finger,Dedo,64
+Floor,Piso,95
+Flooring,Piso,75
+Hand,Mano,64
+Mineral,Mineral,50
+Nature,Naturaleza,50
+Outdoors,Al aire libre,76
+Path,Camino,60
+Person,Persona,92
+Road,Camino,93
+Sidewalk,Acera,51
+Tar,Alquitrán,79
+Tarmac,Pista,52
+Tile,Teja,54
+Weapon,Arma,50
+Woman,Mujer,75
+Aerial View,Vista aérea,51
+Architecture,Arquitectura,53
+Body Part,parte del cuerpo,63
+Building,Edificio,53
+Cobblestone,Guijarro,52
+Concrete,Concreto,53
+Construction,Construcción,54
+Finger,Dedo,63
+Flagstone,Losa,52
+Floor,Piso,99
+Flooring,Piso,63
+Gravestone,Lápida sepulcral,53
+Hand,Mano,63
+House,Casa,51
+Housing,Alojamiento,53
+Mineral,Mineral,53
+Mortar Shell,Proyectil de mortero,58
+Outdoors,Al aire libre,63
+Path,Camino,91
+Pebble,Guijarro,50
+Person,Persona,66
+Road,Camino,98
+Sidewalk,Acera,56
+Tar,Alquitrán,91
+Tarmac,Pista,56
+Tile,Teja,54
+Tomb,Tumba,53
+Walkway,Pasarela,53
+Weapon,Arma,65
+Aerial View,Vista aérea,50
+Architecture,Arquitectura,52
+Body Part,parte del cuerpo,92
+Building,Edificio,52
+Cobblestone,Guijarro,52
+Concrete,Concreto,53
+Construction,Construcción,54
+Finger,Dedo,92
+Flagstone,Losa,51
+Floor,Piso,99
+Flooring,Piso,89
+Gravestone,Lápida sepulcral,54
+Hand,Mano,92
+House,Casa,50
+Housing,Alojamiento,52
+Mineral,Mineral,53
+Mortar Shell,Proyectil de mortero,77
+Outdoors,Al aire libre,58
+Path,Camino,93
+Pebble,Guijarro,52
+Person,Persona,94
+Road,Camino,98
+Sidewalk,Acera,60
+Slate,Pizarra,50
+Tar,Alquitrán,93
+Tarmac,Pista,57
+Tile,Teja,56
+Tomb,Tumba,54
+Walkway,Pasarela,52
+Weapon,Arma,80

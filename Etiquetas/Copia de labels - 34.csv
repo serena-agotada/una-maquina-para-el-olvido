@@ -1,0 +1,601 @@
+Adult,Adulto,97
+Alcohol,Alcohol,53
+Beverage,Bebida,53
+Cosmetics,Productos cosméticos,82
+Eating,Comiendo,50
+Face,Rostro,82
+Female,Femenino,97
+Food,Alimento,50
+Happy,Feliz,54
+Head,Cabeza,85
+Laughing,Reír,51
+Makeup,Constituir,61
+Male,Masculino,52
+Man,Hombre,52
+Person,Persona,97
+Romantic,Romántico,53
+Slapping,Rápido,70
+Smile,Sonrisa,54
+Smoke,Fumar,51
+Smoking,De fumar,50
+Woman,Mujer,97
+Adult,Adulto,98
+Cosmetics,Productos cosméticos,90
+Eating,Comiendo,53
+Face,Rostro,92
+Female,Femenino,98
+Food,Alimento,53
+Happy,Feliz,53
+Head,Cabeza,93
+Laughing,Reír,53
+Lipstick,Lápiz labial,51
+Makeup,Constituir,70
+Person,Persona,98
+Slapping,Rápido,59
+Smile,Sonrisa,50
+Smoke,Fumar,52
+Smoking,De fumar,50
+Woman,Mujer,98
+Adult,Adulto,97
+Cosmetics,Productos cosméticos,81
+Eating,Comiendo,55
+Face,Rostro,94
+Female,Femenino,97
+Food,Alimento,55
+Happy,Feliz,53
+Head,Cabeza,95
+Laughing,Reír,53
+Lipstick,Lápiz labial,50
+Makeup,Constituir,61
+Person,Persona,97
+Slapping,Rápido,77
+Smoke,Fumar,52
+Woman,Mujer,97
+Adult,Adulto,97
+Cosmetics,Productos cosméticos,79
+Eating,Comiendo,55
+Face,Rostro,97
+Female,Femenino,97
+Food,Alimento,55
+Happy,Feliz,53
+Head,Cabeza,97
+Laughing,Reír,53
+Lipstick,Lápiz labial,50
+Makeup,Constituir,60
+Person,Persona,97
+Slapping,Rápido,69
+Smoke,Fumar,52
+Smoking,De fumar,50
+Woman,Mujer,97
+Adult,Adulto,97
+Cosmetics,Productos cosméticos,76
+Eating,Comiendo,55
+Face,Rostro,97
+Female,Femenino,97
+Food,Alimento,55
+Happy,Feliz,52
+Head,Cabeza,97
+Laughing,Reír,52
+Lipstick,Lápiz labial,50
+Makeup,Constituir,57
+Male,Masculino,61
+Man,Hombre,61
+Person,Persona,98
+Slapping,Rápido,74
+Smoke,Fumar,52
+Woman,Mujer,97
+Adult,Adulto,97
+Cosmetics,Productos cosméticos,61
+Crying,Llanto,50
+Eating,Comiendo,67
+Face,Rostro,97
+Female,Femenino,97
+Food,Alimento,67
+Happy,Feliz,51
+Head,Cabeza,97
+Laughing,Reír,51
+Makeup,Constituir,53
+Person,Persona,98
+Sad,Triste,50
+Slapping,Rápido,79
+Smoke,Fumar,51
+Woman,Mujer,97
+Adult,Adulto,98
+Alcohol,Alcohol,50
+Beverage,Bebida,50
+Body Part,parte del cuerpo,51
+Boxing,Boxeo,50
+Cosmetics,Productos cosméticos,61
+Crying,Llanto,51
+Eating,Comiendo,52
+Face,Rostro,89
+Female,Femenino,98
+Food,Alimento,52
+Happy,Feliz,50
+Head,Cabeza,91
+Makeup,Constituir,54
+Neck,Cuello,51
+Person,Persona,98
+Sad,Triste,51
+Slapping,Rápido,88
+Sport,Deporte,50
+Woman,Mujer,98
+Adult,Adulto,98
+Body Part,parte del cuerpo,53
+Cosmetics,Productos cosméticos,71
+Crying,Llanto,51
+Face,Rostro,93
+Female,Femenino,98
+Happy,Feliz,50
+Head,Cabeza,94
+Makeup,Constituir,56
+Neck,Cuello,53
+Person,Persona,98
+Sad,Triste,51
+Slapping,Rápido,68
+Smile,Sonrisa,50
+Smoke,Fumar,51
+Throat,Garganta,50
+Woman,Mujer,98
+Adult,Adulto,96
+Body Part,parte del cuerpo,54
+Cosmetics,Productos cosméticos,87
+Eating,Comiendo,51
+Face,Rostro,73
+Female,Femenino,97
+Food,Alimento,51
+Head,Cabeza,75
+Makeup,Constituir,71
+Neck,Cuello,54
+Person,Persona,97
+Shoulder,Hombro,50
+Slapping,Rápido,54
+Throat,Garganta,50
+Woman,Mujer,96
+Adult,Adulto,93
+Body Part,parte del cuerpo,52
+Cosmetics,Productos cosméticos,89
+Crying,Llanto,50
+Eating,Comiendo,50
+Face,Rostro,91
+Female,Femenino,96
+Food,Alimento,50
+Girl,Chica,82
+Head,Cabeza,92
+Makeup,Constituir,72
+Neck,Cuello,52
+Person,Persona,97
+Sad,Triste,50
+Slapping,Rápido,50
+Teen,Adolescente,82
+Throat,Garganta,50
+Woman,Mujer,93
+Adult,Adulto,78
+Body Part,parte del cuerpo,52
+Boxing,Boxeo,51
+Cosmetics,Productos cosméticos,78
+Face,Rostro,71
+Female,Femenino,95
+Girl,Chica,90
+Hairdresser,Peluquero,50
+Head,Cabeza,77
+Makeup,Constituir,59
+Neck,Cuello,52
+Person,Persona,95
+Slapping,Rápido,53
+Sport,Deporte,51
+Teen,Adolescente,90
+Woman,Mujer,78
+Adult,Adulto,82
+Body Part,parte del cuerpo,50
+Cosmetics,Productos cosméticos,90
+Face,Rostro,80
+Female,Femenino,93
+Girl,Chica,93
+Head,Cabeza,85
+Makeup,Constituir,71
+Neck,Cuello,50
+Person,Persona,93
+Teen,Adolescente,93
+Woman,Mujer,82
+Adult,Adulto,88
+Body Part,parte del cuerpo,52
+Boxing,Boxeo,50
+Can,Poder,70
+Cosmetics,Productos cosméticos,84
+Face,Rostro,74
+Female,Femenino,92
+Girl,Chica,91
+Hairdresser,Peluquero,50
+Head,Cabeza,83
+Makeup,Constituir,65
+Neck,Cuello,52
+Person,Persona,92
+Slapping,Rápido,52
+Sport,Deporte,50
+Teen,Adolescente,91
+Tin,Estaño,70
+Woman,Mujer,88
+Adult,Adulto,91
+Body Part,parte del cuerpo,53
+Boxing,Boxeo,50
+Cosmetics,Productos cosméticos,79
+Face,Rostro,59
+Female,Femenino,92
+Girl,Chica,86
+Haircut,Corte de pelo,53
+Hairdresser,Peluquero,54
+Head,Cabeza,85
+Makeup,Constituir,64
+Neck,Cuello,53
+Person,Persona,92
+Slapping,Rápido,54
+Sport,Deporte,50
+Teen,Adolescente,86
+Woman,Mujer,91
+Adult,Adulto,91
+Alcohol,Alcohol,50
+Beverage,Bebida,50
+Boxing,Boxeo,54
+Cosmetics,Productos cosméticos,58
+Face,Rostro,57
+Female,Femenino,92
+Girl,Chica,69
+Haircut,Corte de pelo,52
+Hairdresser,Peluquero,52
+Head,Cabeza,85
+Makeup,Constituir,51
+Person,Persona,92
+Slapping,Rápido,79
+Sport,Deporte,54
+Teen,Adolescente,69
+Woman,Mujer,91
+Adult,Adulto,94
+Alcohol,Alcohol,50
+Beverage,Bebida,50
+Boxing,Boxeo,53
+Cosmetics,Productos cosméticos,73
+Face,Rostro,89
+Female,Femenino,94
+Happy,Feliz,50
+Head,Cabeza,94
+Makeup,Constituir,54
+Male,Masculino,58
+Man,Hombre,58
+Person,Persona,95
+Slapping,Rápido,65
+Smile,Sonrisa,50
+Sport,Deporte,53
+Woman,Mujer,94
+Adult,Adulto,92
+Cosmetics,Productos cosméticos,58
+Face,Rostro,94
+Female,Femenino,92
+Hairdresser,Peluquero,50
+Happy,Feliz,55
+Head,Cabeza,96
+Laughing,Reír,50
+Makeup,Constituir,50
+Person,Persona,97
+Romantic,Romántico,50
+Slapping,Rápido,52
+Smile,Sonrisa,55
+Sport,Deporte,51
+Woman,Mujer,92
+Adult,Adulto,77
+Animal,Animal,62
+Body Part,parte del cuerpo,50
+Cat,Gato,56
+Cosmetics,Productos cosméticos,66
+Face,Rostro,91
+Female,Femenino,77
+Happy,Feliz,55
+Head,Cabeza,92
+Indoors,Dentro,56
+Mammal,Mamífero,62
+Person,Persona,93
+Pet,Mascota,57
+Room,Habitación,50
+Smile,Sonrisa,54
+Woman,Mujer,77
+Animal,Animal,56
+Bee,Abeja,50
+Body Part,parte del cuerpo,52
+Cosmetics,Productos cosméticos,52
+Cream,Crema,58
+Dessert,Postre,58
+Face,Rostro,76
+Food,Alimento,58
+Happy,Feliz,51
+Head,Cabeza,78
+Ice Cream,Helado,58
+Indoors,Dentro,89
+Insect,Insecto,50
+Interior Design,Diseño de interiores,80
+Invertebrate,Invertebrado,50
+Mammal,Mamífero,53
+Neck,Cuello,50
+Person,Persona,83
+Room,Habitación,50
+Skin,Piel,67
+Smile,Sonrisa,51
+Smoke,Fumar,52
+Wood,Madera,61
+Alcohol,Alcohol,50
+Animal,Animal,57
+Bee,Abeja,51
+Beverage,Bebida,51
+Bird,Pájaro,50
+Body Part,parte del cuerpo,52
+Cat,Gato,52
+Cosmetics,Productos cosméticos,52
+Cream,Crema,51
+Dessert,Postre,51
+Face,Rostro,79
+Food,Alimento,55
+Head,Cabeza,81
+Ice Cream,Helado,51
+Indoors,Dentro,81
+Insect,Insecto,53
+Interior Design,Diseño de interiores,74
+Invertebrate,Invertebrado,53
+Mammal,Mamífero,52
+Neck,Cuello,52
+Person,Persona,82
+Pet,Mascota,52
+Smoke,Fumar,52
+Wood,Madera,73
+Adult,Adulto,69
+Animal,Animal,66
+Cat,Gato,63
+Cosmetics,Productos cosméticos,76
+Eating,Comiendo,50
+Face,Rostro,81
+Female,Femenino,69
+Food,Alimento,56
+Head,Cabeza,87
+Makeup,Constituir,57
+Mammal,Mamífero,65
+Person,Persona,88
+Pet,Mascota,65
+Smoke,Fumar,54
+Woman,Mujer,69
+Accessories,Accesorios,55
+Adult,Adulto,83
+Alcohol,Alcohol,78
+Beverage,Bebida,78
+Boy,Chico,55
+Child,Niño,55
+Cosmetics,Productos cosméticos,50
+Drinking,Bebida,69
+Drinking Alcohol,beber alcohol,60
+Eating,Comiendo,74
+Face,Rostro,64
+Female,Femenino,83
+Food,Alimento,76
+Girl,Chica,58
+Head,Cabeza,85
+Jewelry,Joyas,55
+Male,Masculino,60
+Person,Persona,89
+Smoke,Fumar,53
+Woman,Mujer,83
+Adult,Adulto,88
+Alcohol,Alcohol,74
+Ball,Pelota,68
+Baseball,Béisbol,67
+Baseball (Ball),Béisbol (pelota),67
+Beverage,Bebida,74
+Cosmetics,Productos cosméticos,58
+Cream,Crema,50
+Dessert,Postre,50
+Drinking,Bebida,57
+Drinking Alcohol,beber alcohol,50
+Eating,Comiendo,90
+Face,Rostro,51
+Female,Femenino,88
+Food,Alimento,90
+Girl,Chica,56
+Head,Cabeza,78
+Makeup,Constituir,50
+Person,Persona,95
+Sport,Deporte,75
+Woman,Mujer,88
+Adult,Adulto,90
+Alcohol,Alcohol,62
+Beverage,Bebida,62
+Cosmetics,Productos cosméticos,53
+Drinking,Bebida,56
+Eating,Comiendo,89
+Face,Rostro,64
+Female,Femenino,90
+Food,Alimento,89
+Head,Cabeza,81
+Person,Persona,97
+Woman,Mujer,90
+Adult,Adulto,90
+Cosmetics,Productos cosméticos,85
+Face,Rostro,82
+Female,Femenino,90
+Food,Alimento,50
+Head,Cabeza,85
+Makeup,Constituir,70
+Person,Persona,96
+Woman,Mujer,90
+Adult,Adulto,70
+Animal,Animal,67
+Body Part,parte del cuerpo,52
+Cat,Gato,57
+Dessert,Postre,50
+Face,Rostro,90
+Female,Femenino,70
+Food,Alimento,52
+Head,Cabeza,90
+Indoors,Dentro,53
+Mammal,Mamífero,67
+Nature,Naturaleza,55
+Outdoors,Al aire libre,64
+Person,Persona,92
+Pet,Mascota,62
+Smoke,Fumar,52
+Woman,Mujer,70
+Animal,Animal,54
+Astronomy,Astronomía,50
+Body Part,parte del cuerpo,52
+Cream,Crema,50
+Dessert,Postre,50
+Face,Rostro,59
+Food,Alimento,50
+Head,Cabeza,59
+Indoors,Dentro,82
+Interior Design,Diseño de interiores,78
+Mammal,Mamífero,54
+Nature,Naturaleza,60
+Outdoors,Al aire libre,73
+Person,Persona,60
+Smoke,Fumar,52
+Texture,Textura,76
+Wood,Madera,76
+Animal,Animal,54
+Body Part,parte del cuerpo,52
+Face,Rostro,62
+Head,Cabeza,62
+Indoors,Dentro,51
+Mammal,Mamífero,53
+Nature,Naturaleza,55
+Outdoors,Al aire libre,80
+Person,Persona,62
+Rain,Lluvia,50
+Storm,Tormenta,51
+Tornado,Tornado,51
+Animal,Animal,75
+Body Part,parte del cuerpo,81
+Cat,Gato,72
+Ear,Oreja,74
+Face,Rostro,93
+Happy,Feliz,53
+Head,Cabeza,93
+Mammal,Mamífero,75
+Person,Persona,93
+Pet,Mascota,72
+Smile,Sonrisa,53
+Smoke,Fumar,55
+Adult,Adulto,62
+Animal,Animal,57
+Body Part,parte del cuerpo,56
+Cat,Gato,53
+Ear,Oreja,52
+Face,Rostro,95
+Female,Femenino,69
+Happy,Feliz,54
+Head,Cabeza,95
+Mammal,Mamífero,57
+Person,Persona,96
+Pet,Mascota,53
+Smile,Sonrisa,54
+Smoke,Fumar,50
+Wildlife,Fauna,50
+Woman,Mujer,62
+Animal,Animal,75
+Body Part,parte del cuerpo,58
+Cat,Gato,74
+Face,Rostro,95
+Female,Femenino,70
+Girl,Chica,54
+Happy,Feliz,83
+Head,Cabeza,95
+Mammal,Mamífero,75
+Neck,Cuello,53
+Person,Persona,98
+Pet,Mascota,74
+Smile,Sonrisa,83
+Smoke,Fumar,53
+Spitting,escupir,65
+Teen,Adolescente,54
+Adult,Adulto,70
+Body Part,parte del cuerpo,57
+Cosmetics,Productos cosméticos,84
+Face,Rostro,72
+Female,Femenino,81
+Hand,Mano,52
+Happy,Feliz,51
+Head,Cabeza,72
+Makeup,Constituir,63
+Person,Persona,88
+Shoulder,Hombro,51
+Smile,Sonrisa,51
+Woman,Mujer,70
+Adult,Adulto,55
+Arm,Brazo,55
+Body Part,parte del cuerpo,83
+Cosmetics,Productos cosméticos,77
+Face,Rostro,78
+Female,Femenino,67
+Finger,Dedo,73
+Hand,Mano,81
+Happy,Feliz,52
+Head,Cabeza,78
+Makeup,Constituir,52
+Neck,Cuello,52
+Person,Persona,93
+Shoulder,Hombro,56
+Smile,Sonrisa,52
+Smoke,Fumar,53
+Woman,Mujer,55
+Wrist,Muñeca,51
+Animal,Animal,62
+Body Part,parte del cuerpo,61
+Cat,Gato,62
+Cosmetics,Productos cosméticos,74
+Eating,Comiendo,50
+Face,Rostro,95
+Female,Femenino,82
+Food,Alimento,53
+Girl,Chica,70
+Hand,Mano,53
+Head,Cabeza,95
+Lipstick,Lápiz labial,51
+Mammal,Mamífero,62
+Neck,Cuello,55
+Person,Persona,97
+Pet,Mascota,62
+Shoulder,Hombro,56
+Smoke,Fumar,83
+Smoking,De fumar,62
+Teen,Adolescente,70
+Adult,Adulto,69
+Animal,Animal,75
+Arm,Brazo,51
+Body Part,parte del cuerpo,63
+Cat,Gato,74
+Cosmetics,Productos cosméticos,55
+Face,Rostro,90
+Female,Femenino,77
+Head,Cabeza,90
+Mammal,Mamífero,75
+Neck,Cuello,57
+Person,Persona,91
+Pet,Mascota,74
+Shoulder,Hombro,56
+Smoke,Fumar,51
+Woman,Mujer,69
+Animal,Animal,54
+Body Part,parte del cuerpo,93
+Cat,Gato,54
+Cosmetics,Productos cosméticos,51
+Cream,Crema,50
+Dessert,Postre,50
+Face,Rostro,98
+Food,Alimento,51
+Happy,Feliz,53
+Head,Cabeza,98
+Hip,Cadera,53
+Ice Cream,Helado,50
+Mammal,Mamífero,54
+Neck,Cuello,92
+Person,Persona,98
+Pet,Mascota,54
+Shoulder,Hombro,52
+Skin,Piel,59
+Smile,Sonrisa,53
+Smoke,Fumar,56

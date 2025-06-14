@@ -1,0 +1,380 @@
+Animal,Animal,51
+Avalanche,Avalancha,50
+Canine,Canino,51
+Dog,Perro,50
+Hunting,Caza,50
+Ice,Hielo,65
+Leisure Activities,Actividades de ocio,61
+Mammal,Mamífero,51
+Mountain,Montaña,50
+Nature,Naturaleza,96
+Outdoors,Al aire libre,96
+Person,Persona,62
+Pet,Mascota,50
+Skiing,Esquiar,60
+Snow,Nieve,78
+Snow Angel,ángel de nieve,50
+Sport,Deporte,61
+Storm,Tormenta,50
+Transportation,Transporte,53
+Vehicle,Vehículo,53
+Water,Agua,52
+Wildlife,Fauna,50
+Winter,Invierno,58
+Adult,Adulto,76
+Adventure,Aventura,77
+Clothing,Ropa,61
+Face,Rostro,81
+Footwear,Calzado,61
+Head,Cabeza,82
+Leisure Activities,Actividades de ocio,86
+Male,Masculino,90
+Man,Hombre,76
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,95
+Shoe,Zapato,57
+Skiing,Esquiar,84
+Snow,Nieve,97
+Snowboarding,snowboard,77
+Sport,Deporte,86
+Adventure,Aventura,62
+Boy,Chico,85
+Child,Niño,85
+Face,Rostro,81
+Head,Cabeza,90
+Leisure Activities,Actividades de ocio,91
+Male,Masculino,94
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,96
+Skiing,Esquiar,89
+Snow,Nieve,98
+Snowboarding,snowboard,62
+Sport,Deporte,91
+Adventure,Aventura,89
+Boy,Chico,89
+Child,Niño,89
+Face,Rostro,79
+Head,Cabeza,94
+Leisure Activities,Actividades de ocio,93
+Male,Masculino,97
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,98
+Piste,Pista,51
+Skiing,Esquiar,83
+Snow,Nieve,99
+Snowboarding,snowboard,89
+Sport,Deporte,93
+Adult,Adulto,70
+Adventure,Aventura,90
+Boy,Chico,85
+Bride,Novia,59
+Child,Niño,85
+Face,Rostro,78
+Female,Femenino,61
+Head,Cabeza,90
+Leisure Activities,Actividades de ocio,92
+Male,Masculino,96
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,97
+Piste,Pista,52
+Skiing,Esquiar,81
+Snow,Nieve,99
+Snowboarding,snowboard,90
+Sport,Deporte,92
+Wedding,Boda,59
+Woman,Mujer,61
+Adult,Adulto,76
+Adventure,Aventura,63
+Animal,Animal,58
+Baby,Bebé,69
+Face,Rostro,81
+Head,Cabeza,89
+Leisure Activities,Actividades de ocio,70
+Male,Masculino,82
+Mammal,Mamífero,58
+Man,Hombre,68
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,91
+Pet,Mascota,58
+Piste,Pista,50
+Skiing,Esquiar,64
+Snow,Nieve,98
+Snowball Fight,Pelea de bolas de nieve,68
+Snowboarding,snowboard,63
+Sport,Deporte,70
+Adult,Adulto,90
+Adventure,Aventura,89
+Female,Femenino,50
+Head,Cabeza,86
+Leisure Activities,Actividades de ocio,90
+Male,Masculino,91
+Man,Hombre,86
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,96
+Skiing,Esquiar,66
+Snow,Nieve,98
+Snowboarding,snowboard,89
+Sport,Deporte,90
+Woman,Mujer,50
+Adult,Adulto,85
+Adventure,Aventura,95
+Baby,Bebé,80
+Female,Femenino,61
+Head,Cabeza,77
+Leisure Activities,Actividades de ocio,95
+Male,Masculino,85
+Man,Hombre,85
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,98
+Piste,Pista,50
+Skiing,Esquiar,60
+Snow,Nieve,99
+Snowboarding,snowboard,95
+Sport,Deporte,95
+Woman,Mujer,57
+Adventure,Aventura,89
+Baby,Bebé,80
+Clothing,Ropa,71
+Glove,Guante,63
+Head,Cabeza,69
+Leisure Activities,Actividades de ocio,90
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,98
+Piste,Pista,51
+Skiing,Esquiar,64
+Snow,Nieve,98
+Snowboarding,snowboard,89
+Sport,Deporte,90
+Adult,Adulto,54
+Adventure,Aventura,92
+Child,Niño,80
+Female,Femenino,75
+Girl,Chica,71
+Head,Cabeza,81
+Leisure Activities,Actividades de ocio,97
+Male,Masculino,59
+Man,Hombre,54
+Motorcycle,Motocicleta,63
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,98
+Piste,Pista,51
+Skiing,Esquiar,76
+Snow,Nieve,99
+Snowboarding,snowboard,92
+Sport,Deporte,97
+Transportation,Transporte,73
+Vehicle,Vehículo,73
+Adventure,Aventura,64
+Box,Caja,62
+Boy,Chico,75
+Child,Niño,84
+Head,Cabeza,73
+Leisure Activities,Actividades de ocio,93
+Male,Masculino,90
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Package,Paquete,62
+Person,Persona,98
+Piste,Pista,51
+Skiing,Esquiar,90
+Snow,Nieve,99
+Snowboarding,snowboard,62
+Sport,Deporte,93
+Adult,Adulto,82
+Adventure,Aventura,58
+Head,Cabeza,82
+Leisure Activities,Actividades de ocio,95
+Male,Masculino,96
+Man,Hombre,82
+Nature,Naturaleza,100
+Outdoors,Al aire libre,100
+Person,Persona,98
+Piste,Pista,51
+Skiing,Esquiar,94
+Snow,Nieve,99
+Snowboarding,snowboard,57
+Sport,Deporte,95
+Adventure,Aventura,56
+Boy,Chico,76
+Child,Niño,76
+Head,Cabeza,90
+Leisure Activities,Actividades de ocio,93
+Male,Masculino,99
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,99
+Piste,Pista,50
+Skiing,Esquiar,93
+Snow,Nieve,99
+Snowboarding,snowboard,56
+Sport,Deporte,93
+Adult,Adulto,89
+Adventure,Aventura,54
+Clothing,Ropa,85
+Glove,Guante,78
+Head,Cabeza,76
+Leisure Activities,Actividades de ocio,93
+Male,Masculino,98
+Man,Hombre,89
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,98
+Piste,Pista,50
+Skiing,Esquiar,93
+Snow,Nieve,99
+Snowboarding,snowboard,53
+Sport,Deporte,93
+Adult,Adulto,95
+Adventure,Aventura,56
+Clothing,Ropa,86
+Face,Rostro,67
+Glove,Guante,79
+Head,Cabeza,93
+Leisure Activities,Actividades de ocio,77
+Male,Masculino,99
+Man,Hombre,95
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,99
+Piste,Pista,51
+Skiing,Esquiar,77
+Snow,Nieve,99
+Snowball Fight,Pelea de bolas de nieve,51
+Snowboarding,snowboard,55
+Sport,Deporte,77
+Adult,Adulto,99
+Adventure,Aventura,52
+Boy,Chico,76
+Child,Niño,76
+Face,Rostro,61
+Head,Cabeza,92
+Leisure Activities,Actividades de ocio,93
+Male,Masculino,99
+Man,Hombre,99
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,99
+Piste,Pista,50
+Skiing,Esquiar,93
+Snow,Nieve,99
+Snowboarding,snowboard,52
+Sport,Deporte,93
+Adult,Adulto,99
+Adventure,Aventura,59
+Face,Rostro,69
+Head,Cabeza,93
+Leisure Activities,Actividades de ocio,86
+Male,Masculino,99
+Man,Hombre,99
+Nature,Naturaleza,99
+Outdoors,Al aire libre,99
+Person,Persona,99
+Piste,Pista,50
+Skiing,Esquiar,85
+Snow,Nieve,99
+Snowboarding,snowboard,59
+Sport,Deporte,86
+Adult,Adulto,99
+Adventure,Aventura,71
+Boy,Chico,90
+Child,Niño,90
+Face,Rostro,67
+Head,Cabeza,94
+Leisure Activities,Actividades de ocio,88
+Male,Masculino,99
+Man,Hombre,99
+Nature,Naturaleza,100
+Outdoors,Al aire libre,100
+Person,Persona,99
+Piste,Pista,51
+Skiing,Esquiar,86
+Snow,Nieve,99
+Snowboarding,snowboard,71
+Sport,Deporte,88
+Adult,Adulto,99
+Adventure,Aventura,83
+Boy,Chico,90
+Child,Niño,90
+Face,Rostro,67
+Female,Femenino,52
+Head,Cabeza,92
+Leisure Activities,Actividades de ocio,88
+Male,Masculino,99
+Man,Hombre,99
+Nature,Naturaleza,100
+Outdoors,Al aire libre,100
+Person,Persona,99
+Piste,Pista,50
+Skiing,Esquiar,74
+Snow,Nieve,99
+Snowboarding,snowboard,83
+Sport,Deporte,88
+Woman,Mujer,52
+Adult,Adulto,99
+Adventure,Aventura,69
+Boy,Chico,85
+Child,Niño,85
+Head,Cabeza,93
+Leisure Activities,Actividades de ocio,86
+Male,Masculino,99
+Man,Hombre,99
+Nature,Naturaleza,100
+Outdoors,Al aire libre,100
+Person,Persona,99
+Piste,Pista,50
+Skiing,Esquiar,85
+Snow,Nieve,99
+Snowboarding,snowboard,69
+Sport,Deporte,86
+Adult,Adulto,99
+Adventure,Aventura,58
+Face,Rostro,62
+Head,Cabeza,92
+Leisure Activities,Actividades de ocio,90
+Male,Masculino,99
+Man,Hombre,99
+Nature,Naturaleza,100
+Outdoors,Al aire libre,100
+Person,Persona,99
+Piste,Pista,50
+Skiing,Esquiar,89
+Snow,Nieve,99
+Snowboarding,snowboard,58
+Sport,Deporte,90
+Adult,Adulto,99
+Adventure,Aventura,51
+Head,Cabeza,94
+Leisure Activities,Actividades de ocio,95
+Male,Masculino,99
+Man,Hombre,99
+Nature,Naturaleza,100
+Outdoors,Al aire libre,100
+Person,Persona,99
+Piste,Pista,50
+Skiing,Esquiar,95
+Snow,Nieve,99
+Snowboarding,snowboard,51
+Sport,Deporte,95
+Adult,Adulto,98
+Box,Caja,59
+Face,Rostro,58
+Head,Cabeza,92
+Leisure Activities,Actividades de ocio,97
+Male,Masculino,98
+Man,Hombre,98
+Nature,Naturaleza,100
+Outdoors,Al aire libre,100
+Package,Paquete,59
+Person,Persona,98
+Skiing,Esquiar,97
+Snow,Nieve,99
+Sport,Deporte,97
