@@ -34,7 +34,7 @@ void setup() {
 
 void loop() {
   aState = digitalRead(outputA);
-  nitidez = analogRead(A0);
+  nitidez = map(analogRead(A0), 0, 673, 0, 1023);
 
   if (aState != aLastState )
     {

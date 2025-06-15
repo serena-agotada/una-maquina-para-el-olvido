@@ -284,6 +284,17 @@ void serialEvent(Serial myPort) {
   }
 }
 
+void oscEvent(OscMessage mensajeOscEntrante) {
+  if (mensajeOscEntrante.checkAddrPattern("/video")==true) {
+    if (mensajeOscEntrante.checkTypetag("i")) {
+      int indice_recibido = mensajeOscEntrante.get(0).intValue();
+
+      currentVideoIndex = indice_recibido;
+
+      println("indice recibido: ", indice_recibido);
+    }
+  }
+}
 
 void keyPressed() {
   if (keyCode == ESC) exit();
