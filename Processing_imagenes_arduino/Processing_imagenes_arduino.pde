@@ -7,7 +7,7 @@ Serial myPort;
 
 OscP5 oscP5;
 
-int cantVideos = 2; //59;
+int cantVideos = 59;
 int max_dial = 59*30;
 int cantImgsPorVideo = 1;
 int limite_inactividad = 10;
@@ -99,9 +99,6 @@ void setup() {
   oscP5.send(n, loc_texto);
 
   escalar = float(width)/float(imgs[0][0].width);
-
-  loadPixels();
-  
 }
 
 
@@ -116,7 +113,7 @@ void draw() {
     ds.add(nDistSint);
     oscP5.send(ds, loc_video);
     //oscP5.send(cv, loc_texto);
-    
+
     distSintVideo = nDistSint;
   }
   randomize = (int)map(distSintVideo, divisionSensor/2, 0, 1, frameRate);
@@ -150,7 +147,7 @@ void draw() {
   else
     distortionAmount = map(distN, 0, dist_max, 0.7, 1);
 
-// ACTUALIZO INDICE DE VIDEO Y ENVIO A LAS OTRAS COMPUS
+  // ACTUALIZO INDICE DE VIDEO Y ENVIO A LAS OTRAS COMPUS
   if (newIndex != currentVideoIndex) {
     OscMessage cv = new OscMessage("/video");
     cv.add(newIndex);
@@ -160,52 +157,43 @@ void draw() {
     currentVideoIndex = newIndex;
   }
 
-// ENVIO NITIDEZ
+  // ENVIO NITIDEZ
   OscMessage n = new OscMessage("/nitidez");
   n.add(distortionAmount);
   oscP5.send(n, loc_video);
   oscP5.send(n, loc_texto);
 
 
-// DISTORSIONO IMAGEN
-  if (distortionAmount != ant_distortion || distSintVideo <= 1000) {
-    println(pixels.length, imgs[clip][indice_imagen].pixels.length);
-    float esc = float(pixels.length) / float(imgs[clip][indice_imagen].pixels.length);
-    println(esc);
+  // DISTORSIONO IMAGEN
+  image(imgs[clip][indice_imagen], 0, 0, width, height);
 
-    for (int y = 0; y < imgs[clip][indice_imagen].height; y++) {
-      for (int x = 0; x < imgs[clip][indice_imagen].width; x++ ) {
-       
-        int loc = x + (y*imgs[clip][indice_imagen].width);
+  loadPixels();
+  float esc = float(pixels.length) / float(imgs[clip][indice_imagen].pixels.length);
+  println(esc);
 
-        float r = red(imgs[clip][indice_imagen].pixels[loc]);
-        float g = green(imgs[clip][indice_imagen].pixels[loc]);
-        float b = blue(imgs[clip][indice_imagen].pixels[loc]);
+  for (int i = 0; i < pixels.length; i++) {
 
-        int n_loc = loc;
+    float r = red(pixels[i]);
+    float g = green(pixels[i]);
+    float b = blue(pixels[i]);
 
-        /*if (distortionAmount > 0.01) {
-          int n_x = int(x + random(-distortionAmount*ruido_max, distortionAmount*ruido_max));
-          int n_y = int(y + random(-distortionAmount*ruido_max, distortionAmount*ruido_max));
+    int n_i = i;
 
-          n_loc = constrain(n_y*width + n_x, 0, pixels.length-1);
+    if (distortionAmount > 0.01) {
+      n_i = int( constrain(i + random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, pixels.length-1) );
 
-          r += constrain(random(-distortionAmount*100, distortionAmount*100), 0, 255);
-          g += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-          b += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-        }*/
-
-        color c = color(r, g, b);
-
-        pixels[int(n_loc*esc)] = c;
-      }
+      r += constrain(random(-distortionAmount*100, distortionAmount*100), 0, 255);
+      g += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
+      b += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
     }
 
-    updatePixels();
-    
-  } else {
-    image(imgs[clip][indice_imagen], 0, 0, width, height);
+    color c = color(r, g, b);
+
+    pixels[n_i] = c;
   }
+
+  updatePixels();
+
   ant_distortion = distortionAmount;
 
   // oscurezco la pantalla
@@ -278,7 +266,7 @@ void serialEvent(Serial myPort) {
 
         if ( abs(sVideo - datos[0]) > 0) actividad = true; // registro actividad
 
-        sVideo = int(lerp(sVideo, datos[0], 0.8)); 
+        sVideo = int(lerp(sVideo, datos[0], 0.8));
 
         OscMessage sv = new OscMessage("/sVideo"); // envio valor del sensor de nitidez a raspi
         sv.add(sVideo);
