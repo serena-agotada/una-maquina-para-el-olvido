@@ -103,16 +103,15 @@ void setup() {
 
 
 void draw() {
-  //background(0);
+  
   // CALCULO DE VARIABLES
   sintVideoIndex = constrain( round(sVideo / divisionSensor), 0, cantVideos-1); // calculo de indice a sintonizar
-  //println(sintVideoIndex);
+  
   int nDistSint = int(abs(sVideo - (divisionSensor * sintVideoIndex))); // calculo la nueva distancia entre el valor del sensor y el valor para sintonizacion
   if (nDistSint != distSintVideo) {
     OscMessage ds = new OscMessage("/distSint");
     ds.add(nDistSint);
     oscP5.send(ds, loc_video);
-    //oscP5.send(cv, loc_texto);
 
     distSintVideo = nDistSint;
   }
@@ -153,6 +152,8 @@ void draw() {
     cv.add(newIndex);
     oscP5.send(cv, loc_video);
     oscP5.send(cv, loc_texto);
+    
+    delay(500);
 
     currentVideoIndex = newIndex;
   }
@@ -260,7 +261,7 @@ void serialEvent(Serial myPort) {
     inString = trim(inString);
     int [] datos = int (split(inString, " "));
 
-    if (datos.length >= 2) {
+    if (datos.length >= 3) {
 
       if (sVideo != datos[0]) {
 
