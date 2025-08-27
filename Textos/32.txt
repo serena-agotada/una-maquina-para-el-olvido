@@ -1,4 +1,4 @@
-Interior doméstico con luz natural tenue. Se observa una figura humana de espaldas, saliendo por una puerta de madera con vidrio. La figura parece irse en silencio, sin interacción con lo que deja atrás. 
-Un escritorio antiguo con objetos personales —una cámara fotográfica, papeles, un ramo seco— y una estantería empotrada con libros sugieren una atmósfera habitada y vivida.
-La composición sugiere transición, separación o rutina.
-No hay signos de urgencia, pero sí una posible despedida implícita. El contraste entre la puerta abierta y el interior detenido refuerza la idea de una pausa o abandono temporal. Evoca temas como el paso del tiempo, la rutina interrumpida o el acto de dejar algo atrás.
+Inputs predominantes: Árboles doblados violentamente por el viento, presencia de columnas verticales que podrían ser chimeneas industriales o estructuras urbanas. Visibilidad muy reducida por condensación o partículas en suspensión.
+Estructura de la escena: Plano medio, posiblemente capturado desde el interior de un vehículo o estructura protegida. Las siluetas deformadas y el desenfoque inducido por movimiento o condiciones extremas dificultan la identificación precisa de elementos.
+Ambiente contextual: Entorno afectado por un fenómeno climático severo, posiblemente una tormenta súbita o tornado en zona semiurbana o industrial. La violencia del viento sugiere peligro inminente.
+Output esperado: Registro visual de cómo eventos extremos interrumpen lo cotidiano, distorsionan el entorno visible y desdibujan los límites entre naturaleza y artificio. Útil para reconstrucción atmosférica de eventos climáticos en entornos habitados.

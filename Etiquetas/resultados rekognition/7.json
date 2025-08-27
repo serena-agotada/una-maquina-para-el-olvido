@@ -1,0 +1,7510 @@
+{
+  "Video": "7.mp4",
+  "JobId": "972b628f532cf4e4516c379ed4cd125edb372b844784436c8a23218e9262fe58",
+  "JobStatus": "SUCCEEDED",
+  "VideoMetadata": {
+    "Codec": "h264",
+    "DurationMillis": 14280,
+    "Format": "QuickTime / MOV",
+    "FrameRate": 25.0,
+    "FrameHeight": 900,
+    "FrameWidth": 1366,
+    "ColorRange": "LIMITED"
+  },
+  "Labels": [
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 51.379085540771484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Apartment Building",
+        "Confidence": 60.6210823059082,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "High Rise"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 91.59860229492188,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 91.59860229492188,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.29612860083580017,
+              "Height": 0.7983411550521851,
+              "Left": 0.5969369411468506,
+              "Top": 0.0732029378414154
+            },
+            "Confidence": 90.71136474609375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.07982174307107925,
+              "Height": 0.2928442358970642,
+              "Left": 0.9201781749725342,
+              "Top": 0.23396551609039307
+            },
+            "Confidence": 75.78136444091797
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "City",
+        "Confidence": 97.27339935302734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "High Rise",
+        "Confidence": 60.6210823059082,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 52.89377212524414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 52.57792663574219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 53.445892333984375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 52.57792663574219,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 96.72726440429688,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "War",
+        "Confidence": 51.19921112060547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 52.5191650390625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Apartment Building",
+        "Confidence": 82.66669464111328,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "High Rise"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 93.49905395507812,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 93.49905395507812,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.34630194306373596,
+              "Height": 0.7899439930915833,
+              "Left": 0.5845437049865723,
+              "Top": 0.2098889797925949
+            },
+            "Confidence": 96.5799789428711
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "City",
+        "Confidence": 93.134033203125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "High Rise",
+        "Confidence": 82.66669464111328,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "House",
+        "Confidence": 50.494991302490234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 63.033042907714844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 53.063690185546875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 56.95988082885742,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 54.29986572265625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Row House",
+        "Confidence": 50.18869400024414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "House"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 92.86341857910156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 50.638450622558594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 88.82408905029297,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Basketball",
+        "Confidence": 50.26288986206055,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 88.82408905029297,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3176274299621582,
+              "Height": 0.6180742979049683,
+              "Left": 0.6132134795188904,
+              "Top": 0.0009588050888851285
+            },
+            "Confidence": 95.83170318603516
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "City",
+        "Confidence": 61.375511169433594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 51.817073822021484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 52.164546966552734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 52.164546966552734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 64.52381134033203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 56.64387893676758,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 67.36436462402344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 50.26288986206055,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 59.78529739379883,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 52.15188980102539,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Baby",
+        "Confidence": 58.90052032470703,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.32274430990219116,
+              "Height": 0.4788653552532196,
+              "Left": 0.10107860714197159,
+              "Top": 0.5210011005401611
+            },
+            "Confidence": 73.01537322998047
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 52.15188980102539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 50.71741485595703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 56.47046661376953,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 59.27576446533203,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 59.27576446533203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 83.00544738769531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 69.37410736083984,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.32274430990219116,
+              "Height": 0.4788653552532196,
+              "Left": 0.10107860714197159,
+              "Top": 0.5210011005401611
+            },
+            "Confidence": 73.01537322998047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.16239804029464722,
+              "Height": 0.24836377799510956,
+              "Left": 0.0006690048612654209,
+              "Top": 0.7508127689361572
+            },
+            "Confidence": 57.09395980834961
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 50.71741485595703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 51.560604095458984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 87.47822570800781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 87.47822570800781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 89.95266723632812,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 58.49018859863281,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1626935601234436,
+              "Height": 0.12105241417884827,
+              "Left": 0.0005497185629792511,
+              "Top": 0.5391663908958435
+            },
+            "Confidence": 57.31067657470703
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 51.560604095458984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 52.66516876220703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 50.51324462890625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 96.14030456542969,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 96.14030456542969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 88.45867919921875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 52.81971740722656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 52.66516876220703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Vandalism",
+        "Confidence": 50.47639465332031,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 52.90771484375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 97.4745864868164,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 97.4745864868164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 68.74144744873047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 51.03777313232422,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Plant",
+        "Confidence": 51.60054397583008,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Plants and Flowers"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Potted Plant",
+        "Confidence": 51.56169509887695,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Plant"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 52.90771484375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Window",
+        "Confidence": 51.783939361572266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Windowsill",
+        "Confidence": 51.783939361572266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Window"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 50.01964569091797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 50.21824645996094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 89.42308044433594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 89.42308044433594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 84.41632080078125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 50.50899124145508,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 50.21824645996094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Vandalism",
+        "Confidence": 50.771175384521484,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 50.8133544921875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 85.31022644042969,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 85.31022644042969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 78.41090393066406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 50.8133544921875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 50.37680435180664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 58.098854064941406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 58.07421875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 57.31401824951172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 52.423336029052734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 50.37680435180664,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 50.40339660644531,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1355459839105606,
+              "Height": 0.20979127287864685,
+              "Left": 0.4416496455669403,
+              "Top": 3.0059814889682457e-05
+            },
+            "Confidence": 69.30467224121094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Berlin Wall Memorial",
+        "Confidence": 64.44033813476562,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Landmark"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Concrete",
+        "Confidence": 52.876285552978516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Construction"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Construction",
+        "Confidence": 52.930931091308594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Home Damage",
+        "Confidence": 50.483036041259766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 66.79031372070312,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 50.40339660644531,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1355459839105606,
+              "Height": 0.20979127287864685,
+              "Left": 0.4416496455669403,
+              "Top": 3.0059814889682457e-05
+            },
+            "Confidence": 69.30467224121094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 50.40339660644531,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1355459839105606,
+              "Height": 0.20979127287864685,
+              "Left": 0.4416496455669403,
+              "Top": 3.0059814889682457e-05
+            },
+            "Confidence": 69.30467224121094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 62.97136306762695,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1355459839105606,
+              "Height": 0.20979127287864685,
+              "Left": 0.4416496455669403,
+              "Top": 3.0059814889682457e-05
+            },
+            "Confidence": 69.30467224121094
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Berlin Wall Memorial",
+        "Confidence": 50.26841735839844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Landmark"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Home Damage",
+        "Confidence": 57.71529006958008,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 62.828529357910156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Mold",
+        "Confidence": 50.73882293701172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Building Flooding",
+        "Confidence": 50.21926498413086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Home Damage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Home Damage",
+        "Confidence": 82.28485107421875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Mold",
+        "Confidence": 74.99169158935547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Mold Damage",
+        "Confidence": 72.3630599975586,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Home Damage"
+          },
+          {
+            "Name": "Mold"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Building Flooding",
+        "Confidence": 52.47993087768555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Home Damage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Home Damage",
+        "Confidence": 83.3162841796875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 51.88472366333008,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 51.860084533691406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Mold",
+        "Confidence": 69.6703109741211,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Mold Damage",
+        "Confidence": 68.85462951660156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Home Damage"
+          },
+          {
+            "Name": "Mold"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Building Flooding",
+        "Confidence": 51.86637496948242,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Home Damage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Home Damage",
+        "Confidence": 85.86502838134766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 50.9292106628418,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 50.9292106628418,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Mold",
+        "Confidence": 80.3551025390625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Mold Damage",
+        "Confidence": 76.13919067382812,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Home Damage"
+          },
+          {
+            "Name": "Mold"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 53.86272048950195,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Home Damage",
+        "Confidence": 61.399898529052734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 53.35293197631836,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 53.35293197631836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Mold",
+        "Confidence": 53.3037223815918,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Vandalism",
+        "Confidence": 51.11774826049805,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 56.633358001708984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 56.633358001708984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 54.600093841552734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Home Damage",
+        "Confidence": 50.82725524902344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Damage Detection"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 50.803829193115234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 56.182106018066406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 56.182106018066406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 50.32430648803711,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 52.057289123535156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 50.894508361816406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 90.32360076904297,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 90.32360076904297,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3075934052467346,
+              "Height": 0.930932879447937,
+              "Left": 0.0006028101197443902,
+              "Top": 0.003092269878834486
+            },
+            "Confidence": 97.27307891845703
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "House",
+        "Confidence": 50.76809310913086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 54.01335525512695,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 91.09588623046875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 91.09588623046875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 62.586151123046875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 68.03361511230469,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 62.68235397338867,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Alcatraz Island",
+        "Confidence": 51.05762481689453,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Beacon"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Landmark"
+          },
+          {
+            "Name": "Lighthouse"
+          },
+          {
+            "Name": "Tower"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 93.3578872680664,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Beacon",
+        "Confidence": 51.05762481689453,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Tower"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 93.3578872680664,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.23905806243419647,
+              "Height": 0.996661365032196,
+              "Left": 0.0008885667775757611,
+              "Top": 0.0
+            },
+            "Confidence": 94.59548950195312
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Chasing",
+        "Confidence": 50.22460174560547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "City",
+        "Confidence": 53.18782424926758,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 51.583106994628906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "House",
+        "Confidence": 51.171443939208984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 54.16844940185547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 93.0152816772461,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 93.0152816772461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 62.4169921875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 52.430423736572266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Lighthouse",
+        "Confidence": 51.05762481689453,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Beacon"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Tower"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 53.760704040527344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 62.4169921875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Skating",
+        "Confidence": 50.14963912963867,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 50.14963912963867,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Suburb",
+        "Confidence": 50.285499572753906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 51.583106994628906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Tower",
+        "Confidence": 52.01877212524414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 52.2901611328125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Alcatraz Island",
+        "Confidence": 51.808326721191406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Beacon"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Landmark"
+          },
+          {
+            "Name": "Lighthouse"
+          },
+          {
+            "Name": "Tower"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 97.25759887695312,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Beacon",
+        "Confidence": 51.808326721191406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Tower"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 97.25759887695312,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2939179837703705,
+              "Height": 0.9988970756530762,
+              "Left": 0.0013602946419268847,
+              "Top": 0.0
+            },
+            "Confidence": 97.21971893310547
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "City",
+        "Confidence": 53.137123107910156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 54.732418060302734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 50.84093475341797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 52.69388961791992,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 65.01432800292969,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 65.01432800292969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 54.95390701293945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 53.6710205078125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Lighthouse",
+        "Confidence": 51.808326721191406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Beacon"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Tower"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 51.92582321166992,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 54.95390701293945,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 50.84093475341797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Tower",
+        "Confidence": 53.84886932373047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 50.773712158203125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 52.91471862792969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Alcatraz Island",
+        "Confidence": 52.8055419921875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Beacon"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Landmark"
+          },
+          {
+            "Name": "Lighthouse"
+          },
+          {
+            "Name": "Tower"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 97.83229064941406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Beacon",
+        "Confidence": 52.8055419921875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Tower"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 97.83229064941406,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.44847309589385986,
+              "Height": 0.998329758644104,
+              "Left": 0.002409153850749135,
+              "Top": 0.0016702652210369706
+            },
+            "Confidence": 99.0656509399414
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Chasing",
+        "Confidence": 50.32032775878906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "City",
+        "Confidence": 51.90592956542969,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Condo",
+        "Confidence": 51.11428451538086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 52.752052307128906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "House",
+        "Confidence": 52.3099365234375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 56.272518157958984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 83.22455596923828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 83.22455596923828,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 66.16023254394531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 53.0814208984375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Lighthouse",
+        "Confidence": 52.8055419921875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Beacon"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Tower"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 59.17304992675781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 66.16023254394531,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.12949320673942566,
+              "Height": 0.05134690925478935,
+              "Left": 0.0020022131502628326,
+              "Top": 0.9483411312103271
+            },
+            "Confidence": 60.79249954223633
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Suburb",
+        "Confidence": 51.13536071777344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Tower",
+        "Confidence": 54.03711700439453,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 52.419918060302734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 56.06871795654297,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Apartment Building",
+        "Confidence": 55.35947799682617,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "High Rise"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 95.48561096191406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 95.48561096191406,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7648665904998779,
+              "Height": 0.9990586638450623,
+              "Left": 0.0012193958973512053,
+              "Top": 0.0009413909865543246
+            },
+            "Confidence": 99.55628204345703
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "City",
+        "Confidence": 72.62928771972656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Condo",
+        "Confidence": 60.836143493652344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 51.81193161010742,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "High Rise",
+        "Confidence": 55.380767822265625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "House",
+        "Confidence": 54.862030029296875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 68.10850524902344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 62.13623809814453,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 62.13623809814453,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 56.76058578491211,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 84.98035430908203,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 56.76058578491211,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Pool",
+        "Confidence": 53.96757888793945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Row House",
+        "Confidence": 50.322261810302734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "House"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Suburb",
+        "Confidence": 52.58941650390625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Swimming Pool",
+        "Confidence": 53.92387771606445,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Pool"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 76.38773345947266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 53.96757888793945,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 53.4508056640625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Apartment Building",
+        "Confidence": 53.85456085205078,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "High Rise"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 80.14950561523438,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Basketball",
+        "Confidence": 50.028480529785156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 80.14950561523438,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7114961743354797,
+              "Height": 0.997950553894043,
+              "Left": 0.28804612159729004,
+              "Top": 0.0020048522856086493
+            },
+            "Confidence": 79.11248016357422
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Chasing",
+        "Confidence": 50.607540130615234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "City",
+        "Confidence": 59.29176712036133,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Condo",
+        "Confidence": 53.165863037109375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Electrical Device",
+        "Confidence": 50.64249801635742,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "High Rise",
+        "Confidence": 53.85456085205078,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "House",
+        "Confidence": 54.59092330932617,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 62.827354431152344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 80.93777465820312,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 80.93777465820312,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 58.880226135253906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 53.53244400024414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 76.3117446899414,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 58.880226135253906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Pool",
+        "Confidence": 51.342342376708984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Row House",
+        "Confidence": 52.43775939941406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "House"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Running",
+        "Confidence": 51.290931701660156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Jogging"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Health and Fitness"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Snow",
+        "Confidence": 53.529903411865234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 50.103759765625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Suburb",
+        "Confidence": 53.964202880859375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Swimming Pool",
+        "Confidence": 51.32635498046875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Pool"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Tower",
+        "Confidence": 50.01515579223633,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 53.07684326171875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 68.15510559082031,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 53.07684326171875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 51.342342376708984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 54.54153060913086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Apartment Building",
+        "Confidence": 51.73648452758789,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "High Rise"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 61.92085266113281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Basketball",
+        "Confidence": 51.967124938964844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 61.92085266113281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Chasing",
+        "Confidence": 51.2272834777832,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "City",
+        "Confidence": 60.476654052734375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Condo",
+        "Confidence": 51.653079986572266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 50.560302734375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 53.04160690307617,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "High Rise",
+        "Confidence": 51.73648452758789,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "House",
+        "Confidence": 53.27277755737305,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 55.578189849853516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 57.3411865234375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 57.3411865234375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 78.4875717163086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 52.213592529296875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Leisure Activities",
+        "Confidence": 50.0701904296875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Recreation"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Travel and Adventure"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 50.44431686401367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Office Building",
+        "Confidence": 50.14849853515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 75.6871337890625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 78.4875717163086,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Playing Basketball",
+        "Confidence": 51.36771011352539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Basketball"
+          },
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Pool",
+        "Confidence": 50.48623275756836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Row House",
+        "Confidence": 52.550655364990234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "House"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Running",
+        "Confidence": 52.098121643066406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Jogging"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Health and Fitness"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Snow",
+        "Confidence": 50.21378707885742,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 52.2477912902832,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Suburb",
+        "Confidence": 52.88140869140625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Swimming Pool",
+        "Confidence": 50.48623275756836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Pool"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 53.04160690307617,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Tower",
+        "Confidence": 53.05288314819336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 51.13324737548828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 61.47956848144531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 51.13324737548828,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 50.6847038269043,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 54.50834274291992,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Apartment Building",
+        "Confidence": 51.166805267333984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "High Rise"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 81.94441986083984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Basketball",
+        "Confidence": 51.74612045288086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Berlin Wall Memorial",
+        "Confidence": 52.0715217590332,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Landmark"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 81.94441986083984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "City",
+        "Confidence": 83.31755065917969,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Cityscape",
+        "Confidence": 72.43456268310547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Condo",
+        "Confidence": 51.505218505859375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Flag",
+        "Confidence": 50.75858688354492,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Symbols and Flags"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 53.574607849121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "High Rise",
+        "Confidence": 51.166805267333984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "City"
+          },
+          {
+            "Name": "Urban"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "House",
+        "Confidence": 51.9545783996582,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 53.54104995727539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Hugging",
+        "Confidence": 50.671607971191406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Hug"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 53.24147415161133,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 53.24147415161133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 87.55341339111328,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 52.81427001953125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 61.18178939819336,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 87.55341339111328,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Playing Basketball",
+        "Confidence": 50.65513229370117,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Basketball"
+          },
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Pool",
+        "Confidence": 50.56439208984375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 50.14765930175781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Row House",
+        "Confidence": 51.01463317871094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "House"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Running",
+        "Confidence": 52.43230438232422,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Jogging"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Health and Fitness"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 52.479591369628906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Suburb",
+        "Confidence": 51.68409729003906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Swimming Pool",
+        "Confidence": 50.51371765136719,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Pool"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 53.574607849121094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Tower",
+        "Confidence": 52.436676025390625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 52.06391525268555,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 84.1753158569336,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 52.06391525268555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 51.25743103027344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 54.62773895263672,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 57.68317413330078,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 53.340423583984375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 57.68317413330078,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.20664893090724945,
+              "Height": 0.3086974322795868,
+              "Left": 0.0008065790170803666,
+              "Top": 0.0
+            },
+            "Confidence": 50.07555389404297
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Canoe",
+        "Confidence": 51.29743957519531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Rowboat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Travel and Adventure"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Canoeing",
+        "Confidence": 51.29743957519531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Canoe"
+          },
+          {
+            "Name": "Leisure Activities"
+          },
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Rowboat"
+          },
+          {
+            "Name": "Sport"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          },
+          {
+            "Name": "Water"
+          },
+          {
+            "Name": "Water Sports"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Travel and Adventure"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "City",
+        "Confidence": 50.35050964355469,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Town"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 51.67603302001953,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "House",
+        "Confidence": 51.53953552246094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 54.2069091796875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 52.305763244628906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 52.305763244628906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 92.32511138916016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 50.5937385559082,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Leisure Activities",
+        "Confidence": 53.66277313232422,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Recreation"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Travel and Adventure"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 65.88038635253906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 92.32511138916016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Rowboat",
+        "Confidence": 51.29743957519531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Running",
+        "Confidence": 50.36803436279297,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Jogging"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Health and Fitness"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Skating",
+        "Confidence": 50.12253952026367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 54.09044647216797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 51.67603302001953,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 53.94389724731445,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Urban",
+        "Confidence": 50.32357406616211,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 53.94389724731445,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 53.8406982421875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Water Sports",
+        "Confidence": 51.29743957519531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Leisure Activities"
+          },
+          {
+            "Name": "Sport"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Travel and Adventure"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 50.654544830322266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 51.577701568603516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Berlin Wall Memorial",
+        "Confidence": 54.435630798339844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Landmark"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 51.577701568603516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Gravestone",
+        "Confidence": 51.111263275146484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Tomb"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Tombstone"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 76.99200439453125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 57.87617492675781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Leisure Activities",
+        "Confidence": 50.82039260864258,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Recreation"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Travel and Adventure"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 52.212276458740234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 76.99200439453125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Skating",
+        "Confidence": 50.10848617553711,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 51.41813659667969,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Tomb",
+        "Confidence": 51.111263275146484,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 51.17426300048828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 51.17426300048828,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 50.92243576049805,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Berlin Wall Memorial",
+        "Confidence": 62.371891021728516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Landmark"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 63.24917221069336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 67.0364990234375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 63.24917221069336,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 50.911766052246094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 50.4554328918457,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 50.4554328918457,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 50.00698471069336,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14000,
+      "Label": {
+        "Name": "Berlin Wall Memorial",
+        "Confidence": 65.52684020996094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Landmark"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14000,
+      "Label": {
+        "Name": "Jumping",
+        "Confidence": 51.6971435546875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14000,
+      "Label": {
+        "Name": "Landmark",
+        "Confidence": 75.17292785644531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Popular Landmarks"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 51.6971435546875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    }
+  ]
+}

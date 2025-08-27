@@ -7,14 +7,14 @@ Serial myPort;
 
 OscP5 oscP5;
 
-int cantVideos = 59;
+int cantVideos = 58;
 int max_dial = 59*30;
 int cantImgsPorVideo = 1;
 int limite_inactividad = 10;
 
 int puerto = 12345;
 
-String ip_video = "192.168.100.122";
+String ip_video = "192.168.100.142";
 String ip_texto = "192.168.100.104";
 
 NetAddress loc_video;
@@ -47,8 +47,8 @@ int tiempo_inactividad;
 boolean actividad;
 
 void setup() {
-  //size(1344, 756);
-  fullScreen();
+  size(1344, 756);
+  //fullScreen();
   background(0);
 
   // Puerto de Arduino
@@ -68,7 +68,7 @@ void setup() {
 
   for (int i=0; i < cantVideos; i++) {
     for (int si=0; si < cantImgsPorVideo; si++) {
-      imgs[i][si] = loadImage("C:/Users/sarad/Documents/Facultad/2023/tesis/arquitectura/repo/Imagenes/" + i + "_" + si + ".jpg");
+      imgs[i][si] = loadImage("C:/Users/sarad/Documents/Facultad/2023/tesis/00-arquitectura/00-repo/Imagenes/" + i + "_" + si + ".jpg");
       imgs[i][si].loadPixels();
 
       println("imagen: " + i + "_" + si + " cargada");
