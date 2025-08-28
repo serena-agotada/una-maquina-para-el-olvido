@@ -1,0 +1,872 @@
+Adult,Adulto,88
+Alcohol,Alcohol,59
+Architecture,Arquitectura,51
+Beverage,Bebida,79
+Bowl,Bol,54
+Boy,Chico,57
+Building,Edificio,51
+Coffee,Café,51
+Coffee Cup,taza de café,51
+Cream,Crema,51
+Cup,Taza,100
+Dessert,Postre,51
+Dining Room,Comedor,51
+Dining Table,Mesa de comedor,58
+Dish,Plato,52
+Drinking,Bebida,71
+Drinking Alcohol,beber alcohol,57
+Eating,Comiendo,92
+Face,Rostro,51
+Female,Femenino,77
+Food,Alimento,94
+Furniture,Muebles,58
+Head,Cabeza,72
+Ice Cream,Helado,51
+Indoors,Dentro,55
+Male,Masculino,78
+Man,Hombre,78
+Meal,Comida,52
+Person,Persona,93
+Plate,Lámina,67
+Restaurant,Restaurante,55
+Room,Habitación,51
+Table,Mesa,58
+Tabletop,Superficie de la mesa,52
+Teen,Adolescente,57
+Woman,Mujer,77
+Adult,Adulto,91
+Alcohol,Alcohol,55
+Architecture,Arquitectura,62
+Beverage,Bebida,73
+Bowl,Bol,57
+Bread,Pan,50
+Breakfast,Desayuno,54
+Building,Edificio,62
+Cafe,Cafetería,52
+Cafeteria,Cafetería,55
+Coffee,Café,54
+Coffee Cup,taza de café,54
+Cream,Crema,54
+Cup,Taza,99
+Cutlery,Cuchillería,60
+Dessert,Postre,54
+Diner,Comedor,50
+Dining Room,Comedor,62
+Dining Table,Mesa de comedor,95
+Dish,Plato,63
+Drinking,Bebida,60
+Eating,Comiendo,89
+Face,Rostro,52
+Food,Alimento,95
+Food Court,Patio de comidas,53
+Fork,Tenedor,57
+Furniture,Muebles,95
+Head,Cabeza,69
+Ice Cream,Helado,54
+Indoors,Dentro,63
+Male,Masculino,89
+Man,Hombre,89
+Meal,Comida,63
+Milk,Leche,52
+Person,Persona,92
+Plate,Lámina,78
+Restaurant,Restaurante,62
+Room,Habitación,62
+Saucer,Platillo,51
+Spoon,Cuchara,51
+Table,Mesa,95
+Tabletop,Superficie de la mesa,62
+Accessories,Accesorios,51
+Adult,Adulto,81
+Architecture,Arquitectura,94
+Art,Arte,56
+Beverage,Bebida,62
+Bowl,Bol,70
+Bread,Pan,53
+Breakfast,Desayuno,59
+Building,Edificio,94
+Cafe,Cafetería,56
+Cafeteria,Cafetería,61
+Cake,Pastel,51
+Clothing,Ropa,51
+Coffee,Café,59
+Coffee Cup,taza de café,59
+Coffee Table,Mesa de centro,51
+Couch,Sofá,54
+Cream,Crema,55
+Cup,Taza,98
+Cutlery,Cuchillería,93
+Dessert,Postre,55
+Diner,Comedor,55
+Dining Room,Comedor,94
+Dining Table,Mesa de comedor,98
+Dinner,Cena,53
+Dish,Plato,94
+Drinking,Bebida,52
+Eating,Comiendo,61
+Electronics,Electrónica,52
+Face,Rostro,52
+Fondue,Fondue,51
+Food,Alimento,99
+Food Court,Patio de comidas,56
+Fork,Tenedor,81
+Furniture,Muebles,98
+Glass,Vaso,52
+Head,Cabeza,73
+Ice Cream,Helado,55
+Icing,Formación de hielo,51
+Indoors,Dentro,94
+Juice,Jugo,50
+Ketchup,Ketchup,51
+Lunch,Almuerzo,54
+Male,Masculino,78
+Man,Hombre,78
+Meal,Comida,94
+Milk,Leche,53
+Person,Persona,83
+Phone,Teléfono,52
+Plate,Lámina,79
+Porcelain,Porcelana,56
+Pottery,Cerámica,56
+Restaurant,Restaurante,93
+Room,Habitación,94
+Saucer,Platillo,56
+Spoon,Cuchara,81
+Table,Mesa,98
+Tabletop,Superficie de la mesa,91
+Whipped Cream,Crema batida,50
+Accessories,Accesorios,53
+Adult,Adulto,82
+Architecture,Arquitectura,98
+Art,Arte,72
+Beverage,Bebida,62
+Birthday Cake,Torta de cumpleaños,51
+Bowl,Bol,75
+Bread,Pan,53
+Breakfast,Desayuno,75
+Brunch,Desalmuerzo,51
+Building,Edificio,98
+Cabinet,Gabinete,51
+Cafe,Cafetería,56
+Cafeteria,Cafetería,65
+Cake,Pastel,51
+Clothing,Ropa,52
+Coffee,Café,61
+Coffee Cup,taza de café,61
+Coffee Table,Mesa de centro,54
+Cookware,utensilios de cocina,51
+Couch,Sofá,56
+Cream,Crema,55
+Cup,Taza,97
+Cutlery,Cuchillería,98
+Dessert,Postre,55
+Diner,Comedor,56
+Dining Room,Comedor,98
+Dining Table,Mesa de comedor,100
+Dinner,Cena,53
+Dish,Plato,98
+Drinking,Bebida,51
+Eating,Comiendo,59
+Electronics,Electrónica,53
+Face,Rostro,53
+Fondue,Fondue,51
+Food,Alimento,100
+Food Court,Patio de comidas,56
+Fork,Tenedor,69
+Furniture,Muebles,100
+Glass,Vaso,52
+Glasses,Anteojos,53
+Head,Cabeza,76
+Home Decor,Decoración del hogar,52
+Ice Cream,Helado,55
+Icing,Formación de hielo,53
+Indoors,Dentro,98
+Ketchup,Ketchup,50
+Kitchen,Cocina,51
+Linen,Lino,52
+Living Room,Sala de estar,53
+Lunch,Almuerzo,55
+Male,Masculino,78
+Man,Hombre,78
+Meal,Comida,98
+Milk,Leche,54
+Pancake,Crepe,50
+Person,Persona,87
+Phone,Teléfono,53
+Photography,Fotografía,50
+Plant,Planta,51
+Plate,Lámina,65
+Platter,Plato,51
+Plywood,Madera contrachapada,50
+Porcelain,Porcelana,72
+Pot,Olla,51
+Pottery,Cerámica,72
+Restaurant,Restaurante,97
+Room,Habitación,98
+Saucer,Platillo,57
+Soup Bowl,Tazón de sopa,51
+Spoon,Cuchara,83
+Stew,Guiso,52
+T-Shirt,Camiseta,52
+Table,Mesa,100
+Tablecloth,Mantel,51
+Tabletop,Superficie de la mesa,94
+Tea,Té,50
+Teapot,Tetera,51
+Whipped Cream,Crema batida,50
+Wood,Madera,50
+Accessories,Accesorios,52
+Adult,Adulto,50
+Architecture,Arquitectura,100
+Arm,Brazo,50
+Art,Arte,58
+Beverage,Bebida,59
+Birthday Cake,Torta de cumpleaños,50
+Blouse,Blusa,51
+Body Part,parte del cuerpo,50
+Bowl,Bol,68
+Bread,Pan,53
+Breakfast,Desayuno,60
+Brunch,Desalmuerzo,53
+Building,Edificio,100
+Cabinet,Gabinete,50
+Cafe,Cafetería,56
+Cafeteria,Cafetería,59
+Cake,Pastel,51
+Chair,Silla,51
+Clothing,Ropa,52
+Coffee,Café,59
+Coffee Cup,taza de café,59
+Coffee Table,Mesa de centro,52
+Couch,Sofá,56
+Cream,Crema,57
+Cup,Taza,97
+Cutlery,Cuchillería,99
+Dessert,Postre,57
+Diner,Comedor,56
+Dining Room,Comedor,100
+Dining Table,Mesa de comedor,100
+Dinner,Cena,53
+Dish,Plato,100
+Drinking,Bebida,52
+Eating,Comiendo,67
+Electronics,Electrónica,52
+Face,Rostro,55
+Fondue,Fondue,51
+Food,Alimento,100
+Food Court,Patio de comidas,56
+Fork,Tenedor,74
+Furniture,Muebles,100
+Glass,Vaso,53
+Glasses,Anteojos,52
+Head,Cabeza,79
+Home Decor,Decoración del hogar,52
+Ice Cream,Helado,57
+Icing,Formación de hielo,53
+Indoors,Dentro,100
+Interior Design,Diseño de interiores,50
+Ketchup,Ketchup,51
+Kitchen,Cocina,50
+Linen,Lino,52
+Living Room,Sala de estar,52
+Lunch,Almuerzo,56
+Meal,Comida,100
+Milk,Leche,54
+Pancake,Crepe,50
+Person,Persona,81
+Phone,Teléfono,52
+Plant,Planta,51
+Plate,Lámina,71
+Platter,Plato,50
+Porcelain,Porcelana,58
+Potted Plant,planta en maceta,51
+Pottery,Cerámica,58
+Restaurant,Restaurante,98
+Room,Habitación,100
+Saucer,Platillo,55
+Soup Bowl,Tazón de sopa,50
+Spoon,Cuchara,75
+Stew,Guiso,52
+T-Shirt,Camiseta,52
+Table,Mesa,100
+Tablecloth,Mantel,50
+Tabletop,Superficie de la mesa,95
+Tea,Té,50
+Whipped Cream,Crema batida,50
+Accessories,Accesorios,52
+Adult,Adulto,52
+Architecture,Arquitectura,100
+Art,Arte,56
+Beverage,Bebida,64
+Birthday Cake,Torta de cumpleaños,50
+Bowl,Bol,71
+Bread,Pan,51
+Breakfast,Desayuno,58
+Brunch,Desalmuerzo,53
+Building,Edificio,100
+Cafe,Cafetería,56
+Cafeteria,Cafetería,58
+Cake,Pastel,50
+Clothing,Ropa,52
+Coffee,Café,64
+Coffee Cup,taza de café,64
+Coffee Table,Mesa de centro,53
+Couch,Sofá,54
+Cream,Crema,56
+Cup,Taza,99
+Cutlery,Cuchillería,96
+Dessert,Postre,56
+Diner,Comedor,56
+Dining Room,Comedor,100
+Dining Table,Mesa de comedor,100
+Dinner,Cena,52
+Dish,Plato,99
+Drinking,Bebida,54
+Eating,Comiendo,68
+Electronics,Electrónica,51
+Face,Rostro,53
+Food,Alimento,99
+Food Court,Patio de comidas,54
+Fork,Tenedor,60
+Furniture,Muebles,100
+Glass,Vaso,50
+Glasses,Anteojos,52
+Head,Cabeza,75
+Ice Cream,Helado,56
+Icing,Formación de hielo,52
+Indoors,Dentro,100
+Kitchen,Cocina,50
+Living Room,Sala de estar,52
+Lunch,Almuerzo,54
+Meal,Comida,99
+Milk,Leche,52
+Pancake,Crepe,50
+Person,Persona,82
+Phone,Teléfono,51
+Plate,Lámina,68
+Porcelain,Porcelana,56
+Pottery,Cerámica,56
+Restaurant,Restaurante,98
+Room,Habitación,100
+Saucer,Platillo,56
+Spoon,Cuchara,60
+Stew,Guiso,50
+T-Shirt,Camiseta,52
+Table,Mesa,100
+Tabletop,Superficie de la mesa,92
+Tea,Té,51
+Adult,Adulto,65
+Architecture,Arquitectura,100
+Art,Arte,54
+Beverage,Bebida,63
+Bowl,Bol,69
+Bread,Pan,51
+Breakfast,Desayuno,56
+Brunch,Desalmuerzo,53
+Building,Edificio,100
+Cafe,Cafetería,55
+Cafeteria,Cafetería,57
+Cereal Bowl,Tazón de cereales,51
+Clothing,Ropa,50
+Coffee,Café,63
+Coffee Cup,taza de café,63
+Coffee Table,Mesa de centro,51
+Couch,Sofá,52
+Cream,Crema,54
+Cup,Taza,99
+Cutlery,Cuchillería,82
+Dessert,Postre,54
+Diner,Comedor,55
+Dining Room,Comedor,100
+Dining Table,Mesa de comedor,100
+Dinner,Cena,51
+Dish,Plato,96
+Drinking,Bebida,54
+Eating,Comiendo,75
+Electronics,Electrónica,50
+Face,Rostro,54
+Food,Alimento,98
+Food Court,Patio de comidas,54
+Fork,Tenedor,56
+Furniture,Muebles,100
+Head,Cabeza,72
+Ice Cream,Helado,54
+Icing,Formación de hielo,51
+Indoors,Dentro,100
+Living Room,Sala de estar,51
+Lunch,Almuerzo,53
+Male,Masculino,62
+Man,Hombre,62
+Meal,Comida,98
+Milk,Leche,51
+Person,Persona,80
+Phone,Teléfono,50
+Plate,Lámina,65
+Porcelain,Porcelana,54
+Pottery,Cerámica,54
+Restaurant,Restaurante,97
+Room,Habitación,100
+Saucer,Platillo,56
+Spoon,Cuchara,58
+T-Shirt,Camiseta,50
+Table,Mesa,100
+Tabletop,Superficie de la mesa,94
+Tea,Té,50
+Accessories,Accesorios,51
+Adult,Adulto,79
+Architecture,Arquitectura,100
+Art,Arte,56
+Beverage,Bebida,65
+Body Part,parte del cuerpo,50
+Bowl,Bol,59
+Bread,Pan,51
+Breakfast,Desayuno,57
+Brunch,Desalmuerzo,54
+Building,Edificio,100
+Cafe,Cafetería,56
+Cafeteria,Cafetería,58
+Clothing,Ropa,51
+Coffee,Café,65
+Coffee Cup,taza de café,65
+Coffee Table,Mesa de centro,53
+Couch,Sofá,54
+Cream,Crema,54
+Cup,Taza,99
+Cutlery,Cuchillería,96
+Dessert,Postre,54
+Diner,Comedor,56
+Dining Room,Comedor,100
+Dining Table,Mesa de comedor,100
+Dinner,Cena,52
+Dish,Plato,97
+Drinking,Bebida,54
+Eating,Comiendo,70
+Electronics,Electrónica,51
+Face,Rostro,55
+Female,Femenino,52
+Food,Alimento,98
+Food Court,Patio de comidas,55
+Fork,Tenedor,56
+Furniture,Muebles,100
+Glasses,Anteojos,51
+Head,Cabeza,81
+Ice Cream,Helado,54
+Icing,Formación de hielo,52
+Indoors,Dentro,100
+Interior Design,Diseño de interiores,50
+Kitchen,Cocina,50
+Living Room,Sala de estar,52
+Lunch,Almuerzo,54
+Male,Masculino,78
+Man,Hombre,78
+Meal,Comida,98
+Milk,Leche,52
+Person,Persona,84
+Phone,Teléfono,51
+Plate,Lámina,59
+Porcelain,Porcelana,56
+Pottery,Cerámica,56
+Restaurant,Restaurante,98
+Room,Habitación,100
+Saucer,Platillo,58
+Spoon,Cuchara,61
+Stain,Mancha,50
+T-Shirt,Camiseta,51
+Table,Mesa,100
+Tabletop,Superficie de la mesa,92
+Tea,Té,51
+Woman,Mujer,52
+Accessories,Accesorios,51
+Adult,Adulto,92
+Architecture,Arquitectura,100
+Art,Arte,59
+Beverage,Bebida,71
+Blouse,Blusa,50
+Body Part,parte del cuerpo,51
+Bowl,Bol,59
+Bread,Pan,51
+Breakfast,Desayuno,58
+Brunch,Desalmuerzo,54
+Building,Edificio,100
+Cafe,Cafetería,57
+Cafeteria,Cafetería,58
+Chocolate,Chocolate,50
+Clothing,Ropa,50
+Coffee,Café,71
+Coffee Cup,taza de café,71
+Coffee Table,Mesa de centro,53
+Couch,Sofá,54
+Cream,Crema,55
+Cup,Taza,100
+Cutlery,Cuchillería,99
+Dessert,Postre,55
+Diner,Comedor,56
+Dining Room,Comedor,100
+Dining Table,Mesa de comedor,100
+Dinner,Cena,52
+Dish,Plato,97
+Drinking,Bebida,52
+Eating,Comiendo,62
+Egg,Huevo,51
+Electronics,Electrónica,52
+Face,Rostro,73
+Female,Femenino,78
+Finger,Dedo,50
+Fondue,Fondue,51
+Food,Alimento,99
+Food Court,Patio de comidas,55
+Fork,Tenedor,58
+Furniture,Muebles,100
+Glass,Vaso,50
+Glasses,Anteojos,51
+Hand,Mano,50
+Head,Cabeza,77
+Hot Chocolate,Chocolate caliente,50
+Ice Cream,Helado,55
+Icing,Formación de hielo,52
+Indoors,Dentro,100
+Interior Design,Diseño de interiores,51
+Kitchen,Cocina,51
+Latte,café con leche,51
+Living Room,Sala de estar,52
+Lunch,Almuerzo,53
+Male,Masculino,78
+Man,Hombre,78
+Meal,Comida,99
+Milk,Leche,53
+Person,Persona,92
+Phone,Teléfono,52
+Plastic Wrap,Envoltura de plástico,51
+Plate,Lámina,60
+Poached Egg,huevo escalfado,51
+Porcelain,Porcelana,59
+Pottery,Cerámica,59
+Restaurant,Restaurante,99
+Room,Habitación,100
+Saucer,Platillo,61
+Spoon,Cuchara,77
+Stain,Mancha,51
+Table,Mesa,100
+Tabletop,Superficie de la mesa,96
+Tea,Té,51
+Woman,Mujer,78
+Accessories,Accesorios,51
+Adult,Adulto,87
+Architecture,Arquitectura,100
+Art,Arte,75
+Beverage,Bebida,73
+Birthday Cake,Torta de cumpleaños,51
+Body Part,parte del cuerpo,51
+Bowl,Bol,60
+Bread,Pan,51
+Breakfast,Desayuno,58
+Brunch,Desalmuerzo,66
+Building,Edificio,100
+Cafe,Cafetería,57
+Cafeteria,Cafetería,58
+Cake,Pastel,51
+Chair,Silla,51
+Chocolate,Chocolate,50
+Coffee,Café,73
+Coffee Cup,taza de café,73
+Coffee Table,Mesa de centro,55
+Couch,Sofá,54
+Cream,Crema,55
+Cup,Taza,100
+Cutlery,Cuchillería,100
+Dessert,Postre,55
+Diner,Comedor,55
+Dining Room,Comedor,100
+Dining Table,Mesa de comedor,100
+Dinner,Cena,52
+Dish,Plato,99
+Eating,Comiendo,56
+Egg,Huevo,50
+Electronics,Electrónica,51
+Espresso,Café exprés,51
+Face,Rostro,68
+Finger,Dedo,51
+Fondue,Fondue,52
+Food,Alimento,100
+Food Court,Patio de comidas,54
+Fork,Tenedor,59
+Furniture,Muebles,100
+Glasses,Anteojos,51
+Hand,Mano,51
+Head,Cabeza,79
+Hot Chocolate,Chocolate caliente,50
+Ice Cream,Helado,55
+Icing,Formación de hielo,54
+Indoors,Dentro,100
+Interior Design,Diseño de interiores,51
+Latte,café con leche,52
+Living Room,Sala de estar,53
+Lunch,Almuerzo,53
+Male,Masculino,85
+Man,Hombre,85
+Meal,Comida,100
+Milk,Leche,53
+Person,Persona,87
+Phone,Teléfono,51
+Plate,Lámina,55
+Poached Egg,huevo escalfado,50
+Porcelain,Porcelana,75
+Pottery,Cerámica,75
+Restaurant,Restaurante,99
+Room,Habitación,100
+Saucer,Platillo,88
+Soup Bowl,Tazón de sopa,50
+Spoon,Cuchara,86
+Stew,Guiso,50
+Table,Mesa,100
+Tabletop,Superficie de la mesa,98
+Tea,Té,51
+Accessories,Accesorios,51
+Adult,Adulto,86
+Architecture,Arquitectura,100
+Art,Arte,87
+Beverage,Bebida,72
+Birthday Cake,Torta de cumpleaños,51
+Blouse,Blusa,50
+Body Part,parte del cuerpo,51
+Bowl,Bol,73
+Bread,Pan,51
+Breakfast,Desayuno,61
+Brunch,Desalmuerzo,55
+Building,Edificio,100
+Cabinet,Gabinete,50
+Cafe,Cafetería,57
+Cafeteria,Cafetería,63
+Cake,Pastel,51
+Chair,Silla,51
+Clothing,Ropa,50
+Coffee,Café,72
+Coffee Cup,taza de café,72
+Coffee Table,Mesa de centro,55
+Cookware,utensilios de cocina,51
+Couch,Sofá,54
+Cream,Crema,55
+Cup,Taza,100
+Cutlery,Cuchillería,100
+Dessert,Postre,55
+Diner,Comedor,55
+Dining Room,Comedor,100
+Dining Table,Mesa de comedor,100
+Dinner,Cena,53
+Dip,Aderezo,50
+Dish,Plato,100
+Eating,Comiendo,54
+Egg,Huevo,50
+Electronics,Electrónica,52
+Espresso,Café exprés,50
+Face,Rostro,71
+Female,Femenino,57
+Finger,Dedo,51
+Fondue,Fondue,53
+Food,Alimento,100
+Food Court,Patio de comidas,55
+Fork,Tenedor,73
+Furniture,Muebles,100
+Glasses,Anteojos,51
+Hand,Mano,51
+Head,Cabeza,75
+Ice Cream,Helado,55
+Icing,Formación de hielo,54
+Indoors,Dentro,100
+Interior Design,Diseño de interiores,51
+Juice,Jugo,50
+Kitchen,Cocina,50
+Latte,café con leche,52
+Living Room,Sala de estar,54
+Lunch,Almuerzo,54
+Male,Masculino,83
+Man,Hombre,83
+Meal,Comida,100
+Milk,Leche,53
+Person,Persona,86
+Phone,Teléfono,52
+Plastic Wrap,Envoltura de plástico,50
+Plate,Lámina,53
+Poached Egg,huevo escalfado,50
+Porcelain,Porcelana,87
+Pot,Olla,51
+Pottery,Cerámica,87
+Restaurant,Restaurante,99
+Room,Habitación,100
+Saucer,Platillo,79
+Soup,Sopa,50
+Soup Bowl,Tazón de sopa,52
+Spoon,Cuchara,85
+Stew,Guiso,51
+Table,Mesa,100
+Tabletop,Superficie de la mesa,98
+Tea,Té,52
+Teapot,Tetera,51
+Woman,Mujer,57
+Yogurt,Yogur,50
+Accessories,Accesorios,51
+Adult,Adulto,90
+Architecture,Arquitectura,100
+Art,Arte,91
+Beverage,Bebida,75
+Birthday Cake,Torta de cumpleaños,51
+Blouse,Blusa,50
+Body Part,parte del cuerpo,51
+Bowl,Bol,73
+Bread,Pan,51
+Breakfast,Desayuno,59
+Brunch,Desalmuerzo,55
+Building,Edificio,100
+Cabinet,Gabinete,50
+Cafe,Cafetería,57
+Cafeteria,Cafetería,58
+Cake,Pastel,51
+Chair,Silla,51
+Clothing,Ropa,50
+Coffee,Café,75
+Coffee Cup,taza de café,75
+Coffee Table,Mesa de centro,55
+Cookware,utensilios de cocina,50
+Couch,Sofá,53
+Cream,Crema,54
+Cup,Taza,100
+Cutlery,Cuchillería,100
+Dessert,Postre,54
+Diner,Comedor,55
+Dining Room,Comedor,100
+Dining Table,Mesa de comedor,100
+Dinner,Cena,53
+Dip,Aderezo,50
+Dish,Plato,100
+Eating,Comiendo,54
+Egg,Huevo,50
+Electronics,Electrónica,52
+Face,Rostro,70
+Female,Femenino,79
+Finger,Dedo,51
+Fondue,Fondue,52
+Food,Alimento,100
+Food Court,Patio de comidas,55
+Fork,Tenedor,62
+Furniture,Muebles,100
+Glasses,Anteojos,51
+Hand,Mano,51
+Head,Cabeza,77
+Ice Cream,Helado,54
+Icing,Formación de hielo,53
+Indoors,Dentro,100
+Interior Design,Diseño de interiores,51
+Latte,café con leche,51
+Living Room,Sala de estar,54
+Lunch,Almuerzo,53
+Male,Masculino,76
+Man,Hombre,76
+Meal,Comida,100
+Milk,Leche,53
+Person,Persona,90
+Phone,Teléfono,52
+Plastic Wrap,Envoltura de plástico,51
+Plate,Lámina,51
+Poached Egg,huevo escalfado,50
+Porcelain,Porcelana,91
+Pot,Olla,50
+Pottery,Cerámica,91
+Restaurant,Restaurante,99
+Room,Habitación,100
+Saucer,Platillo,85
+Soup Bowl,Tazón de sopa,52
+Spoon,Cuchara,80
+Stew,Guiso,51
+Table,Mesa,100
+Tabletop,Superficie de la mesa,97
+Tea,Té,52
+Teapot,Tetera,50
+Woman,Mujer,79
+Yogurt,Yogur,50
+Accessories,Accesorios,52
+Adult,Adulto,93
+Architecture,Arquitectura,100
+Art,Arte,95
+Beverage,Bebida,72
+Birthday Cake,Torta de cumpleaños,52
+Blouse,Blusa,51
+Bowl,Bol,71
+Bread,Pan,50
+Breakfast,Desayuno,68
+Brunch,Desalmuerzo,53
+Building,Edificio,100
+Cabinet,Gabinete,51
+Cafe,Cafetería,56
+Cafeteria,Cafetería,57
+Cake,Pastel,52
+Chair,Silla,52
+Clothing,Ropa,51
+Coffee,Café,72
+Coffee Cup,taza de café,72
+Coffee Table,Mesa de centro,56
+Computer Hardware,Hardware de computadora,50
+Cookware,utensilios de cocina,50
+Couch,Sofá,55
+Cream,Crema,54
+Cup,Taza,100
+Cutlery,Cuchillería,100
+Dessert,Postre,54
+Diner,Comedor,56
+Dining Room,Comedor,100
+Dining Table,Mesa de comedor,100
+Dinner,Cena,54
+Dip,Aderezo,50
+Dish,Plato,100
+Eating,Comiendo,53
+Electronics,Electrónica,52
+Espresso,Café exprés,50
+Face,Rostro,66
+Female,Femenino,51
+Fondue,Fondue,52
+Food,Alimento,100
+Food Court,Patio de comidas,54
+Fork,Tenedor,77
+Furniture,Muebles,100
+Glass,Vaso,51
+Glasses,Anteojos,52
+Hardware,Hardware,50
+Head,Cabeza,73
+Ice Cream,Helado,54
+Icing,Formación de hielo,54
+Indoors,Dentro,100
+Interior Design,Diseño de interiores,50
+Juice,Jugo,50
+Kitchen,Cocina,50
+Latte,café con leche,51
+Living Room,Sala de estar,55
+Lunch,Almuerzo,54
+Male,Masculino,91
+Man,Hombre,91
+Meal,Comida,100
+Milk,Leche,53
+Monitor,Monitor,50
+Person,Persona,93
+Phone,Teléfono,52
+Photography,Fotografía,50
+Plant,Planta,52
+Plate,Lámina,57
+Platter,Plato,51
+Porcelain,Porcelana,95
+Portrait,Retrato,50
+Pot,Olla,50
+Potted Plant,planta en maceta,52
+Pottery,Cerámica,95
+Restaurant,Restaurante,98
+Room,Habitación,100
+Saucer,Platillo,82
+Screen,Pantalla,50
+Soup Bowl,Tazón de sopa,52
+Spoon,Cuchara,88
+Stew,Guiso,51
+TV,TELEVISOR,50
+Table,Mesa,100
+Tablecloth,Mantel,51
+Tabletop,Superficie de la mesa,97
+Tea,Té,52
+Teapot,Tetera,50
+Woman,Mujer,51

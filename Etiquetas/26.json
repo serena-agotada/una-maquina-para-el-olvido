@@ -1,0 +1,1936 @@
+{
+  "Video": "26.mp4",
+  "JobId": "3131a29982e5401023dff395633e38a405ad200db3e9176dbd9a40dde58ed6d5",
+  "JobStatus": "SUCCEEDED",
+  "VideoMetadata": {
+    "Codec": "h264",
+    "DurationMillis": 7280,
+    "Format": "QuickTime / MOV",
+    "FrameRate": 25.0,
+    "FrameHeight": 900,
+    "FrameWidth": 1366,
+    "ColorRange": "LIMITED"
+  },
+  "Labels": [
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 51.18976974487305,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 57.71148681640625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 92.48856353759766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 51.68168640136719,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 59.01914596557617,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 54.73584747314453,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sword",
+        "Confidence": 70.67987060546875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3907288908958435,
+              "Height": 1.0,
+              "Left": 0.5409718155860901,
+              "Top": 0.0
+            },
+            "Confidence": 69.04948425292969
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 64.27713012695312,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 70.67987060546875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 68.78160095214844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 93.7958984375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 78.34622955322266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 55.814517974853516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Sword",
+        "Confidence": 80.32120513916016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.40304431319236755,
+              "Height": 0.9997566342353821,
+              "Left": 0.5319945216178894,
+              "Top": 0.00024341583775822073
+            },
+            "Confidence": 83.27054595947266
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 73.57530975341797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 80.32120513916016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 61.240543365478516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 93.61033630371094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 56.60490798950195,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1252899020910263,
+              "Height": 0.6400448083877563,
+              "Left": 0.3795526623725891,
+              "Top": 0.05458053573966026
+            },
+            "Confidence": 59.90248489379883
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 62.74467086791992,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 54.83505630493164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Sword",
+        "Confidence": 71.90440368652344,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.40658318996429443,
+              "Height": 0.998068630695343,
+              "Left": 0.5358715653419495,
+              "Top": 0.0017474746564403176
+            },
+            "Confidence": 71.58475494384766
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 69.25029754638672,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 71.90440368652344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 77.53204345703125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 95.70812225341797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 80.68841552734375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 55.474212646484375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Sword",
+        "Confidence": 71.4565200805664,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.4190446436405182,
+              "Height": 1.0,
+              "Left": 0.5278285145759583,
+              "Top": 0.0
+            },
+            "Confidence": 73.14814758300781
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 73.15892791748047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 71.4565200805664,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 68.95928955078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 93.3147201538086,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 70.2651138305664,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 54.09189224243164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Sword",
+        "Confidence": 57.67558670043945,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.4133576452732086,
+              "Height": 0.998869001865387,
+              "Left": 0.5457739233970642,
+              "Top": 0.0011309814872220159
+            },
+            "Confidence": 54.65394973754883
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 66.0791244506836,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 57.810546875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 60.913963317871094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 91.89989471435547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 68.0932388305664,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 56.2237663269043,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Sword",
+        "Confidence": 61.921791076660156,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.35300111770629883,
+              "Height": 1.0,
+              "Left": 0.6008158326148987,
+              "Top": 0.0
+            },
+            "Confidence": 65.9251480102539
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 75.70612335205078,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 62.61099624633789,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 60.152015686035156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 90.67890930175781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 62.097721099853516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 55.790069580078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 76.17095947265625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 74.527099609375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 92.66159057617188,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 80.1946792602539,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 57.071617126464844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 79.53448486328125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 51.28641128540039,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 51.28641128540039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "House",
+        "Confidence": 51.19093704223633,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Housing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Housing",
+        "Confidence": 51.24502182006836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 65.33858489990234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 92.88308715820312,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 72.47370147705078,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 57.2476806640625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 80.80887603759766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 66.00513458251953,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 92.3975830078125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 72.33914947509766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 55.95656204223633,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 76.1160888671875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 60.35874938964844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 92.0098648071289,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 62.314266204833984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 56.59081268310547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 76.722412109375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 50.98511505126953,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 67.6624526977539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 92.2202377319336,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 71.46987915039062,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 57.313148498535156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 79.6279067993164,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 50.3656120300293,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 80.09037017822266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 91.9512710571289,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 85.24315643310547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 58.249027252197266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Sword",
+        "Confidence": 63.476200103759766,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.22788065671920776,
+              "Height": 0.7292593717575073,
+              "Left": 0.5339782238006592,
+              "Top": 5.760192834713962e-06
+            },
+            "Confidence": 70.7270278930664
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 80.79520416259766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 67.05403137207031,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 77.96591186523438,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 94.5022964477539,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 84.11575317382812,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 63.885345458984375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Sword",
+        "Confidence": 69.17766571044922,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.22926270961761475,
+              "Height": 0.7361292839050293,
+              "Left": 0.5370510220527649,
+              "Top": 0.0008119201520457864
+            },
+            "Confidence": 77.42784881591797
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 83.72808837890625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 72.23506164550781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Outdoor Play Area",
+        "Confidence": 60.648677825927734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Play Area"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Playground"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 90.97144317626953,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Play Area",
+        "Confidence": 61.70200729370117,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Swing",
+        "Confidence": 57.41670227050781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Toy"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Toy",
+        "Confidence": 79.7859115600586,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+Adult,Adulto,96
+Car,Auto,50
+Chasing,Persecución,92
+Female,Femenino,96
+Fighting,Lucha,50
+Head,Cabeza,81
+Male,Masculino,65
+Man,Hombre,65
+Outdoors,Al aire libre,55
+Person,Persona,97
+Riot,Disturbio,53
+Skating,Patinaje,51
+Sport,Deporte,51
+Transportation,Transporte,51
+Vehicle,Vehículo,51
+Woman,Mujer,96
+Adult,Adulto,89
+Car,Auto,79
+Chasing,Persecución,94
+Female,Femenino,89
+Fighting,Lucha,51
+Head,Cabeza,68
+Male,Masculino,58
+Man,Hombre,58
+Outdoors,Al aire libre,56
+Person,Persona,96
+Riot,Disturbio,55
+Skating,Patinaje,50
+Sport,Deporte,50
+Transportation,Transporte,79
+Vehicle,Vehículo,79
+Woman,Mujer,89
+Adult,Adulto,89
+Bicycle,Bicicleta,51
+Car,Auto,81
+Chasing,Persecución,82
+Fallen Person,persona caida,50
+Female,Femenino,89
+Head,Cabeza,70
+Male,Masculino,61
+Man,Hombre,61
+Moped,Ciclomotor,51
+Motor Scooter,Scooter de motor,51
+Motorcycle,Motocicleta,51
+Outdoors,Al aire libre,63
+Person,Persona,92
+Riot,Disturbio,52
+Skating,Patinaje,53
+Sport,Deporte,53
+Transportation,Transporte,81
+Vehicle,Vehículo,81
+Woman,Mujer,89
+Adult,Adulto,81
+Arrest,Detención,50
+Car,Auto,69
+Chasing,Persecución,83
+Fallen Person,persona caida,51
+Female,Femenino,81
+Fighting,Lucha,50
+Head,Cabeza,76
+Male,Masculino,64
+Man,Hombre,64
+Outdoors,Al aire libre,58
+Person,Persona,95
+Riot,Disturbio,53
+Skating,Patinaje,50
+Sport,Deporte,50
+Transportation,Transporte,69
+Vehicle,Vehículo,69
+Woman,Mujer,81
+Adult,Adulto,93
+Arrest,Detención,50
+Car,Auto,79
+Chasing,Persecución,56
+Fallen Person,persona caida,50
+Female,Femenino,93
+Head,Cabeza,74
+Male,Masculino,59
+Man,Hombre,59
+Outdoors,Al aire libre,86
+Person,Persona,97
+Riot,Disturbio,52
+Transportation,Transporte,79
+Vehicle,Vehículo,79
+Woman,Mujer,93
+Adult,Adulto,77
+Car,Auto,56
+Chasing,Persecución,53
+Fallen Person,persona caida,51
+Female,Femenino,77
+Head,Cabeza,72
+Male,Masculino,62
+Man,Hombre,62
+Outdoors,Al aire libre,77
+Person,Persona,96
+Riot,Disturbio,61
+Transportation,Transporte,56
+Vehicle,Vehículo,56
+Woman,Mujer,77
+Adult,Adulto,84
+Car,Auto,67
+Chasing,Persecución,52
+Fallen Person,persona caida,51
+Female,Femenino,84
+Head,Cabeza,50
+Male,Masculino,67
+Man,Hombre,67
+Outdoors,Al aire libre,82
+Person,Persona,94
+Riot,Disturbio,54
+Transportation,Transporte,67
+Vehicle,Vehículo,67
+Woman,Mujer,84
+Adult,Adulto,80
+Aerial View,Vista aérea,50
+Arrest,Detención,50
+Car,Auto,76
+Chasing,Persecución,52
+Fallen Person,persona caida,52
+Female,Femenino,80
+Fighting,Lucha,50
+Head,Cabeza,61
+Male,Masculino,51
+Man,Hombre,51
+Outdoors,Al aire libre,80
+Person,Persona,84
+Riot,Disturbio,53
+Transportation,Transporte,76
+Vehicle,Vehículo,76
+Woman,Mujer,80
+Adult,Adulto,72
+Aerial View,Vista aérea,52
+Architecture,Arquitectura,53
+Building,Edificio,53
+Car,Auto,80
+Chasing,Persecución,53
+Fallen Person,persona caida,51
+Female,Femenino,72
+Head,Cabeza,65
+House,Casa,51
+Housing,Alojamiento,53
+Male,Masculino,56
+Man,Hombre,56
+Outdoors,Al aire libre,85
+Person,Persona,84
+Riot,Disturbio,50
+Skating,Patinaje,51
+Sport,Deporte,51
+Suburb,Suburbio,52
+Transportation,Transporte,80
+Vehicle,Vehículo,80
+Woman,Mujer,72
+Adult,Adulto,87
+Aerial View,Vista aérea,52
+Architecture,Arquitectura,53
+Bicycle,Bicicleta,50
+Building,Edificio,53
+Car,Auto,85
+Chasing,Persecución,52
+Cycling,Ciclismo,50
+Fallen Person,persona caida,51
+Female,Femenino,87
+Head,Cabeza,67
+House,Casa,51
+Housing,Alojamiento,53
+Male,Masculino,63
+Man,Hombre,63
+Moped,Ciclomotor,53
+Motor Scooter,Scooter de motor,53
+Motorcycle,Motocicleta,53
+Outdoors,Al aire libre,90
+Person,Persona,90
+Road,Camino,51
+Skating,Patinaje,53
+Sport,Deporte,53
+Suburb,Suburbio,53
+Transportation,Transporte,85
+Vehicle,Vehículo,85
+Woman,Mujer,87
+Adult,Adulto,80
+Aerial View,Vista aérea,50
+Car,Auto,80
+Chasing,Persecución,52
+Fallen Person,persona caida,53
+Female,Femenino,80
+Head,Cabeza,82
+Male,Masculino,61
+Man,Hombre,61
+Moped,Ciclomotor,50
+Motor Scooter,Scooter de motor,50
+Motorcycle,Motocicleta,50
+Outdoors,Al aire libre,91
+Person,Persona,95
+Skating,Patinaje,50
+Sport,Deporte,50
+Suburb,Suburbio,51
+Transportation,Transporte,80
+Vehicle,Vehículo,80
+Woman,Mujer,80
+Adult,Adulto,93
+Aerial View,Vista aérea,51
+Car,Auto,73
+Chasing,Persecución,53
+Female,Femenino,93
+Head,Cabeza,77
+Male,Masculino,66
+Man,Hombre,66
+Outdoors,Al aire libre,92
+Person,Persona,94
+Skating,Patinaje,50
+Sport,Deporte,50
+Suburb,Suburbio,50
+Transportation,Transporte,73
+Vehicle,Vehículo,73
+Woman,Mujer,93
+Adult,Adulto,92
+Aerial View,Vista aérea,52
+Car,Auto,60
+Chasing,Persecución,50
+Female,Femenino,92
+Head,Cabeza,83
+License Plate,Matrícula,50
+Male,Masculino,70
+Man,Hombre,70
+Outdoors,Al aire libre,94
+Person,Persona,93
+Suburb,Suburbio,50
+Transportation,Transporte,60
+Vehicle,Vehículo,60
+Woman,Mujer,92
+Adult,Adulto,96
+Car,Auto,83
+Chasing,Persecución,51
+Female,Femenino,93
+Head,Cabeza,71
+Male,Masculino,72
+Man,Hombre,72
+Outdoors,Al aire libre,89
+Person,Persona,97
+Riot,Disturbio,50
+Transportation,Transporte,83
+Vandalism,Vandalismo,50
+Vehicle,Vehículo,83
+Woman,Mujer,93
+Adult,Adulto,92
+Car,Auto,77
+Female,Femenino,85
+Head,Cabeza,70
+License Plate,Matrícula,53
+Male,Masculino,68
+Man,Hombre,68
+Moving Van,furgoneta de mudanza,51
+Outdoors,Al aire libre,53
+Person,Persona,95
+Station Wagon,camioneta,53
+Transportation,Transporte,77
+Van,Furgoneta,51
+Vandalism,Vandalismo,64
+Vehicle,Vehículo,77
+Woman,Mujer,85
+Adult,Adulto,58
+Car,Auto,94
+Driving,Conduciendo,50
+Head,Cabeza,75
+License Plate,Matrícula,56
+Limo,limusina,50
+Machine,Máquina,52
+Male,Masculino,54
+Man,Hombre,54
+Moving Van,furgoneta de mudanza,51
+Outdoors,Al aire libre,50
+Person,Persona,81
+Police Car,Coche de policía,50
+Sports Car,Coche deportivo,50
+Station Wagon,camioneta,60
+Transportation,Transporte,94
+Van,Furgoneta,51
+Vandalism,Vandalismo,52
+Vehicle,Vehículo,94
+Wheel,Rueda,51
+Adult,Adulto,70
+Car,Auto,94
+Driving,Conduciendo,50
+Head,Cabeza,52
+License Plate,Matrícula,58
+Machine,Máquina,81
+Male,Masculino,68
+Man,Hombre,68
+Moving Van,furgoneta de mudanza,52
+Person,Persona,73
+Police Car,Coche de policía,50
+Station Wagon,camioneta,69
+Suburb,Suburbio,51
+Transportation,Transporte,94
+Van,Furgoneta,52
+Vandalism,Vandalismo,50
+Vehicle,Vehículo,94
+Wheel,Rueda,80
+Adult,Adulto,89
+Car,Auto,94
+Face,Rostro,56
+Head,Cabeza,79
+License Plate,Matrícula,70
+Machine,Máquina,80
+Male,Masculino,87
+Man,Hombre,87
+Moving Van,furgoneta de mudanza,51
+Outdoors,Al aire libre,52
+Person,Persona,91
+Police Car,Coche de policía,50
+Station Wagon,camioneta,55
+Suburb,Suburbio,51
+Transportation,Transporte,94
+Van,Furgoneta,51
+Vandalism,Vandalismo,50
+Vehicle,Vehículo,94
+Wheel,Rueda,76
+Adult,Adulto,90
+Car,Auto,95
+Chasing,Persecución,50
+Head,Cabeza,79
+License Plate,Matrícula,52
+Machine,Máquina,55
+Male,Masculino,84
+Man,Hombre,84
+Outdoors,Al aire libre,63
+Person,Persona,93
+Skating,Patinaje,51
+Sport,Deporte,51
+Transportation,Transporte,95
+Vehicle,Vehículo,95
+Adult,Adulto,85
+Aerial View,Vista aérea,50
+Car,Auto,96
+Female,Femenino,71
+Head,Cabeza,71
+License Plate,Matrícula,53
+Machine,Máquina,84
+Male,Masculino,50
+Outdoors,Al aire libre,66
+Person,Persona,86
+Skating,Patinaje,50
+Sport,Deporte,50
+Suburb,Suburbio,50
+Taking Cover,Poniéndose a cubierto,50
+Transportation,Transporte,96
+Vandalism,Vandalismo,50
+Vehicle,Vehículo,96
+Wheel,Rueda,80
+Woman,Mujer,71
+Adult,Adulto,54
+Car,Auto,98
+Coupe,cupé,51
+Driving,Conduciendo,50
+Head,Cabeza,52
+License Plate,Matrícula,56
+Machine,Máquina,91
+Outdoors,Al aire libre,51
+Person,Persona,59
+Sports Car,Coche deportivo,51
+Taxi,Taxi,52
+Transportation,Transporte,98
+Vandalism,Vandalismo,50
+Vehicle,Vehículo,98
+Wheel,Rueda,89
+Adult,Adulto,57
+Boy,Chico,54
+Car,Auto,98
+Car Wheel,Rueda de coche,50
+Child,Niño,54
+Coupe,cupé,52
+Driving,Conduciendo,51
+Head,Cabeza,63
+License Plate,Matrícula,57
+Machine,Máquina,90
+Male,Masculino,65
+Man,Hombre,51
+Outdoors,Al aire libre,54
+Person,Persona,72
+Police Car,Coche de policía,50
+Sports Car,Coche deportivo,52
+Taxi,Taxi,50
+Tire,Neumático,51
+Transportation,Transporte,98
+Vandalism,Vandalismo,50
+Vehicle,Vehículo,98
+Wheel,Rueda,90
+Adult,Adulto,84
+Bumper,Parachoques,50
+Car,Auto,98
+Head,Cabeza,86
+License Plate,Matrícula,55
+Machine,Máquina,92
+Male,Masculino,84
+Man,Hombre,82
+Person,Persona,87
+Sedan,Sedán,51
+Taxi,Taxi,53
+Tire,Neumático,50
+Transportation,Transporte,98
+Vehicle,Vehículo,98
+Wheel,Rueda,92

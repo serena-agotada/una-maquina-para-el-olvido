@@ -1,0 +1,2971 @@
+{
+  "Video": "55.mp4",
+  "JobId": "7f7ca084e6feec92b29936e50a0a19fe147ec676747c543b6109df6c549a8fb9",
+  "JobStatus": "SUCCEEDED",
+  "VideoMetadata": {
+    "Codec": "h264",
+    "DurationMillis": 1120,
+    "Format": "QuickTime / MOV",
+    "FrameRate": 25.0,
+    "FrameHeight": 900,
+    "FrameWidth": 1366,
+    "ColorRange": "LIMITED"
+  },
+  "Labels": [
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 83.49640655517578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1078096255660057,
+              "Height": 0.28549036383628845,
+              "Left": 0.6714369654655457,
+              "Top": 0.23069319128990173
+            },
+            "Confidence": 85.5926513671875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2794620990753174,
+              "Height": 0.4097064137458801,
+              "Left": 0.6603937745094299,
+              "Top": 0.5873920917510986
+            },
+            "Confidence": 82.0448989868164
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22990290820598602,
+              "Height": 0.4990805387496948,
+              "Left": 0.6875723004341125,
+              "Top": 0.0014489745954051614
+            },
+            "Confidence": 67.44784545898438
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22961170971393585,
+              "Height": 0.30379700660705566,
+              "Left": 0.5241965055465698,
+              "Top": 0.20789764821529388
+            },
+            "Confidence": 61.19647216796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.179964080452919,
+              "Height": 0.6907728910446167,
+              "Left": 0.5198614597320557,
+              "Top": 0.21671094000339508
+            },
+            "Confidence": 57.983062744140625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17583651840686798,
+              "Height": 0.29472827911376953,
+              "Left": 0.5423383712768555,
+              "Top": 0.0007319450378417969
+            },
+            "Confidence": 52.894920349121094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Alcohol",
+        "Confidence": 54.11442184448242,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Altar",
+        "Confidence": 51.70732498168945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Church"
+          },
+          {
+            "Name": "Prayer"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 52.07299041748047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Beverage",
+        "Confidence": 54.11442184448242,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Drink"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Bonnet",
+        "Confidence": 50.14271926879883,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Hat"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Book",
+        "Confidence": 54.937095642089844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Publication"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 52.07299041748047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Can",
+        "Confidence": 64.30046844482422,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.15736797451972961,
+              "Height": 0.3218539357185364,
+              "Left": 0.1013607531785965,
+              "Top": 0.5490463376045227
+            },
+            "Confidence": 71.18782806396484
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Tin"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Candle",
+        "Confidence": 51.17915344238281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Everyday Objects"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Church",
+        "Confidence": 52.07299041748047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Cinema",
+        "Confidence": 50.278987884521484,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 50.14271926879883,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 64.41474914550781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 50.40633773803711,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 83.49640655517578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1078096255660057,
+              "Height": 0.28549036383628845,
+              "Left": 0.6714369654655457,
+              "Top": 0.23069319128990173
+            },
+            "Confidence": 85.5926513671875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2794620990753174,
+              "Height": 0.4097064137458801,
+              "Left": 0.6603937745094299,
+              "Top": 0.5873920917510986
+            },
+            "Confidence": 82.0448989868164
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22990290820598602,
+              "Height": 0.4990805387496948,
+              "Left": 0.6875723004341125,
+              "Top": 0.0014489745954051614
+            },
+            "Confidence": 67.44784545898438
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22961170971393585,
+              "Height": 0.30379700660705566,
+              "Left": 0.5241965055465698,
+              "Top": 0.20789764821529388
+            },
+            "Confidence": 61.19647216796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.179964080452919,
+              "Height": 0.6907728910446167,
+              "Left": 0.5198614597320557,
+              "Top": 0.21671094000339508
+            },
+            "Confidence": 57.983062744140625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17583651840686798,
+              "Height": 0.29472827911376953,
+              "Left": 0.5423383712768555,
+              "Top": 0.0007319450378417969
+            },
+            "Confidence": 52.894920349121094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Festival",
+        "Confidence": 53.0788459777832,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Events and Attractions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Furniture",
+        "Confidence": 51.63896560668945,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Gun",
+        "Confidence": 52.42714309692383,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Hat",
+        "Confidence": 50.14271926879883,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 81.76936340332031,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Incense",
+        "Confidence": 53.486236572265625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Everyday Objects"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 56.90285873413086,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 56.90285873413086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Lamp",
+        "Confidence": 55.52278137207031,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Lantern",
+        "Confidence": 52.24703598022461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Lamp"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Lighting",
+        "Confidence": 53.90983963012695,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Liquor",
+        "Confidence": 51.16398620605469,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Alcohol"
+          },
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Magician",
+        "Confidence": 50.06342697143555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Performer"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Profession"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Museum",
+        "Confidence": 50.322025299072266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Musical Instrument",
+        "Confidence": 50.835601806640625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Novel",
+        "Confidence": 50.702880859375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Book"
+          },
+          {
+            "Name": "Publication"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Performer",
+        "Confidence": 80.10408782958984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Profession"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 84.04619598388672,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1078096255660057,
+              "Height": 0.28549036383628845,
+              "Left": 0.6714369654655457,
+              "Top": 0.23069319128990173
+            },
+            "Confidence": 85.5926513671875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2794620990753174,
+              "Height": 0.4097064137458801,
+              "Left": 0.6603937745094299,
+              "Top": 0.5873920917510986
+            },
+            "Confidence": 82.0448989868164
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22990290820598602,
+              "Height": 0.4990805387496948,
+              "Left": 0.6875723004341125,
+              "Top": 0.0014489745954051614
+            },
+            "Confidence": 67.44784545898438
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22961170971393585,
+              "Height": 0.30379700660705566,
+              "Left": 0.5241965055465698,
+              "Top": 0.20789764821529388
+            },
+            "Confidence": 61.19647216796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.179964080452919,
+              "Height": 0.6907728910446167,
+              "Left": 0.5198614597320557,
+              "Top": 0.21671094000339508
+            },
+            "Confidence": 57.983062744140625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17583651840686798,
+              "Height": 0.29472827911376953,
+              "Left": 0.5423383712768555,
+              "Top": 0.0007319450378417969
+            },
+            "Confidence": 52.894920349121094
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Prayer",
+        "Confidence": 51.72300720214844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Worship"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Religion"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Publication",
+        "Confidence": 54.937095642089844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Solo Performance",
+        "Confidence": 80.10408782958984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Performer"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Performing Arts"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sword",
+        "Confidence": 53.68492889404297,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Tin",
+        "Confidence": 64.30046844482422,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Vandalism",
+        "Confidence": 52.52528762817383,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Vigil",
+        "Confidence": 50.35798645019531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Events and Attractions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Wax Seal",
+        "Confidence": 50.141387939453125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 55.6128044128418,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Wine",
+        "Confidence": 51.16398620605469,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Alcohol"
+          },
+          {
+            "Name": "Beverage"
+          },
+          {
+            "Name": "Liquor"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 83.49640655517578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1078096255660057,
+              "Height": 0.28549036383628845,
+              "Left": 0.6714369654655457,
+              "Top": 0.23069319128990173
+            },
+            "Confidence": 85.5926513671875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2794620990753174,
+              "Height": 0.4097064137458801,
+              "Left": 0.6603937745094299,
+              "Top": 0.5873920917510986
+            },
+            "Confidence": 82.0448989868164
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22990290820598602,
+              "Height": 0.4990805387496948,
+              "Left": 0.6875723004341125,
+              "Top": 0.0014489745954051614
+            },
+            "Confidence": 67.44784545898438
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22961170971393585,
+              "Height": 0.30379700660705566,
+              "Left": 0.5241965055465698,
+              "Top": 0.20789764821529388
+            },
+            "Confidence": 61.19647216796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.179964080452919,
+              "Height": 0.6907728910446167,
+              "Left": 0.5198614597320557,
+              "Top": 0.21671094000339508
+            },
+            "Confidence": 57.983062744140625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17583651840686798,
+              "Height": 0.29472827911376953,
+              "Left": 0.5423383712768555,
+              "Top": 0.0007319450378417969
+            },
+            "Confidence": 52.894920349121094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Absinthe",
+        "Confidence": 50.77892303466797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Alcohol"
+          },
+          {
+            "Name": "Beverage"
+          },
+          {
+            "Name": "Liquor"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 68.52404022216797,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2580448389053345,
+              "Height": 0.5055908560752869,
+              "Left": 0.4807046353816986,
+              "Top": 0.0
+            },
+            "Confidence": 63.78306198120117
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18197984993457794,
+              "Height": 0.341381698846817,
+              "Left": 0.7292460203170776,
+              "Top": 0.5800097584724426
+            },
+            "Confidence": 53.16865921020508
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Alcohol",
+        "Confidence": 59.112205505371094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Altar",
+        "Confidence": 52.604923248291016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Church"
+          },
+          {
+            "Name": "Prayer"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 51.79877853393555,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 52.72587966918945,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Bee",
+        "Confidence": 50.076541900634766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Insect"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Beverage",
+        "Confidence": 59.112205505371094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Drink"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Book",
+        "Confidence": 54.922332763671875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Publication"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 52.72587966918945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Candle",
+        "Confidence": 53.853294372558594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Everyday Objects"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Church",
+        "Confidence": 52.72587966918945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Dining Table",
+        "Confidence": 50.060943603515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          },
+          {
+            "Name": "Table"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 69.28549194335938,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 68.52404022216797,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2580448389053345,
+              "Height": 0.5055908560752869,
+              "Left": 0.4807046353816986,
+              "Top": 0.0
+            },
+            "Confidence": 63.78306198120117
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12751856446266174,
+              "Height": 0.278682142496109,
+              "Left": 0.651360809803009,
+              "Top": 0.22335289418697357
+            },
+            "Confidence": 56.907196044921875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18197984993457794,
+              "Height": 0.341381698846817,
+              "Left": 0.7292460203170776,
+              "Top": 0.5800097584724426
+            },
+            "Confidence": 53.16865921020508
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Festival",
+        "Confidence": 51.96792221069336,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Events and Attractions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 51.744991302490234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Furniture",
+        "Confidence": 50.565101623535156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Gun",
+        "Confidence": 50.7566032409668,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 71.45609283447266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Incense",
+        "Confidence": 55.77484893798828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Everyday Objects"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 63.36362075805664,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Insect",
+        "Confidence": 50.076541900634766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 63.36362075805664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Invertebrate",
+        "Confidence": 50.076541900634766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Lamp",
+        "Confidence": 55.944942474365234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Lantern",
+        "Confidence": 52.81265640258789,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Lamp"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Liquor",
+        "Confidence": 53.29763412475586,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Alcohol"
+          },
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Novel",
+        "Confidence": 50.5993537902832,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Book"
+          },
+          {
+            "Name": "Publication"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Performer",
+        "Confidence": 54.95451736450195,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Profession"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 72.70243072509766,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2580448389053345,
+              "Height": 0.5055908560752869,
+              "Left": 0.4807046353816986,
+              "Top": 0.0
+            },
+            "Confidence": 63.78306198120117
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12751856446266174,
+              "Height": 0.278682142496109,
+              "Left": 0.651360809803009,
+              "Top": 0.22335289418697357
+            },
+            "Confidence": 56.907196044921875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18197984993457794,
+              "Height": 0.341381698846817,
+              "Left": 0.7292460203170776,
+              "Top": 0.5800097584724426
+            },
+            "Confidence": 53.16865921020508
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Prayer",
+        "Confidence": 52.63471984863281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Worship"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Religion"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Publication",
+        "Confidence": 54.922332763671875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Seasoning",
+        "Confidence": 50.148494720458984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Food"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Solo Performance",
+        "Confidence": 54.95451736450195,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Performer"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Performing Arts"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Syrup",
+        "Confidence": 50.148494720458984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Food"
+          },
+          {
+            "Name": "Seasoning"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Table",
+        "Confidence": 50.060943603515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Vandalism",
+        "Confidence": 50.56281280517578,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Wasp",
+        "Confidence": 50.076541900634766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bee"
+          },
+          {
+            "Name": "Insect"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Hornet"
+          },
+          {
+            "Name": "Andrena"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Wax Seal",
+        "Confidence": 51.022300720214844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 53.14588165283203,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Window",
+        "Confidence": 51.18087387084961,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Windowsill",
+        "Confidence": 51.18087387084961,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Window"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Wine",
+        "Confidence": 53.29763412475586,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Alcohol"
+          },
+          {
+            "Name": "Beverage"
+          },
+          {
+            "Name": "Liquor"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 68.52404022216797,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2580448389053345,
+              "Height": 0.5055908560752869,
+              "Left": 0.4807046353816986,
+              "Top": 0.0
+            },
+            "Confidence": 63.78306198120117
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18197984993457794,
+              "Height": 0.341381698846817,
+              "Left": 0.7292460203170776,
+              "Top": 0.5800097584724426
+            },
+            "Confidence": 53.16865921020508
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 86.48896789550781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2788413465023041,
+              "Height": 0.41881442070007324,
+              "Left": 0.6585294604301453,
+              "Top": 0.5780239105224609
+            },
+            "Confidence": 89.38322448730469
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.32276490330696106,
+              "Height": 0.9146829843521118,
+              "Left": 0.4549236297607422,
+              "Top": 0.0006946945213712752
+            },
+            "Confidence": 54.27019119262695
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Alcohol",
+        "Confidence": 54.114627838134766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Altar",
+        "Confidence": 50.10444259643555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Church"
+          },
+          {
+            "Name": "Prayer"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 61.9427490234375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 50.82101821899414,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Beverage",
+        "Confidence": 54.114627838134766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Drink"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Book",
+        "Confidence": 53.12040710449219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Publication"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 50.82101821899414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Can",
+        "Confidence": 67.38723754882812,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.16051365435123444,
+              "Height": 0.46800705790519714,
+              "Left": 0.23953336477279663,
+              "Top": 0.38611382246017456
+            },
+            "Confidence": 75.09774017333984
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18088848888874054,
+              "Height": 0.5056381821632385,
+              "Left": 0.07520855218172073,
+              "Top": 0.35957714915275574
+            },
+            "Confidence": 70.94820404052734
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Tin"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Candle",
+        "Confidence": 53.44491958618164,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Everyday Objects"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 58.968746185302734,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.13795727491378784,
+              "Height": 0.2823953330516815,
+              "Left": 0.6447315812110901,
+              "Top": 0.2178124338388443
+            },
+            "Confidence": 64.2578125
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Church",
+        "Confidence": 50.82101821899414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 76.0975570678711,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 86.48896789550781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2788413465023041,
+              "Height": 0.41881442070007324,
+              "Left": 0.6585294604301453,
+              "Top": 0.5780239105224609
+            },
+            "Confidence": 89.38322448730469
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.32276490330696106,
+              "Height": 0.9146829843521118,
+              "Left": 0.4549236297607422,
+              "Top": 0.0006946945213712752
+            },
+            "Confidence": 54.27019119262695
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Festival",
+        "Confidence": 53.72785568237305,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Events and Attractions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 50.91843032836914,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Gun",
+        "Confidence": 51.36937713623047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Weapon"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Happy",
+        "Confidence": 51.125999450683594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 78.16409301757812,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Incense",
+        "Confidence": 54.10540771484375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Everyday Objects"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 56.714134216308594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 56.714134216308594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Lamp",
+        "Confidence": 53.44696044921875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Lantern",
+        "Confidence": 51.272274017333984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Lamp"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Liquor",
+        "Confidence": 51.66861343383789,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Alcohol"
+          },
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 61.533485412597656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Novel",
+        "Confidence": 50.25503158569336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Book"
+          },
+          {
+            "Name": "Publication"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Performer",
+        "Confidence": 53.42068862915039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Profession"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 87.03875732421875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2788413465023041,
+              "Height": 0.41881442070007324,
+              "Left": 0.6585294604301453,
+              "Top": 0.5780239105224609
+            },
+            "Confidence": 89.38322448730469
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.32276490330696106,
+              "Height": 0.9146829843521118,
+              "Left": 0.4549236297607422,
+              "Top": 0.0006946945213712752
+            },
+            "Confidence": 54.27019119262695
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 61.38914108276367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Prayer",
+        "Confidence": 50.355369567871094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Worship"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Religion"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Publication",
+        "Confidence": 53.12040710449219,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Smile",
+        "Confidence": 51.125999450683594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Happy"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Solo Performance",
+        "Confidence": 53.42068862915039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Performer"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Performing Arts"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 50.84946823120117,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Tin",
+        "Confidence": 67.38723754882812,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Wax Seal",
+        "Confidence": 50.196800231933594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 53.27739715576172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Window",
+        "Confidence": 50.38983917236328,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Windowsill",
+        "Confidence": 50.38983917236328,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Window"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Wine",
+        "Confidence": 51.66861343383789,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Alcohol"
+          },
+          {
+            "Name": "Beverage"
+          },
+          {
+            "Name": "Liquor"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 86.48896789550781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2788413465023041,
+              "Height": 0.41881442070007324,
+              "Left": 0.6585294604301453,
+              "Top": 0.5780239105224609
+            },
+            "Confidence": 89.38322448730469
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.32276490330696106,
+              "Height": 0.9146829843521118,
+              "Left": 0.4549236297607422,
+              "Top": 0.0006946945213712752
+            },
+            "Confidence": 54.27019119262695
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    }
+  ]
+}

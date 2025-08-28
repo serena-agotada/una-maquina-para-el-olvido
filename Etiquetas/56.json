@@ -1,0 +1,6258 @@
+{
+  "Video": "56.mp4",
+  "JobId": "331d70d1169839cfbcd2779e48e5603974b14c680646f1ae61b1a1c4b4437c44",
+  "JobStatus": "SUCCEEDED",
+  "VideoMetadata": {
+    "Codec": "h264",
+    "DurationMillis": 8160,
+    "Format": "QuickTime / MOV",
+    "FrameRate": 25.0,
+    "FrameHeight": 900,
+    "FrameWidth": 1366,
+    "ColorRange": "LIMITED"
+  },
+  "Labels": [
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 78.40191650390625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5942577123641968,
+              "Height": 0.9951655268669128,
+              "Left": 0.4017690122127533,
+              "Top": 0.0032158279791474342
+            },
+            "Confidence": 76.07860565185547
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2798072397708893,
+              "Height": 0.748638927936554,
+              "Left": 0.0045334938913583755,
+              "Top": 0.24977058172225952
+            },
+            "Confidence": 69.86033630371094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 57.296241760253906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 50.075069427490234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 78.40191650390625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5942577123641968,
+              "Height": 0.9951655268669128,
+              "Left": 0.4017690122127533,
+              "Top": 0.0032158279791474342
+            },
+            "Confidence": 76.07860565185547
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2798072397708893,
+              "Height": 0.748638927936554,
+              "Left": 0.0045334938913583755,
+              "Top": 0.24977058172225952
+            },
+            "Confidence": 69.86033630371094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 78.40191650390625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5942577123641968,
+              "Height": 0.9951655268669128,
+              "Left": 0.4017690122127533,
+              "Top": 0.0032158279791474342
+            },
+            "Confidence": 76.07860565185547
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2798072397708893,
+              "Height": 0.748638927936554,
+              "Left": 0.0045334938913583755,
+              "Top": 0.24977058172225952
+            },
+            "Confidence": 69.86033630371094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 92.25899505615234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 78.40191650390625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5942577123641968,
+              "Height": 0.9951655268669128,
+              "Left": 0.4017690122127533,
+              "Top": 0.0032158279791474342
+            },
+            "Confidence": 76.07860565185547
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2798072397708893,
+              "Height": 0.748638927936554,
+              "Left": 0.0045334938913583755,
+              "Top": 0.24977058172225952
+            },
+            "Confidence": 69.86033630371094
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 98.32526397705078,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 98.32526397705078,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 98.32526397705078,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 90.14337921142578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.25661206245422363,
+              "Height": 0.7269601821899414,
+              "Left": 0.0008189846412278712,
+              "Top": 0.26848340034484863
+            },
+            "Confidence": 93.20040893554688
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.23705875873565674,
+              "Height": 0.5219914317131042,
+              "Left": 0.06039828062057495,
+              "Top": 0.2312231808900833
+            },
+            "Confidence": 89.11395263671875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5749478936195374,
+              "Height": 0.9990496635437012,
+              "Left": 0.4208061397075653,
+              "Top": 0.0003701019159052521
+            },
+            "Confidence": 82.30976104736328
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13357503712177277,
+              "Height": 0.11645504087209702,
+              "Left": 0.8400210738182068,
+              "Top": 0.0001517868076916784
+            },
+            "Confidence": 55.41657257080078
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2787013053894043,
+              "Height": 0.5520200133323669,
+              "Left": 0.17353245615959167,
+              "Top": 0.44762280583381653
+            },
+            "Confidence": 55.294410705566406
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 57.021358489990234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 54.66035461425781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2787013053894043,
+              "Height": 0.5520200133323669,
+              "Left": 0.17353245615959167,
+              "Top": 0.44762280583381653
+            },
+            "Confidence": 55.294410705566406
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 50.85803985595703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 90.14337921142578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.25661206245422363,
+              "Height": 0.7269601821899414,
+              "Left": 0.0008189846412278712,
+              "Top": 0.26848340034484863
+            },
+            "Confidence": 93.20040893554688
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.23705875873565674,
+              "Height": 0.5219914317131042,
+              "Left": 0.06039828062057495,
+              "Top": 0.2312231808900833
+            },
+            "Confidence": 89.11395263671875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5749478936195374,
+              "Height": 0.9990496635437012,
+              "Left": 0.4208061397075653,
+              "Top": 0.0003701019159052521
+            },
+            "Confidence": 82.30976104736328
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13357503712177277,
+              "Height": 0.11645504087209702,
+              "Left": 0.8400210738182068,
+              "Top": 0.0001517868076916784
+            },
+            "Confidence": 55.41657257080078
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 90.14337921142578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.25661206245422363,
+              "Height": 0.7269601821899414,
+              "Left": 0.0008189846412278712,
+              "Top": 0.26848340034484863
+            },
+            "Confidence": 93.20040893554688
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.23705875873565674,
+              "Height": 0.5219914317131042,
+              "Left": 0.06039828062057495,
+              "Top": 0.2312231808900833
+            },
+            "Confidence": 89.11395263671875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5749478936195374,
+              "Height": 0.9990496635437012,
+              "Left": 0.4208061397075653,
+              "Top": 0.0003701019159052521
+            },
+            "Confidence": 82.30976104736328
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13357503712177277,
+              "Height": 0.11645504087209702,
+              "Left": 0.8400210738182068,
+              "Top": 0.0001517868076916784
+            },
+            "Confidence": 55.41657257080078
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 92.84175109863281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 90.14337921142578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.25661206245422363,
+              "Height": 0.7269601821899414,
+              "Left": 0.0008189846412278712,
+              "Top": 0.26848340034484863
+            },
+            "Confidence": 93.20040893554688
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.23705875873565674,
+              "Height": 0.5219914317131042,
+              "Left": 0.06039828062057495,
+              "Top": 0.2312231808900833
+            },
+            "Confidence": 89.11395263671875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5749478936195374,
+              "Height": 0.9990496635437012,
+              "Left": 0.4208061397075653,
+              "Top": 0.0003701019159052521
+            },
+            "Confidence": 82.30976104736328
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13357503712177277,
+              "Height": 0.11645504087209702,
+              "Left": 0.8400210738182068,
+              "Top": 0.0001517868076916784
+            },
+            "Confidence": 55.41657257080078
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2787013053894043,
+              "Height": 0.5520200133323669,
+              "Left": 0.17353245615959167,
+              "Top": 0.44762280583381653
+            },
+            "Confidence": 55.294410705566406
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 98.21218872070312,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 98.21218872070312,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 98.21218872070312,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 54.66035461425781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2787013053894043,
+              "Height": 0.5520200133323669,
+              "Left": 0.17353245615959167,
+              "Top": 0.44762280583381653
+            },
+            "Confidence": 55.294410705566406
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 84.05400848388672,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5212135314941406,
+              "Height": 0.9917069673538208,
+              "Left": 0.47185659408569336,
+              "Top": 0.005136184860020876
+            },
+            "Confidence": 85.97789764404297
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.8431422114372253,
+              "Height": 0.9869366884231567,
+              "Left": 0.009242527186870575,
+              "Top": 0.009151649661362171
+            },
+            "Confidence": 54.0931396484375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.11515463888645172,
+              "Height": 0.6254051923751831,
+              "Left": 0.21929024159908295,
+              "Top": 0.36906880140304565
+            },
+            "Confidence": 53.61617660522461
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 55.85565185546875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 61.407840728759766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 51.753387451171875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 61.407840728759766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 84.05400848388672,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5212135314941406,
+              "Height": 0.9917069673538208,
+              "Left": 0.47185659408569336,
+              "Top": 0.005136184860020876
+            },
+            "Confidence": 85.97789764404297
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.8431422114372253,
+              "Height": 0.9869366884231567,
+              "Left": 0.009242527186870575,
+              "Top": 0.009151649661362171
+            },
+            "Confidence": 54.0931396484375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.11515463888645172,
+              "Height": 0.6254051923751831,
+              "Left": 0.21929024159908295,
+              "Top": 0.36906880140304565
+            },
+            "Confidence": 53.61617660522461
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 84.05400848388672,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5212135314941406,
+              "Height": 0.9917069673538208,
+              "Left": 0.47185659408569336,
+              "Top": 0.005136184860020876
+            },
+            "Confidence": 85.97789764404297
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.8431422114372253,
+              "Height": 0.9869366884231567,
+              "Left": 0.009242527186870575,
+              "Top": 0.009151649661362171
+            },
+            "Confidence": 54.0931396484375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.11515463888645172,
+              "Height": 0.6254051923751831,
+              "Left": 0.21929024159908295,
+              "Top": 0.36906880140304565
+            },
+            "Confidence": 53.61617660522461
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 90.08604431152344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 84.28168487548828,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5212135314941406,
+              "Height": 0.9917069673538208,
+              "Left": 0.47185659408569336,
+              "Top": 0.005136184860020876
+            },
+            "Confidence": 85.97789764404297
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.8431422114372253,
+              "Height": 0.9869366884231567,
+              "Left": 0.009242527186870575,
+              "Top": 0.009151649661362171
+            },
+            "Confidence": 54.0931396484375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.11515463888645172,
+              "Height": 0.6254051923751831,
+              "Left": 0.21929024159908295,
+              "Top": 0.36906880140304565
+            },
+            "Confidence": 53.61617660522461
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 98.4917984008789,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 98.4917984008789,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 98.4917984008789,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 73.6171875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5515736937522888,
+              "Height": 0.9520020484924316,
+              "Left": 0.023701675236225128,
+              "Top": 0.04413802921772003
+            },
+            "Confidence": 77.69141387939453
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.47648635506629944,
+              "Height": 0.954779326915741,
+              "Left": 0.3071082830429077,
+              "Top": 0.042160261422395706
+            },
+            "Confidence": 72.5572509765625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.430440753698349,
+              "Height": 0.9981970191001892,
+              "Left": 0.5671314597129822,
+              "Top": 0.0018029785715043545
+            },
+            "Confidence": 69.74886322021484
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 54.35222625732422,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 59.60503387451172,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.47648635506629944,
+              "Height": 0.954779326915741,
+              "Left": 0.3071082830429077,
+              "Top": 0.042160261422395706
+            },
+            "Confidence": 72.5572509765625
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 50.89339065551758,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 73.6171875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5515736937522888,
+              "Height": 0.9520020484924316,
+              "Left": 0.023701675236225128,
+              "Top": 0.04413802921772003
+            },
+            "Confidence": 77.69141387939453
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.430440753698349,
+              "Height": 0.9981970191001892,
+              "Left": 0.5671314597129822,
+              "Top": 0.0018029785715043545
+            },
+            "Confidence": 69.74886322021484
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 73.6171875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5515736937522888,
+              "Height": 0.9520020484924316,
+              "Left": 0.023701675236225128,
+              "Top": 0.04413802921772003
+            },
+            "Confidence": 77.69141387939453
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.430440753698349,
+              "Height": 0.9981970191001892,
+              "Left": 0.5671314597129822,
+              "Top": 0.0018029785715043545
+            },
+            "Confidence": 69.74886322021484
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 86.67779541015625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 77.2860336303711,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5515736937522888,
+              "Height": 0.9520020484924316,
+              "Left": 0.023701675236225128,
+              "Top": 0.04413802921772003
+            },
+            "Confidence": 77.69141387939453
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.47648635506629944,
+              "Height": 0.954779326915741,
+              "Left": 0.3071082830429077,
+              "Top": 0.042160261422395706
+            },
+            "Confidence": 72.5572509765625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.430440753698349,
+              "Height": 0.9981970191001892,
+              "Left": 0.5671314597129822,
+              "Top": 0.0018029785715043545
+            },
+            "Confidence": 69.74886322021484
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.97972869873047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 95.6457290649414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 95.88410186767578,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 95.88410186767578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 59.60503387451172,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.47648635506629944,
+              "Height": 0.954779326915741,
+              "Left": 0.3071082830429077,
+              "Top": 0.042160261422395706
+            },
+            "Confidence": 72.5572509765625
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 53.544212341308594,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7109318375587463,
+              "Height": 0.9996554851531982,
+              "Left": 0.28276360034942627,
+              "Top": 0.0
+            },
+            "Confidence": 55.679630279541016
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 51.46767044067383,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 56.716758728027344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 52.098915100097656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 56.716758728027344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 53.544212341308594,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7109318375587463,
+              "Height": 0.9996554851531982,
+              "Left": 0.28276360034942627,
+              "Top": 0.0
+            },
+            "Confidence": 55.679630279541016
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 53.544212341308594,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7109318375587463,
+              "Height": 0.9996554851531982,
+              "Left": 0.28276360034942627,
+              "Top": 0.0
+            },
+            "Confidence": 55.679630279541016
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 55.54701232910156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 54.057106018066406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 89.39151763916016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 63.61399841308594,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7109318375587463,
+              "Height": 0.9996554851531982,
+              "Left": 0.28276360034942627,
+              "Top": 0.0
+            },
+            "Confidence": 55.679630279541016
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.95944213867188,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 87.60112762451172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 88.94275665283203,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 88.94275665283203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 53.3398551940918,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 56.76423645019531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Bus Stop",
+        "Confidence": 52.699676513671875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 58.539039611816406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 58.539039611816406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 56.69341278076172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 50.3383903503418,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 97.24085235595703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 66.55567169189453,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.67572021484375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 54.450870513916016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 60.763023376464844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 60.763023376464844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 58.96425247192383,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 51.167938232421875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 50.83062744140625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 96.59626770019531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.95940399169922,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 59.026763916015625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 74.9581527709961,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 74.9581527709961,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 76.2357406616211,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 50.62293243408203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 70.59710693359375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 51.695098876953125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Ketchup",
+        "Confidence": 65.3012924194336,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9607683420181274,
+              "Height": 0.9339494705200195,
+              "Left": 0.0044421423226594925,
+              "Top": 0.06043506786227226
+            },
+            "Confidence": 82.7755355834961
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Food"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 51.81040573120117,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 98.40510559082031,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Overpass",
+        "Confidence": 50.52239227294922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Freeway"
+          },
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.97970581054688,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 51.15913391113281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 59.52484893798828,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 73.94674682617188,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 73.94674682617188,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 51.15913391113281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 76.34658813476562,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 54.02545166015625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 50.31557083129883,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 52.19819259643555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 97.81563568115234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Parking Lot",
+        "Confidence": 50.767555236816406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Car"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Parking"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.99999237060547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 51.998870849609375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 79.81730651855469,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 84.81587219238281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 84.81587219238281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 51.998870849609375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 69.37191772460938,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 55.7609977722168,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 83.88851165771484,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 51.654823303222656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Ketchup",
+        "Confidence": 78.64813232421875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9947606921195984,
+              "Height": 0.9915024638175964,
+              "Left": 0.0,
+              "Top": 0.0035844421945512295
+            },
+            "Confidence": 94.13862609863281
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Food"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 50.54571533203125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 95.129150390625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Parking Lot",
+        "Confidence": 52.74275588989258,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Car"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Parking"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.99987030029297,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 50.54571533203125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 83.59880065917969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 88.2279281616211,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 88.2279281616211,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 50.54571533203125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 77.53143310546875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Can",
+        "Confidence": 59.519927978515625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9931559562683105,
+              "Height": 0.786270022392273,
+              "Left": 0.0026859992649406195,
+              "Top": 0.14380596578121185
+            },
+            "Confidence": 79.23912048339844
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Tin"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 64.81818389892578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 65.22904968261719,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Ketchup",
+        "Confidence": 59.92729187011719,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9949681162834167,
+              "Height": 0.6774922609329224,
+              "Left": 0.002657744102180004,
+              "Top": 0.15205997228622437
+            },
+            "Confidence": 70.63269805908203
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Food"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 54.740840911865234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 98.25778198242188,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Parking Lot",
+        "Confidence": 57.98908615112305,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Car"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Parking"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.99971771240234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 54.740840911865234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Tin",
+        "Confidence": 59.519927978515625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 66.90000915527344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 90.2577896118164,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 90.2577896118164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 54.740840911865234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 52.488670349121094,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10569537431001663,
+              "Height": 0.12104417383670807,
+              "Left": 0.41898953914642334,
+              "Top": 0.6288919448852539
+            },
+            "Confidence": 57.41297149658203
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 62.980953216552734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 75.19525146484375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 51.698177337646484,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10569537431001663,
+              "Height": 0.12104417383670807,
+              "Left": 0.41898953914642334,
+              "Top": 0.6288919448852539
+            },
+            "Confidence": 57.41297149658203
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 51.698177337646484,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10569537431001663,
+              "Height": 0.12104417383670807,
+              "Left": 0.41898953914642334,
+              "Top": 0.6288919448852539
+            },
+            "Confidence": 57.41297149658203
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 55.51942443847656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 96.61543273925781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Parking Lot",
+        "Confidence": 71.655029296875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Car"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Parking"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 58.095787048339844,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10569537431001663,
+              "Height": 0.12104417383670807,
+              "Left": 0.41898953914642334,
+              "Top": 0.6288919448852539
+            },
+            "Confidence": 57.41297149658203
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "QR Code",
+        "Confidence": 51.138587951660156,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9956634044647217,
+              "Height": 0.37285861372947693,
+              "Left": 0.001964939758181572,
+              "Top": 0.44615232944488525
+            },
+            "Confidence": 65.10015869140625
+          }
+        ],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.99716186523438,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 55.51942443847656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 72.59542083740234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 93.12027740478516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 93.12027740478516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 55.51942443847656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 75.04277801513672,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3777477741241455,
+              "Height": 0.3820667266845703,
+              "Left": 0.09015020728111267,
+              "Top": 0.42557013034820557
+            },
+            "Confidence": 81.00273895263672
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22214572131633759,
+              "Height": 0.2322700321674347,
+              "Left": 0.460785835981369,
+              "Top": 0.6407792568206787
+            },
+            "Confidence": 56.14387512207031
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 60.039371490478516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 56.883365631103516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Coast",
+        "Confidence": 55.916954040527344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sea"
+          },
+          {
+            "Name": "Shoreline"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 50.052711486816406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 69.28925323486328,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3777477741241455,
+              "Height": 0.3820667266845703,
+              "Left": 0.09015020728111267,
+              "Top": 0.42557013034820557
+            },
+            "Confidence": 81.00273895263672
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22214572131633759,
+              "Height": 0.2322700321674347,
+              "Left": 0.460785835981369,
+              "Top": 0.6407792568206787
+            },
+            "Confidence": 56.14387512207031
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 69.28925323486328,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3777477741241455,
+              "Height": 0.3820667266845703,
+              "Left": 0.09015020728111267,
+              "Top": 0.42557013034820557
+            },
+            "Confidence": 81.00273895263672
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22214572131633759,
+              "Height": 0.2322700321674347,
+              "Left": 0.460785835981369,
+              "Top": 0.6407792568206787
+            },
+            "Confidence": 56.14387512207031
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 87.56804656982422,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 98.26095581054688,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Parking Lot",
+        "Confidence": 53.78388977050781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Car"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Parking"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 76.89520263671875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3777477741241455,
+              "Height": 0.3820667266845703,
+              "Left": 0.09015020728111267,
+              "Top": 0.42557013034820557
+            },
+            "Confidence": 81.00273895263672
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22214572131633759,
+              "Height": 0.2322700321674347,
+              "Left": 0.460785835981369,
+              "Top": 0.6407792568206787
+            },
+            "Confidence": 56.14387512207031
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.99800109863281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 87.56804656982422,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Shoreline",
+        "Confidence": 55.92325973510742,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Text",
+        "Confidence": 54.848331451416016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 75.68445587158203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 82.55184173583984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 82.55184173583984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 87.56804656982422,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 75.5220718383789,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.843181312084198,
+              "Height": 0.9952937364578247,
+              "Left": 0.00323046394623816,
+              "Top": 0.004706268198788166
+            },
+            "Confidence": 74.13775634765625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17959550023078918,
+              "Height": 0.1311451494693756,
+              "Left": 0.6501114368438721,
+              "Top": 0.8684024810791016
+            },
+            "Confidence": 56.74687194824219
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 63.27669143676758,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Bus Stop",
+        "Confidence": 51.61216735839844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 56.90437698364258,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Coast",
+        "Confidence": 55.52341079711914,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sea"
+          },
+          {
+            "Name": "Shoreline"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 69.21663665771484,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.843181312084198,
+              "Height": 0.9952937364578247,
+              "Left": 0.00323046394623816,
+              "Top": 0.004706268198788166
+            },
+            "Confidence": 74.13775634765625
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 54.14519119262695,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.17959550023078918,
+              "Height": 0.1311451494693756,
+              "Left": 0.6501114368438721,
+              "Top": 0.8684024810791016
+            },
+            "Confidence": 56.74687194824219
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 54.14519119262695,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.17959550023078918,
+              "Height": 0.1311451494693756,
+              "Left": 0.6501114368438721,
+              "Top": 0.8684024810791016
+            },
+            "Confidence": 56.74687194824219
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 81.40003204345703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 95.78868865966797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Parking Lot",
+        "Confidence": 52.18132400512695,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Car"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Parking"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 75.5220718383789,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.843181312084198,
+              "Height": 0.9952937364578247,
+              "Left": 0.00323046394623816,
+              "Top": 0.004706268198788166
+            },
+            "Confidence": 74.13775634765625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17959550023078918,
+              "Height": 0.1311451494693756,
+              "Left": 0.6501114368438721,
+              "Top": 0.8684024810791016
+            },
+            "Confidence": 56.74687194824219
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.98607635498047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 81.40003204345703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Shoreline",
+        "Confidence": 55.573848724365234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 51.33488464355469,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 64.6205825805664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 79.77226257324219,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 79.77226257324219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 81.40003204345703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 69.21663665771484,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.843181312084198,
+              "Height": 0.9952937364578247,
+              "Left": 0.00323046394623816,
+              "Top": 0.004706268198788166
+            },
+            "Confidence": 74.13775634765625
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 87.54252624511719,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9931309819221497,
+              "Height": 0.9972935914993286,
+              "Left": 0.0036024313885718584,
+              "Top": 0.0019988249987363815
+            },
+            "Confidence": 91.79590606689453
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 71.01212310791016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 55.01152420043945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Coast",
+        "Confidence": 55.98884582519531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sea"
+          },
+          {
+            "Name": "Shoreline"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 71.57805633544922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 85.69465637207031,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9931309819221497,
+              "Height": 0.9972935914993286,
+              "Left": 0.0036024313885718584,
+              "Top": 0.0019988249987363815
+            },
+            "Confidence": 91.79590606689453
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Freeway",
+        "Confidence": 50.63016891479492,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 71.57805633544922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 77.66535186767578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 97.69965362548828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Parking Lot",
+        "Confidence": 50.02660369873047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Car"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Parking"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 87.54252624511719,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9931309819221497,
+              "Height": 0.9972935914993286,
+              "Left": 0.0036024313885718584,
+              "Top": 0.0019988249987363815
+            },
+            "Confidence": 91.79590606689453
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.99800872802734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 77.66535186767578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Shoreline",
+        "Confidence": 55.99515151977539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 60.336585998535156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 78.64492797851562,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 78.64492797851562,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 77.66535186767578,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 85.69465637207031,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9931309819221497,
+              "Height": 0.9972935914993286,
+              "Left": 0.0036024313885718584,
+              "Top": 0.0019988249987363815
+            },
+            "Confidence": 91.79590606689453
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 75.27758026123047,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.995613157749176,
+              "Height": 0.9992077350616455,
+              "Left": 0.0018887212499976158,
+              "Top": 0.0006278991932049394
+            },
+            "Confidence": 72.27116394042969
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2887327969074249,
+              "Height": 0.10219280421733856,
+              "Left": 0.6320397257804871,
+              "Top": 0.0
+            },
+            "Confidence": 63.82578659057617
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 85.49530029296875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 55.81755065917969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Coast",
+        "Confidence": 71.10884094238281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sea"
+          },
+          {
+            "Name": "Shoreline"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 68.72112274169922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 75.27758026123047,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.995613157749176,
+              "Height": 0.9992077350616455,
+              "Left": 0.0018887212499976158,
+              "Top": 0.0006278991932049394
+            },
+            "Confidence": 72.27116394042969
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 68.72112274169922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 58.9937629699707,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2887327969074249,
+              "Height": 0.10219280421733856,
+              "Left": 0.6320397257804871,
+              "Top": 0.0
+            },
+            "Confidence": 63.82578659057617
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 58.9937629699707,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2887327969074249,
+              "Height": 0.10219280421733856,
+              "Left": 0.6320397257804871,
+              "Top": 0.0
+            },
+            "Confidence": 63.82578659057617
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 94.53784942626953,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 99.26927947998047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Parking Lot",
+        "Confidence": 52.31397247314453,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Car"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Parking"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 75.27758026123047,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.995613157749176,
+              "Height": 0.9992077350616455,
+              "Left": 0.0018887212499976158,
+              "Top": 0.0006278991932049394
+            },
+            "Confidence": 72.27116394042969
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2887327969074249,
+              "Height": 0.10219280421733856,
+              "Left": 0.6320397257804871,
+              "Top": 0.0
+            },
+            "Confidence": 63.82578659057617
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.99889373779297,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 94.53784942626953,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Shoreline",
+        "Confidence": 71.11214447021484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 50.08073806762695,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 60.146766662597656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 77.78130340576172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 77.78130340576172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 94.53784942626953,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 75.27758026123047,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.995613157749176,
+              "Height": 0.9992077350616455,
+              "Left": 0.0018887212499976158,
+              "Top": 0.0006278991932049394
+            },
+            "Confidence": 72.27116394042969
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 82.6540298461914,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7303098440170288,
+              "Height": 0.999455451965332,
+              "Left": 0.2670755088329315,
+              "Top": 0.0
+            },
+            "Confidence": 83.38052368164062
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7554759383201599,
+              "Height": 0.9984910488128662,
+              "Left": 4.3815598473884165e-05,
+              "Top": 0.0015026855980977416
+            },
+            "Confidence": 82.02562713623047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14520218968391418,
+              "Height": 0.2741575539112091,
+              "Left": 0.6909325122833252,
+              "Top": 0.001539907418191433
+            },
+            "Confidence": 80.45476531982422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.16846534609794617,
+              "Height": 0.14079658687114716,
+              "Left": 0.6977859139442444,
+              "Top": 0.1367214024066925
+            },
+            "Confidence": 67.31285095214844
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Aerial View",
+        "Confidence": 84.55630493164062,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Car",
+        "Confidence": 53.13986587524414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Automobile"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Coast",
+        "Confidence": 57.89403533935547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sea"
+          },
+          {
+            "Name": "Shoreline"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 72.19290924072266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 82.6540298461914,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7303098440170288,
+              "Height": 0.999455451965332,
+              "Left": 0.2670755088329315,
+              "Top": 0.0
+            },
+            "Confidence": 83.38052368164062
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7554759383201599,
+              "Height": 0.9984910488128662,
+              "Left": 4.3815598473884165e-05,
+              "Top": 0.0015026855980977416
+            },
+            "Confidence": 82.02562713623047
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 72.19290924072266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 74.46988677978516,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14520218968391418,
+              "Height": 0.2741575539112091,
+              "Left": 0.6909325122833252,
+              "Top": 0.001539907418191433
+            },
+            "Confidence": 80.45476531982422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.16846534609794617,
+              "Height": 0.14079658687114716,
+              "Left": 0.6977859139442444,
+              "Top": 0.1367214024066925
+            },
+            "Confidence": 67.31285095214844
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 74.46988677978516,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14520218968391418,
+              "Height": 0.2741575539112091,
+              "Left": 0.6909325122833252,
+              "Top": 0.001539907418191433
+            },
+            "Confidence": 80.45476531982422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.16846534609794617,
+              "Height": 0.14079658687114716,
+              "Left": 0.6977859139442444,
+              "Top": 0.1367214024066925
+            },
+            "Confidence": 67.31285095214844
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 87.01485443115234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 99.38127136230469,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Parking Lot",
+        "Confidence": 51.9227180480957,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Car"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Parking"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 82.6540298461914,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7303098440170288,
+              "Height": 0.999455451965332,
+              "Left": 0.2670755088329315,
+              "Top": 0.0
+            },
+            "Confidence": 83.38052368164062
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7554759383201599,
+              "Height": 0.9984910488128662,
+              "Left": 4.3815598473884165e-05,
+              "Top": 0.0015026855980977416
+            },
+            "Confidence": 82.02562713623047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14520218968391418,
+              "Height": 0.2741575539112091,
+              "Left": 0.6909325122833252,
+              "Top": 0.001539907418191433
+            },
+            "Confidence": 80.45476531982422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.16846534609794617,
+              "Height": 0.14079658687114716,
+              "Left": 0.6977859139442444,
+              "Top": 0.1367214024066925
+            },
+            "Confidence": 67.31285095214844
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 99.99994659423828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 87.01485443115234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Shoreline",
+        "Confidence": 57.89403533935547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Traffic Jam",
+        "Confidence": 81.71194458007812,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 84.86470794677734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 84.86470794677734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 87.01485443115234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 82.6540298461914,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7303098440170288,
+              "Height": 0.999455451965332,
+              "Left": 0.2670755088329315,
+              "Top": 0.0
+            },
+            "Confidence": 83.38052368164062
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7554759383201599,
+              "Height": 0.9984910488128662,
+              "Left": 4.3815598473884165e-05,
+              "Top": 0.0015026855980977416
+            },
+            "Confidence": 82.02562713623047
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    }
+  ]
+}

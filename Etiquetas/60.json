@@ -1,0 +1,7694 @@
+{
+  "Video": "60.mp4",
+  "JobId": "2d050362fa01f5b614a231c9ced51027c02143b5a35d6e18af2b41ac9ed61bbe",
+  "JobStatus": "SUCCEEDED",
+  "VideoMetadata": {
+    "Codec": "h264",
+    "DurationMillis": 6160,
+    "Format": "QuickTime / MOV",
+    "FrameRate": 25.0,
+    "FrameHeight": 900,
+    "FrameWidth": 1366,
+    "ColorRange": "LIMITED"
+  },
+  "Labels": [
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 54.955474853515625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Alcohol",
+        "Confidence": 51.26746368408203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 61.79198455810547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Astronomy",
+        "Confidence": 54.6539306640625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Baseball Cap",
+        "Confidence": 50.63547897338867,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cap"
+          },
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Hat"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Bathing Cap",
+        "Confidence": 51.099586486816406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cap"
+          },
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Hat"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Bee",
+        "Confidence": 51.45258712768555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Insect"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Beer",
+        "Confidence": 50.53849792480469,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Alcohol"
+          },
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Beverage",
+        "Confidence": 51.26746368408203,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Drink"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 55.62002182006836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Black Cat",
+        "Confidence": 51.345462799072266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Cat"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 52.64818572998047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Candle",
+        "Confidence": 50.25746154785156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Everyday Objects"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Cap",
+        "Confidence": 53.28123092651367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Hat"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 52.82463455200195,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 54.14030838012695,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Computer Hardware",
+        "Confidence": 51.735107421875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Electronics"
+          },
+          {
+            "Name": "Hardware"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Cream",
+        "Confidence": 50.699703216552734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Dessert"
+          },
+          {
+            "Name": "Food"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Creme"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Cup",
+        "Confidence": 53.22233581542969,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Mug"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Kitchen and Dining"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Dessert",
+        "Confidence": 50.79715347290039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Food"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Earring",
+        "Confidence": 50.778228759765625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Jewelry"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Electrical Device",
+        "Confidence": 50.00612258911133,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Electronics",
+        "Confidence": 52.60857391357422,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 66.93406677246094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Flower",
+        "Confidence": 50.116737365722656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Plant"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Blossom"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Plants and Flowers"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 56.36958694458008,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 55.68489456176758,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Fruit",
+        "Confidence": 55.47209930419922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Food"
+          },
+          {
+            "Name": "Plant"
+          },
+          {
+            "Name": "Produce"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Glove",
+        "Confidence": 50.63966751098633,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 52.64818572998047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Hardware",
+        "Confidence": 51.735107421875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Electronics"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Hat",
+        "Confidence": 53.46999740600586,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 71.58243560791016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Hood",
+        "Confidence": 50.823909759521484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Ice Cream",
+        "Confidence": 50.699703216552734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cream"
+          },
+          {
+            "Name": "Dessert"
+          },
+          {
+            "Name": "Food"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 51.27253723144531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Insect",
+        "Confidence": 53.94977951049805,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Invertebrate",
+        "Confidence": 60.438995361328125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Jewelry",
+        "Confidence": 50.778228759765625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Leisure Activities",
+        "Confidence": 50.796443939208984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Recreation"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Travel and Adventure"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Lighting",
+        "Confidence": 92.14698791503906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Lingerie",
+        "Confidence": 50.09220504760742,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Underwear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Logo",
+        "Confidence": 51.21120071411133,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Symbols and Flags"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 54.56721115112305,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Microphone",
+        "Confidence": 50.00612258911133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Electrical Device"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Moon",
+        "Confidence": 54.6539306640625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Night"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Music",
+        "Confidence": 50.796443939208984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Performing Arts"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Musical Instrument",
+        "Confidence": 50.98236083984375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Musician",
+        "Confidence": 50.796443939208984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Leisure Activities"
+          },
+          {
+            "Name": "Music"
+          },
+          {
+            "Name": "Musical Instrument"
+          },
+          {
+            "Name": "Performer"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Profession"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 91.56090545654297,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 91.56090545654297,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 91.56090545654297,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Panther",
+        "Confidence": 50.74192810058594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Wildlife"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Leopard"
+          },
+          {
+            "Name": "Jaguar"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "People",
+        "Confidence": 56.71220397949219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Performer",
+        "Confidence": 50.90078353881836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Profession"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 74.26551818847656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 52.82463455200195,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Photography",
+        "Confidence": 53.7136116027832,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Photo"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Plant",
+        "Confidence": 55.47209930419922,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Plants and Flowers"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Portrait",
+        "Confidence": 51.24062728881836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Photography"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Produce",
+        "Confidence": 55.48933029174805,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Food"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Rabbit",
+        "Confidence": 51.81503677368164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Bunny"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Racket",
+        "Confidence": 52.43677520751953,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Room",
+        "Confidence": 50.817909240722656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sea Life",
+        "Confidence": 51.55952453613281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 54.731014251708984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Spider",
+        "Confidence": 55.35880661010742,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Arachnid"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 53.01405334472656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Suit",
+        "Confidence": 52.559669494628906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Text",
+        "Confidence": 51.026126861572266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 54.955474853515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Underwear",
+        "Confidence": 50.737762451171875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Wasp",
+        "Confidence": 51.45258712768555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bee"
+          },
+          {
+            "Name": "Insect"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Hornet"
+          },
+          {
+            "Name": "Andrena"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 51.99030685424805,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Wildlife",
+        "Confidence": 51.97450637817383,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 51.678279876708984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 60.94260787963867,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 53.01344680786133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Black Cat",
+        "Confidence": 51.67914962768555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Cat"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 55.1325569152832,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 59.24816131591797,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9943594932556152,
+              "Height": 1.0,
+              "Left": 0.0016049128025770187,
+              "Top": 0.0
+            },
+            "Confidence": 60.61320495605469
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 58.109039306640625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Electronics",
+        "Confidence": 52.02460479736328,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 54.87042999267578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Finger",
+        "Confidence": 50.1221809387207,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Hand"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 50.736671447753906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 58.8671875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 55.1325569152832,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 56.348289489746094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 51.59675598144531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Lighting",
+        "Confidence": 53.476619720458984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 59.92250061035156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 55.45114517211914,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 53.245445251464844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 55.45114517211914,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Panther",
+        "Confidence": 51.73125076293945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Wildlife"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Leopard"
+          },
+          {
+            "Name": "Jaguar"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "People",
+        "Confidence": 68.50033569335938,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Performer",
+        "Confidence": 50.22187423706055,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Profession"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 77.34586334228516,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.22718027234077454,
+              "Height": 0.6318246126174927,
+              "Left": 0.016061371192336082,
+              "Top": 0.012118072248995304
+            },
+            "Confidence": 52.35822296142578
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 59.24816131591797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Rabbit",
+        "Confidence": 50.984161376953125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Bunny"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 50.09837341308594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Suit",
+        "Confidence": 57.93027877807617,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 51.678279876708984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 52.151058197021484,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Wildlife",
+        "Confidence": 51.87064743041992,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 55.066925048828125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 55.40242004394531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 54.87236404418945,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 56.265899658203125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Cup",
+        "Confidence": 50.12040710449219,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Mug"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Kitchen and Dining"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 51.45620346069336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 59.3419189453125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 54.87236404418945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 52.876956939697266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 53.21222686767578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 52.8962287902832,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 52.8962287902832,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 58.3424072265625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Suit",
+        "Confidence": 56.08805847167969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Text",
+        "Confidence": 50.850608825683594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 55.066925048828125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Velvet",
+        "Confidence": 67.27025604248047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 55.95871353149414,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 51.844512939453125,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2581840753555298,
+              "Height": 0.7249248027801514,
+              "Left": 0.7074808478355408,
+              "Top": 0.05964301899075508
+            },
+            "Confidence": 60.24388122558594
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 67.38890075683594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 87.9144287109375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 62.05400848388672,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9878690838813782,
+              "Height": 0.9996331334114075,
+              "Left": 0.0,
+              "Top": 0.0
+            },
+            "Confidence": 72.52327728271484
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 80.27853393554688,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 52.10371398925781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Finger",
+        "Confidence": 78.80908203125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Hand"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 85.43401336669922,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 87.9144287109375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 62.51901626586914,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 66.87618255615234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 89.22607421875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2581840753555298,
+              "Height": 0.7249248027801514,
+              "Left": 0.7074808478355408,
+              "Top": 0.05964301899075508
+            },
+            "Confidence": 60.24388122558594
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.6361570954322815,
+              "Height": 0.7091299295425415,
+              "Left": 0.3000513017177582,
+              "Top": 0.0041219331324100494
+            },
+            "Confidence": 57.88241195678711
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 62.08495330810547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Suit",
+        "Confidence": 77.6582260131836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 55.95871353149414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 55.63375473022461,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Alcohol",
+        "Confidence": 50.11557388305664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 55.378379821777344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Beverage",
+        "Confidence": 50.141929626464844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Drink"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 51.53599548339844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 59.1429443359375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 56.171443939208984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 52.905670166015625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 51.40718078613281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 59.2787971496582,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 59.1429443359375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 56.79604721069336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Home Decor",
+        "Confidence": 51.295082092285156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Lamp",
+        "Confidence": 50.47843551635742,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Lighting",
+        "Confidence": 63.8863639831543,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 52.826995849609375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Maroon",
+        "Confidence": 64.29006958007812,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 50.457637786865234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 50.457637786865234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 62.247928619384766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Plant",
+        "Confidence": 51.978363037109375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Plants and Flowers"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 50.849239349365234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Symbol",
+        "Confidence": 51.5369873046875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Symbols and Flags"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 72.99271392822266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 55.63375473022461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Wood",
+        "Confidence": 74.72918701171875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 51.78514099121094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 52.982421875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 88.53949737548828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Boy",
+        "Confidence": 53.30342102050781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7015552520751953,
+              "Height": 0.7923652529716492,
+              "Left": 0.01145771611481905,
+              "Top": 0.017321091145277023
+            },
+            "Confidence": 68.5244369506836
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Child",
+        "Confidence": 53.30342102050781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7015552520751953,
+              "Height": 0.7923652529716492,
+              "Left": 0.01145771611481905,
+              "Top": 0.017321091145277023
+            },
+            "Confidence": 68.5244369506836
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Kid"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 54.34858703613281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 54.41560745239258,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Finger",
+        "Confidence": 81.58317565917969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Hand"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 53.607662200927734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Furniture",
+        "Confidence": 50.92009735107422,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 88.37091827392578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 76.85562896728516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 61.464473724365234,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7015552520751953,
+              "Height": 0.7923652529716492,
+              "Left": 0.01145771611481905,
+              "Top": 0.017321091145277023
+            },
+            "Confidence": 68.5244369506836
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7506894469261169,
+              "Height": 0.7282358407974243,
+              "Left": 0.2456873059272766,
+              "Top": 0.010253982618451118
+            },
+            "Confidence": 52.670799255371094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 52.66421890258789,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 94.72042846679688,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.7015552520751953,
+              "Height": 0.7923652529716492,
+              "Left": 0.01145771611481905,
+              "Top": 0.017321091145277023
+            },
+            "Confidence": 68.5244369506836
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7506894469261169,
+              "Height": 0.7282358407974243,
+              "Left": 0.2456873059272766,
+              "Top": 0.010253982618451118
+            },
+            "Confidence": 52.670799255371094
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 51.78514099121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Underwear",
+        "Confidence": 50.47256851196289,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 50.28773880004883,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 51.96046447753906,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2688940465450287,
+              "Height": 0.3662198483943939,
+              "Left": 0.35411781072616577,
+              "Top": 0.0
+            },
+            "Confidence": 59.64963912963867
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22425805032253265,
+              "Height": 0.391229510307312,
+              "Left": 0.3942635655403137,
+              "Top": 0.0961267426609993
+            },
+            "Confidence": 53.943603515625
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Alcohol",
+        "Confidence": 50.24248504638672,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 64.50725555419922,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Beverage",
+        "Confidence": 50.66416931152344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Drink"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 55.968196868896484,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 61.57936477661133,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.6214335560798645,
+              "Height": 0.6093502044677734,
+              "Left": 0.0022955299355089664,
+              "Top": 0.015014591626822948
+            },
+            "Confidence": 68.83433532714844
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Cosmetics",
+        "Confidence": 50.55970001220703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Beauty and Personal Care"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 83.3048095703125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 51.91902542114258,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 50.28773880004883,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 55.369075775146484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 86.90877532958984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Kissing",
+        "Confidence": 85.3770751953125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Romantic"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Make Out"
+          },
+          {
+            "Name": "Kiss"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Lipstick",
+        "Confidence": 50.55970001220703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cosmetics"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Beauty and Personal Care"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 60.336639404296875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2688940465450287,
+              "Height": 0.3662198483943939,
+              "Left": 0.35411781072616577,
+              "Top": 0.0
+            },
+            "Confidence": 59.64963912963867
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22425805032253265,
+              "Height": 0.391229510307312,
+              "Left": 0.3942635655403137,
+              "Top": 0.0961267426609993
+            },
+            "Confidence": 53.943603515625
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 64.3298568725586,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 51.96046447753906,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2688940465450287,
+              "Height": 0.3662198483943939,
+              "Left": 0.35411781072616577,
+              "Top": 0.0
+            },
+            "Confidence": 59.64963912963867
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22425805032253265,
+              "Height": 0.391229510307312,
+              "Left": 0.3942635655403137,
+              "Top": 0.0961267426609993
+            },
+            "Confidence": 53.943603515625
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 95.95775604248047,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2688940465450287,
+              "Height": 0.3662198483943939,
+              "Left": 0.35411781072616577,
+              "Top": 0.0
+            },
+            "Confidence": 59.64963912963867
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22425805032253265,
+              "Height": 0.391229510307312,
+              "Left": 0.3942635655403137,
+              "Top": 0.0961267426609993
+            },
+            "Confidence": 53.943603515625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2374522089958191,
+              "Height": 0.725803017616272,
+              "Left": 0.00121179164852947,
+              "Top": 0.08515903353691101
+            },
+            "Confidence": 52.997772216796875
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 61.64125442504883,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 85.3770751953125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 52.99764633178711,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 50.28773880004883,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 53.38161087036133,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 51.476627349853516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Arm",
+        "Confidence": 50.30340576171875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Balloon",
+        "Confidence": 50.58311080932617,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Events and Attractions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 53.41758346557617,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Boy",
+        "Confidence": 63.3889045715332,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9949455857276917,
+              "Height": 0.9991977214813232,
+              "Left": 0.0015076285926625133,
+              "Top": 0.0
+            },
+            "Confidence": 76.28425598144531
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 51.476627349853516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 51.747440338134766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Child",
+        "Confidence": 63.3889045715332,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9949455857276917,
+              "Height": 0.9991977214813232,
+              "Left": 0.0015076285926625133,
+              "Top": 0.0
+            },
+            "Confidence": 76.28425598144531
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Kid"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 83.41775512695312,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 50.649539947509766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 50.196407318115234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 86.1078109741211,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Hospital",
+        "Confidence": 51.476627349853516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Kissing",
+        "Confidence": 66.54265594482422,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Romantic"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Make Out"
+          },
+          {
+            "Name": "Kiss"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 73.85702514648438,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9949455857276917,
+              "Height": 0.9991977214813232,
+              "Left": 0.0015076285926625133,
+              "Top": 0.0
+            },
+            "Confidence": 76.28425598144531
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 53.186439514160156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 88.4510269165039,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9949455857276917,
+              "Height": 0.9991977214813232,
+              "Left": 0.0015076285926625133,
+              "Top": 0.0
+            },
+            "Confidence": 76.28425598144531
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 51.778385162353516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 66.54265594482422,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 74.36116027832031,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Spitting",
+        "Confidence": 62.078651428222656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 71.64137268066406,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8641493320465088,
+              "Height": 0.9982761740684509,
+              "Left": 0.13298152387142181,
+              "Top": 0.0008591461228206754
+            },
+            "Confidence": 83.39441680908203
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17602194845676422,
+              "Height": 0.21420928835868835,
+              "Left": 0.4127891957759857,
+              "Top": 0.0005832671886309981
+            },
+            "Confidence": 54.6900749206543
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 67.84937286376953,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 53.66693115234375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 54.73360824584961,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Boxing",
+        "Confidence": 53.89645004272461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Punching"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 53.66693115234375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 66.7999267578125,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.53184974193573,
+              "Height": 0.9309656620025635,
+              "Left": 0.4655728340148926,
+              "Top": 0.06316062808036804
+            },
+            "Confidence": 69.18565368652344
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 53.71298599243164,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 79.61375427246094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 50.90734100341797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Glove",
+        "Confidence": 51.69611740112305,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 50.17866134643555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 85.7725830078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Hospital",
+        "Confidence": 53.66693115234375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Injury",
+        "Confidence": 54.856117248535156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Kissing",
+        "Confidence": 56.76154708862305,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Romantic"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Make Out"
+          },
+          {
+            "Name": "Kiss"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 78.57630920410156,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8641493320465088,
+              "Height": 0.9982761740684509,
+              "Left": 0.13298152387142181,
+              "Top": 0.0008591461228206754
+            },
+            "Confidence": 83.39441680908203
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 67.82498168945312,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 71.64137268066406,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8641493320465088,
+              "Height": 0.9982761740684509,
+              "Left": 0.13298152387142181,
+              "Top": 0.0008591461228206754
+            },
+            "Confidence": 83.39441680908203
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Neck",
+        "Confidence": 53.611732482910156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 87.19432067871094,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8641493320465088,
+              "Height": 0.9982761740684509,
+              "Left": 0.13298152387142181,
+              "Top": 0.0008591461228206754
+            },
+            "Confidence": 83.39441680908203
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17602194845676422,
+              "Height": 0.21420928835868835,
+              "Left": 0.4127891957759857,
+              "Top": 0.0005832671886309981
+            },
+            "Confidence": 54.6900749206543
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 66.7999267578125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 56.76154708862305,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 54.70652389526367,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 50.48521423339844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 55.49680709838867,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 78.07643127441406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 52.18094253540039,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Arm",
+        "Confidence": 52.480812072753906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Baby",
+        "Confidence": 63.736785888671875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.44888556003570557,
+              "Height": 0.9888637065887451,
+              "Left": 0.5499431490898132,
+              "Top": 0.008166160434484482
+            },
+            "Confidence": 78.6302719116211
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Bag",
+        "Confidence": 50.32164001464844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Baseball",
+        "Confidence": 53.40397262573242,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Softball"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Baseball Cap",
+        "Confidence": 58.89216613769531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cap"
+          },
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Hat"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Baseball Glove",
+        "Confidence": 53.368621826171875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Baseball"
+          },
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Glove"
+          },
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 58.4703254699707,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 52.18094253540039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Cap",
+        "Confidence": 63.226951599121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          },
+          {
+            "Name": "Hat"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 76.18086242675781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.15261989831924438,
+              "Height": 0.37218722701072693,
+              "Left": 0.21708908677101135,
+              "Top": 0.22427526116371155
+            },
+            "Confidence": 86.60800170898438
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 70.70933532714844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Couch",
+        "Confidence": 50.57418441772461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Electronics",
+        "Confidence": 63.9871940612793,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 62.68790054321289,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Finger",
+        "Confidence": 55.18976974487305,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Hand"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 50.44522476196289,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Furniture",
+        "Confidence": 50.57418441772461,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Glove",
+        "Confidence": 55.67287063598633,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 57.72509765625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Hat",
+        "Confidence": 67.56010437011719,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 73.7586669921875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Hospital",
+        "Confidence": 52.18094253540039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Injury",
+        "Confidence": 51.29150390625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Kissing",
+        "Confidence": 56.40599060058594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Romantic"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Make Out"
+          },
+          {
+            "Name": "Kiss"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 56.452842712402344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 77.991455078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 51.246192932128906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Neck",
+        "Confidence": 50.8419189453125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 82.43721008300781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.44888556003570557,
+              "Height": 0.9888637065887451,
+              "Left": 0.5499431490898132,
+              "Top": 0.008166160434484482
+            },
+            "Confidence": 78.6302719116211
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 76.18086242675781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Phone",
+        "Confidence": 63.98288345336914,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Electronics"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 56.40599060058594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 54.94639587402344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 50.44522476196289,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 77.00005340576172,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8611729741096497,
+              "Height": 0.9998878240585327,
+              "Left": 0.1360011100769043,
+              "Top": 0.0
+            },
+            "Confidence": 82.76199340820312
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 53.306060791015625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 60.82691192626953,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 60.374542236328125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 60.82691192626953,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 55.18891906738281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Electronics",
+        "Confidence": 50.42060470581055,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 90.46033477783203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Finger",
+        "Confidence": 56.74825668334961,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Hand"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Glove",
+        "Confidence": 53.310707092285156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 59.6907958984375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 92.13999938964844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Hospital",
+        "Confidence": 60.82691192626953,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 50.68375015258789,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Injury",
+        "Confidence": 51.40334701538086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Kissing",
+        "Confidence": 53.28668975830078,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Romantic"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Make Out"
+          },
+          {
+            "Name": "Kiss"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 71.9771957397461,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8611729741096497,
+              "Height": 0.9998878240585327,
+              "Left": 0.1360011100769043,
+              "Top": 0.0
+            },
+            "Confidence": 82.76199340820312
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 52.97573471069336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 68.49883270263672,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8611729741096497,
+              "Height": 0.9998878240585327,
+              "Left": 0.1360011100769043,
+              "Top": 0.0
+            },
+            "Confidence": 82.76199340820312
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Neck",
+        "Confidence": 53.46141815185547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 94.84523010253906,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8611729741096497,
+              "Height": 0.9998878240585327,
+              "Left": 0.1360011100769043,
+              "Top": 0.0
+            },
+            "Confidence": 82.76199340820312
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 53.28668975830078,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 70.99156951904297,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 50.81407928466797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 81.49681854248047,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9544976949691772,
+              "Height": 0.9997648000717163,
+              "Left": 0.022670235484838486,
+              "Top": 0.0
+            },
+            "Confidence": 93.5134506225586
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 51.53883361816406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 85.92581176757812,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Electronics",
+        "Confidence": 51.089420318603516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 75.55545806884766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 76.93472290039062,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9544976949691772,
+              "Height": 0.9997648000717163,
+              "Left": 0.022670235484838486,
+              "Top": 0.0
+            },
+            "Confidence": 93.5134506225586
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Finger",
+        "Confidence": 77.06552124023438,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Hand"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 85.8705825805664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 76.2497329711914,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Kissing",
+        "Confidence": 50.070125579833984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Romantic"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Make Out"
+          },
+          {
+            "Name": "Kiss"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 51.617576599121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 51.453346252441406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 51.617576599121094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 91.24737548828125,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9544976949691772,
+              "Height": 0.9997648000717163,
+              "Left": 0.022670235484838486,
+              "Top": 0.0
+            },
+            "Confidence": 93.5134506225586
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 50.070125579833984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 50.116676330566406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 76.93472290039062,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9544976949691772,
+              "Height": 0.9997648000717163,
+              "Left": 0.022670235484838486,
+              "Top": 0.0
+            },
+            "Confidence": 93.5134506225586
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 55.2458610534668,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Alcohol",
+        "Confidence": 50.93314743041992,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Beverage"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 55.6209602355957,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 51.50804138183594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Astronomy",
+        "Confidence": 73.25730895996094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Balloon",
+        "Confidence": 50.86164855957031,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Events and Attractions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Beverage",
+        "Confidence": 50.9628791809082,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Drink"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 57.4312629699707,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 51.50804138183594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Clothing",
+        "Confidence": 50.330482482910156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Apparel"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Electrical Device",
+        "Confidence": 50.4540901184082,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Electronics",
+        "Confidence": 50.999935150146484,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 59.86239242553711,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 52.14822769165039,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 55.153255462646484,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Fruit",
+        "Confidence": 51.61891555786133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Food"
+          },
+          {
+            "Name": "Plant"
+          },
+          {
+            "Name": "Produce"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Game",
+        "Confidence": 52.619529724121094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Glove",
+        "Confidence": 50.275245666503906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Clothing"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 57.40074157714844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 59.86756134033203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Hospital",
+        "Confidence": 51.50804138183594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 50.70269012451172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Invertebrate",
+        "Confidence": 52.772274017333984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Lamp",
+        "Confidence": 50.14427185058594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Lighting",
+        "Confidence": 88.68473052978516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 52.02913284301758,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Microphone",
+        "Confidence": 50.44584655761719,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Electrical Device"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Technology and Computing"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Moon",
+        "Confidence": 68.4861068725586,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Night"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 91.20519256591797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 91.18478393554688,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 91.20519256591797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "People",
+        "Confidence": 53.48986053466797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 61.86891555786133,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Photography",
+        "Confidence": 54.266361236572266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Photo"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Plant",
+        "Confidence": 51.776039123535156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Plants and Flowers"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Produce",
+        "Confidence": 51.61891555786133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Food"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Racket",
+        "Confidence": 50.801918029785156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Snow",
+        "Confidence": 50.33908462524414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 56.11488723754883,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Symbol",
+        "Confidence": 50.6919059753418,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Symbols and Flags"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Text",
+        "Confidence": 50.59522247314453,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 55.153255462646484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Weapon",
+        "Confidence": 53.21142578125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Weaponry"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    }
+  ]
+}

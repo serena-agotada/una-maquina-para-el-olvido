@@ -1,0 +1,8046 @@
+{
+  "Video": "11.mp4",
+  "JobId": "dbeada314433ec74d39d50ba74d45ab3377bbb4a3e4c23c0c9d33133d59a6c6c",
+  "JobStatus": "SUCCEEDED",
+  "VideoMetadata": {
+    "Codec": "h264",
+    "DurationMillis": 10320,
+    "Format": "QuickTime / MOV",
+    "FrameRate": 25.0,
+    "FrameHeight": 900,
+    "FrameWidth": 1366,
+    "ColorRange": "LIMITED"
+  },
+  "Labels": [
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 55.389591217041016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Audience",
+        "Confidence": 52.0223388671875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Crowd"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Performing Arts"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 55.389591217041016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Chair",
+        "Confidence": 57.88077163696289,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Classroom",
+        "Confidence": 55.389591217041016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          },
+          {
+            "Name": "School"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Courtroom",
+        "Confidence": 53.19488525390625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Court"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Crowd",
+        "Confidence": 52.491302490234375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Desk",
+        "Confidence": 53.15091323852539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          },
+          {
+            "Name": "Table"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Furniture",
+        "Confidence": 72.93872833251953,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 99.76227569580078,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 56.50003433227539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Office",
+        "Confidence": 55.51249694824219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Office Chair",
+        "Confidence": 53.493465423583984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Chair"
+          },
+          {
+            "Name": "Furniture"
+          },
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Office"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 53.03877258300781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Room",
+        "Confidence": 55.389591217041016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "School",
+        "Confidence": 55.389591217041016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Table",
+        "Confidence": 55.84691619873047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 52.52257537841797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 53.81869888305664,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 53.81869888305664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Chair",
+        "Confidence": 62.43007278442383,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Classroom",
+        "Confidence": 53.81869888305664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          },
+          {
+            "Name": "School"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Courtroom",
+        "Confidence": 50.48735809326172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Court"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Desk",
+        "Confidence": 53.67053985595703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          },
+          {
+            "Name": "Table"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Furniture",
+        "Confidence": 80.40897369384766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 99.62298583984375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 54.9703254699707,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Office",
+        "Confidence": 56.29241180419922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Office Chair",
+        "Confidence": 53.714561462402344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Chair"
+          },
+          {
+            "Name": "Furniture"
+          },
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Office"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 53.24735641479492,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Room",
+        "Confidence": 53.81869888305664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "School",
+        "Confidence": 53.81869888305664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Table",
+        "Confidence": 56.61665344238281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 53.1889762878418,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 54.402896881103516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Audience",
+        "Confidence": 51.14033889770508,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Crowd"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Performing Arts"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 54.402896881103516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Chair",
+        "Confidence": 57.343265533447266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Classroom",
+        "Confidence": 54.37632369995117,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          },
+          {
+            "Name": "School"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Courtroom",
+        "Confidence": 50.64889144897461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Court"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Crowd",
+        "Confidence": 51.165653228759766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Desk",
+        "Confidence": 55.062442779541016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          },
+          {
+            "Name": "Table"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Furniture",
+        "Confidence": 74.9265365600586,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 98.70014190673828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 54.00813674926758,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Lab",
+        "Confidence": 50.0220947265625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Office",
+        "Confidence": 54.94080352783203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Office Chair",
+        "Confidence": 52.180912017822266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Chair"
+          },
+          {
+            "Name": "Furniture"
+          },
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Office"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 55.61920166015625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Room",
+        "Confidence": 54.5869140625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "School",
+        "Confidence": 54.402896881103516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Table",
+        "Confidence": 65.27176666259766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 54.35903549194336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "White Board",
+        "Confidence": 50.684104919433594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Architecture",
+        "Confidence": 53.64969253540039,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Building",
+        "Confidence": 53.64969253540039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Chair",
+        "Confidence": 53.70515441894531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Classroom",
+        "Confidence": 53.57887268066406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          },
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          },
+          {
+            "Name": "School"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Courtroom",
+        "Confidence": 52.581302642822266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Court"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Desk",
+        "Confidence": 51.62575149536133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          },
+          {
+            "Name": "Table"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Filing Cabinet",
+        "Confidence": 50.089656829833984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Furniture",
+        "Confidence": 58.45701217651367,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 99.52192687988281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 55.96617889404297,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Lab",
+        "Confidence": 50.75371170043945,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Laboratory",
+        "Confidence": 50.77961349487305,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Office",
+        "Confidence": 53.49993896484375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 57.10879898071289,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.05372907966375351,
+              "Height": 0.14375270903110504,
+              "Left": 0.885233461856842,
+              "Top": 0.7242344617843628
+            },
+            "Confidence": 51.66389465332031
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Room",
+        "Confidence": 54.13896179199219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "School",
+        "Confidence": 53.64969253540039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Architecture"
+          },
+          {
+            "Name": "Building"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Table",
+        "Confidence": 54.33005142211914,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Furniture"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 54.05675506591797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Vandalism",
+        "Confidence": 50.668582916259766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "White Board",
+        "Confidence": 50.38474655151367,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 62.070640563964844,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10242963582277298,
+              "Height": 0.46397826075553894,
+              "Left": 0.4308995306491852,
+              "Top": 0.4931042492389679
+            },
+            "Confidence": 80.7508316040039
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Courtroom",
+        "Confidence": 50.7199592590332,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Court"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 52.74806594848633,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 58.72787857055664,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10242963582277298,
+              "Height": 0.46397826075553894,
+              "Left": 0.4308995306491852,
+              "Top": 0.4931042492389679
+            },
+            "Confidence": 80.7508316040039
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Furniture",
+        "Confidence": 50.755916595458984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 99.78125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 53.82587432861328,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Office",
+        "Confidence": 51.80237579345703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 75.76466369628906,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10242963582277298,
+              "Height": 0.46397826075553894,
+              "Left": 0.4308995306491852,
+              "Top": 0.4931042492389679
+            },
+            "Confidence": 80.7508316040039
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Room",
+        "Confidence": 51.055084228515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 53.97154998779297,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Vandalism",
+        "Confidence": 50.758216857910156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 58.72787857055664,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10242963582277298,
+              "Height": 0.46397826075553894,
+              "Left": 0.4308995306491852,
+              "Top": 0.4931042492389679
+            },
+            "Confidence": 80.7508316040039
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Courtroom",
+        "Confidence": 52.22828674316406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          },
+          {
+            "Name": "Room"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Court"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 65.20935821533203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Hugging",
+        "Confidence": 50.43398666381836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Hug"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 99.59806060791016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Interior Design",
+        "Confidence": 52.19158935546875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 69.3540267944336,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Room",
+        "Confidence": 52.28910446166992,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 55.474586486816406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 62.07417678833008,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10206078737974167,
+              "Height": 0.21234741806983948,
+              "Left": 0.20619679987430573,
+              "Top": 0.5082905292510986
+            },
+            "Confidence": 73.540771484375
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 57.99729919433594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 96.96202850341797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 58.4036865234375,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10206078737974167,
+              "Height": 0.21234741806983948,
+              "Left": 0.20619679987430573,
+              "Top": 0.5082905292510986
+            },
+            "Confidence": 73.540771484375
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 58.4036865234375,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10206078737974167,
+              "Height": 0.21234741806983948,
+              "Left": 0.20619679987430573,
+              "Top": 0.5082905292510986
+            },
+            "Confidence": 73.540771484375
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 70.53534698486328,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10206078737974167,
+              "Height": 0.21234741806983948,
+              "Left": 0.20619679987430573,
+              "Top": 0.5082905292510986
+            },
+            "Confidence": 73.540771484375
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Room",
+        "Confidence": 51.873409271240234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Indoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 51.120948791503906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Clinic",
+        "Confidence": 50.00653076171875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Medical"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 90.62171936035156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 50.130611419677734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 50.24979782104492,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 55.560489654541016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.340838760137558,
+              "Height": 0.7560123801231384,
+              "Left": 0.0014468070585280657,
+              "Top": 0.22640113532543182
+            },
+            "Confidence": 54.11436462402344
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "White Board",
+        "Confidence": 54.12068176269531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 55.537540435791016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 68.7091064453125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 69.66259002685547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 51.38384246826172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 53.302581787109375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Text",
+        "Confidence": 50.064727783203125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Text and Documents"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 50.09388732910156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 50.09388732910156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 54.57520294189453,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "White Board",
+        "Confidence": 89.10784149169922,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 50.4649772644043,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 53.18860626220703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 68.2911605834961,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 68.41034698486328,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 53.01342010498047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 64.16680145263672,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 59.9678955078125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "White Board",
+        "Confidence": 89.28181457519531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 85.09819030761719,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8203352093696594,
+              "Height": 0.9982299208641052,
+              "Left": 0.17510899901390076,
+              "Top": 0.001740951556712389
+            },
+            "Confidence": 98.4607162475586
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 51.07773971557617,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 67.28153991699219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 55.083797454833984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 80.58512115478516,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8203352093696594,
+              "Height": 0.9982299208641052,
+              "Left": 0.17510899901390076,
+              "Top": 0.001740951556712389
+            },
+            "Confidence": 98.4607162475586
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 80.58512115478516,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8203352093696594,
+              "Height": 0.9982299208641052,
+              "Left": 0.17510899901390076,
+              "Top": 0.001740951556712389
+            },
+            "Confidence": 98.4607162475586
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 91.35681915283203,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.8203352093696594,
+              "Height": 0.9982299208641052,
+              "Left": 0.17510899901390076,
+              "Top": 0.001740951556712389
+            },
+            "Confidence": 98.4607162475586
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "White Board",
+        "Confidence": 56.03474044799805,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 94.29237365722656,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.20597077906131744,
+              "Height": 0.24014051258563995,
+              "Left": 0.7872101068496704,
+              "Top": 0.7596789598464966
+            },
+            "Confidence": 98.75059509277344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5339906811714172,
+              "Height": 1.0,
+              "Left": 0.45887285470962524,
+              "Top": 0.0
+            },
+            "Confidence": 93.22518157958984
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1227908506989479,
+              "Height": 0.34518128633499146,
+              "Left": 0.8769504427909851,
+              "Top": 0.6266807913780212
+            },
+            "Confidence": 92.10906219482422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2933030426502228,
+              "Height": 0.9984201192855835,
+              "Left": 0.0020280738826841116,
+              "Top": 0.0
+            },
+            "Confidence": 82.594482421875
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 87.41910552978516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 81.32292175292969,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5339906811714172,
+              "Height": 1.0,
+              "Left": 0.45887285470962524,
+              "Top": 0.0
+            },
+            "Confidence": 93.22518157958984
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1227908506989479,
+              "Height": 0.34518128633499146,
+              "Left": 0.8769504427909851,
+              "Top": 0.6266807913780212
+            },
+            "Confidence": 92.10906219482422
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 89.444580078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 75.17567443847656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 80.76959228515625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.20597077906131744,
+              "Height": 0.24014051258563995,
+              "Left": 0.7872101068496704,
+              "Top": 0.7596789598464966
+            },
+            "Confidence": 98.75059509277344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2933030426502228,
+              "Height": 0.9984201192855835,
+              "Left": 0.0020280738826841116,
+              "Top": 0.0
+            },
+            "Confidence": 82.594482421875
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 80.76959228515625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.20597077906131744,
+              "Height": 0.24014051258563995,
+              "Left": 0.7872101068496704,
+              "Top": 0.7596789598464966
+            },
+            "Confidence": 98.75059509277344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2933030426502228,
+              "Height": 0.9984201192855835,
+              "Left": 0.0020280738826841116,
+              "Top": 0.0
+            },
+            "Confidence": 82.594482421875
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 96.34210968017578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.20597077906131744,
+              "Height": 0.24014051258563995,
+              "Left": 0.7872101068496704,
+              "Top": 0.7596789598464966
+            },
+            "Confidence": 98.75059509277344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5339906811714172,
+              "Height": 1.0,
+              "Left": 0.45887285470962524,
+              "Top": 0.0
+            },
+            "Confidence": 93.22518157958984
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1227908506989479,
+              "Height": 0.34518128633499146,
+              "Left": 0.8769504427909851,
+              "Top": 0.6266807913780212
+            },
+            "Confidence": 92.10906219482422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2933030426502228,
+              "Height": 0.9984201192855835,
+              "Left": 0.0020280738826841116,
+              "Top": 0.0
+            },
+            "Confidence": 82.594482421875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.051014307886362076,
+              "Height": 0.44468289613723755,
+              "Left": 0.9489814639091492,
+              "Top": 0.5531885027885437
+            },
+            "Confidence": 70.05661010742188
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Surprised",
+        "Confidence": 50.18931579589844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "White Board",
+        "Confidence": 54.679813385009766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 81.32292175292969,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5339906811714172,
+              "Height": 1.0,
+              "Left": 0.45887285470962524,
+              "Top": 0.0
+            },
+            "Confidence": 93.22518157958984
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1227908506989479,
+              "Height": 0.34518128633499146,
+              "Left": 0.8769504427909851,
+              "Top": 0.6266807913780212
+            },
+            "Confidence": 92.10906219482422
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 99.13114166259766,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2765918970108032,
+              "Height": 0.38869792222976685,
+              "Left": 0.6989631056785583,
+              "Top": 0.6096409559249878
+            },
+            "Confidence": 99.28754425048828
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18911229074001312,
+              "Height": 0.4859464466571808,
+              "Left": 0.8083227276802063,
+              "Top": 0.5140535235404968
+            },
+            "Confidence": 97.65967559814453
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21301770210266113,
+              "Height": 0.25480252504348755,
+              "Left": 0.6069811582565308,
+              "Top": 0.7443253397941589
+            },
+            "Confidence": 89.90302276611328
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Basketball",
+        "Confidence": 50.27361297607422,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 95.61095428466797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 50.55790710449219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 94.1533432006836,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2765918970108032,
+              "Height": 0.38869792222976685,
+              "Left": 0.6989631056785583,
+              "Top": 0.6096409559249878
+            },
+            "Confidence": 99.28754425048828
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18911229074001312,
+              "Height": 0.4859464466571808,
+              "Left": 0.8083227276802063,
+              "Top": 0.5140535235404968
+            },
+            "Confidence": 97.65967559814453
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21301770210266113,
+              "Height": 0.25480252504348755,
+              "Left": 0.6069811582565308,
+              "Top": 0.7443253397941589
+            },
+            "Confidence": 89.90302276611328
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Happy",
+        "Confidence": 53.25331497192383,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 96.62369537353516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Hugging",
+        "Confidence": 54.99238204956055,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Hug"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 84.2975845336914,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 99.13114166259766,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2765918970108032,
+              "Height": 0.38869792222976685,
+              "Left": 0.6989631056785583,
+              "Top": 0.6096409559249878
+            },
+            "Confidence": 99.28754425048828
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18911229074001312,
+              "Height": 0.4859464466571808,
+              "Left": 0.8083227276802063,
+              "Top": 0.5140535235404968
+            },
+            "Confidence": 97.65967559814453
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21301770210266113,
+              "Height": 0.25480252504348755,
+              "Left": 0.6069811582565308,
+              "Top": 0.7443253397941589
+            },
+            "Confidence": 89.90302276611328
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Smile",
+        "Confidence": 52.97886657714844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Happy"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 51.12618637084961,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 53.02666473388672,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 94.1533432006836,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2765918970108032,
+              "Height": 0.38869792222976685,
+              "Left": 0.6989631056785583,
+              "Top": 0.6096409559249878
+            },
+            "Confidence": 99.28754425048828
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18911229074001312,
+              "Height": 0.4859464466571808,
+              "Left": 0.8083227276802063,
+              "Top": 0.5140535235404968
+            },
+            "Confidence": 97.65967559814453
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21301770210266113,
+              "Height": 0.25480252504348755,
+              "Left": 0.6069811582565308,
+              "Top": 0.7443253397941589
+            },
+            "Confidence": 89.90302276611328
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 98.95074462890625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.24322518706321716,
+              "Height": 0.37188124656677246,
+              "Left": 0.48044657707214355,
+              "Top": 0.6280945539474487
+            },
+            "Confidence": 98.92623138427734
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.35770317912101746,
+              "Height": 0.5132461786270142,
+              "Left": 0.6305152177810669,
+              "Top": 0.4858173429965973
+            },
+            "Confidence": 98.8656005859375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2202574759721756,
+              "Height": 0.19432543218135834,
+              "Left": 0.11939898878335953,
+              "Top": 0.8056560158729553
+            },
+            "Confidence": 96.1617660522461
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15083788335323334,
+              "Height": 0.5411808490753174,
+              "Left": 0.8478965759277344,
+              "Top": 0.35145705938339233
+            },
+            "Confidence": 96.11297607421875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.16505220532417297,
+              "Height": 0.508152186870575,
+              "Left": 0.7473843097686768,
+              "Top": 0.38666442036628723
+            },
+            "Confidence": 95.65682220458984
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Eating",
+        "Confidence": 52.05671691894531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Food"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 97.80756378173828,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 98.69959259033203,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.24322518706321716,
+              "Height": 0.37188124656677246,
+              "Left": 0.48044657707214355,
+              "Top": 0.6280945539474487
+            },
+            "Confidence": 98.92623138427734
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.35770317912101746,
+              "Height": 0.5132461786270142,
+              "Left": 0.6305152177810669,
+              "Top": 0.4858173429965973
+            },
+            "Confidence": 98.8656005859375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2202574759721756,
+              "Height": 0.19432543218135834,
+              "Left": 0.11939898878335953,
+              "Top": 0.8056560158729553
+            },
+            "Confidence": 96.1617660522461
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15083788335323334,
+              "Height": 0.5411808490753174,
+              "Left": 0.8478965759277344,
+              "Top": 0.35145705938339233
+            },
+            "Confidence": 96.11297607421875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.16505220532417297,
+              "Height": 0.508152186870575,
+              "Left": 0.7473843097686768,
+              "Top": 0.38666442036628723
+            },
+            "Confidence": 95.65682220458984
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Fighting",
+        "Confidence": 54.586944580078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Food",
+        "Confidence": 52.19186019897461,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Food and Beverage"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Happy",
+        "Confidence": 52.46589279174805,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 97.80756378173828,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Hugging",
+        "Confidence": 50.33232116699219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Hug"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 75.98455810546875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Laughing",
+        "Confidence": 50.72196960449219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Happy"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Laugh"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 98.95074462890625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.24322518706321716,
+              "Height": 0.37188124656677246,
+              "Left": 0.48044657707214355,
+              "Top": 0.6280945539474487
+            },
+            "Confidence": 98.92623138427734
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.35770317912101746,
+              "Height": 0.5132461786270142,
+              "Left": 0.6305152177810669,
+              "Top": 0.4858173429965973
+            },
+            "Confidence": 98.8656005859375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2202574759721756,
+              "Height": 0.19432543218135834,
+              "Left": 0.11939898878335953,
+              "Top": 0.8056560158729553
+            },
+            "Confidence": 96.1617660522461
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15083788335323334,
+              "Height": 0.5411808490753174,
+              "Left": 0.8478965759277344,
+              "Top": 0.35145705938339233
+            },
+            "Confidence": 96.11297607421875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.16505220532417297,
+              "Height": 0.508152186870575,
+              "Left": 0.7473843097686768,
+              "Top": 0.38666442036628723
+            },
+            "Confidence": 95.65682220458984
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 51.82532501220703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Smile",
+        "Confidence": 50.22438430786133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Happy"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 50.24102783203125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 50.24919891357422,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 98.69959259033203,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.24322518706321716,
+              "Height": 0.37188124656677246,
+              "Left": 0.48044657707214355,
+              "Top": 0.6280945539474487
+            },
+            "Confidence": 98.92623138427734
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.35770317912101746,
+              "Height": 0.5132461786270142,
+              "Left": 0.6305152177810669,
+              "Top": 0.4858173429965973
+            },
+            "Confidence": 98.8656005859375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2202574759721756,
+              "Height": 0.19432543218135834,
+              "Left": 0.11939898878335953,
+              "Top": 0.8056560158729553
+            },
+            "Confidence": 96.1617660522461
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15083788335323334,
+              "Height": 0.5411808490753174,
+              "Left": 0.8478965759277344,
+              "Top": 0.35145705938339233
+            },
+            "Confidence": 96.11297607421875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.16505220532417297,
+              "Height": 0.508152186870575,
+              "Left": 0.7473843097686768,
+              "Top": 0.38666442036628723
+            },
+            "Confidence": 95.65682220458984
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 98.70294952392578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.48403650522232056,
+              "Height": 0.7122218012809753,
+              "Left": 0.3495626151561737,
+              "Top": 0.2853105664253235
+            },
+            "Confidence": 98.46998596191406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.33236566185951233,
+              "Height": 0.5525164604187012,
+              "Left": 0.6520870327949524,
+              "Top": 0.017558002844452858
+            },
+            "Confidence": 96.20094299316406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4057120382785797,
+              "Height": 0.8494783639907837,
+              "Left": 0.533787190914154,
+              "Top": 0.1420782506465912
+            },
+            "Confidence": 96.08535766601562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1870734542608261,
+              "Height": 0.475109726190567,
+              "Left": 0.0001431045529898256,
+              "Top": 0.5248628258705139
+            },
+            "Confidence": 95.66360473632812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21904417872428894,
+              "Height": 0.680544912815094,
+              "Left": 0.7726113200187683,
+              "Top": 0.1981995850801468
+            },
+            "Confidence": 66.1567153930664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14860381186008453,
+              "Height": 0.20922726392745972,
+              "Left": 0.5333914160728455,
+              "Top": 0.14658427238464355
+            },
+            "Confidence": 52.55448913574219
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Boxing",
+        "Confidence": 51.015663146972656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Sport"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Punching"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Celebrating",
+        "Confidence": 50.411617279052734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 97.48307800292969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 98.70294952392578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.48403650522232056,
+              "Height": 0.7122218012809753,
+              "Left": 0.3495626151561737,
+              "Top": 0.2853105664253235
+            },
+            "Confidence": 98.46998596191406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.33236566185951233,
+              "Height": 0.5525164604187012,
+              "Left": 0.6520870327949524,
+              "Top": 0.017558002844452858
+            },
+            "Confidence": 96.20094299316406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4057120382785797,
+              "Height": 0.8494783639907837,
+              "Left": 0.533787190914154,
+              "Top": 0.1420782506465912
+            },
+            "Confidence": 96.08535766601562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1870734542608261,
+              "Height": 0.475109726190567,
+              "Left": 0.0001431045529898256,
+              "Top": 0.5248628258705139
+            },
+            "Confidence": 95.66360473632812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14860381186008453,
+              "Height": 0.20922726392745972,
+              "Left": 0.5333914160728455,
+              "Top": 0.14658427238464355
+            },
+            "Confidence": 52.55448913574219
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Fighting",
+        "Confidence": 79.13024139404297,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Happy",
+        "Confidence": 55.00339889526367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 97.48307800292969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 51.205055236816406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Laughing",
+        "Confidence": 52.46976852416992,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Happy"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Laugh"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 52.25716018676758,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.21904417872428894,
+              "Height": 0.680544912815094,
+              "Left": 0.7726113200187683,
+              "Top": 0.1981995850801468
+            },
+            "Confidence": 66.1567153930664
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 52.25716018676758,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.21904417872428894,
+              "Height": 0.680544912815094,
+              "Left": 0.7726113200187683,
+              "Top": 0.1981995850801468
+            },
+            "Confidence": 66.1567153930664
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 98.74162292480469,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.48403650522232056,
+              "Height": 0.7122218012809753,
+              "Left": 0.3495626151561737,
+              "Top": 0.2853105664253235
+            },
+            "Confidence": 98.46998596191406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.33236566185951233,
+              "Height": 0.5525164604187012,
+              "Left": 0.6520870327949524,
+              "Top": 0.017558002844452858
+            },
+            "Confidence": 96.20094299316406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4057120382785797,
+              "Height": 0.8494783639907837,
+              "Left": 0.533787190914154,
+              "Top": 0.1420782506465912
+            },
+            "Confidence": 96.08535766601562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1870734542608261,
+              "Height": 0.475109726190567,
+              "Left": 0.0001431045529898256,
+              "Top": 0.5248628258705139
+            },
+            "Confidence": 95.66360473632812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21904417872428894,
+              "Height": 0.680544912815094,
+              "Left": 0.7726113200187683,
+              "Top": 0.1981995850801468
+            },
+            "Confidence": 66.1567153930664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14860381186008453,
+              "Height": 0.20922726392745972,
+              "Left": 0.5333914160728455,
+              "Top": 0.14658427238464355
+            },
+            "Confidence": 52.55448913574219
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 52.035369873046875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Slapping",
+        "Confidence": 52.24341583251953,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 50.36829376220703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Sport",
+        "Confidence": 51.18852996826172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Sports"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Sports"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 98.70294952392578,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.48403650522232056,
+              "Height": 0.7122218012809753,
+              "Left": 0.3495626151561737,
+              "Top": 0.2853105664253235
+            },
+            "Confidence": 98.46998596191406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.33236566185951233,
+              "Height": 0.5525164604187012,
+              "Left": 0.6520870327949524,
+              "Top": 0.017558002844452858
+            },
+            "Confidence": 96.20094299316406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4057120382785797,
+              "Height": 0.8494783639907837,
+              "Left": 0.533787190914154,
+              "Top": 0.1420782506465912
+            },
+            "Confidence": 96.08535766601562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1870734542608261,
+              "Height": 0.475109726190567,
+              "Left": 0.0001431045529898256,
+              "Top": 0.5248628258705139
+            },
+            "Confidence": 95.66360473632812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14860381186008453,
+              "Height": 0.20922726392745972,
+              "Left": 0.5333914160728455,
+              "Top": 0.14658427238464355
+            },
+            "Confidence": 52.55448913574219
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 99.45370483398438,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2917407751083374,
+              "Height": 0.481324702501297,
+              "Left": 0.3105356991291046,
+              "Top": 0.0
+            },
+            "Confidence": 99.8310317993164
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5836483240127563,
+              "Height": 0.7980532646179199,
+              "Left": 0.16452327370643616,
+              "Top": 0.07594078034162521
+            },
+            "Confidence": 97.32748413085938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2594401240348816,
+              "Height": 0.36846521496772766,
+              "Left": 0.5534904599189758,
+              "Top": 0.0009592438000254333
+            },
+            "Confidence": 96.10063171386719
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21332332491874695,
+              "Height": 0.33149024844169617,
+              "Left": 0.6159654855728149,
+              "Top": 0.3780859112739563
+            },
+            "Confidence": 94.21361541748047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2739138901233673,
+              "Height": 0.3768833875656128,
+              "Left": 0.44439586997032166,
+              "Top": 0.001690940815024078
+            },
+            "Confidence": 87.64688110351562
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Arrest",
+        "Confidence": 50.99087142944336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Baby",
+        "Confidence": 80.722412109375,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3874788284301758,
+              "Height": 0.4537467360496521,
+              "Left": 0.485117107629776,
+              "Top": 0.5461239814758301
+            },
+            "Confidence": 93.5160903930664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.36864936351776123,
+              "Height": 0.12308447808027267,
+              "Left": 0.6191222667694092,
+              "Top": 0.3365359902381897
+            },
+            "Confidence": 55.698455810546875
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Crying",
+        "Confidence": 51.312931060791016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Sad"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Cuddling",
+        "Confidence": 53.16276168823242,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Romantic"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 98.32574462890625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 99.45370483398438,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2917407751083374,
+              "Height": 0.481324702501297,
+              "Left": 0.3105356991291046,
+              "Top": 0.0
+            },
+            "Confidence": 99.8310317993164
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5836483240127563,
+              "Height": 0.7980532646179199,
+              "Left": 0.16452327370643616,
+              "Top": 0.07594078034162521
+            },
+            "Confidence": 97.32748413085938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2594401240348816,
+              "Height": 0.36846521496772766,
+              "Left": 0.5534904599189758,
+              "Top": 0.0009592438000254333
+            },
+            "Confidence": 96.10063171386719
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21332332491874695,
+              "Height": 0.33149024844169617,
+              "Left": 0.6159654855728149,
+              "Top": 0.3780859112739563
+            },
+            "Confidence": 94.21361541748047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2739138901233673,
+              "Height": 0.3768833875656128,
+              "Left": 0.44439586997032166,
+              "Top": 0.001690940815024078
+            },
+            "Confidence": 87.64688110351562
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Fighting",
+        "Confidence": 56.47061538696289,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Happy",
+        "Confidence": 76.3573226928711,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 98.44941711425781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Hugging",
+        "Confidence": 50.694580078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Hug"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Laughing",
+        "Confidence": 58.126956939697266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Happy"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Laugh"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 99.53105163574219,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2917407751083374,
+              "Height": 0.481324702501297,
+              "Left": 0.3105356991291046,
+              "Top": 0.0
+            },
+            "Confidence": 99.8310317993164
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5836483240127563,
+              "Height": 0.7980532646179199,
+              "Left": 0.16452327370643616,
+              "Top": 0.07594078034162521
+            },
+            "Confidence": 97.32748413085938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2594401240348816,
+              "Height": 0.36846521496772766,
+              "Left": 0.5534904599189758,
+              "Top": 0.0009592438000254333
+            },
+            "Confidence": 96.10063171386719
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21332332491874695,
+              "Height": 0.33149024844169617,
+              "Left": 0.6159654855728149,
+              "Top": 0.3780859112739563
+            },
+            "Confidence": 94.21361541748047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.09203493595123291,
+              "Height": 0.29590144753456116,
+              "Left": 0.7708368301391602,
+              "Top": 0.004434576258063316
+            },
+            "Confidence": 93.89997863769531
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3874788284301758,
+              "Height": 0.4537467360496521,
+              "Left": 0.485117107629776,
+              "Top": 0.5461239814758301
+            },
+            "Confidence": 93.5160903930664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2739138901233673,
+              "Height": 0.3768833875656128,
+              "Left": 0.44439586997032166,
+              "Top": 0.001690940815024078
+            },
+            "Confidence": 87.64688110351562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19526049494743347,
+              "Height": 0.09490783512592316,
+              "Left": 0.126067653298378,
+              "Top": 0.905092179775238
+            },
+            "Confidence": 64.30109405517578
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.36864936351776123,
+              "Height": 0.12308447808027267,
+              "Left": 0.6191222667694092,
+              "Top": 0.3365359902381897
+            },
+            "Confidence": 55.698455810546875
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 75.56964874267578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Sad",
+        "Confidence": 51.312931060791016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Worried"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Smile",
+        "Confidence": 51.591670989990234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Happy"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 55.213645935058594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 99.45370483398438,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2917407751083374,
+              "Height": 0.481324702501297,
+              "Left": 0.3105356991291046,
+              "Top": 0.0
+            },
+            "Confidence": 99.8310317993164
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.5836483240127563,
+              "Height": 0.7980532646179199,
+              "Left": 0.16452327370643616,
+              "Top": 0.07594078034162521
+            },
+            "Confidence": 97.32748413085938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2594401240348816,
+              "Height": 0.36846521496772766,
+              "Left": 0.5534904599189758,
+              "Top": 0.0009592438000254333
+            },
+            "Confidence": 96.10063171386719
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.21332332491874695,
+              "Height": 0.33149024844169617,
+              "Left": 0.6159654855728149,
+              "Top": 0.3780859112739563
+            },
+            "Confidence": 94.21361541748047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2739138901233673,
+              "Height": 0.3768833875656128,
+              "Left": 0.44439586997032166,
+              "Top": 0.001690940815024078
+            },
+            "Confidence": 87.64688110351562
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 98.54560852050781,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.47405871748924255,
+              "Height": 0.5155428647994995,
+              "Left": 0.2207307666540146,
+              "Top": 0.0004082870436832309
+            },
+            "Confidence": 99.1430435180664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7309797406196594,
+              "Height": 0.8956292867660522,
+              "Left": 0.005863321479409933,
+              "Top": 0.10111217945814133
+            },
+            "Confidence": 94.31985473632812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1871565729379654,
+              "Height": 0.2910156548023224,
+              "Left": 0.6405428647994995,
+              "Top": 0.0008048629970289767
+            },
+            "Confidence": 94.0876693725586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2444470077753067,
+              "Height": 0.2695160508155823,
+              "Left": 0.5779547095298767,
+              "Top": 0.09505973011255264
+            },
+            "Confidence": 91.00257110595703
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4017302393913269,
+              "Height": 0.44805026054382324,
+              "Left": 0.5832375884056091,
+              "Top": 0.35916924476623535
+            },
+            "Confidence": 84.6333236694336
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Arrest",
+        "Confidence": 51.563453674316406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Baby",
+        "Confidence": 73.92510223388672,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.4288090467453003,
+              "Height": 0.39413392543792725,
+              "Left": 0.42865946888923645,
+              "Top": 0.6044846773147583
+            },
+            "Confidence": 79.84181213378906
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3642284572124481,
+              "Height": 0.1243877187371254,
+              "Left": 0.621246337890625,
+              "Top": 0.3402763903141022
+            },
+            "Confidence": 58.68790054321289
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Body Part",
+        "Confidence": 51.062931060791016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Crying",
+        "Confidence": 50.02410888671875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Sad"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Cuddling",
+        "Confidence": 51.03424072265625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Romantic"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 96.3421401977539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 96.60162353515625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.47405871748924255,
+              "Height": 0.5155428647994995,
+              "Left": 0.2207307666540146,
+              "Top": 0.0004082870436832309
+            },
+            "Confidence": 99.1430435180664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7309797406196594,
+              "Height": 0.8956292867660522,
+              "Left": 0.005863321479409933,
+              "Top": 0.10111217945814133
+            },
+            "Confidence": 94.31985473632812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1871565729379654,
+              "Height": 0.2910156548023224,
+              "Left": 0.6405428647994995,
+              "Top": 0.0008048629970289767
+            },
+            "Confidence": 94.0876693725586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2444470077753067,
+              "Height": 0.2695160508155823,
+              "Left": 0.5779547095298767,
+              "Top": 0.09505973011255264
+            },
+            "Confidence": 91.00257110595703
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4017302393913269,
+              "Height": 0.44805026054382324,
+              "Left": 0.5832375884056091,
+              "Top": 0.35916924476623535
+            },
+            "Confidence": 84.6333236694336
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Fighting",
+        "Confidence": 55.61724853515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Hand",
+        "Confidence": 50.99028778076172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Handcuffs",
+        "Confidence": 66.67992401123047,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.07148995250463486,
+              "Height": 0.13915733993053436,
+              "Left": 0.592671275138855,
+              "Top": 0.4610922932624817
+            },
+            "Confidence": 91.68489074707031
+          }
+        ],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Happy",
+        "Confidence": 54.7114372253418,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 97.51118469238281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Holding Hands",
+        "Confidence": 50.99028778076172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Body Part"
+          },
+          {
+            "Name": "Hand"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Laughing",
+        "Confidence": 52.43264389038086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Happy"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Laugh"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 99.55049896240234,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.47405871748924255,
+              "Height": 0.5155428647994995,
+              "Left": 0.2207307666540146,
+              "Top": 0.0004082870436832309
+            },
+            "Confidence": 99.1430435180664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7309797406196594,
+              "Height": 0.8956292867660522,
+              "Left": 0.005863321479409933,
+              "Top": 0.10111217945814133
+            },
+            "Confidence": 94.31985473632812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1871565729379654,
+              "Height": 0.2910156548023224,
+              "Left": 0.6405428647994995,
+              "Top": 0.0008048629970289767
+            },
+            "Confidence": 94.0876693725586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2444470077753067,
+              "Height": 0.2695160508155823,
+              "Left": 0.5779547095298767,
+              "Top": 0.09505973011255264
+            },
+            "Confidence": 91.00257110595703
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4017302393913269,
+              "Height": 0.44805026054382324,
+              "Left": 0.5832375884056091,
+              "Top": 0.35916924476623535
+            },
+            "Confidence": 84.6333236694336
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4288090467453003,
+              "Height": 0.39413392543792725,
+              "Left": 0.42865946888923645,
+              "Top": 0.6044846773147583
+            },
+            "Confidence": 79.84181213378906
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3642284572124481,
+              "Height": 0.1243877187371254,
+              "Left": 0.621246337890625,
+              "Top": 0.3402763903141022
+            },
+            "Confidence": 58.68790054321289
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 59.5955696105957,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Sad",
+        "Confidence": 50.02410888671875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Worried"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 80.21736145019531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Smoking",
+        "Confidence": 59.07522201538086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Face"
+          },
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Smoke"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 96.60162353515625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.47405871748924255,
+              "Height": 0.5155428647994995,
+              "Left": 0.2207307666540146,
+              "Top": 0.0004082870436832309
+            },
+            "Confidence": 99.1430435180664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7309797406196594,
+              "Height": 0.8956292867660522,
+              "Left": 0.005863321479409933,
+              "Top": 0.10111217945814133
+            },
+            "Confidence": 94.31985473632812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1871565729379654,
+              "Height": 0.2910156548023224,
+              "Left": 0.6405428647994995,
+              "Top": 0.0008048629970289767
+            },
+            "Confidence": 94.0876693725586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2444470077753067,
+              "Height": 0.2695160508155823,
+              "Left": 0.5779547095298767,
+              "Top": 0.09505973011255264
+            },
+            "Confidence": 91.00257110595703
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4017302393913269,
+              "Height": 0.44805026054382324,
+              "Left": 0.5832375884056091,
+              "Top": 0.35916924476623535
+            },
+            "Confidence": 84.6333236694336
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 96.1194076538086,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5030725002288818,
+              "Height": 0.9359616637229919,
+              "Left": 7.692239159950987e-05,
+              "Top": 0.06379009038209915
+            },
+            "Confidence": 96.53266906738281
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3708980083465576,
+              "Height": 0.45939332246780396,
+              "Left": 0.2230008840560913,
+              "Top": 0.002247066469863057
+            },
+            "Confidence": 87.48574829101562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7157913446426392,
+              "Height": 0.607575535774231,
+              "Left": 0.06632761657238007,
+              "Top": 0.3876968324184418
+            },
+            "Confidence": 86.00424194335938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24403192102909088,
+              "Height": 0.12991325557231903,
+              "Left": 0.5375379920005798,
+              "Top": 0.41676631569862366
+            },
+            "Confidence": 72.62034606933594
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13200992345809937,
+              "Height": 0.21897482872009277,
+              "Left": 0.00012133501877542585,
+              "Top": 0.05854576826095581
+            },
+            "Confidence": 59.369041442871094
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10176941007375717,
+              "Height": 0.22430026531219482,
+              "Left": 0.00024169907555915415,
+              "Top": 0.40128785371780396
+            },
+            "Confidence": 56.89622116088867
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17292991280555725,
+              "Height": 0.26189732551574707,
+              "Left": 0.08728737384080887,
+              "Top": 0.0003946495126001537
+            },
+            "Confidence": 50.90580749511719
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Arrest",
+        "Confidence": 64.55726623535156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Baby",
+        "Confidence": 70.36404418945312,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3181232810020447,
+              "Height": 0.11993611603975296,
+              "Left": 0.15126043558120728,
+              "Top": 0.8800638914108276
+            },
+            "Confidence": 80.92557525634766
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 82.86328125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 51.64765930175781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 92.23143005371094,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5030725002288818,
+              "Height": 0.9359616637229919,
+              "Left": 7.692239159950987e-05,
+              "Top": 0.06379009038209915
+            },
+            "Confidence": 96.53266906738281
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7157913446426392,
+              "Height": 0.607575535774231,
+              "Left": 0.06632761657238007,
+              "Top": 0.3876968324184418
+            },
+            "Confidence": 86.00424194335938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17292991280555725,
+              "Height": 0.26189732551574707,
+              "Left": 0.08728737384080887,
+              "Top": 0.0003946495126001537
+            },
+            "Confidence": 50.90580749511719
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Fighting",
+        "Confidence": 79.78912353515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 87.43719482421875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 77.9852523803711,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3708980083465576,
+              "Height": 0.45939332246780396,
+              "Left": 0.2230008840560913,
+              "Top": 0.002247066469863057
+            },
+            "Confidence": 87.48574829101562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24403192102909088,
+              "Height": 0.12991325557231903,
+              "Left": 0.5375379920005798,
+              "Top": 0.41676631569862366
+            },
+            "Confidence": 72.62034606933594
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13200992345809937,
+              "Height": 0.21897482872009277,
+              "Left": 0.00012133501877542585,
+              "Top": 0.05854576826095581
+            },
+            "Confidence": 59.369041442871094
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10176941007375717,
+              "Height": 0.22430026531219482,
+              "Left": 0.00024169907555915415,
+              "Top": 0.40128785371780396
+            },
+            "Confidence": 56.89622116088867
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 77.9852523803711,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.3708980083465576,
+              "Height": 0.45939332246780396,
+              "Left": 0.2230008840560913,
+              "Top": 0.002247066469863057
+            },
+            "Confidence": 87.48574829101562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24403192102909088,
+              "Height": 0.12991325557231903,
+              "Left": 0.5375379920005798,
+              "Top": 0.41676631569862366
+            },
+            "Confidence": 72.62034606933594
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13200992345809937,
+              "Height": 0.21897482872009277,
+              "Left": 0.00012133501877542585,
+              "Top": 0.05854576826095581
+            },
+            "Confidence": 59.369041442871094
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10176941007375717,
+              "Height": 0.22430026531219482,
+              "Left": 0.00024169907555915415,
+              "Top": 0.40128785371780396
+            },
+            "Confidence": 56.89622116088867
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 96.96893310546875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5030725002288818,
+              "Height": 0.9359616637229919,
+              "Left": 7.692239159950987e-05,
+              "Top": 0.06379009038209915
+            },
+            "Confidence": 96.53266906738281
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3708980083465576,
+              "Height": 0.45939332246780396,
+              "Left": 0.2230008840560913,
+              "Top": 0.002247066469863057
+            },
+            "Confidence": 87.48574829101562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7157913446426392,
+              "Height": 0.607575535774231,
+              "Left": 0.06632761657238007,
+              "Top": 0.3876968324184418
+            },
+            "Confidence": 86.00424194335938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3181232810020447,
+              "Height": 0.11993611603975296,
+              "Left": 0.15126043558120728,
+              "Top": 0.8800638914108276
+            },
+            "Confidence": 80.92557525634766
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24403192102909088,
+              "Height": 0.12991325557231903,
+              "Left": 0.5375379920005798,
+              "Top": 0.41676631569862366
+            },
+            "Confidence": 72.62034606933594
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13200992345809937,
+              "Height": 0.21897482872009277,
+              "Left": 0.00012133501877542585,
+              "Top": 0.05854576826095581
+            },
+            "Confidence": 59.369041442871094
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10176941007375717,
+              "Height": 0.22430026531219482,
+              "Left": 0.00024169907555915415,
+              "Top": 0.40128785371780396
+            },
+            "Confidence": 56.89622116088867
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17292991280555725,
+              "Height": 0.26189732551574707,
+              "Left": 0.08728737384080887,
+              "Top": 0.0003946495126001537
+            },
+            "Confidence": 50.90580749511719
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Romantic",
+        "Confidence": 52.25440979003906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Expressions and Emotions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Shoving",
+        "Confidence": 50.68379592895508,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 92.23143005371094,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.5030725002288818,
+              "Height": 0.9359616637229919,
+              "Left": 7.692239159950987e-05,
+              "Top": 0.06379009038209915
+            },
+            "Confidence": 96.53266906738281
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.7157913446426392,
+              "Height": 0.607575535774231,
+              "Left": 0.06632761657238007,
+              "Top": 0.3876968324184418
+            },
+            "Confidence": 86.00424194335938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17292991280555725,
+              "Height": 0.26189732551574707,
+              "Left": 0.08728737384080887,
+              "Top": 0.0003946495126001537
+            },
+            "Confidence": 50.90580749511719
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 91.69259643554688,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.12301325052976608,
+              "Height": 0.37244269251823425,
+              "Left": 0.10900836437940598,
+              "Top": 0.1222802922129631
+            },
+            "Confidence": 90.51734161376953
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4318510890007019,
+              "Height": 0.498687744140625,
+              "Left": 0.00044532030005939305,
+              "Top": 0.43884575366973877
+            },
+            "Confidence": 81.50804138183594
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2151445895433426,
+              "Height": 0.3562926650047302,
+              "Left": 0.468300998210907,
+              "Top": 6.67572021484375e-06
+            },
+            "Confidence": 65.1657943725586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.29398801922798157,
+              "Height": 0.3221588134765625,
+              "Left": 0.6254459023475647,
+              "Top": 0.002456397982314229
+            },
+            "Confidence": 57.42155456542969
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 61.34310531616211,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Arrest",
+        "Confidence": 52.71910095214844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 54.30366897583008,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.428077757358551,
+              "Height": 0.34116077423095703,
+              "Left": 0.001836886745877564,
+              "Top": 0.44257333874702454
+            },
+            "Confidence": 65.11554718017578
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 57.67280197143555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 77.05036163330078,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 60.088314056396484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Fighting",
+        "Confidence": 89.07728576660156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 74.81436157226562,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 86.21286010742188,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.12301325052976608,
+              "Height": 0.37244269251823425,
+              "Left": 0.10900836437940598,
+              "Top": 0.1222802922129631
+            },
+            "Confidence": 90.51734161376953
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4318510890007019,
+              "Height": 0.498687744140625,
+              "Left": 0.00044532030005939305,
+              "Top": 0.43884575366973877
+            },
+            "Confidence": 81.50804138183594
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2151445895433426,
+              "Height": 0.3562926650047302,
+              "Left": 0.468300998210907,
+              "Top": 6.67572021484375e-06
+            },
+            "Confidence": 65.1657943725586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.29398801922798157,
+              "Height": 0.3221588134765625,
+              "Left": 0.6254459023475647,
+              "Top": 0.002456397982314229
+            },
+            "Confidence": 57.42155456542969
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 61.198951721191406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 86.21286010742188,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.12301325052976608,
+              "Height": 0.37244269251823425,
+              "Left": 0.10900836437940598,
+              "Top": 0.1222802922129631
+            },
+            "Confidence": 90.51734161376953
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4318510890007019,
+              "Height": 0.498687744140625,
+              "Left": 0.00044532030005939305,
+              "Top": 0.43884575366973877
+            },
+            "Confidence": 81.50804138183594
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2151445895433426,
+              "Height": 0.3562926650047302,
+              "Left": 0.468300998210907,
+              "Top": 6.67572021484375e-06
+            },
+            "Confidence": 65.1657943725586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.29398801922798157,
+              "Height": 0.3221588134765625,
+              "Left": 0.6254459023475647,
+              "Top": 0.002456397982314229
+            },
+            "Confidence": 57.42155456542969
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 97.90869903564453,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.12301325052976608,
+              "Height": 0.37244269251823425,
+              "Left": 0.10900836437940598,
+              "Top": 0.1222802922129631
+            },
+            "Confidence": 90.51734161376953
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.4318510890007019,
+              "Height": 0.498687744140625,
+              "Left": 0.00044532030005939305,
+              "Top": 0.43884575366973877
+            },
+            "Confidence": 81.50804138183594
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2151445895433426,
+              "Height": 0.3562926650047302,
+              "Left": 0.468300998210907,
+              "Top": 6.67572021484375e-06
+            },
+            "Confidence": 65.1657943725586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.29398801922798157,
+              "Height": 0.3221588134765625,
+              "Left": 0.6254459023475647,
+              "Top": 0.002456397982314229
+            },
+            "Confidence": 57.42155456542969
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 56.0772705078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 60.088314056396484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 91.54759216308594,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.23285439610481262,
+              "Height": 0.5977509021759033,
+              "Left": 0.39272013306617737,
+              "Top": 0.002632579766213894
+            },
+            "Confidence": 90.95245361328125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2949684262275696,
+              "Height": 0.6596885919570923,
+              "Left": 0.05342433974146843,
+              "Top": 0.0
+            },
+            "Confidence": 89.29378509521484
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.37121278047561646,
+              "Height": 0.38631075620651245,
+              "Left": 0.23995935916900635,
+              "Top": 0.224701389670372
+            },
+            "Confidence": 81.5864028930664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22465923428535461,
+              "Height": 0.492281436920166,
+              "Left": 0.7728778123855591,
+              "Top": 0.0022253417409956455
+            },
+            "Confidence": 66.81478881835938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12063287943601608,
+              "Height": 0.31919944286346436,
+              "Left": 2.8990440114284866e-05,
+              "Top": 0.0002899074461311102
+            },
+            "Confidence": 55.66046905517578
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 63.844940185546875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Cat",
+        "Confidence": 57.89297866821289,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.43436697125434875,
+              "Height": 0.5070001482963562,
+              "Left": 0.5627071261405945,
+              "Top": 0.0
+            },
+            "Confidence": 67.1360092163086
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Mammal"
+          },
+          {
+            "Name": "Pet"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 58.67401885986328,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 86.42584991455078,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.23285439610481262,
+              "Height": 0.5977509021759033,
+              "Left": 0.39272013306617737,
+              "Top": 0.002632579766213894
+            },
+            "Confidence": 90.95245361328125
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Fighting",
+        "Confidence": 58.506988525390625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 65.11324310302734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 89.85304260253906,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2949684262275696,
+              "Height": 0.6596885919570923,
+              "Left": 0.05342433974146843,
+              "Top": 0.0
+            },
+            "Confidence": 89.29378509521484
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.37121278047561646,
+              "Height": 0.38631075620651245,
+              "Left": 0.23995935916900635,
+              "Top": 0.224701389670372
+            },
+            "Confidence": 81.5864028930664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22465923428535461,
+              "Height": 0.492281436920166,
+              "Left": 0.7728778123855591,
+              "Top": 0.0022253417409956455
+            },
+            "Confidence": 66.81478881835938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12063287943601608,
+              "Height": 0.31919944286346436,
+              "Left": 2.8990440114284866e-05,
+              "Top": 0.0002899074461311102
+            },
+            "Confidence": 55.66046905517578
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Mammal",
+        "Confidence": 63.54290008544922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 89.85304260253906,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2949684262275696,
+              "Height": 0.6596885919570923,
+              "Left": 0.05342433974146843,
+              "Top": 0.0
+            },
+            "Confidence": 89.29378509521484
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.37121278047561646,
+              "Height": 0.38631075620651245,
+              "Left": 0.23995935916900635,
+              "Top": 0.224701389670372
+            },
+            "Confidence": 81.5864028930664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22465923428535461,
+              "Height": 0.492281436920166,
+              "Left": 0.7728778123855591,
+              "Top": 0.0022253417409956455
+            },
+            "Confidence": 66.81478881835938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12063287943601608,
+              "Height": 0.31919944286346436,
+              "Left": 2.8990440114284866e-05,
+              "Top": 0.0002899074461311102
+            },
+            "Confidence": 55.66046905517578
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 92.35653686523438,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.23285439610481262,
+              "Height": 0.5977509021759033,
+              "Left": 0.39272013306617737,
+              "Top": 0.002632579766213894
+            },
+            "Confidence": 90.95245361328125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2949684262275696,
+              "Height": 0.6596885919570923,
+              "Left": 0.05342433974146843,
+              "Top": 0.0
+            },
+            "Confidence": 89.29378509521484
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.37121278047561646,
+              "Height": 0.38631075620651245,
+              "Left": 0.23995935916900635,
+              "Top": 0.224701389670372
+            },
+            "Confidence": 81.5864028930664
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.22465923428535461,
+              "Height": 0.492281436920166,
+              "Left": 0.7728778123855591,
+              "Top": 0.0022253417409956455
+            },
+            "Confidence": 66.81478881835938
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12063287943601608,
+              "Height": 0.31919944286346436,
+              "Left": 2.8990440114284866e-05,
+              "Top": 0.0002899074461311102
+            },
+            "Confidence": 55.66046905517578
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Pet",
+        "Confidence": 61.60909652709961,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 50.6599006652832,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 86.42584991455078,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.23285439610481262,
+              "Height": 0.5977509021759033,
+              "Left": 0.39272013306617737,
+              "Top": 0.002632579766213894
+            },
+            "Confidence": 90.95245361328125
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 94.20867919921875,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14128783345222473,
+              "Height": 0.6085550785064697,
+              "Left": 0.16982440650463104,
+              "Top": 0.002833785954862833
+            },
+            "Confidence": 94.8464126586914
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3339887857437134,
+              "Height": 0.686464250087738,
+              "Left": 0.38215774297714233,
+              "Top": 0.0
+            },
+            "Confidence": 88.28814697265625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.35445648431777954,
+              "Height": 0.634117841720581,
+              "Left": 0.6177800893783569,
+              "Top": 0.3600560426712036
+            },
+            "Confidence": 83.83583068847656
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2524498999118805,
+              "Height": 0.7166855335235596,
+              "Left": 0.5255749821662903,
+              "Top": 0.0
+            },
+            "Confidence": 80.18236541748047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17239095270633698,
+              "Height": 0.6438990831375122,
+              "Left": 0.028162840753793716,
+              "Top": 0.0036446379963308573
+            },
+            "Confidence": 71.09292602539062
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18005231022834778,
+              "Height": 0.39200758934020996,
+              "Left": 0.020724816247820854,
+              "Top": 0.3792688548564911
+            },
+            "Confidence": 59.982383728027344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2235751897096634,
+              "Height": 0.46396932005882263,
+              "Left": 0.0821472704410553,
+              "Top": 0.0
+            },
+            "Confidence": 55.69943618774414
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14328302443027496,
+              "Height": 0.3676379323005676,
+              "Left": 0.8549970984458923,
+              "Top": 0.5311073064804077
+            },
+            "Confidence": 51.35019302368164
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 50.137908935546875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 63.71665954589844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Fallen Person",
+        "Confidence": 65.2957763671875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 82.68567657470703,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.35445648431777954,
+              "Height": 0.634117841720581,
+              "Left": 0.6177800893783569,
+              "Top": 0.3600560426712036
+            },
+            "Confidence": 83.83583068847656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Fighting",
+        "Confidence": 55.64368438720703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 78.45579528808594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Hugging",
+        "Confidence": 50.20810317993164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Hug"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Indoors",
+        "Confidence": 59.02212905883789,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Home and Indoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 94.0340805053711,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14128783345222473,
+              "Height": 0.6085550785064697,
+              "Left": 0.16982440650463104,
+              "Top": 0.002833785954862833
+            },
+            "Confidence": 94.8464126586914
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3339887857437134,
+              "Height": 0.686464250087738,
+              "Left": 0.38215774297714233,
+              "Top": 0.0
+            },
+            "Confidence": 88.28814697265625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2524498999118805,
+              "Height": 0.7166855335235596,
+              "Left": 0.5255749821662903,
+              "Top": 0.0
+            },
+            "Confidence": 80.18236541748047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17239095270633698,
+              "Height": 0.6438990831375122,
+              "Left": 0.028162840753793716,
+              "Top": 0.0036446379963308573
+            },
+            "Confidence": 71.09292602539062
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18005231022834778,
+              "Height": 0.39200758934020996,
+              "Left": 0.020724816247820854,
+              "Top": 0.3792688548564911
+            },
+            "Confidence": 59.982383728027344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2235751897096634,
+              "Height": 0.46396932005882263,
+              "Left": 0.0821472704410553,
+              "Top": 0.0
+            },
+            "Confidence": 55.69943618774414
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14328302443027496,
+              "Height": 0.3676379323005676,
+              "Left": 0.8549970984458923,
+              "Top": 0.5311073064804077
+            },
+            "Confidence": 51.35019302368164
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 94.0340805053711,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14128783345222473,
+              "Height": 0.6085550785064697,
+              "Left": 0.16982440650463104,
+              "Top": 0.002833785954862833
+            },
+            "Confidence": 94.8464126586914
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3339887857437134,
+              "Height": 0.686464250087738,
+              "Left": 0.38215774297714233,
+              "Top": 0.0
+            },
+            "Confidence": 88.28814697265625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2524498999118805,
+              "Height": 0.7166855335235596,
+              "Left": 0.5255749821662903,
+              "Top": 0.0
+            },
+            "Confidence": 80.18236541748047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17239095270633698,
+              "Height": 0.6438990831375122,
+              "Left": 0.028162840753793716,
+              "Top": 0.0036446379963308573
+            },
+            "Confidence": 71.09292602539062
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18005231022834778,
+              "Height": 0.39200758934020996,
+              "Left": 0.020724816247820854,
+              "Top": 0.3792688548564911
+            },
+            "Confidence": 59.982383728027344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2235751897096634,
+              "Height": 0.46396932005882263,
+              "Left": 0.0821472704410553,
+              "Top": 0.0
+            },
+            "Confidence": 55.69943618774414
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14328302443027496,
+              "Height": 0.3676379323005676,
+              "Left": 0.8549970984458923,
+              "Top": 0.5311073064804077
+            },
+            "Confidence": 51.35019302368164
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 94.65572357177734,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14128783345222473,
+              "Height": 0.6085550785064697,
+              "Left": 0.16982440650463104,
+              "Top": 0.002833785954862833
+            },
+            "Confidence": 94.8464126586914
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3339887857437134,
+              "Height": 0.686464250087738,
+              "Left": 0.38215774297714233,
+              "Top": 0.0
+            },
+            "Confidence": 88.28814697265625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.35445648431777954,
+              "Height": 0.634117841720581,
+              "Left": 0.6177800893783569,
+              "Top": 0.3600560426712036
+            },
+            "Confidence": 83.83583068847656
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2524498999118805,
+              "Height": 0.7166855335235596,
+              "Left": 0.5255749821662903,
+              "Top": 0.0
+            },
+            "Confidence": 80.18236541748047
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17239095270633698,
+              "Height": 0.6438990831375122,
+              "Left": 0.028162840753793716,
+              "Top": 0.0036446379963308573
+            },
+            "Confidence": 71.09292602539062
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.18005231022834778,
+              "Height": 0.39200758934020996,
+              "Left": 0.020724816247820854,
+              "Top": 0.3792688548564911
+            },
+            "Confidence": 59.982383728027344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2235751897096634,
+              "Height": 0.46396932005882263,
+              "Left": 0.0821472704410553,
+              "Top": 0.0
+            },
+            "Confidence": 55.69943618774414
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14328302443027496,
+              "Height": 0.3676379323005676,
+              "Left": 0.8549970984458923,
+              "Top": 0.5311073064804077
+            },
+            "Confidence": 51.35019302368164
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Taking Cover",
+        "Confidence": 50.90806579589844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 82.68567657470703,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.35445648431777954,
+              "Height": 0.634117841720581,
+              "Left": 0.6177800893783569,
+              "Top": 0.3600560426712036
+            },
+            "Confidence": 83.83583068847656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1000 @@
+Animal,Animal,88
+Architecture,Arquitectura,54
+Baby,Bebé,91
+Building,Edificio,54
+Cat,Gato,88
+Clinic,Clínica,51
+Clothing,Ropa,52
+Coat,Abrigo,52
+Crawling,Arrastrándose,57
+Doctor,Doctor,50
+Face,Rostro,56
+Fighting,Lucha,51
+Head,Cabeza,62
+Hospital,Hospital,54
+Indoors,Dentro,50
+Injury,Lesión,56
+Mammal,Mamífero,88
+Medical Procedure,Procedimiento Médico,50
+Operating Theatre,Quirófano,50
+Person,Persona,91
+Pet,Mascota,88
+Stain,Mancha,51
+Adult,Adulto,59
+Animal,Animal,82
+Architecture,Arquitectura,50
+Baby,Bebé,87
+Building,Edificio,50
+Cat,Gato,80
+Clothing,Ropa,51
+Crawling,Arrastrándose,54
+Face,Rostro,63
+Head,Cabeza,65
+Hospital,Hospital,50
+Injury,Lesión,55
+Male,Masculino,64
+Mammal,Mamífero,82
+Man,Hombre,59
+Person,Persona,89
+Pet,Mascota,80
+Taking Cover,Poniéndose a cubierto,50
+Adult,Adulto,50
+Animal,Animal,81
+Architecture,Arquitectura,51
+Baby,Bebé,80
+Building,Edificio,51
+Canine,Canino,74
+Cat,Gato,72
+Clothing,Ropa,57
+Coat,Abrigo,53
+Crawling,Arrastrándose,51
+Dog,Perro,69
+Face,Rostro,52
+Head,Cabeza,55
+Hospital,Hospital,51
+Injury,Lesión,58
+Male,Masculino,52
+Mammal,Mamífero,80
+Man,Hombre,50
+Person,Persona,87
+Pet,Mascota,75
+Adult,Adulto,79
+Animal,Animal,59
+Architecture,Arquitectura,52
+Bag,Bolsa,51
+Body Part,parte del cuerpo,51
+Building,Edificio,52
+Canine,Canino,51
+Clinic,Clínica,52
+Clothing,Ropa,85
+Coat,Abrigo,57
+Doctor,Doctor,52
+Female,Femenino,52
+Fitness,Aptitud física,53
+Glove,Guante,51
+Gym,Gimnasia,52
+Gym Weights,pesas de gimnasio,50
+Head,Cabeza,64
+Helmet,Casco,50
+Hospital,Hospital,52
+Indoors,Dentro,52
+Injury,Lesión,87
+Kissing,Besar,50
+Male,Masculino,78
+Mammal,Mamífero,56
+Man,Hombre,78
+Medical Procedure,Procedimiento Médico,52
+Operating Theatre,Quirófano,52
+Pants,Pantalones,74
+Person,Persona,94
+Romantic,Romántico,50
+Sleeping,Durmiendo,50
+Sport,Deporte,54
+Transportation,Transporte,51
+Vehicle,Vehículo,51
+Woman,Mujer,52
+Working Out,haciendo ejercicio,53
+Adult,Adulto,59
+Animal,Animal,81
+Architecture,Arquitectura,50
+Bag,Bolsa,50
+Building,Edificio,50
+Canine,Canino,63
+Clothing,Ropa,90
+Coat,Abrigo,86
+Dog,Perro,59
+Glove,Guante,52
+Head,Cabeza,61
+Hospital,Hospital,50
+Injury,Lesión,57
+Jacket,Chaqueta,50
+Male,Masculino,56
+Mammal,Mamífero,79
+Man,Hombre,56
+Pants,Pantalones,54
+Person,Persona,73
+Pet,Mascota,59
+Pig,Cerdo,70
+Raincoat,Impermeable,50
+Shorts,Bermudas,50
+Sleeping,Durmiendo,55
+Sport,Deporte,53
+Transportation,Transporte,53
+Vehicle,Vehículo,53
+Weapon,Arma,51
+Adult,Adulto,81
+Animal,Animal,72
+Barefoot,Descalzo,50
+Batman,Ordenanza,51
+Bird,Pájaro,64
+Canine,Canino,50
+Clothing,Ropa,58
+Coat,Abrigo,54
+Female,Femenino,68
+Injury,Lesión,56
+Male,Masculino,55
+Mammal,Mamífero,58
+Man,Hombre,55
+Person,Persona,83
+Pet,Mascota,51
+Pig,Cerdo,51
+Sleeping,Durmiendo,54
+Sport,Deporte,50
+Woman,Mujer,68
+Adult,Adulto,64
+Airport,Aeropuerto,50
+Alien,Extranjero,51
+Animal,Animal,82
+Architecture,Arquitectura,53
+Batman,Ordenanza,52
+Bird,Pájaro,50
+Building,Edificio,53
+Canine,Canino,63
+Clinic,Clínica,50
+Clothing,Ropa,52
+Doctor,Doctor,50
+Dog,Perro,63
+Duel,Duelo,50
+Hospital,Hospital,53
+Indoors,Dentro,50
+Injury,Lesión,54
+Kicking,Pateando,51
+Male,Masculino,61
+Mammal,Mamífero,81
+Man,Hombre,61
+Medical Procedure,Procedimiento Médico,50
+Operating Theatre,Quirófano,50
+Person,Persona,65
+Pet,Mascota,69
+Pig,Cerdo,74
+Sleeping,Durmiendo,54
+Weapon,Arma,52
+Adult,Adulto,79
+Alien,Extranjero,52
+Animal,Animal,80
+Architecture,Arquitectura,51
+Batman,Ordenanza,52
+Bird,Pájaro,52
+Building,Edificio,51
+Cat,Gato,66
+City,Ciudad,50
+Dragon,Dragón,50
+Head,Cabeza,73
+Hospital,Hospital,51
+Injury,Lesión,50
+Kicking,Pateando,52
+Male,Masculino,78
+Mammal,Mamífero,79
+Man,Hombre,78
+Person,Persona,82
+Pet,Mascota,75
+Road,Camino,50
+Street,Calle,50
+Urban,Urbano,50
+Wildlife,Fauna,50
+Adult,Adulto,89
+Airport,Aeropuerto,50
+Animal,Animal,75
+Bear,Oso,63
+Boy,Chico,61
+Canine,Canino,51
+Child,Niño,61
+Crawling,Arrastrándose,50
+Dog,Perro,51
+Female,Femenino,57
+Fighting,Lucha,50
+Head,Cabeza,72
+Injury,Lesión,51
+Kicking,Pateando,58
+Male,Masculino,89
+Mammal,Mamífero,75
+Man,Hombre,89
+Military,Militar,50
+Person,Persona,89
+Pet,Mascota,57
+Smoke Pipe,Pipa de humo,54
+Sport,Deporte,51
+Stretcher,Camilla,53
+Wildlife,Fauna,69
+Woman,Mujer,57
+Adult,Adulto,89
+Animal,Animal,83
+Bear,Oso,74
+Canine,Canino,73
+Cat,Gato,53
+Dog,Perro,73
+Fighting,Lucha,51
+Head,Cabeza,82
+Kicking,Pateando,55
+Male,Masculino,89
+Mammal,Mamífero,83
+Man,Hombre,89
+Person,Persona,89
+Pet,Mascota,76
+Stretcher,Camilla,54
+Wildlife,Fauna,77
+Adult,Adulto,95
+Animal,Animal,74
+Canine,Canino,71
+Dog,Perro,71
+Head,Cabeza,66
+Kicking,Pateando,54
+Male,Masculino,95
+Mammal,Mamífero,74
+Man,Hombre,95
+Person,Persona,95
+Pet,Mascota,71
+Rescue,Rescate,51
+Stretcher,Camilla,52
+War,Guerra,57
+Wildlife,Fauna,50
+Adult,Adulto,92
+Airport,Aeropuerto,50
+Animal,Animal,88
+Canine,Canino,75
+Cannon,Cañón,51
+Cat,Gato,58
+Clothing,Ropa,50
+Dog,Perro,75
+Face,Rostro,64
+Female,Femenino,70
+Head,Cabeza,71
+Kicking,Pateando,51
+Male,Masculino,92
+Mammal,Mamífero,88
+Man,Hombre,92
+Military,Militar,54
+Navy,Marina de guerra,51
+Person,Persona,92
+Pet,Mascota,76
+Pig,Cerdo,79
+War,Guerra,88
+Weapon,Arma,51
+Woman,Mujer,70
+Adult,Adulto,94
+Airport,Aeropuerto,50
+Animal,Animal,81
+Canine,Canino,77
+Cannon,Cañón,51
+Cat,Gato,68
+Dog,Perro,77
+Face,Rostro,59
+Gun,Pistola,50
+Head,Cabeza,61
+Helmet,Casco,52
+Male,Masculino,94
+Mammal,Mamífero,81
+Man,Hombre,94
+Military,Militar,53
+Military Uniform,Uniforme militar,50
+Person,Persona,94
+Pet,Mascota,79
+Soldier,Soldado,50
+War,Guerra,78
+Weapon,Arma,51
+Adult,Adulto,92
+Animal,Animal,70
+Architecture,Arquitectura,53
+Bag,Bolsa,50
+Bird,Pájaro,53
+Building,Edificio,53
+Canine,Canino,57
+Cannon,Cañón,51
+Cat,Gato,62
+Clinic,Clínica,51
+Clothing,Ropa,72
+Coat,Abrigo,72
+Crash Helmet,Casco protector,51
+Doctor,Doctor,51
+Dog,Perro,54
+Female,Femenino,54
+Hardhat,casco,58
+Helmet,Casco,85
+Hospital,Hospital,53
+Indoors,Dentro,51
+Male,Masculino,92
+Mammal,Mamífero,70
+Man,Hombre,92
+Medical Procedure,Procedimiento Médico,51
+Military,Militar,51
+Military Uniform,Uniforme militar,50
+Nature,Naturaleza,53
+Operating Theatre,Quirófano,51
+Outdoors,Al aire libre,53
+Person,Persona,92
+Pet,Mascota,69
+Snow,Nieve,51
+Soldier,Soldado,50
+Transportation,Transporte,54
+Vehicle,Vehículo,54
+Vulture,Buitre,51
+Weapon,Arma,51
+Woman,Mujer,54
+Adult,Adulto,94
+Aircraft,Aeronave,53
+Airport,Aeropuerto,50
+Animal,Animal,52
+Architecture,Arquitectura,52
+Batman,Ordenanza,51
+Building,Edificio,52
+Cannon,Cañón,50
+Clinic,Clínica,52
+Clothing,Ropa,57
+Coat,Abrigo,56
+Crash Helmet,Casco protector,53
+Female,Femenino,72
+Gun,Pistola,50
+Head,Cabeza,57
+Helicopter,Helicóptero,53
+Helmet,Casco,85
+Hospital,Hospital,52
+Injury,Lesión,52
+Jacket,Chaqueta,51
+Male,Masculino,94
+Mammal,Mamífero,52
+Man,Hombre,94
+Military,Militar,51
+Nature,Naturaleza,51
+Outdoors,Al aire libre,52
+Pants,Pantalones,51
+Patient,Paciente,51
+Person,Persona,94
+Pet,Mascota,52
+Transportation,Transporte,55
+Vehicle,Vehículo,55
+Weapon,Arma,50
+Woman,Mujer,72
+Adult,Adulto,85
+Aircraft,Aeronave,50
+Animal,Animal,51
+Bench,Banco,50
+Clothing,Ropa,55
+Fighting,Lucha,51
+Furniture,Muebles,50
+Head,Cabeza,65
+Helicopter,Helicóptero,50
+Helmet,Casco,56
+Injury,Lesión,50
+Kicking,Pateando,53
+Male,Masculino,85
+Mammal,Mamífero,51
+Man,Hombre,85
+Pants,Pantalones,53
+Person,Persona,85
+Pet,Mascota,51
+Transportation,Transporte,51
+Vehicle,Vehículo,51
+Adult,Adulto,94
+Aircraft,Aeronave,50
+Animal,Animal,60
+Cat,Gato,54
+Clothing,Ropa,51
+Crash Helmet,Casco protector,50
+Fighting,Lucha,52
+Head,Cabeza,74
+Helicopter,Helicóptero,50
+Helmet,Casco,57
+Injury,Lesión,51
+Kicking,Pateando,53
+Male,Masculino,94
+Mammal,Mamífero,60
+Man,Hombre,94
+Person,Persona,94
+Pet,Mascota,60
+Rescue,Rescate,51
+Transportation,Transporte,51
+Vehicle,Vehículo,51
+Adult,Adulto,92
+Airport,Aeropuerto,50
+Animal,Animal,66
+Cannon,Cañón,51
+Cat,Gato,62
+Clothing,Ropa,57
+Crash Helmet,Casco protector,52
+Face,Rostro,54
+Head,Cabeza,76
+Helmet,Casco,74
+Kicking,Pateando,53
+Male,Masculino,92
+Mammal,Mamífero,66
+Man,Hombre,92
+Pants,Pantalones,54
+Person,Persona,96
+Pet,Mascota,64
+Transportation,Transporte,53
+Vehicle,Vehículo,53
+War,Guerra,51
+Weapon,Arma,59
+Worker,Obrero,51
+Adult,Adulto,95
+Airfield,Aeródromo,50
+Airport,Aeropuerto,51
+Animal,Animal,67
+Army,Ejército,51
+Cannon,Cañón,51
+Cat,Gato,63
+Clothing,Ropa,55
+Coat,Abrigo,54
+Female,Femenino,70
+Gun,Pistola,51
+Head,Cabeza,74
+Helmet,Casco,53
+Injury,Lesión,51
+Kicking,Pateando,50
+Male,Masculino,95
+Mammal,Mamífero,67
+Man,Hombre,95
+Military,Militar,55
+Military Uniform,Uniforme militar,52
+Navy,Marina de guerra,52
+Person,Persona,95
+Pet,Mascota,63
+Rescue,Rescate,67
+Ship,Barco,51
+Soldier,Soldado,52
+Transportation,Transporte,52
+Vehicle,Vehículo,52
+War,Guerra,63
+Weapon,Arma,54
+Woman,Mujer,70
+Worker,Obrero,51
+Adult,Adulto,94
+Aircraft,Aeronave,51
+Aircraft Carrier,Portaaviones,50
+Airport,Aeropuerto,51
+Ammunition,Munición,50
+Animal,Animal,53
+Army,Ejército,51
+Cannon,Cañón,55
+Clothing,Ropa,73
+Coat,Abrigo,72
+Face,Rostro,66
+Female,Femenino,52
+Gun,Pistola,55
+Head,Cabeza,77
+Helicopter,Helicóptero,51
+Helmet,Casco,51
+Male,Masculino,94
+Mammal,Mamífero,53
+Man,Hombre,94
+Military,Militar,54
+Military Uniform,Uniforme militar,52
+Nature,Naturaleza,50
+Navy,Marina de guerra,52
+Nuclear,Nuclear,51
+Outdoors,Al aire libre,50
+Person,Persona,94
+Ship,Barco,52
+Soldier,Soldado,52
+Torpedo,Torpedo,52
+Transportation,Transporte,53
+Vehicle,Vehículo,53
+War,Guerra,87
+Weapon,Arma,59
+Woman,Mujer,52
+Adult,Adulto,81
+Animal,Animal,62
+Cannon,Cañón,51
+Cat,Gato,51
+Clothing,Ropa,54
+Female,Femenino,55
+Firearm,Arma de fuego,72
+Gun,Pistola,84
+Head,Cabeza,64
+Male,Masculino,81
+Mammal,Mamífero,62
+Man,Hombre,81
+Pants,Pantalones,50
+Person,Persona,81
+Pet,Mascota,51
+Rifle,Rifle,72
+Sword,Espada,60
+Transportation,Transporte,50
+Vehicle,Vehículo,50
+War,Guerra,57
+Weapon,Arma,85
+Woman,Mujer,55
+Adult,Adulto,94
+Aircraft,Aeronave,52
+Aircraft Carrier,Portaaviones,50
+Airfield,Aeródromo,51
+Airport,Aeropuerto,53
+Ammunition,Munición,50
+Animal,Animal,51
+Clothing,Ropa,56
+Coat,Abrigo,56
+Face,Rostro,68
+Gun,Pistola,53
+Head,Cabeza,74
+Helicopter,Helicóptero,52
+Injury,Lesión,50
+Kicking,Pateando,50
+License Plate,Matrícula,50
+Male,Masculino,94
+Mammal,Mamífero,51
+Man,Hombre,94
+Military,Militar,52
+Military Uniform,Uniforme militar,51
+Navy,Marina de guerra,51
+Person,Persona,94
+Rescue,Rescate,52
+Ship,Barco,51
+Soldier,Soldado,51
+Transportation,Transporte,52
+Vehicle,Vehículo,52
+War,Guerra,61
+Weapon,Arma,55
+Worker,Obrero,50
+Adult,Adulto,95
+Aircraft,Aeronave,52
+Airfield,Aeródromo,52
+Airport,Aeropuerto,53
+Ammunition,Munición,50
+Army,Ejército,51
+Clothing,Ropa,55
+Coat,Abrigo,55
+Face,Rostro,63
+Fighting,Lucha,51
+Gun,Pistola,50
+Head,Cabeza,69
+Helicopter,Helicóptero,52
+Injury,Lesión,50
+License Plate,Matrícula,51
+Male,Masculino,95
+Man,Hombre,95
+Military,Militar,55
+Military Uniform,Uniforme militar,52
+Navy,Marina de guerra,52
+People,Gente,51
+Person,Persona,95
+Rescue,Rescate,75
+Ship,Barco,51
+Soldier,Soldado,52
+Torpedo,Torpedo,50
+Transportation,Transporte,52
+Vehicle,Vehículo,52
+War,Guerra,83
+Weapon,Arma,53
+Worker,Obrero,52
+Adult,Adulto,92
+Aircraft,Aeronave,50
+Airfield,Aeródromo,51
+Airport,Aeropuerto,52
+Ammunition,Munición,50
+Army,Ejército,51
+Clothing,Ropa,53
+Coat,Abrigo,53
+Cruiser,Crucero,50
+Face,Rostro,52
+Fighting,Lucha,64
+Head,Cabeza,66
+Helicopter,Helicóptero,50
+Male,Masculino,96
+Man,Hombre,92
+Military,Militar,54
+Military Uniform,Uniforme militar,52
+Navy,Marina de guerra,50
+Outdoors,Al aire libre,50
+People,Gente,51
+Person,Persona,96
+Rescue,Rescate,71
+Ship,Barco,50
+Soldier,Soldado,52
+Transportation,Transporte,52
+Vehicle,Vehículo,52
+War,Guerra,95
+Weapon,Arma,52
+Worker,Obrero,52
+Adult,Adulto,84
+Aircraft,Aeronave,50
+Airfield,Aeródromo,50
+Airport,Aeropuerto,51
+Army,Ejército,51
+Cannon,Cañón,50
+Clothing,Ropa,52
+Cruiser,Crucero,50
+Face,Rostro,60
+Head,Cabeza,71
+Male,Masculino,96
+Man,Hombre,84
+Military,Militar,56
+Military Uniform,Uniforme militar,52
+Navy,Marina de guerra,50
+Outdoors,Al aire libre,50
+Person,Persona,96
+Rescue,Rescate,69
+Ship,Barco,50
+Soldier,Soldado,52
+Transportation,Transporte,53
+Vehicle,Vehículo,53
+War,Guerra,97
+Water,Agua,51
+Weapon,Arma,53
+Aircraft,Aeronave,54
+Amphibious Vehicle,Vehículo anfibio,51
+Armored,Blindado,76
+Boat,Bote,50
+Boy,Chico,83
+Cannon,Cañón,50
+Child,Niño,83
+Cruiser,Crucero,52
+Harbor,Puerto,51
+Helicopter,Helicóptero,53
+Leisure Activities,Actividades de ocio,51
+Male,Masculino,92
+Military,Militar,77
+Nature,Naturaleza,71
+Navy,Marina de guerra,52
+Outdoors,Al aire libre,76
+Person,Persona,92
+Pier,Muelle,51
+Rescue,Rescate,52
+Sea,Mar,51
+Ship,Barco,52
+Sport,Deporte,55
+Taking Cover,Poniéndose a cubierto,50
+Tank,Tanque,76
+Transportation,Transporte,77
+Vehicle,Vehículo,77
+War,Guerra,99
+Water,Agua,75
+Watercraft,Moto acuática,50
+Waterfront,Frente al mar,54
+Weapon,Arma,77
+Yacht,Yate,54
+Aircraft,Aeronave,55
+Amphibious Vehicle,Vehículo anfibio,52
+Animal,Animal,51
+Armored,Blindado,61
+Bird,Pájaro,51
+Boat,Bote,51
+Boy,Chico,83
+Cannon,Cañón,51
+Child,Niño,83
+Cruiser,Crucero,54
+Harbor,Puerto,52
+Helicopter,Helicóptero,55
+Leisure Activities,Actividades de ocio,54
+Male,Masculino,85
+Military,Militar,61
+Military Uniform,Uniforme militar,50
+Nature,Naturaleza,58
+Navy,Marina de guerra,54
+Outdoors,Al aire libre,66
+Person,Persona,88
+Pier,Muelle,52
+Sea,Mar,53
+Ship,Barco,54
+Soldier,Soldado,50
+Sport,Deporte,57
+Swimming,Nadar,54
+Tank,Tanque,61
+Transportation,Transporte,61
+Vehicle,Vehículo,61
+War,Guerra,99
+Water,Agua,77
+Water Sports,Deportes acuáticos,54
+Watercraft,Moto acuática,51
+Waterfront,Frente al mar,55
+Weapon,Arma,61
+Yacht,Yate,54
+Aircraft,Aeronave,55
+Amphibious Vehicle,Vehículo anfibio,51
+Animal,Animal,54
+Armored,Blindado,82
+Barge,Barcaza,50
+Beach,Playa,53
+Bird,Pájaro,54
+Boat,Bote,52
+Boy,Chico,73
+Cannon,Cañón,51
+Canoe,Canoa,50
+Child,Niño,73
+Clothing,Ropa,50
+Coast,Costa,53
+Crab,Cangrejo,50
+Cruiser,Crucero,54
+Diving,Buceo,50
+Fishing,Pesca,52
+Food,Alimento,50
+Harbor,Puerto,53
+Helicopter,Helicóptero,55
+Horizon,Horizonte,52
+Invertebrate,Invertebrado,50
+Kayak,Kayac,50
+Leisure Activities,Actividades de ocio,75
+Male,Masculino,73
+Military,Militar,82
+Nature,Naturaleza,68
+Navy,Marina de guerra,54
+Outdoors,Al aire libre,79
+People,Gente,51
+Person,Persona,82
+Pier,Muelle,53
+Rock,Roca,52
+Rowboat,Bote de remos,50
+Sailboat,Velero,51
+Sea,Mar,67
+Sea Life,vida marina,50
+Sea Waves,Olas del mar,50
+Seafood,Mariscos,50
+Ship,Barco,54
+Shipwreck,Naufragio,50
+Shoreline,Orilla,53
+Sky,Cielo,54
+Sport,Deporte,75
+Swimming,Nadar,75
+Swimwear,Trajes de baño,50
+Tank,Tanque,82
+Transportation,Transporte,82
+Vehicle,Vehículo,82
+War,Guerra,99
+Water,Agua,87
+Water Sports,Deportes acuáticos,75
+Watercraft,Moto acuática,52
+Waterfowl,aves acuáticas,51
+Waterfront,Frente al mar,71
+Weapon,Arma,82
+Yacht,Yate,56
+Aircraft,Aeronave,54
+Amphibious Vehicle,Vehículo anfibio,53
+Animal,Animal,73
+Armored,Blindado,64
+Beach,Playa,51
+Bird,Pájaro,73
+Boat,Bote,53
+Cannon,Cañón,50
+Canoe,Canoa,50
+Clothing,Ropa,50
+Coast,Costa,51
+Coast Guard,Guardia Costera,50
+Cruiser,Crucero,53
+Fishing,Pesca,50
+Harbor,Puerto,51
+Helicopter,Helicóptero,54
+Horizon,Horizonte,51
+Kayak,Kayac,50
+Leisure Activities,Actividades de ocio,63
+Military,Militar,65
+Nature,Naturaleza,57
+Navy,Marina de guerra,53
+Outdoors,Al aire libre,64
+People,Gente,57
+Person,Persona,69
+Pier,Muelle,51
+Rowboat,Bote de remos,50
+Sea,Mar,57
+Ship,Barco,53
+Shoreline,Orilla,51
+Sky,Cielo,52
+Sport,Deporte,63
+Swimming,Nadar,63
+Tank,Tanque,64
+Transportation,Transporte,65
+Tubing,Tubería,50
+Vehicle,Vehículo,65
+War,Guerra,99
+Water,Agua,80
+Water Sports,Deportes acuáticos,63
+Watercraft,Moto acuática,52
+Waterfront,Frente al mar,55
+Weapon,Arma,64
+Yacht,Yate,56
+Aircraft,Aeronave,54
+Amphibious Vehicle,Vehículo anfibio,54
+Animal,Animal,50
+Architecture,Arquitectura,62
+Armored,Blindado,52
+Barge,Barcaza,50
+Beach,Playa,51
+Bird,Pájaro,50
+Boat,Bote,52
+Boy,Chico,86
+Child,Niño,86
+Coast,Costa,51
+Cruiser,Crucero,54
+Face,Rostro,56
+Harbor,Puerto,52
+Head,Cabeza,67
+Helicopter,Helicóptero,54
+Horizon,Horizonte,52
+Leisure Activities,Actividades de ocio,58
+Male,Masculino,86
+Military,Militar,58
+Nature,Naturaleza,57
+Navy,Marina de guerra,54
+Outdoors,Al aire libre,59
+People,Gente,66
+Person,Persona,92
+Pier,Muelle,52
+Sea,Mar,56
+Ship,Barco,54
+Shoreline,Orilla,51
+Sky,Cielo,52
+Sport,Deporte,58
+Swimming,Nadar,58
+Taking Cover,Poniéndose a cubierto,50
+Tank,Tanque,52
+Transportation,Transporte,59
+Turret,Torreta,51
+Vehicle,Vehículo,59
+War,Guerra,99
+Water,Agua,78
+Water Sports,Deportes acuáticos,58
+Watercraft,Moto acuática,51
+Waterfront,Frente al mar,54
+Weapon,Arma,54
+Yacht,Yate,56
+Adult,Adulto,71
+Aircraft,Aeronave,53
+Amphibious Vehicle,Vehículo anfibio,54
+Architecture,Arquitectura,51
+Armored,Blindado,63
+Barge,Barcaza,50
+Beach,Playa,51
+Boat,Bote,52
+Boy,Chico,84
+Child,Niño,84
+Coast,Costa,51
+Cruiser,Crucero,54
+Face,Rostro,72
+Harbor,Puerto,52
+Head,Cabeza,75
+Helicopter,Helicóptero,53
+Horizon,Horizonte,54
+Leisure Activities,Actividades de ocio,54
+Male,Masculino,84
+Man,Hombre,71
+Military,Militar,64
+Mortar Shell,Proyectil de mortero,55
+Nature,Naturaleza,61
+Navy,Marina de guerra,54
+Outdoors,Al aire libre,64
+People,Gente,68
+Person,Persona,87
+Pier,Muelle,52
+Sea,Mar,56
+Ship,Barco,54
+Shoreline,Orilla,51
+Sky,Cielo,54
+Sport,Deporte,54
+Swimming,Nadar,54
+Tank,Tanque,63
+Transportation,Transporte,64
+Vehicle,Vehículo,64
+War,Guerra,99
+Water,Agua,74
+Water Sports,Deportes acuáticos,54
+Watercraft,Moto acuática,51
+Waterfront,Frente al mar,54
+Weapon,Arma,64
+Yacht,Yate,56
+Adult,Adulto,79
+Aircraft,Aeronave,54
+Amphibious Vehicle,Vehículo anfibio,53
+Architecture,Arquitectura,71
+Armored,Blindado,50
+Beach,Playa,51
+Boat,Bote,51
+Boy,Chico,91
+Child,Niño,91
+Coast,Costa,51
+Cruiser,Crucero,53
+Face,Rostro,66
+Harbor,Puerto,52
+Head,Cabeza,71
+Helicopter,Helicóptero,53
+Horizon,Horizonte,52
+Leisure Activities,Actividades de ocio,55
+Male,Masculino,91
+Man,Hombre,79
+Military,Militar,56
+Mortar Shell,Proyectil de mortero,52
+Nature,Naturaleza,58
+Navy,Marina de guerra,53
+Outdoors,Al aire libre,63
+People,Gente,55
+Person,Persona,91
+Pier,Muelle,52
+Sea,Mar,57
+Ship,Barco,53
+Shoreline,Orilla,51
+Sky,Cielo,53
+Sport,Deporte,55
+Swimming,Nadar,55
+Taking Cover,Poniéndose a cubierto,50
+Transportation,Transporte,58
+Turret,Torreta,60
+Vehicle,Vehículo,58
+War,Guerra,99
+Water,Agua,79
+Water Sports,Deportes acuáticos,55
+Watercraft,Moto acuática,50
+Waterfront,Frente al mar,54
+Weapon,Arma,62
+Yacht,Yate,55
+Adult,Adulto,63
+Aircraft,Aeronave,56
+Amphibious Vehicle,Vehículo anfibio,50
+Animal,Animal,66
+Armored,Blindado,66
+Beach,Playa,52
+Bird,Pájaro,66
+Boy,Chico,93
+Child,Niño,93
+Coast,Costa,52
+Cruiser,Crucero,53
+Face,Rostro,62
+Harbor,Puerto,51
+Head,Cabeza,71
+Helicopter,Helicóptero,53
+Horizon,Horizonte,50
+Leisure Activities,Actividades de ocio,52
+Male,Masculino,93
+Man,Hombre,63
+Military,Militar,67
+Nature,Naturaleza,70
+Navy,Marina de guerra,53
+Outdoors,Al aire libre,72
+People,Gente,51
+Person,Persona,93
+Pier,Muelle,51
+Sea,Mar,70
+Sea Waves,Olas del mar,51
+Ship,Barco,53
+Shoreline,Orilla,52
+Sky,Cielo,54
+Sport,Deporte,52
+Sun,Sol,50
+Swimming,Nadar,52
+Tank,Tanque,66
+Transportation,Transporte,71
+Vehicle,Vehículo,71
+War,Guerra,98
+Water,Agua,75
+Water Sports,Deportes acuáticos,52
+Waterfront,Frente al mar,52
+Weapon,Arma,68
+Yacht,Yate,56
+Aircraft,Aeronave,82
+Airplane,Avión,81
+Amphibious Vehicle,Vehículo anfibio,51
+Beach,Playa,52
+Boat,Bote,50
+Boy,Chico,93
+Child,Niño,93
+Coast,Costa,52
+Crawling,Arrastrándose,51
+Cruiser,Crucero,53
+Harbor,Puerto,51
+Head,Cabeza,63
+Helicopter,Helicóptero,54
+Horizon,Horizonte,51
+Leisure Activities,Actividades de ocio,56
+Male,Masculino,93
+Military,Militar,55
+Nature,Naturaleza,58
+Navy,Marina de guerra,53
+Outdoors,Al aire libre,67
+People,Gente,58
+Person,Persona,93

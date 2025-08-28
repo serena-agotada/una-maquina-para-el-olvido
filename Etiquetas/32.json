@@ -1,0 +1,6004 @@
+{
+  "Video": "32.mp4",
+  "JobId": "8c0791336ee008f09e81719edac24c25c7941fd6f887ebaa6bfd38ffb3f5c565",
+  "JobStatus": "SUCCEEDED",
+  "VideoMetadata": {
+    "Codec": "h264",
+    "DurationMillis": 5240,
+    "Format": "QuickTime / MOV",
+    "FrameRate": 25.0,
+    "FrameHeight": 900,
+    "FrameWidth": 1366,
+    "ColorRange": "LIMITED"
+  },
+  "Labels": [
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 69.98434448242188,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14681459963321686,
+              "Height": 0.5291759371757507,
+              "Left": 0.012983865104615688,
+              "Top": 0.07364688813686371
+            },
+            "Confidence": 71.291259765625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20313671231269836,
+              "Height": 0.45143556594848633,
+              "Left": 0.5960144400596619,
+              "Top": 0.009879055432975292
+            },
+            "Confidence": 68.69536590576172
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3995843529701233,
+              "Height": 0.9467180967330933,
+              "Left": 0.1054578498005867,
+              "Top": 0.05139949917793274
+            },
+            "Confidence": 56.43217086791992
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Bus Stop",
+        "Confidence": 51.21650314331055,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 56.05387496948242,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 75.43607330322266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 69.98434448242188,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14681459963321686,
+              "Height": 0.5291759371757507,
+              "Left": 0.012983865104615688,
+              "Top": 0.07364688813686371
+            },
+            "Confidence": 71.291259765625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20313671231269836,
+              "Height": 0.45143556594848633,
+              "Left": 0.5960144400596619,
+              "Top": 0.009879055432975292
+            },
+            "Confidence": 68.69536590576172
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3995843529701233,
+              "Height": 0.9467180967330933,
+              "Left": 0.1054578498005867,
+              "Top": 0.05139949917793274
+            },
+            "Confidence": 56.43217086791992
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 69.98434448242188,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14681459963321686,
+              "Height": 0.5291759371757507,
+              "Left": 0.012983865104615688,
+              "Top": 0.07364688813686371
+            },
+            "Confidence": 71.291259765625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20313671231269836,
+              "Height": 0.45143556594848633,
+              "Left": 0.5960144400596619,
+              "Top": 0.009879055432975292
+            },
+            "Confidence": 68.69536590576172
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3995843529701233,
+              "Height": 0.9467180967330933,
+              "Left": 0.1054578498005867,
+              "Top": 0.05139949917793274
+            },
+            "Confidence": 56.43217086791992
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 96.48775482177734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 96.48775482177734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 75.43607330322266,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14681459963321686,
+              "Height": 0.5291759371757507,
+              "Left": 0.012983865104615688,
+              "Top": 0.07364688813686371
+            },
+            "Confidence": 71.291259765625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20313671231269836,
+              "Height": 0.45143556594848633,
+              "Left": 0.5960144400596619,
+              "Top": 0.009879055432975292
+            },
+            "Confidence": 68.69536590576172
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3995843529701233,
+              "Height": 0.9467180967330933,
+              "Left": 0.1054578498005867,
+              "Top": 0.05139949917793274
+            },
+            "Confidence": 56.43217086791992
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Rain",
+        "Confidence": 50.09072494506836,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Riot",
+        "Confidence": 50.60894012451172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Smog",
+        "Confidence": 54.92071533203125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Smoke"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 54.93499755859375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Snow",
+        "Confidence": 53.54805374145508,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 52.87579345703125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Tornado",
+        "Confidence": 52.61186218261719,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 94.04505920410156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 59.654388427734375,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.17613628506660461,
+              "Height": 0.4444354474544525,
+              "Left": 0.4645848572254181,
+              "Top": 0.15326182544231415
+            },
+            "Confidence": 55.864925384521484
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2560789883136749,
+              "Height": 0.9873537421226501,
+              "Left": 0.11911190301179886,
+              "Top": 0.0
+            },
+            "Confidence": 54.33219528198242
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17953024804592133,
+              "Height": 0.546680748462677,
+              "Left": 0.3544037938117981,
+              "Top": 0.0055281068198382854
+            },
+            "Confidence": 51.40671157836914
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24074070155620575,
+              "Height": 0.8235223889350891,
+              "Left": 0.7554565072059631,
+              "Top": 0.08626747131347656
+            },
+            "Confidence": 50.73064422607422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19502295553684235,
+              "Height": 0.3093147575855255,
+              "Left": 0.38186925649642944,
+              "Top": 0.0030345343984663486
+            },
+            "Confidence": 50.20002746582031
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12905243039131165,
+              "Height": 0.6623929142951965,
+              "Left": 0.07319459319114685,
+              "Top": 0.1110793724656105
+            },
+            "Confidence": 50.05348205566406
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 54.486854553222656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 53.79878234863281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 70.27771759033203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Hurricane",
+        "Confidence": 50.39693069458008,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 59.654388427734375,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.17613628506660461,
+              "Height": 0.4444354474544525,
+              "Left": 0.4645848572254181,
+              "Top": 0.15326182544231415
+            },
+            "Confidence": 55.864925384521484
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2560789883136749,
+              "Height": 0.9873537421226501,
+              "Left": 0.11911190301179886,
+              "Top": 0.0
+            },
+            "Confidence": 54.33219528198242
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17953024804592133,
+              "Height": 0.546680748462677,
+              "Left": 0.3544037938117981,
+              "Top": 0.0055281068198382854
+            },
+            "Confidence": 51.40671157836914
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24074070155620575,
+              "Height": 0.8235223889350891,
+              "Left": 0.7554565072059631,
+              "Top": 0.08626747131347656
+            },
+            "Confidence": 50.73064422607422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19502295553684235,
+              "Height": 0.3093147575855255,
+              "Left": 0.38186925649642944,
+              "Top": 0.0030345343984663486
+            },
+            "Confidence": 50.20002746582031
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12905243039131165,
+              "Height": 0.6623929142951965,
+              "Left": 0.07319459319114685,
+              "Top": 0.1110793724656105
+            },
+            "Confidence": 50.05348205566406
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 59.654388427734375,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.17613628506660461,
+              "Height": 0.4444354474544525,
+              "Left": 0.4645848572254181,
+              "Top": 0.15326182544231415
+            },
+            "Confidence": 55.864925384521484
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2560789883136749,
+              "Height": 0.9873537421226501,
+              "Left": 0.11911190301179886,
+              "Top": 0.0
+            },
+            "Confidence": 54.33219528198242
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17953024804592133,
+              "Height": 0.546680748462677,
+              "Left": 0.3544037938117981,
+              "Top": 0.0055281068198382854
+            },
+            "Confidence": 51.40671157836914
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24074070155620575,
+              "Height": 0.8235223889350891,
+              "Left": 0.7554565072059631,
+              "Top": 0.08626747131347656
+            },
+            "Confidence": 50.73064422607422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19502295553684235,
+              "Height": 0.3093147575855255,
+              "Left": 0.38186925649642944,
+              "Top": 0.0030345343984663486
+            },
+            "Confidence": 50.20002746582031
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12905243039131165,
+              "Height": 0.6623929142951965,
+              "Left": 0.07319459319114685,
+              "Top": 0.1110793724656105
+            },
+            "Confidence": 50.05348205566406
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 88.66200256347656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 88.66200256347656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 71.43401336669922,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.17613628506660461,
+              "Height": 0.4444354474544525,
+              "Left": 0.4645848572254181,
+              "Top": 0.15326182544231415
+            },
+            "Confidence": 55.864925384521484
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2560789883136749,
+              "Height": 0.9873537421226501,
+              "Left": 0.11911190301179886,
+              "Top": 0.0
+            },
+            "Confidence": 54.33219528198242
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17953024804592133,
+              "Height": 0.546680748462677,
+              "Left": 0.3544037938117981,
+              "Top": 0.0055281068198382854
+            },
+            "Confidence": 51.40671157836914
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24074070155620575,
+              "Height": 0.8235223889350891,
+              "Left": 0.7554565072059631,
+              "Top": 0.08626747131347656
+            },
+            "Confidence": 50.73064422607422
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19502295553684235,
+              "Height": 0.3093147575855255,
+              "Left": 0.38186925649642944,
+              "Top": 0.0030345343984663486
+            },
+            "Confidence": 50.20002746582031
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12905243039131165,
+              "Height": 0.6623929142951965,
+              "Left": 0.07319459319114685,
+              "Top": 0.1110793724656105
+            },
+            "Confidence": 50.05348205566406
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Rain",
+        "Confidence": 51.536380767822266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Riot",
+        "Confidence": 53.99745559692383,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Smog",
+        "Confidence": 51.268218994140625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Smoke"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 51.269832611083984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 52.08378219604492,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Tornado",
+        "Confidence": 50.23944091796875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "War",
+        "Confidence": 50.24614334106445,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 72.35322570800781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 74.0891342163086,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1425284445285797,
+              "Height": 0.29957062005996704,
+              "Left": 0.31169945001602173,
+              "Top": 0.0
+            },
+            "Confidence": 77.31260681152344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17423813045024872,
+              "Height": 0.3918449878692627,
+              "Left": 0.25022009015083313,
+              "Top": 0.0018776130164042115
+            },
+            "Confidence": 65.50088500976562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19713760912418365,
+              "Height": 0.5625752806663513,
+              "Left": 0.15718884766101837,
+              "Top": 0.025101985782384872
+            },
+            "Confidence": 64.47491455078125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14594511687755585,
+              "Height": 0.29026514291763306,
+              "Left": 0.3827022314071655,
+              "Top": 0.0010264968732371926
+            },
+            "Confidence": 57.877559661865234
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1697390079498291,
+              "Height": 0.385226309299469,
+              "Left": 0.3366859257221222,
+              "Top": 0.0
+            },
+            "Confidence": 55.68939971923828
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1294058859348297,
+              "Height": 0.4434678256511688,
+              "Left": 0.4448646008968353,
+              "Top": 0.08308269828557968
+            },
+            "Confidence": 54.37557601928711
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 50.012393951416016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 74.15422821044922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 74.0891342163086,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1425284445285797,
+              "Height": 0.29957062005996704,
+              "Left": 0.31169945001602173,
+              "Top": 0.0
+            },
+            "Confidence": 77.31260681152344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17423813045024872,
+              "Height": 0.3918449878692627,
+              "Left": 0.25022009015083313,
+              "Top": 0.0018776130164042115
+            },
+            "Confidence": 65.50088500976562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19713760912418365,
+              "Height": 0.5625752806663513,
+              "Left": 0.15718884766101837,
+              "Top": 0.025101985782384872
+            },
+            "Confidence": 64.47491455078125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1697390079498291,
+              "Height": 0.385226309299469,
+              "Left": 0.3366859257221222,
+              "Top": 0.0
+            },
+            "Confidence": 55.68939971923828
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1294058859348297,
+              "Height": 0.4434678256511688,
+              "Left": 0.4448646008968353,
+              "Top": 0.08308269828557968
+            },
+            "Confidence": 54.37557601928711
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 74.0891342163086,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1425284445285797,
+              "Height": 0.29957062005996704,
+              "Left": 0.31169945001602173,
+              "Top": 0.0
+            },
+            "Confidence": 77.31260681152344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17423813045024872,
+              "Height": 0.3918449878692627,
+              "Left": 0.25022009015083313,
+              "Top": 0.0018776130164042115
+            },
+            "Confidence": 65.50088500976562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19713760912418365,
+              "Height": 0.5625752806663513,
+              "Left": 0.15718884766101837,
+              "Top": 0.025101985782384872
+            },
+            "Confidence": 64.47491455078125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1697390079498291,
+              "Height": 0.385226309299469,
+              "Left": 0.3366859257221222,
+              "Top": 0.0
+            },
+            "Confidence": 55.68939971923828
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1294058859348297,
+              "Height": 0.4434678256511688,
+              "Left": 0.4448646008968353,
+              "Top": 0.08308269828557968
+            },
+            "Confidence": 54.37557601928711
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 63.37748336791992,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 63.37748336791992,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 76.4209976196289,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1425284445285797,
+              "Height": 0.29957062005996704,
+              "Left": 0.31169945001602173,
+              "Top": 0.0
+            },
+            "Confidence": 77.31260681152344
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17423813045024872,
+              "Height": 0.3918449878692627,
+              "Left": 0.25022009015083313,
+              "Top": 0.0018776130164042115
+            },
+            "Confidence": 65.50088500976562
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19713760912418365,
+              "Height": 0.5625752806663513,
+              "Left": 0.15718884766101837,
+              "Top": 0.025101985782384872
+            },
+            "Confidence": 64.47491455078125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14594511687755585,
+              "Height": 0.29026514291763306,
+              "Left": 0.3827022314071655,
+              "Top": 0.0010264968732371926
+            },
+            "Confidence": 57.877559661865234
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1697390079498291,
+              "Height": 0.385226309299469,
+              "Left": 0.3366859257221222,
+              "Top": 0.0
+            },
+            "Confidence": 55.68939971923828
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1294058859348297,
+              "Height": 0.4434678256511688,
+              "Left": 0.4448646008968353,
+              "Top": 0.08308269828557968
+            },
+            "Confidence": 54.37557601928711
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Riot",
+        "Confidence": 82.09173583984375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 51.410526275634766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Tornado",
+        "Confidence": 50.33729553222656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 57.971675872802734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 65.96915435791016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10856416076421738,
+              "Height": 0.36396104097366333,
+              "Left": 0.4728999137878418,
+              "Top": 0.1354811042547226
+            },
+            "Confidence": 61.695594787597656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 50.5399169921875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 58.34449768066406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Hurricane",
+        "Confidence": 51.13005828857422,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 65.96915435791016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10856416076421738,
+              "Height": 0.36396104097366333,
+              "Left": 0.4728999137878418,
+              "Top": 0.1354811042547226
+            },
+            "Confidence": 61.695594787597656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 65.96915435791016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10856416076421738,
+              "Height": 0.36396104097366333,
+              "Left": 0.4728999137878418,
+              "Top": 0.1354811042547226
+            },
+            "Confidence": 61.695594787597656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 94.4454116821289,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 94.47248840332031,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 66.73775482177734,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10856416076421738,
+              "Height": 0.36396104097366333,
+              "Left": 0.4728999137878418,
+              "Top": 0.1354811042547226
+            },
+            "Confidence": 61.695594787597656
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Riot",
+        "Confidence": 54.96546173095703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Smog",
+        "Confidence": 53.97631072998047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Smoke"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 54.007041931152344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 53.86410903930664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Tornado",
+        "Confidence": 51.3068962097168,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "War",
+        "Confidence": 51.55175018310547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 92.20008850097656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 83.54633331298828,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1003427803516388,
+              "Height": 0.21895232796669006,
+              "Left": 0.7610999941825867,
+              "Top": 0.4247598350048065
+            },
+            "Confidence": 86.54700469970703
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1794569045305252,
+              "Height": 0.5279728770256042,
+              "Left": 0.4226323962211609,
+              "Top": 0.1407516598701477
+            },
+            "Confidence": 82.70321655273438
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12689177691936493,
+              "Height": 0.28004711866378784,
+              "Left": 0.37585341930389404,
+              "Top": 0.697361409664154
+            },
+            "Confidence": 65.4178237915039
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20783880352973938,
+              "Height": 0.5684019327163696,
+              "Left": 0.32469671964645386,
+              "Top": 0.07747305184602737
+            },
+            "Confidence": 63.370819091796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10786424577236176,
+              "Height": 0.3271651864051819,
+              "Left": 0.23984432220458984,
+              "Top": 0.6076859831809998
+            },
+            "Confidence": 56.082271575927734
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12983089685440063,
+              "Height": 0.2026013284921646,
+              "Left": 0.4102225601673126,
+              "Top": 5.3243638831190765e-05
+            },
+            "Confidence": 52.40901184082031
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 54.66144943237305,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.12983089685440063,
+              "Height": 0.2026013284921646,
+              "Left": 0.4102225601673126,
+              "Top": 5.3243638831190765e-05
+            },
+            "Confidence": 52.40901184082031
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 50.9444694519043,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 76.55120849609375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 79.33078002929688,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Hurricane",
+        "Confidence": 51.31589126586914,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 83.54633331298828,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1003427803516388,
+              "Height": 0.21895232796669006,
+              "Left": 0.7610999941825867,
+              "Top": 0.4247598350048065
+            },
+            "Confidence": 86.54700469970703
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1794569045305252,
+              "Height": 0.5279728770256042,
+              "Left": 0.4226323962211609,
+              "Top": 0.1407516598701477
+            },
+            "Confidence": 82.70321655273438
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12689177691936493,
+              "Height": 0.28004711866378784,
+              "Left": 0.37585341930389404,
+              "Top": 0.697361409664154
+            },
+            "Confidence": 65.4178237915039
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20783880352973938,
+              "Height": 0.5684019327163696,
+              "Left": 0.32469671964645386,
+              "Top": 0.07747305184602737
+            },
+            "Confidence": 63.370819091796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10786424577236176,
+              "Height": 0.3271651864051819,
+              "Left": 0.23984432220458984,
+              "Top": 0.6076859831809998
+            },
+            "Confidence": 56.082271575927734
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 83.54633331298828,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1003427803516388,
+              "Height": 0.21895232796669006,
+              "Left": 0.7610999941825867,
+              "Top": 0.4247598350048065
+            },
+            "Confidence": 86.54700469970703
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1794569045305252,
+              "Height": 0.5279728770256042,
+              "Left": 0.4226323962211609,
+              "Top": 0.1407516598701477
+            },
+            "Confidence": 82.70321655273438
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12689177691936493,
+              "Height": 0.28004711866378784,
+              "Left": 0.37585341930389404,
+              "Top": 0.697361409664154
+            },
+            "Confidence": 65.4178237915039
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20783880352973938,
+              "Height": 0.5684019327163696,
+              "Left": 0.32469671964645386,
+              "Top": 0.07747305184602737
+            },
+            "Confidence": 63.370819091796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10786424577236176,
+              "Height": 0.3271651864051819,
+              "Left": 0.23984432220458984,
+              "Top": 0.6076859831809998
+            },
+            "Confidence": 56.082271575927734
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Mist",
+        "Confidence": 52.77314758300781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 94.5748519897461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 94.6290054321289,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 83.59527587890625,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1003427803516388,
+              "Height": 0.21895232796669006,
+              "Left": 0.7610999941825867,
+              "Top": 0.4247598350048065
+            },
+            "Confidence": 86.54700469970703
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1794569045305252,
+              "Height": 0.5279728770256042,
+              "Left": 0.4226323962211609,
+              "Top": 0.1407516598701477
+            },
+            "Confidence": 82.70321655273438
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12689177691936493,
+              "Height": 0.28004711866378784,
+              "Left": 0.37585341930389404,
+              "Top": 0.697361409664154
+            },
+            "Confidence": 65.4178237915039
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20783880352973938,
+              "Height": 0.5684019327163696,
+              "Left": 0.32469671964645386,
+              "Top": 0.07747305184602737
+            },
+            "Confidence": 63.370819091796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10786424577236176,
+              "Height": 0.3271651864051819,
+              "Left": 0.23984432220458984,
+              "Top": 0.6076859831809998
+            },
+            "Confidence": 56.082271575927734
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12983089685440063,
+              "Height": 0.2026013284921646,
+              "Left": 0.4102225601673126,
+              "Top": 5.3243638831190765e-05
+            },
+            "Confidence": 52.40901184082031
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Riot",
+        "Confidence": 54.8927001953125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Smog",
+        "Confidence": 53.26646423339844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Smoke"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 53.32792282104492,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Snow",
+        "Confidence": 50.77923583984375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 52.32257843017578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "War",
+        "Confidence": 54.615333557128906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 92.64143371582031,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 54.66144943237305,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.12983089685440063,
+              "Height": 0.2026013284921646,
+              "Left": 0.4102225601673126,
+              "Top": 5.3243638831190765e-05
+            },
+            "Confidence": 52.40901184082031
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 80.84526062011719,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14471501111984253,
+              "Height": 0.49650317430496216,
+              "Left": 0.1858346313238144,
+              "Top": 0.5007501840591431
+            },
+            "Confidence": 80.60772705078125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1207003965973854,
+              "Height": 0.33934929966926575,
+              "Left": 0.08723043650388718,
+              "Top": 0.2249636948108673
+            },
+            "Confidence": 80.34709930419922
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12594276666641235,
+              "Height": 0.19683165848255157,
+              "Left": 0.30990070104599,
+              "Top": 0.8026505708694458
+            },
+            "Confidence": 71.5091552734375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10721845924854279,
+              "Height": 0.3413872718811035,
+              "Left": 0.31259554624557495,
+              "Top": 0.6064877510070801
+            },
+            "Confidence": 70.01997375488281
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1575222611427307,
+              "Height": 0.20825791358947754,
+              "Left": 0.16051949560642242,
+              "Top": 0.7913256883621216
+            },
+            "Confidence": 62.62565994262695
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3123418688774109,
+              "Height": 0.1701304167509079,
+              "Left": 0.002306703943759203,
+              "Top": 0.8290886282920837
+            },
+            "Confidence": 60.7757453918457
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.26254600286483765,
+              "Height": 0.9179895520210266,
+              "Left": 0.34285101294517517,
+              "Top": 0.006262779235839844
+            },
+            "Confidence": 53.3271598815918
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24448052048683167,
+              "Height": 0.44408491253852844,
+              "Left": 0.7495209574699402,
+              "Top": 0.410731703042984
+            },
+            "Confidence": 50.726463317871094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 60.185890197753906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 59.95158767700195,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1575222611427307,
+              "Height": 0.20825791358947754,
+              "Left": 0.16051949560642242,
+              "Top": 0.7913256883621216
+            },
+            "Confidence": 62.62565994262695
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24448052048683167,
+              "Height": 0.44408491253852844,
+              "Left": 0.7495209574699402,
+              "Top": 0.410731703042984
+            },
+            "Confidence": 50.726463317871094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 52.24746322631836,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 56.25083923339844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 72.68913269042969,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Hurricane",
+        "Confidence": 52.29864501953125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 80.84526062011719,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14471501111984253,
+              "Height": 0.49650317430496216,
+              "Left": 0.1858346313238144,
+              "Top": 0.5007501840591431
+            },
+            "Confidence": 80.60772705078125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1207003965973854,
+              "Height": 0.33934929966926575,
+              "Left": 0.08723043650388718,
+              "Top": 0.2249636948108673
+            },
+            "Confidence": 80.34709930419922
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12594276666641235,
+              "Height": 0.19683165848255157,
+              "Left": 0.30990070104599,
+              "Top": 0.8026505708694458
+            },
+            "Confidence": 71.5091552734375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10721845924854279,
+              "Height": 0.3413872718811035,
+              "Left": 0.31259554624557495,
+              "Top": 0.6064877510070801
+            },
+            "Confidence": 70.01997375488281
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3123418688774109,
+              "Height": 0.1701304167509079,
+              "Left": 0.002306703943759203,
+              "Top": 0.8290886282920837
+            },
+            "Confidence": 60.7757453918457
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.26254600286483765,
+              "Height": 0.9179895520210266,
+              "Left": 0.34285101294517517,
+              "Top": 0.006262779235839844
+            },
+            "Confidence": 53.3271598815918
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 80.84526062011719,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14471501111984253,
+              "Height": 0.49650317430496216,
+              "Left": 0.1858346313238144,
+              "Top": 0.5007501840591431
+            },
+            "Confidence": 80.60772705078125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1207003965973854,
+              "Height": 0.33934929966926575,
+              "Left": 0.08723043650388718,
+              "Top": 0.2249636948108673
+            },
+            "Confidence": 80.34709930419922
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12594276666641235,
+              "Height": 0.19683165848255157,
+              "Left": 0.30990070104599,
+              "Top": 0.8026505708694458
+            },
+            "Confidence": 71.5091552734375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10721845924854279,
+              "Height": 0.3413872718811035,
+              "Left": 0.31259554624557495,
+              "Top": 0.6064877510070801
+            },
+            "Confidence": 70.01997375488281
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3123418688774109,
+              "Height": 0.1701304167509079,
+              "Left": 0.002306703943759203,
+              "Top": 0.8290886282920837
+            },
+            "Confidence": 60.7757453918457
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.26254600286483765,
+              "Height": 0.9179895520210266,
+              "Left": 0.34285101294517517,
+              "Top": 0.006262779235839844
+            },
+            "Confidence": 53.3271598815918
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Mist",
+        "Confidence": 50.2037467956543,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 86.65077209472656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 87.0839614868164,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 80.84526062011719,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.14471501111984253,
+              "Height": 0.49650317430496216,
+              "Left": 0.1858346313238144,
+              "Top": 0.5007501840591431
+            },
+            "Confidence": 80.60772705078125
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1207003965973854,
+              "Height": 0.33934929966926575,
+              "Left": 0.08723043650388718,
+              "Top": 0.2249636948108673
+            },
+            "Confidence": 80.34709930419922
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12594276666641235,
+              "Height": 0.19683165848255157,
+              "Left": 0.30990070104599,
+              "Top": 0.8026505708694458
+            },
+            "Confidence": 71.5091552734375
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10721845924854279,
+              "Height": 0.3413872718811035,
+              "Left": 0.31259554624557495,
+              "Top": 0.6064877510070801
+            },
+            "Confidence": 70.01997375488281
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1575222611427307,
+              "Height": 0.20825791358947754,
+              "Left": 0.16051949560642242,
+              "Top": 0.7913256883621216
+            },
+            "Confidence": 62.62565994262695
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.3123418688774109,
+              "Height": 0.1701304167509079,
+              "Left": 0.002306703943759203,
+              "Top": 0.8290886282920837
+            },
+            "Confidence": 60.7757453918457
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.26254600286483765,
+              "Height": 0.9179895520210266,
+              "Left": 0.34285101294517517,
+              "Top": 0.006262779235839844
+            },
+            "Confidence": 53.3271598815918
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24448052048683167,
+              "Height": 0.44408491253852844,
+              "Left": 0.7495209574699402,
+              "Top": 0.410731703042984
+            },
+            "Confidence": 50.726463317871094
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Riot",
+        "Confidence": 63.04409408569336,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Smog",
+        "Confidence": 51.137882232666016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Smoke"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 51.680179595947266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 52.53614044189453,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "War",
+        "Confidence": 75.19364166259766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 73.7873764038086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 59.95158767700195,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1575222611427307,
+              "Height": 0.20825791358947754,
+              "Left": 0.16051949560642242,
+              "Top": 0.7913256883621216
+            },
+            "Confidence": 62.62565994262695
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24448052048683167,
+              "Height": 0.44408491253852844,
+              "Left": 0.7495209574699402,
+              "Top": 0.410731703042984
+            },
+            "Confidence": 50.726463317871094
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 87.78360748291016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.21345919370651245,
+              "Height": 0.1767425686120987,
+              "Left": 0.6859781742095947,
+              "Top": 0.0008392810705117881
+            },
+            "Confidence": 91.34797668457031
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19206023216247559,
+              "Height": 0.4833345115184784,
+              "Left": 0.20853328704833984,
+              "Top": 0.45489105582237244
+            },
+            "Confidence": 81.11131286621094
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12682215869426727,
+              "Height": 0.36388134956359863,
+              "Left": 0.4832354485988617,
+              "Top": 0.4854174256324768
+            },
+            "Confidence": 79.3404312133789
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1283082515001297,
+              "Height": 0.41212958097457886,
+              "Left": 0.3549607992172241,
+              "Top": 0.46550455689430237
+            },
+            "Confidence": 74.6728744506836
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13922463357448578,
+              "Height": 0.726181149482727,
+              "Left": 0.4503859281539917,
+              "Top": 0.11602363735437393
+            },
+            "Confidence": 72.01844787597656
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14438416063785553,
+              "Height": 0.5673344731330872,
+              "Left": 0.3771127164363861,
+              "Top": 0.27801111340522766
+            },
+            "Confidence": 63.439178466796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10355681926012039,
+              "Height": 0.3535335659980774,
+              "Left": 0.7461334466934204,
+              "Top": 0.4027957022190094
+            },
+            "Confidence": 56.265113830566406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20052510499954224,
+              "Height": 0.42249247431755066,
+              "Left": 0.0006103138439357281,
+              "Top": 0.5761833190917969
+            },
+            "Confidence": 52.74418640136719
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 70.45091247558594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 70.26055908203125,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.19206023216247559,
+              "Height": 0.4833345115184784,
+              "Left": 0.20853328704833984,
+              "Top": 0.45489105582237244
+            },
+            "Confidence": 81.11131286621094
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1283082515001297,
+              "Height": 0.41212958097457886,
+              "Left": 0.3549607992172241,
+              "Top": 0.46550455689430237
+            },
+            "Confidence": 74.6728744506836
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10355681926012039,
+              "Height": 0.3535335659980774,
+              "Left": 0.7461334466934204,
+              "Top": 0.4027957022190094
+            },
+            "Confidence": 56.265113830566406
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 53.75391387939453,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 51.08755874633789,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 74.82911682128906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Hurricane",
+        "Confidence": 51.720279693603516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 87.78360748291016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.21345919370651245,
+              "Height": 0.1767425686120987,
+              "Left": 0.6859781742095947,
+              "Top": 0.0008392810705117881
+            },
+            "Confidence": 91.34797668457031
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12682215869426727,
+              "Height": 0.36388134956359863,
+              "Left": 0.4832354485988617,
+              "Top": 0.4854174256324768
+            },
+            "Confidence": 79.3404312133789
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13922463357448578,
+              "Height": 0.726181149482727,
+              "Left": 0.4503859281539917,
+              "Top": 0.11602363735437393
+            },
+            "Confidence": 72.01844787597656
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14438416063785553,
+              "Height": 0.5673344731330872,
+              "Left": 0.3771127164363861,
+              "Top": 0.27801111340522766
+            },
+            "Confidence": 63.439178466796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20052510499954224,
+              "Height": 0.42249247431755066,
+              "Left": 0.0006103138439357281,
+              "Top": 0.5761833190917969
+            },
+            "Confidence": 52.74418640136719
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 87.78360748291016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.21345919370651245,
+              "Height": 0.1767425686120987,
+              "Left": 0.6859781742095947,
+              "Top": 0.0008392810705117881
+            },
+            "Confidence": 91.34797668457031
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12682215869426727,
+              "Height": 0.36388134956359863,
+              "Left": 0.4832354485988617,
+              "Top": 0.4854174256324768
+            },
+            "Confidence": 79.3404312133789
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13922463357448578,
+              "Height": 0.726181149482727,
+              "Left": 0.4503859281539917,
+              "Top": 0.11602363735437393
+            },
+            "Confidence": 72.01844787597656
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14438416063785553,
+              "Height": 0.5673344731330872,
+              "Left": 0.3771127164363861,
+              "Top": 0.27801111340522766
+            },
+            "Confidence": 63.439178466796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20052510499954224,
+              "Height": 0.42249247431755066,
+              "Left": 0.0006103138439357281,
+              "Top": 0.5761833190917969
+            },
+            "Confidence": 52.74418640136719
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 59.552181243896484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 59.60633087158203,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 87.78360748291016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.21345919370651245,
+              "Height": 0.1767425686120987,
+              "Left": 0.6859781742095947,
+              "Top": 0.0008392810705117881
+            },
+            "Confidence": 91.34797668457031
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.19206023216247559,
+              "Height": 0.4833345115184784,
+              "Left": 0.20853328704833984,
+              "Top": 0.45489105582237244
+            },
+            "Confidence": 81.11131286621094
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.12682215869426727,
+              "Height": 0.36388134956359863,
+              "Left": 0.4832354485988617,
+              "Top": 0.4854174256324768
+            },
+            "Confidence": 79.3404312133789
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1283082515001297,
+              "Height": 0.41212958097457886,
+              "Left": 0.3549607992172241,
+              "Top": 0.46550455689430237
+            },
+            "Confidence": 74.6728744506836
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.13922463357448578,
+              "Height": 0.726181149482727,
+              "Left": 0.4503859281539917,
+              "Top": 0.11602363735437393
+            },
+            "Confidence": 72.01844787597656
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.14438416063785553,
+              "Height": 0.5673344731330872,
+              "Left": 0.3771127164363861,
+              "Top": 0.27801111340522766
+            },
+            "Confidence": 63.439178466796875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10355681926012039,
+              "Height": 0.3535335659980774,
+              "Left": 0.7461334466934204,
+              "Top": 0.4027957022190094
+            },
+            "Confidence": 56.265113830566406
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.20052510499954224,
+              "Height": 0.42249247431755066,
+              "Left": 0.0006103138439357281,
+              "Top": 0.5761833190917969
+            },
+            "Confidence": 52.74418640136719
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Post Apocalyptic",
+        "Confidence": 53.60064697265625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Riot",
+        "Confidence": 65.97518920898438,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 51.801490783691406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "War",
+        "Confidence": 62.68562316894531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 54.63041687011719,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 70.26055908203125,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.19206023216247559,
+              "Height": 0.4833345115184784,
+              "Left": 0.20853328704833984,
+              "Top": 0.45489105582237244
+            },
+            "Confidence": 81.11131286621094
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1283082515001297,
+              "Height": 0.41212958097457886,
+              "Left": 0.3549607992172241,
+              "Top": 0.46550455689430237
+            },
+            "Confidence": 74.6728744506836
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10355681926012039,
+              "Height": 0.3535335659980774,
+              "Left": 0.7461334466934204,
+              "Top": 0.4027957022190094
+            },
+            "Confidence": 56.265113830566406
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 73.7923812866211,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10098843276500702,
+              "Height": 0.45865538716316223,
+              "Left": 0.3317317068576813,
+              "Top": 0.537128210067749
+            },
+            "Confidence": 71.38648223876953
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24061475694179535,
+              "Height": 0.9696393013000488,
+              "Left": 0.3790615499019623,
+              "Top": 0.013143081218004227
+            },
+            "Confidence": 69.59037780761719
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.42731115221977234,
+              "Height": 0.8417505621910095,
+              "Left": 0.3902927339076996,
+              "Top": 0.13879849016666412
+            },
+            "Confidence": 67.52786254882812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15884922444820404,
+              "Height": 0.5162738561630249,
+              "Left": 0.19078172743320465,
+              "Top": 0.45871856808662415
+            },
+            "Confidence": 52.656288146972656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 55.271732330322266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 54.13313293457031,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Hurricane",
+        "Confidence": 53.44316101074219,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 73.7923812866211,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10098843276500702,
+              "Height": 0.45865538716316223,
+              "Left": 0.3317317068576813,
+              "Top": 0.537128210067749
+            },
+            "Confidence": 71.38648223876953
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24061475694179535,
+              "Height": 0.9696393013000488,
+              "Left": 0.3790615499019623,
+              "Top": 0.013143081218004227
+            },
+            "Confidence": 69.59037780761719
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.42731115221977234,
+              "Height": 0.8417505621910095,
+              "Left": 0.3902927339076996,
+              "Top": 0.13879849016666412
+            },
+            "Confidence": 67.52786254882812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15884922444820404,
+              "Height": 0.5162738561630249,
+              "Left": 0.19078172743320465,
+              "Top": 0.45871856808662415
+            },
+            "Confidence": 52.656288146972656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 73.7923812866211,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10098843276500702,
+              "Height": 0.45865538716316223,
+              "Left": 0.3317317068576813,
+              "Top": 0.537128210067749
+            },
+            "Confidence": 71.38648223876953
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24061475694179535,
+              "Height": 0.9696393013000488,
+              "Left": 0.3790615499019623,
+              "Top": 0.013143081218004227
+            },
+            "Confidence": 69.59037780761719
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.42731115221977234,
+              "Height": 0.8417505621910095,
+              "Left": 0.3902927339076996,
+              "Top": 0.13879849016666412
+            },
+            "Confidence": 67.52786254882812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15884922444820404,
+              "Height": 0.5162738561630249,
+              "Left": 0.19078172743320465,
+              "Top": 0.45871856808662415
+            },
+            "Confidence": 52.656288146972656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 62.88589096069336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 62.912967681884766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 74.67455291748047,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10098843276500702,
+              "Height": 0.45865538716316223,
+              "Left": 0.3317317068576813,
+              "Top": 0.537128210067749
+            },
+            "Confidence": 71.38648223876953
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.24061475694179535,
+              "Height": 0.9696393013000488,
+              "Left": 0.3790615499019623,
+              "Top": 0.013143081218004227
+            },
+            "Confidence": 69.59037780761719
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.42731115221977234,
+              "Height": 0.8417505621910095,
+              "Left": 0.3902927339076996,
+              "Top": 0.13879849016666412
+            },
+            "Confidence": 67.52786254882812
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15884922444820404,
+              "Height": 0.5162738561630249,
+              "Left": 0.19078172743320465,
+              "Top": 0.45871856808662415
+            },
+            "Confidence": 52.656288146972656
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Post Apocalyptic",
+        "Confidence": 53.77447509765625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Riot",
+        "Confidence": 53.362548828125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Smog",
+        "Confidence": 51.94203567504883,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Smoke"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 52.867431640625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 53.53802490234375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "War",
+        "Confidence": 83.36813354492188,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 58.69659423828125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 76.88931274414062,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1556459665298462,
+              "Height": 0.48018667101860046,
+              "Left": 0.31942814588546753,
+              "Top": 0.4652668237686157
+            },
+            "Confidence": 79.13631439208984
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10293789207935333,
+              "Height": 0.28108370304107666,
+              "Left": 0.7583632469177246,
+              "Top": 0.4012386202812195
+            },
+            "Confidence": 70.291015625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15272092819213867,
+              "Height": 0.5209704637527466,
+              "Left": 0.19570496678352356,
+              "Top": 0.4417230784893036
+            },
+            "Confidence": 56.15711975097656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Bride",
+        "Confidence": 51.1207389831543,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10293789207935333,
+              "Height": 0.28108370304107666,
+              "Left": 0.7583632469177246,
+              "Top": 0.4012386202812195
+            },
+            "Confidence": 70.291015625
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          },
+          {
+            "Name": "Wedding"
+          },
+          {
+            "Name": "Woman"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Face",
+        "Confidence": 57.791648864746094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Head"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 61.694026947021484,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10293789207935333,
+              "Height": 0.28108370304107666,
+              "Left": 0.7583632469177246,
+              "Top": 0.4012386202812195
+            },
+            "Confidence": 70.291015625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15272092819213867,
+              "Height": 0.5209704637527466,
+              "Left": 0.19570496678352356,
+              "Top": 0.4417230784893036
+            },
+            "Confidence": 56.15711975097656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 53.311561584472656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 58.46083450317383,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 65.71646118164062,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Hurricane",
+        "Confidence": 51.79690170288086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 76.88931274414062,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1556459665298462,
+              "Height": 0.48018667101860046,
+              "Left": 0.31942814588546753,
+              "Top": 0.4652668237686157
+            },
+            "Confidence": 79.13631439208984
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 76.88931274414062,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1556459665298462,
+              "Height": 0.48018667101860046,
+              "Left": 0.31942814588546753,
+              "Top": 0.4652668237686157
+            },
+            "Confidence": 79.13631439208984
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Mist",
+        "Confidence": 53.0260124206543,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 89.50282287597656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 89.50282287597656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 78.65365600585938,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.1556459665298462,
+              "Height": 0.48018667101860046,
+              "Left": 0.31942814588546753,
+              "Top": 0.4652668237686157
+            },
+            "Confidence": 79.13631439208984
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10293789207935333,
+              "Height": 0.28108370304107666,
+              "Left": 0.7583632469177246,
+              "Top": 0.4012386202812195
+            },
+            "Confidence": 70.291015625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15272092819213867,
+              "Height": 0.5209704637527466,
+              "Left": 0.19570496678352356,
+              "Top": 0.4417230784893036
+            },
+            "Confidence": 56.15711975097656
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Pollution",
+        "Confidence": 50.64268493652344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Post Apocalyptic",
+        "Confidence": 51.89335250854492,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Riot",
+        "Confidence": 51.09010314941406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Smog",
+        "Confidence": 53.804100036621094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Smoke"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 54.46361541748047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Snow",
+        "Confidence": 52.761966705322266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 52.478275299072266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "War",
+        "Confidence": 57.69312286376953,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 74.49293518066406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Wedding",
+        "Confidence": 51.1207389831543,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Events and Attractions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 61.694026947021484,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.10293789207935333,
+              "Height": 0.28108370304107666,
+              "Left": 0.7583632469177246,
+              "Top": 0.4012386202812195
+            },
+            "Confidence": 70.291015625
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15272092819213867,
+              "Height": 0.5209704637527466,
+              "Left": 0.19570496678352356,
+              "Top": 0.4417230784893036
+            },
+            "Confidence": 56.15711975097656
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 63.25011444091797,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.16967913508415222,
+              "Height": 0.4597204327583313,
+              "Left": 0.1766904592514038,
+              "Top": 0.47297027707099915
+            },
+            "Confidence": 59.67229080200195
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1549432873725891,
+              "Height": 0.33101901412010193,
+              "Left": 0.7489369511604309,
+              "Top": 0.4026205241680145
+            },
+            "Confidence": 56.780731201171875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10932368040084839,
+              "Height": 0.5686311721801758,
+              "Left": 0.2703700065612793,
+              "Top": 0.033346425741910934
+            },
+            "Confidence": 51.586387634277344
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 51.344791412353516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 89.17704010009766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 74.70155334472656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Hurricane",
+        "Confidence": 53.38619613647461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 63.25011444091797,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.16967913508415222,
+              "Height": 0.4597204327583313,
+              "Left": 0.1766904592514038,
+              "Top": 0.47297027707099915
+            },
+            "Confidence": 59.67229080200195
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1549432873725891,
+              "Height": 0.33101901412010193,
+              "Left": 0.7489369511604309,
+              "Top": 0.4026205241680145
+            },
+            "Confidence": 56.780731201171875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10932368040084839,
+              "Height": 0.5686311721801758,
+              "Left": 0.2703700065612793,
+              "Top": 0.033346425741910934
+            },
+            "Confidence": 51.586387634277344
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 63.25011444091797,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.16967913508415222,
+              "Height": 0.4597204327583313,
+              "Left": 0.1766904592514038,
+              "Top": 0.47297027707099915
+            },
+            "Confidence": 59.67229080200195
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1549432873725891,
+              "Height": 0.33101901412010193,
+              "Left": 0.7489369511604309,
+              "Top": 0.4026205241680145
+            },
+            "Confidence": 56.780731201171875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10932368040084839,
+              "Height": 0.5686311721801758,
+              "Left": 0.2703700065612793,
+              "Top": 0.033346425741910934
+            },
+            "Confidence": 51.586387634277344
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Mist",
+        "Confidence": 81.71769714355469,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 96.98482513427734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 96.98482513427734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 78.03702545166016,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.16967913508415222,
+              "Height": 0.4597204327583313,
+              "Left": 0.1766904592514038,
+              "Top": 0.47297027707099915
+            },
+            "Confidence": 59.67229080200195
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.1549432873725891,
+              "Height": 0.33101901412010193,
+              "Left": 0.7489369511604309,
+              "Top": 0.4026205241680145
+            },
+            "Confidence": 56.780731201171875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.10932368040084839,
+              "Height": 0.5686311721801758,
+              "Left": 0.2703700065612793,
+              "Top": 0.033346425741910934
+            },
+            "Confidence": 51.586387634277344
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Smog",
+        "Confidence": 55.25742721557617,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Smoke"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 55.723838806152344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Snow",
+        "Confidence": 55.50779342651367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 53.68865966796875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "War",
+        "Confidence": 50.89805603027344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 94.88289642333984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Adult",
+        "Confidence": 71.00916290283203,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.13874314725399017,
+              "Height": 0.46045348048210144,
+              "Left": 0.3767773509025574,
+              "Top": 0.20659227669239044
+            },
+            "Confidence": 71.91832733154297
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15011389553546906,
+              "Height": 0.41742733120918274,
+              "Left": 0.1746920496225357,
+              "Top": 0.48601776361465454
+            },
+            "Confidence": 70.85260772705078
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2096731811761856,
+              "Height": 0.4657609164714813,
+              "Left": 0.687930166721344,
+              "Top": 0.3965710997581482
+            },
+            "Confidence": 60.89764404296875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.23199740052223206,
+              "Height": 0.6648440957069397,
+              "Left": 0.5842920541763306,
+              "Top": 0.19104743003845215
+            },
+            "Confidence": 59.32839584350586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17094789445400238,
+              "Height": 0.47797003388404846,
+              "Left": 0.41620680689811707,
+              "Top": 0.21522028744220734
+            },
+            "Confidence": 58.374752044677734
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Female",
+        "Confidence": 59.75035095214844,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2096731811761856,
+              "Height": 0.4657609164714813,
+              "Left": 0.687930166721344,
+              "Top": 0.3965710997581482
+            },
+            "Confidence": 60.89764404296875
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Fire",
+        "Confidence": 54.46469497680664,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Fog",
+        "Confidence": 61.190528869628906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Head",
+        "Confidence": 66.70960235595703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Hurricane",
+        "Confidence": 52.40381622314453,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Storm"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Male",
+        "Confidence": 71.00916290283203,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.13874314725399017,
+              "Height": 0.46045348048210144,
+              "Left": 0.3767773509025574,
+              "Top": 0.20659227669239044
+            },
+            "Confidence": 71.91832733154297
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15011389553546906,
+              "Height": 0.41742733120918274,
+              "Left": 0.1746920496225357,
+              "Top": 0.48601776361465454
+            },
+            "Confidence": 70.85260772705078
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.23199740052223206,
+              "Height": 0.6648440957069397,
+              "Left": 0.5842920541763306,
+              "Top": 0.19104743003845215
+            },
+            "Confidence": 59.32839584350586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17094789445400238,
+              "Height": 0.47797003388404846,
+              "Left": 0.41620680689811707,
+              "Top": 0.21522028744220734
+            },
+            "Confidence": 58.374752044677734
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Man",
+        "Confidence": 71.00916290283203,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.13874314725399017,
+              "Height": 0.46045348048210144,
+              "Left": 0.3767773509025574,
+              "Top": 0.20659227669239044
+            },
+            "Confidence": 71.91832733154297
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15011389553546906,
+              "Height": 0.41742733120918274,
+              "Left": 0.1746920496225357,
+              "Top": 0.48601776361465454
+            },
+            "Confidence": 70.85260772705078
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.23199740052223206,
+              "Height": 0.6648440957069397,
+              "Left": 0.5842920541763306,
+              "Top": 0.19104743003845215
+            },
+            "Confidence": 59.32839584350586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17094789445400238,
+              "Height": 0.47797003388404846,
+              "Left": 0.41620680689811707,
+              "Top": 0.21522028744220734
+            },
+            "Confidence": 58.374752044677734
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Male"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Mist",
+        "Confidence": 55.49163055419922,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 96.20299530029297,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 96.20299530029297,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Person",
+        "Confidence": 73.05209350585938,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.13874314725399017,
+              "Height": 0.46045348048210144,
+              "Left": 0.3767773509025574,
+              "Top": 0.20659227669239044
+            },
+            "Confidence": 71.91832733154297
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.15011389553546906,
+              "Height": 0.41742733120918274,
+              "Left": 0.1746920496225357,
+              "Top": 0.48601776361465454
+            },
+            "Confidence": 70.85260772705078
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.2096731811761856,
+              "Height": 0.4657609164714813,
+              "Left": 0.687930166721344,
+              "Top": 0.3965710997581482
+            },
+            "Confidence": 60.89764404296875
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.23199740052223206,
+              "Height": 0.6648440957069397,
+              "Left": 0.5842920541763306,
+              "Top": 0.19104743003845215
+            },
+            "Confidence": 59.32839584350586
+          },
+          {
+            "BoundingBox": {
+              "Width": 0.17094789445400238,
+              "Height": 0.47797003388404846,
+              "Left": 0.41620680689811707,
+              "Top": 0.21522028744220734
+            },
+            "Confidence": 58.374752044677734
+          }
+        ],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Human"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Post Apocalyptic",
+        "Confidence": 50.418704986572266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Smog",
+        "Confidence": 52.96919631958008,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Fog"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Smoke"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Smoke",
+        "Confidence": 53.08393096923828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Public Safety"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 52.48118591308594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "War",
+        "Confidence": 54.745174407958984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Weapons and Military"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 94.27777862548828,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Woman",
+        "Confidence": 59.75035095214844,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.2096731811761856,
+              "Height": 0.4657609164714813,
+              "Left": 0.687930166721344,
+              "Top": 0.3965710997581482
+            },
+            "Confidence": 60.89764404296875
+          }
+        ],
+        "Parents": [
+          {
+            "Name": "Adult"
+          },
+          {
+            "Name": "Female"
+          },
+          {
+            "Name": "Person"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Person Description"
+          }
+        ]
+      }
+    }
+  ]
+}

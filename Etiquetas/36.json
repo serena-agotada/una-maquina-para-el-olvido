@@ -1,0 +1,9444 @@
+{
+  "Video": "36.mp4",
+  "JobId": "916f65eda88e01e4a1b39ea5a07e13f80ca1a77bdf0420f23806954316fdd86d",
+  "JobStatus": "SUCCEEDED",
+  "VideoMetadata": {
+    "Codec": "h264",
+    "DurationMillis": 17240,
+    "Format": "QuickTime / MOV",
+    "FrameRate": 25.0,
+    "FrameHeight": 900,
+    "FrameWidth": 1366,
+    "ColorRange": "LIMITED"
+  },
+  "Labels": [
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 54.83781814575195,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 99.99996185302734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 75.05305480957031,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Horizon",
+        "Confidence": 65.95757293701172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Landscape",
+        "Confidence": 56.78110885620117,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 53.47043991088867,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 68.139404296875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 54.83781814575195,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Scenery",
+        "Confidence": 88.99946594238281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 51.032615661621094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sun",
+        "Confidence": 55.98595428466797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sunlight",
+        "Confidence": 54.37912368774414,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sunrise",
+        "Confidence": 57.222721099853516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 54.981502532958984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 51.4886474609375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 54.83781814575195,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 54.83781814575195,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 51.1640739440918,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 0,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 75.05305480957031,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Art",
+        "Confidence": 50.42313003540039,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Azure Sky",
+        "Confidence": 50.02843475341797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 55.10615158081055,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 99.99998474121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 96.65167999267578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Horizon",
+        "Confidence": 55.202239990234375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Landscape",
+        "Confidence": 55.36989974975586,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 55.0553092956543,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Painting",
+        "Confidence": 50.42313003540039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Art"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 66.20702362060547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 55.10615158081055,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Scenery",
+        "Confidence": 78.32068634033203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Sea",
+        "Confidence": 50.807830810546875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Water"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Ocean"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 51.1594123840332,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 50.69343185424805,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Sun",
+        "Confidence": 54.40522384643555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Sunlight",
+        "Confidence": 55.093994140625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Sunrise",
+        "Confidence": 55.138511657714844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 55.37442398071289,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 52.11024475097656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 55.10615158081055,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 55.10615158081055,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Water",
+        "Confidence": 50.822696685791016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 96.65167999267578,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 54.805084228515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 99.99998474121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 97.8824691772461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Field",
+        "Confidence": 50.23076629638672,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Grassland",
+        "Confidence": 50.23076629638672,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Field"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Horizon",
+        "Confidence": 54.0349235534668,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Landscape",
+        "Confidence": 56.17664337158203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 55.41416549682617,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Plant",
+        "Confidence": 50.53030776977539,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Plants and Flowers"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 71.11054992675781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 54.805084228515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Scenery",
+        "Confidence": 71.02115631103516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 53.6441764831543,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 51.07797622680664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Sun",
+        "Confidence": 54.486629486083984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Sunlight",
+        "Confidence": 54.78936004638672,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Sunrise",
+        "Confidence": 55.62697982788086,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 55.96034622192383,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 50.39310836791992,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 54.805084228515625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Vegetation",
+        "Confidence": 50.514217376708984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Plant"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 54.805084228515625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 97.8824691772461,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 55.58903121948242,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 99.99998474121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 99.35863494873047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Horizon",
+        "Confidence": 55.13970947265625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Landscape",
+        "Confidence": 55.50253677368164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 54.153785705566406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 58.524574279785156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 55.58903121948242,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Scenery",
+        "Confidence": 74.79216766357422,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 54.34273910522461,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Sun",
+        "Confidence": 54.992740631103516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Sunlight",
+        "Confidence": 54.904090881347656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Sunrise",
+        "Confidence": 55.97536849975586,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 56.04326248168945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 50.510196685791016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 55.58903121948242,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 55.58903121948242,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 99.35863494873047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 55.48046875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 99.74028778076172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 50.103004455566406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Horizon",
+        "Confidence": 54.89775466918945,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Landscape",
+        "Confidence": 53.709293365478516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 53.70771026611328,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 57.41340637207031,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 55.48046875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Scenery",
+        "Confidence": 59.13840103149414,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 52.05588912963867,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 100.0,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Sun",
+        "Confidence": 54.43533706665039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Sunlight",
+        "Confidence": 53.369178771972656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Sunrise",
+        "Confidence": 55.24018096923828,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 55.186378479003906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 51.09983444213867,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 55.48046875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 55.48046875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 99.74028778076172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 55.232086181640625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 99.99999237060547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 99.93594360351562,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 51.09298324584961,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Horizon",
+        "Confidence": 54.20234680175781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Landscape",
+        "Confidence": 51.27328872680664,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 99.99999237060547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 52.73207473754883,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 99.99999237060547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 55.7519416809082,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 55.232086181640625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Scenery",
+        "Confidence": 55.10224151611328,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 52.46242904663086,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 99.99999237060547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Sun",
+        "Confidence": 53.56168746948242,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Sunlight",
+        "Confidence": 52.56412887573242,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Sunrise",
+        "Confidence": 54.049888610839844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 54.71855926513672,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 50.24610137939453,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 55.232086181640625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 55.232086181640625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 2520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 99.93594360351562,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 54.759674072265625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 99.9999771118164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 99.9639663696289,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 52.309757232666016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Horizon",
+        "Confidence": 52.957366943359375,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 99.9999771118164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 52.89409255981445,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 99.9999771118164,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 56.20269012451172,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 54.759674072265625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Scenery",
+        "Confidence": 52.89039993286133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 52.4276123046875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 99.9999771118164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 50.814666748046875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Sun",
+        "Confidence": 52.318599700927734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Sunlight",
+        "Confidence": 52.564125061035156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Sunrise",
+        "Confidence": 53.1964111328125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 54.64236831665039,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 54.759674072265625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 54.759674072265625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 99.9639663696289,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 54.563507080078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 99.99967193603516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 99.96556854248047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 54.14396286010742,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Horizon",
+        "Confidence": 52.07320022583008,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Light",
+        "Confidence": 50.34581756591797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 99.9998779296875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 51.87778854370117,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 99.9998779296875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 54.85456848144531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 54.563507080078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Scenery",
+        "Confidence": 51.72557067871094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 52.713905334472656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 99.9998779296875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 51.25435256958008,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Sun",
+        "Confidence": 50.283390045166016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Sunlight",
+        "Confidence": 52.42899703979492,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Sunrise",
+        "Confidence": 51.76445770263672,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 54.22904586791992,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 50.02279281616211,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 54.563507080078125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 54.563507080078125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 3520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 99.96646118164062,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Astronomy",
+        "Confidence": 50.48582077026367,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 54.359493255615234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 99.99285888671875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 99.79139709472656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 57.02814483642578,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Horizon",
+        "Confidence": 50.272422790527344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Light",
+        "Confidence": 50.45754623413086,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Moon",
+        "Confidence": 50.48582077026367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Night"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 99.99948120117188,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 52.92051696777344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 99.99948120117188,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 54.61484146118164,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 54.359493255615234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 53.55809783935547,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 99.99948120117188,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 52.1762809753418,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Sunlight",
+        "Confidence": 51.83781433105469,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Sunrise",
+        "Confidence": 50.546573638916016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 53.446571350097656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 54.359493255615234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 54.359493255615234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 99.93189239501953,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Astronomy",
+        "Confidence": 51.01513671875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 54.48445129394531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 98.06251525878906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 97.49250793457031,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 62.67977523803711,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Moon",
+        "Confidence": 51.01513671875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Night"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 99.98946380615234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 53.30079650878906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 99.98946380615234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Rainbow",
+        "Confidence": 52.25634002685547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 54.48445129394531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 54.497718811035156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 99.98946380615234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 52.16567611694336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Sunset",
+        "Confidence": 52.6461067199707,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Dusk"
+          },
+          {
+            "Name": "Dawn"
+          },
+          {
+            "Name": "Red Sky"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 50.22214126586914,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 54.48445129394531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 54.48445129394531,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 4520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 99.53765869140625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 51.900508880615234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Astronomy",
+        "Confidence": 52.26828384399414,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 51.900508880615234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 54.22487258911133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 93.58728790283203,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Construction",
+        "Confidence": 50.401710510253906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 90.93024444580078,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 51.900508880615234,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 90.31715393066406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Moon",
+        "Confidence": 52.213706970214844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Night"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 98.889404296875,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 54.9427375793457,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 99.1380615234375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Pollution",
+        "Confidence": 50.18584442138672,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 54.22487258911133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 55.642791748046875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 97.72651672363281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 51.80206298828125,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 50.67283630371094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 54.22487258911133,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 54.22487258911133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 96.99861907958984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 53.32276916503906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Astronomy",
+        "Confidence": 52.85319519042969,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 53.32276916503906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 53.282508850097656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Cloud",
+        "Confidence": 61.722049713134766,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Construction",
+        "Confidence": 50.127201080322266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Cumulus",
+        "Confidence": 59.79194259643555,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Cloud"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          },
+          {
+            "Name": "Sky"
+          },
+          {
+            "Name": "Weather"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 53.32276916503906,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 97.49182891845703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Moon",
+        "Confidence": 52.64907455444336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Night"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 95.64794158935547,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 55.7360725402832,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 96.25386047363281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Pollution",
+        "Confidence": 50.546390533447266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 53.282508850097656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 55.20988845825195,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 92.88047790527344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Storm",
+        "Confidence": 50.953636169433594,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 51.60578155517578,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 53.282508850097656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 53.282508850097656,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 5520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 89.14769744873047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 52.358829498291016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 52.358829498291016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 52.358829498291016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.70829010009766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 75.92514038085938,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 80.1208267211914,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 52.009151458740234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 54.47139358520508,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 51.54768753051758,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 58.02496337890625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 51.467681884765625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 51.25312805175781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 51.25312805175781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 51.25312805175781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.91427612304688,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 57.60075759887695,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 59.83590316772461,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 50.40842056274414,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 51.547691345214844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 51.48179626464844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 6520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 52.684326171875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 52.305545806884766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.54450988769531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 53.47707748413086,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 51.76808547973633,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.8742904663086,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 51.87366485595703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 7520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 52.59927749633789,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 50.551841735839844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 50.551841735839844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 50.405521392822266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 50.62653350830078,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 50.551841735839844,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.94641876220703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 53.187007904052734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 52.076271057128906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 50.146480560302734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 50.146480560302734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 51.17239761352539,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 51.305381774902344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 50.146480560302734,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.95614624023438,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 53.670738220214844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 8520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 51.34237289428711,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 51.79878234863281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 51.79878234863281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 52.13130569458008,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 51.79878234863281,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.9837646484375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 54.638145446777344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 50.80295181274414,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 51.35154342651367,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 51.35154342651367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 50.51565933227539,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 52.52984619140625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 51.35154342651367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.9727554321289,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 53.75116729736328,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 9520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 50.38065719604492,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 51.36127853393555,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 52.183712005615234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.89330291748047,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 52.0909309387207,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 51.226219177246094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 52.937286376953125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 51.744571685791016,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.63921356201172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 10520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 51.09480285644531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 54.31710433959961,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 58.76941680908203,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9970466494560242,
+              "Height": 0.9993278384208679,
+              "Left": 0.001228646724484861,
+              "Top": 0.0006721496465615928
+            },
+            "Confidence": 61.6882438659668
+          }
+        ],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.28461456298828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 51.66309356689453,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 53.83851623535156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 52.129451751708984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.77603149414062,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 11520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 51.04308319091797,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 53.766212463378906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 51.725914001464844,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.74851989746094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 52.01633834838867,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12000,
+      "Label": {
+        "Name": "White Board",
+        "Confidence": 51.956390380859375,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9950964450836182,
+              "Height": 0.9993045926094055,
+              "Left": 0.0006520806346088648,
+              "Top": 0.0006954193231649697
+            },
+            "Confidence": 64.99714660644531
+          }
+        ],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Offices and Workspaces"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 53.32561111450195,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 51.6750373840332,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.51335144042969,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 12520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 52.081600189208984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 52.47972106933594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 58.88627243041992,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9977520704269409,
+              "Height": 0.999333918094635,
+              "Left": 0.0006222166703082621,
+              "Top": 0.0006660842918790877
+            },
+            "Confidence": 62.065006256103516
+          }
+        ],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.4871826171875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 53.467769622802734,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 50.39357376098633,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 51.10517883300781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.83753204345703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 13520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 53.904117584228516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14000,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 50.85219955444336,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 51.15416717529297,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.9022216796875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 50.53233337402344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14000,
+      "Label": {
+        "Name": "White",
+        "Confidence": 52.73268508911133,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 51.602108001708984,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 51.602108001708984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 50.651878356933594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 50.34169387817383,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 51.602108001708984,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.96043395996094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 51.8174934387207,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 52.750823974609375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 50.2290153503418,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 51.404541015625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 14520,
+      "Label": {
+        "Name": "White",
+        "Confidence": 50.501930236816406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 54.78535461425781,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 54.78535461425781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 50.48127365112305,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 50.50771713256836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Construction",
+        "Confidence": 50.4598503112793,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 54.78535461425781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.96736145019531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 75.23171997070312,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 78.26901245117188,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Pollution",
+        "Confidence": 50.47307205200195,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 50.50771713256836,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 53.258907318115234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 50.533111572265625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 52.71119689941406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 50.512107849121094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 50.512107849121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15000,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 52.63434600830078,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 53.83705139160156,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 53.83705139160156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 51.12001037597656,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 52.562965393066406,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9978005886077881,
+              "Height": 0.999245822429657,
+              "Left": 0.0006977313896641135,
+              "Top": 0.0007542038219980896
+            },
+            "Confidence": 52.010189056396484
+          }
+        ],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 53.83705139160156,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.88893127441406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 61.363040924072266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 67.59603881835938,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 51.63567352294922,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 50.3897590637207,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 54.08982849121094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 15520,
+      "Label": {
+        "Name": "Weather",
+        "Confidence": 51.16283416748047,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 54.74408721923828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Astronomy",
+        "Confidence": 50.0461540222168,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 54.69643783569336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 51.108856201171875,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 56.83883285522461,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Construction",
+        "Confidence": 50.251827239990234,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 54.69643783569336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.87202453613281,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Invertebrate",
+        "Confidence": 51.010154724121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Moon",
+        "Confidence": 50.0461540222168,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Night"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 56.650821685791016,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 51.27505111694336,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 58.45212936401367,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Paper",
+        "Confidence": 50.343048095703125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 50.57032775878906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Slate",
+        "Confidence": 51.38226318359375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Spider",
+        "Confidence": 51.010154724121094,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Arachnid"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 56.10331344604492,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 54.75286865234375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Astronomy",
+        "Confidence": 50.778568267822266,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 54.65303039550781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 50.03602981567383,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 57.69878387451172,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Construction",
+        "Confidence": 50.21214294433594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 54.65303039550781,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.87266540527344,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Invertebrate",
+        "Confidence": 51.98771667480469,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Moon",
+        "Confidence": 50.778568267822266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Night"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 60.352012634277344,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 52.96065139770508,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 62.35990905761719,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Outer Space",
+        "Confidence": 50.282649993896484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Space"
+          },
+          {
+            "Name": "Universe"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Paper",
+        "Confidence": 51.127567291259766,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 51.28662109375,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Sky",
+        "Confidence": 51.467044830322266,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Slate",
+        "Confidence": 51.72727966308594,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Spider",
+        "Confidence": 51.98771667480469,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Arachnid"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 16520,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 55.99211120605469,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Accessories",
+        "Confidence": 50.88936233520508,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [
+          {
+            "Name": "Accessory"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Aircraft",
+        "Confidence": 50.33556365966797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Animal",
+        "Confidence": 56.241634368896484,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Art",
+        "Confidence": 50.26703643798828,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Hobbies and Interests"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Astronomy",
+        "Confidence": 53.430973052978516,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Batman Logo",
+        "Confidence": 50.022438049316406,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Logo"
+          },
+          {
+            "Name": "Symbol"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Toys and Gaming"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Bird",
+        "Confidence": 55.35886764526367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Black",
+        "Confidence": 50.536521911621094,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Blackboard",
+        "Confidence": 60.34853744506836,
+        "Instances": [
+          {
+            "BoundingBox": {
+              "Width": 0.9973479509353638,
+              "Height": 0.9992032051086426,
+              "Left": 0.0007119594374671578,
+              "Top": 0.0007967757992446423
+            },
+            "Confidence": 60.85987091064453
+          }
+        ],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Boat",
+        "Confidence": 51.17830276489258,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Construction",
+        "Confidence": 50.76035690307617,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Buildings and Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Cross",
+        "Confidence": 51.418392181396484,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Symbol"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Symbols and Flags"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Flight",
+        "Confidence": 50.33556365966797,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Aircraft"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Flying",
+        "Confidence": 55.35886764526367,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Bird"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Actions"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Formal Wear",
+        "Confidence": 50.88936233520508,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Gray",
+        "Confidence": 99.64070129394531,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Invertebrate",
+        "Confidence": 55.74954605102539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Logo",
+        "Confidence": 50.022438049316406,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Symbols and Flags"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Moon",
+        "Confidence": 53.430973052978516,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          },
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Night"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Nature",
+        "Confidence": 57.88407516479492,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Night",
+        "Confidence": 56.12561798095703,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Nature"
+          },
+          {
+            "Name": "Outdoors"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Outdoors",
+        "Confidence": 61.07540512084961,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Outer Space",
+        "Confidence": 52.71315383911133,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Astronomy"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Space"
+          },
+          {
+            "Name": "Universe"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Nature and Outdoors"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Painting",
+        "Confidence": 50.26703643798828,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Art"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Furniture and Furnishings"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Paper",
+        "Confidence": 52.98731994628906,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Road",
+        "Confidence": 51.250885009765625,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Sailboat",
+        "Confidence": 51.17830276489258,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Boat"
+          },
+          {
+            "Name": "Transportation"
+          },
+          {
+            "Name": "Vehicle"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Silhouette",
+        "Confidence": 51.84013748168945,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Colors and Visual Composition"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Slate",
+        "Confidence": 54.02454376220703,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Spider",
+        "Confidence": 55.74954605102539,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Animal"
+          },
+          {
+            "Name": "Invertebrate"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Arachnid"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Animals and Pets"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Symbol",
+        "Confidence": 51.44563674926758,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Symbols and Flags"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Tarmac",
+        "Confidence": 51.250885009765625,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Road"
+          }
+        ],
+        "Aliases": [
+          {
+            "Name": "Asphalt"
+          }
+        ],
+        "Categories": [
+          {
+            "Name": "Transport and Logistics"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Texture",
+        "Confidence": 57.21781921386719,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Patterns and Shapes"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Tie",
+        "Confidence": 50.88936233520508,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Accessories"
+          },
+          {
+            "Name": "Formal Wear"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Apparel and Accessories"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Transportation",
+        "Confidence": 51.27718734741211,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Vehicle",
+        "Confidence": 51.27718734741211,
+        "Instances": [],
+        "Parents": [
+          {
+            "Name": "Transportation"
+          }
+        ],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Vehicles and Automotive"
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 17000,
+      "Label": {
+        "Name": "Velvet",
+        "Confidence": 51.817169189453125,
+        "Instances": [],
+        "Parents": [],
+        "Aliases": [],
+        "Categories": [
+          {
+            "Name": "Materials"
+          }
+        ]
+      }
+    }
+  ]
+}

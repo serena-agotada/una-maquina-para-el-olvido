@@ -1,0 +1,376 @@
+Animal,Animal,100
+Antelope,Antílope,52
+Deer,Ciervo,100
+Elk,Alce,51
+Head,Cabeza,56
+Herd,Rebaño,51
+Impala,impala,52
+Mammal,Mamífero,100
+Person,Persona,61
+Pig,Cerdo,95
+Wildlife,Fauna,100
+Zoo,Zoo,53
+Adult,Adulto,82
+Animal,Animal,100
+Antelope,Antílope,52
+Deer,Ciervo,100
+Elk,Alce,51
+Female,Femenino,76
+Impala,impala,52
+Mammal,Mamífero,100
+Person,Persona,85
+Pig,Cerdo,95
+Wildlife,Fauna,100
+Woman,Mujer,76
+Zoo,Zoo,52
+Adult,Adulto,62
+Animal,Animal,100
+Antelope,Antílope,53
+Car,Auto,78
+Deer,Ciervo,100
+Door,Puerta,52
+Elk,Alce,52
+Head,Cabeza,73
+Impala,impala,53
+Indoors,Dentro,53
+Interior Design,Diseño de interiores,50
+Mammal,Mamífero,100
+Outdoors,Al aire libre,54
+Person,Persona,80
+Pig,Cerdo,89
+Transportation,Transporte,79
+Vehicle,Vehículo,79
+Wildlife,Fauna,100
+Zoo,Zoo,52
+Adult,Adulto,78
+Animal,Animal,100
+Antelope,Antílope,51
+Bus Stop,Parada de autobús,51
+Canine,Canino,75
+Car,Auto,86
+Deer,Ciervo,100
+Dog,Perro,73
+Female,Femenino,72
+Head,Cabeza,66
+Impala,impala,51
+Indoors,Dentro,79
+Interior Design,Diseño de interiores,55
+Mammal,Mamífero,100
+Outdoors,Al aire libre,69
+Person,Persona,87
+Pet,Mascota,75
+Pig,Cerdo,54
+Transportation,Transporte,86
+Vandalism,Vandalismo,50
+Vehicle,Vehículo,86
+Wildlife,Fauna,100
+Woman,Mujer,72
+Animal,Animal,100
+Antelope,Antílope,51
+Bus Stop,Parada de autobús,53
+Canine,Canino,83
+Car,Auto,90
+Deer,Ciervo,100
+Dog,Perro,83
+Door,Puerta,50
+Elevator,Ascensor,51
+Face,Rostro,59
+Fallen Person,persona caida,50
+Head,Cabeza,73
+Impala,impala,51
+Indoors,Dentro,80
+Interior Design,Diseño de interiores,74
+Mammal,Mamífero,100
+Outdoors,Al aire libre,66
+Person,Persona,76
+Pet,Mascota,83
+Transportation,Transporte,90
+Vandalism,Vandalismo,53
+Vehicle,Vehículo,90
+Wildlife,Fauna,100
+Adult,Adulto,61
+Animal,Animal,98
+Canine,Canino,54
+Car,Auto,69
+Deer,Ciervo,97
+Dog,Perro,52
+Face,Rostro,54
+Head,Cabeza,70
+Indoors,Dentro,58
+Interior Design,Diseño de interiores,56
+Male,Masculino,57
+Mammal,Mamífero,98
+Man,Hombre,57
+Outdoors,Al aire libre,54
+Person,Persona,72
+Pet,Mascota,52
+Pig,Cerdo,72
+Transportation,Transporte,69
+Vehicle,Vehículo,69
+Wildlife,Fauna,97
+Adult,Adulto,64
+Animal,Animal,93
+Canine,Canino,74
+Car,Auto,83
+Deer,Ciervo,90
+Dog,Perro,74
+Head,Cabeza,60
+Indoors,Dentro,60
+Interior Design,Diseño de interiores,59
+Male,Masculino,64
+Mammal,Mamífero,93
+Man,Hombre,64
+Outdoors,Al aire libre,65
+Person,Persona,69
+Pet,Mascota,74
+Transportation,Transporte,83
+Vehicle,Vehículo,83
+Wildlife,Fauna,92
+Animal,Animal,56
+Car,Auto,50
+Fallen Person,persona caida,51
+Hot Tub,Bañera de hidromasaje,61
+Indoors,Dentro,85
+Interior Design,Diseño de interiores,85
+Mammal,Mamífero,56
+Outdoors,Al aire libre,78
+Person,Persona,56
+Transportation,Transporte,53
+Tub,Bañera,61
+Vehicle,Vehículo,53
+Water,Agua,53
+Wildlife,Fauna,53
+Adult,Adulto,52
+Animal,Animal,54
+Architecture,Arquitectura,58
+Building,Edificio,58
+Canine,Canino,51
+Dog,Perro,51
+Housing,Alojamiento,50
+Indoors,Dentro,64
+Interior Design,Diseño de interiores,64
+Male,Masculino,52
+Mammal,Mamífero,54
+Man,Hombre,52
+Outdoors,Al aire libre,88
+Person,Persona,54
+Pet,Mascota,51
+Wildlife,Fauna,53
+Adult,Adulto,73
+Animal,Animal,92
+Canine,Canino,82
+Deer,Ciervo,88
+Dog,Perro,81
+Indoors,Dentro,54
+Interior Design,Diseño de interiores,50
+Male,Masculino,69
+Mammal,Mamífero,92
+Man,Hombre,69
+Outdoors,Al aire libre,54
+Person,Persona,76
+Pet,Mascota,81
+Wildlife,Fauna,92
+Adult,Adulto,62
+Animal,Animal,97
+Antelope,Antílope,51
+Canine,Canino,88
+Car,Auto,51
+Deer,Ciervo,95
+Dog,Perro,88
+Female,Femenino,56
+Head,Cabeza,75
+Indoors,Dentro,60
+Interior Design,Diseño de interiores,57
+Mammal,Mamífero,97
+Outdoors,Al aire libre,52
+Person,Persona,81
+Pet,Mascota,88
+Transportation,Transporte,51
+Vehicle,Vehículo,51
+Wildlife,Fauna,97
+Woman,Mujer,56
+Adult,Adulto,68
+Animal,Animal,100
+Antelope,Antílope,71
+Canine,Canino,56
+Car,Auto,50
+Deer,Ciervo,100
+Dog,Perro,54
+Face,Rostro,70
+Female,Femenino,61
+Head,Cabeza,81
+Impala,impala,52
+Indoors,Dentro,86
+Interior Design,Diseño de interiores,64
+Mammal,Mamífero,100
+Person,Persona,83
+Pet,Mascota,54
+Transportation,Transporte,52
+Vehicle,Vehículo,52
+Wildlife,Fauna,100
+Woman,Mujer,61
+Adult,Adulto,53
+Animal,Animal,100
+Antelope,Antílope,58
+Canine,Canino,82
+Deer,Ciervo,100
+Dog,Perro,81
+Elevator,Ascensor,50
+Face,Rostro,51
+Head,Cabeza,82
+Impala,impala,52
+Indoors,Dentro,92
+Interior Design,Diseño de interiores,87
+Mammal,Mamífero,100
+Person,Persona,82
+Pet,Mascota,81
+Vandalism,Vandalismo,51
+Wildlife,Fauna,100
+Animal,Animal,100
+Antelope,Antílope,84
+Canine,Canino,55
+Deer,Ciervo,100
+Dog,Perro,52
+Face,Rostro,52
+Head,Cabeza,67
+Impala,impala,52
+Indoors,Dentro,80
+Interior Design,Diseño de interiores,62
+Mammal,Mamífero,100
+Person,Persona,73
+Pet,Mascota,54
+Wildlife,Fauna,100
+Zoo,Zoo,50
+Adult,Adulto,61
+Animal,Animal,100
+Antelope,Antílope,59
+Canine,Canino,82
+Deer,Ciervo,100
+Dog,Perro,82
+Face,Rostro,71
+Head,Cabeza,76
+Impala,impala,53
+Indoors,Dentro,83
+Interior Design,Diseño de interiores,63
+Male,Masculino,53
+Mammal,Mamífero,100
+Man,Hombre,53
+Outdoors,Al aire libre,51
+Person,Persona,79
+Pet,Mascota,82
+Vandalism,Vandalismo,52
+Wildlife,Fauna,100
+Zoo,Zoo,50
+Adult,Adulto,75
+Animal,Animal,97
+Antelope,Antílope,57
+Canine,Canino,74
+Deer,Ciervo,95
+Dog,Perro,72
+Face,Rostro,60
+Head,Cabeza,71
+Impala,impala,53
+Indoors,Dentro,87
+Interior Design,Diseño de interiores,84
+Male,Masculino,74
+Mammal,Mamífero,97
+Man,Hombre,74
+Outdoors,Al aire libre,55
+Person,Persona,85
+Pet,Mascota,72
+Vandalism,Vandalismo,52
+Wildlife,Fauna,97
+Adult,Adulto,50
+Animal,Animal,93
+Antelope,Antílope,74
+Car,Auto,66
+Deer,Ciervo,86
+Face,Rostro,59
+Head,Cabeza,66
+Impala,impala,51
+Indoors,Dentro,54
+Interior Design,Diseño de interiores,53
+Mammal,Mamífero,93
+Outdoors,Al aire libre,63
+Person,Persona,87
+Transportation,Transporte,70
+Vehicle,Vehículo,70
+Wildlife,Fauna,92
+Animal,Animal,55
+Car,Auto,81
+Mammal,Mamífero,55
+Outdoors,Al aire libre,52
+Person,Persona,60
+Road,Camino,52
+Transportation,Transporte,83
+Vehicle,Vehículo,83
+Wildlife,Fauna,54
+Adult,Adulto,78
+Animal,Animal,55
+Canine,Canino,51
+Car,Auto,86
+City,Ciudad,50
+Male,Masculino,78
+Mammal,Mamífero,55
+Man,Hombre,78
+Outdoors,Al aire libre,53
+Person,Persona,85
+Road,Camino,54
+Street,Calle,50
+Transportation,Transporte,87
+Urban,Urbano,50
+Vehicle,Vehículo,87
+Wildlife,Fauna,55
+Adult,Adulto,75
+Animal,Animal,92
+Bus Stop,Parada de autobús,51
+Canine,Canino,81
+Car,Auto,70
+Deer,Ciervo,86
+Dog,Perro,75
+Fallen Person,persona caida,53
+Head,Cabeza,67
+Male,Masculino,75
+Mammal,Mamífero,92
+Man,Hombre,75
+Nature,Naturaleza,51
+Outdoors,Al aire libre,83
+Person,Persona,79
+Pet,Mascota,75
+Transportation,Transporte,71
+Vehicle,Vehículo,71
+Wildlife,Fauna,92
+Adult,Adulto,59
+Animal,Animal,97
+Canine,Canino,84
+Deer,Ciervo,95
+Dog,Perro,81
+Head,Cabeza,67
+Indoors,Dentro,54
+Interior Design,Diseño de interiores,54
+Male,Masculino,59
+Mammal,Mamífero,97
+Man,Hombre,59
+Outdoors,Al aire libre,58
+Person,Persona,71
+Pet,Mascota,81
+Wildlife,Fauna,97
+Adult,Adulto,85
+Animal,Animal,100
+Antelope,Antílope,52
+Canine,Canino,91
+Deer,Ciervo,100
+Dog,Perro,91
+Face,Rostro,51
+Head,Cabeza,75
+Impala,impala,52
+Indoors,Dentro,87
+Interior Design,Diseño de interiores,87
+Male,Masculino,85
+Mammal,Mamífero,100
+Man,Hombre,85
+Outdoors,Al aire libre,52
+Person,Persona,87
+Pet,Mascota,91
+Vandalism,Vandalismo,52
+Wildlife,Fauna,100
