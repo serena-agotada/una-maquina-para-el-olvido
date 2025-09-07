@@ -68,7 +68,7 @@ void setup() {
 
   for (int i=0; i < cantVideos; i++) {
     for (int si=0; si < cantImgsPorVideo; si++) {
-      imgs[i][si] = loadImage("C:/Users/sarad/Documents/Facultad/2023/tesis/00-arquitectura/00-repo/Imagenes/" + i + "_" + si + ".jpg");
+      imgs[i][si] = loadImage("../Imagenes/" + i + "_" + si + ".jpg");
       imgs[i][si].loadPixels();
 
       println("imagen: " + i + "_" + si + " cargada");

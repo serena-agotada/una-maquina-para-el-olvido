@@ -1305,7 +1305,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Bonfire",
-        "Confidence": 51.436336517333984,
+        "Confidence": 71.436336517333984,
         "Instances": [],
         "Parents": [
           {
@@ -2233,7 +2233,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Bonfire",
-        "Confidence": 53.73569107055664,
+        "Confidence": 73.73569107055664,
         "Instances": [],
         "Parents": [
           {
@@ -2746,7 +2746,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 62.317848205566406,
+        "Confidence": 82.317848205566406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3123,7 +3123,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Light",
-        "Confidence": 52.80764389038086,
+        "Confidence": 92.80764389038086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3413,7 +3413,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Light",
-        "Confidence": 52.938602447509766,
+        "Confidence": 82.938602447509766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3732,7 +3732,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Light",
-        "Confidence": 53.035037994384766,
+        "Confidence": 93.035037994384766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4098,7 +4098,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Light",
-        "Confidence": 53.291805267333984,
+        "Confidence": 83.291805267333984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
