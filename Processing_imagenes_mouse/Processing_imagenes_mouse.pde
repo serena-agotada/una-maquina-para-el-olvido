@@ -1,21 +1,21 @@
 import oscP5.*;
-import processing.serial.*;
+//import processing.serial.*;
 import netP5.*;
 
 //Envio y Recepcion Puerto Serie
-Serial myPort;
+//Serial myPort;
 
 OscP5 oscP5;
 
-int cantVideos = 58;
-int max_dial = 59*30;
+int cantVideos = 65;
+int max_dial = (cantVideos+1)*30;
 int cantImgsPorVideo = 1;
 int limite_inactividad = 10;
 
 int puerto = 12345;
 
-String ip_video = "192.168.1.4";
-String ip_texto = "192.168.1.255";
+String ip_video = "192.168.100.142";
+String ip_texto = "192.168.100.104";
 
 NetAddress loc_video;
 NetAddress loc_texto;
@@ -52,8 +52,8 @@ void setup() {
   background(0);
 
   // Puerto de Arduino
-  myPort = new Serial(this, "COM13", 9600);
-  myPort.bufferUntil('\n');
+  //myPort = new Serial(this, "COM13", 9600);
+  //myPort.bufferUntil('\n');
 
   loc_video  = new NetAddress(ip_video, puerto);
   loc_texto  = new NetAddress(ip_texto, puerto);
@@ -126,7 +126,7 @@ void draw() {
 
   if (clip != newIndex) {
     clip = newIndex;
-    //indice_imagen = int(random(cantImgsPorVideo));
+    indice_imagen = int(random(cantImgsPorVideo));
     escalar = float(width)/float(imgs[clip][indice_imagen].width);
   }
 
@@ -165,11 +165,36 @@ void draw() {
   oscP5.send(n, loc_texto);
 
 
-  // IMAGEN
-  indice_imagen = int(distortionAmount*cantImgsPorVideo);
+  // DISTORSIONO IMAGEN
   image(imgs[clip][indice_imagen], 0, 0, width, height);
-  //distorsionarImagen();
-  
+/*
+  loadPixels();
+  float esc = float(pixels.length) / float(imgs[clip][indice_imagen].pixels.length);
+  println(esc);
+
+  for (int i = 0; i < pixels.length; i++) {
+
+    float r = red(pixels[i]);
+    float g = green(pixels[i]);
+    float b = blue(pixels[i]);
+
+    int n_i = i;
+
+    if (distortionAmount > 0.01) {
+      n_i = int( constrain(i + random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, pixels.length-1) );
+
+      r += constrain(random(-distortionAmount*100, distortionAmount*100), 0, 255);
+      g += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
+      b += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
+    }
+
+    color c = color(r, g, b);
+
+    pixels[n_i] = c;
+  }
+
+  updatePixels();
+*/
   ant_distortion = distortionAmount;
 
   // oscurezco la pantalla
@@ -228,37 +253,30 @@ void monitorearActividad() {
   }
 }
 
-void distorsionarImagen(){
-  loadPixels();
-  float esc = float(pixels.length) / float(imgs[clip][indice_imagen].pixels.length);
-  println(esc);
+void mouseMoved(){
+  int nSVideo = int(map(mouseX, 0, width, 0, max_dial));
+  
+  if (sVideo != nSVideo) {
 
-  for (int i = 0; i < pixels.length; i++) {
+        if ( abs(sVideo - nSVideo) > 0) actividad = true; // registro actividad
 
-    float r = red(pixels[i]);
-    float g = green(pixels[i]);
-    float b = blue(pixels[i]);
+        sVideo = int(lerp(sVideo, nSVideo, 0.8));
 
-    int n_i = i;
+        OscMessage sv = new OscMessage("/sVideo"); // envio valor del sensor de nitidez a raspi
+        sv.add(sVideo);
+        oscP5.send(sv, loc_video);
+        //oscP5.send(sv, loc_texto);
+      }
+      
+  int nSNitidez = int(map(mouseY, 0, height, 0, 1023));
+  
+  if ( abs(sNitidez - nSNitidez) > 3) actividad = true; // registro actividad si el cambio es grande
 
-    if (distortionAmount > 0.01) {
-      n_i = int( constrain(i + random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, pixels.length-1) );
-
-      r += constrain(random(-distortionAmount*100, distortionAmount*100), 0, 255);
-      g += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-      b += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-    }
-
-    color c = color(r, g, b);
-
-    pixels[n_i] = c;
-  }
-
-  updatePixels();
-
+  sNitidez = nSNitidez;
+  
 }
 
-void serialEvent(Serial myPort) {
+/*void serialEvent(Serial myPort) {
 
   String inString = myPort.readStringUntil('\n');
 
@@ -288,7 +306,7 @@ void serialEvent(Serial myPort) {
       }
     }
   }
-}
+}*/
 
 void oscEvent(OscMessage mensajeOscEntrante) {
   if (mensajeOscEntrante.checkAddrPattern("/video")==true) {
