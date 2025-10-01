@@ -15,7 +15,7 @@ int limite_inactividad = 10;
 int puerto = 12345;
 
 String ip_video = "192.168.100.142";
-String ip_texto = "192.168.100.104";
+String ip_texto = "192.168.1.4";
 
 NetAddress loc_video;
 NetAddress loc_texto;
@@ -52,7 +52,7 @@ void setup() {
   background(0);
 
   // Puerto de Arduino
-  myPort = new Serial(this, "COM13", 9600);
+  myPort = new Serial(this, "COM3", 9600);
   myPort.bufferUntil('\n');
 
   loc_video  = new NetAddress(ip_video, puerto);
@@ -68,7 +68,7 @@ void setup() {
 
   for (int i=0; i < cantVideos; i++) {
     for (int si=0; si < cantImgsPorVideo; si++) {
-      imgs[i][si] = loadImage("C:/Users/sarad/Documents/Facultad/2023/tesis/00-arquitectura/00-repo/Imagenes/" + i + "_" + si + ".jpg");
+      imgs[i][si] = loadImage("../Imagenes/" + i + "_" + si + ".jpg");
       imgs[i][si].loadPixels();
 
       println("imagen: " + i + "_" + si + " cargada");
