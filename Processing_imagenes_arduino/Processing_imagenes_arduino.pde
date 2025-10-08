@@ -7,15 +7,15 @@ Serial myPort;
 
 OscP5 oscP5;
 
-int cantVideos = 58;
-int max_dial = 59*30;
-int cantImgsPorVideo = 1;
+int cantVideos = 3;
+int max_dial = (cantVideos+1)*30;
+int cantImgsPorVideo = 4;
 int limite_inactividad = 10;
 
 int puerto = 12345;
 
 String ip_video = "192.168.1.4";
-String ip_texto = "192.168.1.255";
+String ip_texto = "192.168.100.4";
 
 NetAddress loc_video;
 NetAddress loc_texto;
@@ -37,6 +37,7 @@ int clip;
 int indice_imagen;
 
 float distortionAmount, ant_distortion;
+float transicionImagenes;
 
 float ruido_max;
 
@@ -52,7 +53,7 @@ void setup() {
   background(0);
 
   // Puerto de Arduino
-  myPort = new Serial(this, "COM13", 9600);
+  myPort = new Serial(this, "COM3", 9600);
   myPort.bufferUntil('\n');
 
   loc_video  = new NetAddress(ip_video, puerto);
@@ -68,7 +69,7 @@ void setup() {
 
   for (int i=0; i < cantVideos; i++) {
     for (int si=0; si < cantImgsPorVideo; si++) {
-      imgs[i][si] = loadImage("../Imagenes/" + 0 + "_" + si + ".jpg");
+      imgs[i][si] = loadImage("../Imagenes/" + i + "_" + si + ".png");
       imgs[i][si].loadPixels();
 
       println("imagen: " + i + "_" + si + " cargada");
@@ -103,10 +104,10 @@ void setup() {
 
 
 void draw() {
-  
+
   // CALCULO DE VARIABLES
   sintVideoIndex = constrain( round(sVideo / divisionSensor), 0, cantVideos-1); // calculo de indice a sintonizar
-  
+
   int nDistSint = int(abs(sVideo - (divisionSensor * sintVideoIndex))); // calculo la nueva distancia entre el valor del sensor y el valor para sintonizacion
   if (nDistSint != distSintVideo) {
     OscMessage ds = new OscMessage("/distSint");
@@ -152,7 +153,7 @@ void draw() {
     cv.add(newIndex);
     oscP5.send(cv, loc_video);
     oscP5.send(cv, loc_texto);
-    
+
     delay(500);
 
     currentVideoIndex = newIndex;
@@ -164,12 +165,45 @@ void draw() {
   oscP5.send(n, loc_video);
   oscP5.send(n, loc_texto);
 
+  indice_imagen = int(constrain(distortionAmount * cantImgsPorVideo, 0, 3));
+  //println(distortionAmount, indice_imagen);
 
-  // IMAGEN
-  indice_imagen = int(distortionAmount*cantImgsPorVideo);
+  // DISTORSIONO IMAGEN
   image(imgs[clip][indice_imagen], 0, 0, width, height);
-  //distorsionarImagen();
-  
+
+  if (distortionAmount > 0.125) {
+    transicionImagenes = distortionAmount * cantImgsPorVideo;
+    println(transicionImagenes);
+  }
+  if (transicionImagenes > 0) {
+    loadPixels();
+    //float esc = float(pixels.length) / float(imgs[clip][indice_imagen].pixels.length);
+    //println(esc);
+
+    for (int i = 0; i < pixels.length; i++) {
+
+      float r = red(pixels[i]);
+      float g = green(pixels[i]);
+      float b = blue(pixels[i]);
+
+      int n_i = i;
+
+      if (distortionAmount > 0.01) {
+        n_i = int( constrain(i + random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, pixels.length-1) );
+
+        r += constrain(random(-distortionAmount*100, distortionAmount*100), 0, 255);
+        g += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
+        b += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
+      }
+
+      color c = color(r, g, b);
+
+      pixels[n_i] = c;
+    }
+
+    updatePixels();
+  }
+
   ant_distortion = distortionAmount;
 
   // oscurezco la pantalla
@@ -226,36 +260,6 @@ void monitorearActividad() {
     oscP5.send(n, loc_video);
     oscP5.send(n, loc_texto);
   }
-}
-
-void distorsionarImagen(){
-  loadPixels();
-  float esc = float(pixels.length) / float(imgs[clip][indice_imagen].pixels.length);
-  println(esc);
-
-  for (int i = 0; i < pixels.length; i++) {
-
-    float r = red(pixels[i]);
-    float g = green(pixels[i]);
-    float b = blue(pixels[i]);
-
-    int n_i = i;
-
-    if (distortionAmount > 0.01) {
-      n_i = int( constrain(i + random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, pixels.length-1) );
-
-      r += constrain(random(-distortionAmount*100, distortionAmount*100), 0, 255);
-      g += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-      b += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-    }
-
-    color c = color(r, g, b);
-
-    pixels[n_i] = c;
-  }
-
-  updatePixels();
-
 }
 
 void serialEvent(Serial myPort) {
