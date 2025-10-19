@@ -7,9 +7,9 @@ import netP5.*;
 
 OscP5 oscP5;
 
-int cantVideos = 65;
+int cantVideos = 3;
 int max_dial = (cantVideos+1)*30;
-int cantImgsPorVideo = 1;
+int cantImgsPorVideo = 4;
 int limite_inactividad = 10;
 
 int puerto = 12345;
@@ -27,7 +27,7 @@ int[] puntos_nitidez;
 int sVideo, sNitidez;
 
 int distSintVideo; // distancia hasta sintonizacion de video
-float divisionSensor;
+float divisionSensor, divisionFidelidad;
 int randomize;
 boolean shouldSetPosition;
 int newIndex, sintVideoIndex, currentVideoIndex;
@@ -37,6 +37,7 @@ int clip;
 int indice_imagen;
 
 float distortionAmount, ant_distortion;
+float transicionImagenes;
 
 float ruido_max;
 
@@ -66,18 +67,19 @@ void setup() {
   puntos_nitidez = new int[cantVideos];
 
 
-  for (int i=0; i < cantVideos; i++) {
+  for (int v=0; v < cantVideos; v++) {
     for (int si=0; si < cantImgsPorVideo; si++) {
-      imgs[i][si] = loadImage("../Imagenes/" + 0 + "_" + si + ".jpg");
-      imgs[i][si].loadPixels();
+      imgs[v][si] = loadImage("../Imagenes/" + v + "_" + si + ".png");
+      imgs[v][si].loadPixels();
 
-      println("imagen: " + i + "_" + si + " cargada");
+      println("imagen: " + v + "_" + si + " cargada");
     }
 
-    puntos_nitidez[i] = int(random(1023));
+    puntos_nitidez[v] = int(random(1023));
   }
 
   divisionSensor = (float)max_dial / float(cantVideos-1);
+  divisionFidelidad = 1/float(cantImgsPorVideo-1);
 
   shouldSetPosition = false;
 
@@ -103,10 +105,10 @@ void setup() {
 
 
 void draw() {
-  
+
   // CALCULO DE VARIABLES
   sintVideoIndex = constrain( round(sVideo / divisionSensor), 0, cantVideos-1); // calculo de indice a sintonizar
-  
+
   int nDistSint = int(abs(sVideo - (divisionSensor * sintVideoIndex))); // calculo la nueva distancia entre el valor del sensor y el valor para sintonizacion
   if (nDistSint != distSintVideo) {
     OscMessage ds = new OscMessage("/distSint");
@@ -126,7 +128,7 @@ void draw() {
 
   if (clip != newIndex) {
     clip = newIndex;
-    indice_imagen = int(random(cantImgsPorVideo));
+    //indice_imagen = int(random(cantImgsPorVideo));
     escalar = float(width)/float(imgs[clip][indice_imagen].width);
   }
 
@@ -152,7 +154,7 @@ void draw() {
     cv.add(newIndex);
     oscP5.send(cv, loc_video);
     oscP5.send(cv, loc_texto);
-    
+
     delay(500);
 
     currentVideoIndex = newIndex;
@@ -164,37 +166,15 @@ void draw() {
   oscP5.send(n, loc_video);
   oscP5.send(n, loc_texto);
 
+  // CALCULO INDICE DE IMAGEN
+  indice_imagen = int(constrain(distortionAmount * cantImgsPorVideo, 0, cantImgsPorVideo-1));
 
-  // DISTORSIONO IMAGEN
+  // MUESTRO IMAGEN
   image(imgs[clip][indice_imagen], 0, 0, width, height);
-/*
-  loadPixels();
-  float esc = float(pixels.length) / float(imgs[clip][indice_imagen].pixels.length);
-  println(esc);
 
-  for (int i = 0; i < pixels.length; i++) {
+  distorsionImagen();
 
-    float r = red(pixels[i]);
-    float g = green(pixels[i]);
-    float b = blue(pixels[i]);
 
-    int n_i = i;
-
-    if (distortionAmount > 0.01) {
-      n_i = int( constrain(i + random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, pixels.length-1) );
-
-      r += constrain(random(-distortionAmount*100, distortionAmount*100), 0, 255);
-      g += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-      b += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-    }
-
-    color c = color(r, g, b);
-
-    pixels[n_i] = c;
-  }
-
-  updatePixels();
-*/
   ant_distortion = distortionAmount;
 
   // oscurezco la pantalla
@@ -202,9 +182,12 @@ void draw() {
   fill(0, oscuridad);
   rect(0, 0, width, height);
 
+  dibujarGrillaReferencia();
+
   //println("inactividad " + tiempo_inactividad, "| oscuridad " + oscuridad, "| sVideo " + sVideo, "| sNitidez " +  sNitidez, "| distSintVideo " + distSintVideo, "| sintVideoIndex " + sintVideoIndex, "| escalar " + escalar);
 }
 
+// --------------------------------------------------------------------------------
 void cambiarClip() {
   if (randomize != 0 && frameCount % randomize == 0) {
     shouldSetPosition = true;
@@ -224,6 +207,8 @@ void cambiarClip() {
         newIndex = (int) random(0, cantVideos - 1);
       }
     }
+
+    //println(newIndex);
   }
 }
 
@@ -253,60 +238,90 @@ void monitorearActividad() {
   }
 }
 
-void mouseMoved(){
+// --------------------------------------------------------------------------------------------------------------------------
+
+void distorsionImagen() {
+  if (distortionAmount > 0.125) {
+    //transicionImagenes = map(distortionAmount / cantImgsPorVideo, 0, divisorFidelidad, 0, 1);
+    //transicionImagenes = abs(distortionAmount - (divisionFidelidad * indice_imagen));
+    transicionImagenes = 1 - abs(2 * (distortionAmount * 1.5 % 1) - 1);
+    //refe: int nDistSint = int(abs(sVideo - (divisionSensor * sintVideoIndex))); // calculo la nueva distancia entre el valor del sensor y el valor para sintonizacion
+    //refe: indice_imagen = int(constrain(distortionAmount * cantImgsPorVideo, 0, 3));
+    println(distortionAmount, transicionImagenes);
+  }
+  if (transicionImagenes > 0) {
+    loadPixels();
+    //float esc = float(pixels.length) / float(imgs[clip][indice_imagen].pixels.length);
+    //println(esc);
+
+    for (int i = 0; i < pixels.length; i++) {
+
+      float r = red(pixels[i]);
+      float g = green(pixels[i]);
+      float b = blue(pixels[i]);
+
+      int n_i = i;
+
+      if (transicionImagenes > 0.01) {
+        n_i = int( constrain(i + random(-transicionImagenes*ruido_max, transicionImagenes*ruido_max), 0, pixels.length-1) );
+
+        r += constrain(random(-transicionImagenes*100, transicionImagenes*100), 0, 255);
+        g += constrain(random(-transicionImagenes*ruido_max, transicionImagenes*ruido_max), 0, 255);
+        b += constrain(random(-transicionImagenes*ruido_max, transicionImagenes*ruido_max), 0, 255);
+      }
+
+      color c = color(r, g, b);
+
+      pixels[n_i] = c;
+    }
+
+    updatePixels();
+  }
+}
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+void mouseMoved() {
   int nSVideo = int(map(mouseX, 0, width, 0, max_dial));
-  
+
   if (sVideo != nSVideo) {
 
-        if ( abs(sVideo - nSVideo) > 0) actividad = true; // registro actividad
+    if ( abs(sVideo - nSVideo) > 0) actividad = true; // registro actividad
 
-        sVideo = int(lerp(sVideo, nSVideo, 0.8));
+    sVideo = int(lerp(sVideo, nSVideo, 0.8));
 
-        OscMessage sv = new OscMessage("/sVideo"); // envio valor del sensor de nitidez a raspi
-        sv.add(sVideo);
-        oscP5.send(sv, loc_video);
-        //oscP5.send(sv, loc_texto);
-      }
-      
+    OscMessage sv = new OscMessage("/sVideo"); // envio valor del sensor de nitidez a raspi
+    sv.add(sVideo);
+    oscP5.send(sv, loc_video);
+    //oscP5.send(sv, loc_texto);
+  }
+
   int nSNitidez = int(map(mouseY, 0, height, 0, 1023));
-  
+
   if ( abs(sNitidez - nSNitidez) > 3) actividad = true; // registro actividad si el cambio es grande
 
   sNitidez = nSNitidez;
-  
+
+  //println(sNitidez);
 }
 
-/*void serialEvent(Serial myPort) {
+// --------------------------------------------------------------------------------------------------------------------------
 
-  String inString = myPort.readStringUntil('\n');
-
-  if (inString != null) {
-    inString = trim(inString);
-    int [] datos = int (split(inString, " "));
-
-    if (datos.length >= 3) {
-
-      if (sVideo != datos[0]) {
-
-        if ( abs(sVideo - datos[0]) > 0) actividad = true; // registro actividad
-
-        sVideo = int(lerp(sVideo, datos[0], 0.8));
-
-        OscMessage sv = new OscMessage("/sVideo"); // envio valor del sensor de nitidez a raspi
-        sv.add(sVideo);
-        oscP5.send(sv, loc_video);
-        //oscP5.send(sv, loc_texto);
-      }
-
-      if (sNitidez != datos[1]) {
-
-        if ( abs(sNitidez - datos[1]) > 3) actividad = true; // registro actividad si el cambio es grande
-
-        sNitidez = datos[1];
-      }
-    }
+void dibujarGrillaReferencia() {
+  for (int i=0; i < cantVideos; i++) {
+    line((width/(cantVideos-1))* i, 0, (width/(cantVideos-1))* i, height);
   }
-}*/
+  
+  float pNitPantalla = map(puntos_nitidez[clip], 0, 1023, 0, height);
+  
+  line(0, pNitPantalla, width, pNitPantalla);
+  
+  /*for (int i=0; i < cantImgsPorVideo; i++) {
+    line(0, height/(cantImgsPorVideo-1), width, height/(cantImgsPorVideo-1));
+  }*/
+}
+
+// --------------------------------------------------------------------------------------------------------------------------
 
 void oscEvent(OscMessage mensajeOscEntrante) {
   if (mensajeOscEntrante.checkAddrPattern("/video")==true) {

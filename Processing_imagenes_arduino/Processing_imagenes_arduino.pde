@@ -7,7 +7,7 @@ Serial myPort;
 
 OscP5 oscP5;
 
-int cantVideos = 3;
+int cantVideos = 10;
 int max_dial = (cantVideos+1)*30;
 int cantImgsPorVideo = 4;
 int limite_inactividad = 10;
@@ -27,7 +27,7 @@ int[] puntos_nitidez;
 int sVideo, sNitidez;
 
 int distSintVideo; // distancia hasta sintonizacion de video
-float divisionSensor;
+float divisionSensor, divisionFidelidad;
 int randomize;
 boolean shouldSetPosition;
 int newIndex, sintVideoIndex, currentVideoIndex;
@@ -48,12 +48,13 @@ int tiempo_inactividad;
 boolean actividad;
 
 void setup() {
-  size(1344, 756);
-  //fullScreen();
-  background(0);
+  //size(1920, 1080);
+  fullScreen();
+  pixelDensity(1);
+  noSmooth();
 
   // Puerto de Arduino
-  myPort = new Serial(this, "COM3", 9600);
+  myPort = new Serial(this, "COM8", 9600);
   myPort.bufferUntil('\n');
 
   loc_video  = new NetAddress(ip_video, puerto);
@@ -70,15 +71,18 @@ void setup() {
   for (int i=0; i < cantVideos; i++) {
     for (int si=0; si < cantImgsPorVideo; si++) {
       imgs[i][si] = loadImage("../Imagenes/" + i + "_" + si + ".png");
-      imgs[i][si].loadPixels();
+      imgs[i][si].resize(width, height);
+      //imgs[i][si].loadPixels();
 
       println("imagen: " + i + "_" + si + " cargada");
+      
     }
 
     puntos_nitidez[i] = int(random(1023));
   }
 
   divisionSensor = (float)max_dial / float(cantVideos-1);
+  divisionFidelidad = 1/float(cantImgsPorVideo);
 
   shouldSetPosition = false;
 
@@ -165,44 +169,12 @@ void draw() {
   oscP5.send(n, loc_video);
   oscP5.send(n, loc_texto);
 
-  indice_imagen = int(constrain(distortionAmount * cantImgsPorVideo, 0, 3));
+  indice_imagen = int(constrain(distortionAmount * cantImgsPorVideo, 0, cantImgsPorVideo-1));
   //println(distortionAmount, indice_imagen);
 
   // DISTORSIONO IMAGEN
-  image(imgs[clip][indice_imagen], 0, 0, width, height);
+  mostrarImagen();
 
-  if (distortionAmount > 0.125) {
-    transicionImagenes = distortionAmount * cantImgsPorVideo;
-    println(transicionImagenes);
-  }
-  if (transicionImagenes > 0) {
-    loadPixels();
-    //float esc = float(pixels.length) / float(imgs[clip][indice_imagen].pixels.length);
-    //println(esc);
-
-    for (int i = 0; i < pixels.length; i++) {
-
-      float r = red(pixels[i]);
-      float g = green(pixels[i]);
-      float b = blue(pixels[i]);
-
-      int n_i = i;
-
-      if (distortionAmount > 0.01) {
-        n_i = int( constrain(i + random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, pixels.length-1) );
-
-        r += constrain(random(-distortionAmount*100, distortionAmount*100), 0, 255);
-        g += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-        b += constrain(random(-distortionAmount*ruido_max, distortionAmount*ruido_max), 0, 255);
-      }
-
-      color c = color(r, g, b);
-
-      pixels[n_i] = c;
-    }
-
-    updatePixels();
-  }
 
   ant_distortion = distortionAmount;
 
@@ -211,8 +183,49 @@ void draw() {
   fill(0, oscuridad);
   rect(0, 0, width, height);
 
+  //dibujarGrillaReferencia();
+
   //println("inactividad " + tiempo_inactividad, "| oscuridad " + oscuridad, "| sVideo " + sVideo, "| sNitidez " +  sNitidez, "| distSintVideo " + distSintVideo, "| sintVideoIndex " + sintVideoIndex, "| escalar " + escalar);
 }
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+void mostrarImagen() {
+  if (distortionAmount > 1/float(cantImgsPorVideo)/2) {
+    transicionImagenes = calcularTransicionImgs(distortionAmount);
+    println(transicionImagenes);
+    
+
+    if (transicionImagenes < 0.1) {
+      image(imgs[clip][indice_imagen], 0, 0);
+    }
+    loadPixels();
+
+    for (int i = 0; i < pixels.length; i+= 1+random(transicionImagenes*10)) {
+
+      float r = red(imgs[clip][indice_imagen].pixels[i]);
+      float g = green(imgs[clip][indice_imagen].pixels[i]);
+      float b = blue(imgs[clip][indice_imagen].pixels[i]);
+
+      int n_i = i;
+
+      n_i = int( constrain(i + random(-transicionImagenes*ruido_max, transicionImagenes*ruido_max), 0, pixels.length-1) );
+
+      r += constrain(random(-transicionImagenes*ruido_max, transicionImagenes*ruido_max), 0, 255);
+      g += constrain(random(-transicionImagenes*ruido_max, transicionImagenes*ruido_max), 0, 255);
+      b += constrain(random(-transicionImagenes*ruido_max, transicionImagenes*ruido_max), 0, 255);
+
+
+      color c = color(r, g, b);
+
+      pixels[n_i] = c;
+    }
+
+    updatePixels();
+  } else image(imgs[clip][indice_imagen], 0, 0);
+}
+
+// --------------------------------------------------------------------------------------------------------------------------
 
 void cambiarClip() {
   if (randomize != 0 && frameCount % randomize == 0) {
@@ -235,6 +248,48 @@ void cambiarClip() {
     }
   }
 }
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+void dibujarGrillaReferencia() {
+  strokeWeight(1);
+  stroke(0);
+  for (int i=0; i < cantVideos; i++) {
+    line((width/(cantVideos-1))* i, 0, (width/(cantVideos-1))* i, height);
+  }
+
+  stroke(255);
+  float pNitPantalla = map(sNitidez, 0, 1023, 0, height);
+
+  line(0, pNitPantalla, width, pNitPantalla);
+
+  for (int i=0; i < cantImgsPorVideo; i++) {
+    line(0, i*(height/(cantImgsPorVideo)), width, i*(height/(cantImgsPorVideo)));
+  }
+
+  strokeWeight(2);
+
+  for (float i = 0; i <= 1; i+=0.01) {
+    //transicionImagenes = pow(abs(transicionImagenes), 0.5) * Math.signum(transicionImagenes);
+    transicionImagenes = calcularTransicionImgs(i);
+
+    line(width/2, height*i, width/2 + transicionImagenes*100, height*i);
+  }
+}
+
+// --------------------------------------------------------------------------------------------------------------------------
+
+float calcularTransicionImgs(float i) {
+
+  float a = i * PI*cantImgsPorVideo + PI/(cantImgsPorVideo/2);
+  //float t = abs(sin(a));
+  //transicionImagenes = pow(abs(transicionImagenes), 0.5) * Math.signum(transicionImagenes);
+  float t = abs(tan(1.5 * sin(a)));
+  
+  return t/15;
+}
+
+// --------------------------------------------------------------------------------------------------------------------------
 
 void monitorearActividad() {
   if (actividad) {
@@ -261,6 +316,7 @@ void monitorearActividad() {
     oscP5.send(n, loc_texto);
   }
 }
+// --------------------------------------------------------------------------------------------------------------------------
 
 void serialEvent(Serial myPort) {
 
@@ -293,6 +349,7 @@ void serialEvent(Serial myPort) {
     }
   }
 }
+// --------------------------------------------------------------------------------------------------------------------------
 
 void oscEvent(OscMessage mensajeOscEntrante) {
   if (mensajeOscEntrante.checkAddrPattern("/video")==true) {
