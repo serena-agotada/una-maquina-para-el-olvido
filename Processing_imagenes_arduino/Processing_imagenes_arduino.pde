@@ -15,7 +15,7 @@ int limite_inactividad = 10;
 int puerto = 12345;
 
 String ip_video = "192.168.1.4";
-String ip_texto = "192.168.100.4";
+String ip_texto = "192.168.100.93";
 
 NetAddress loc_video;
 NetAddress loc_texto;
@@ -74,8 +74,7 @@ void setup() {
       imgs[i][si].resize(width, height);
       //imgs[i][si].loadPixels();
 
-      println("imagen: " + i + "_" + si + " cargada");
-      
+      //println("imagen: " + i + "_" + si + " cargada");
     }
 
     puntos_nitidez[i] = int(random(1023));
@@ -151,6 +150,23 @@ void draw() {
   else
     distortionAmount = map(distN, 0, dist_max, 0.7, 1);
 
+  if (ant_distortion != distortionAmount) {
+    // ENVIO NITIDEZ
+    OscMessage n = new OscMessage("/nitidez");
+    n.add(distortionAmount);
+    oscP5.send(n, loc_video);
+    oscP5.send(n, loc_texto);
+
+    indice_imagen = int(constrain(distortionAmount * cantImgsPorVideo, 0, cantImgsPorVideo-1));
+    OscMessage iFid = new OscMessage("/iFidelidad"); // envio valor del sensor de nitidez a raspi
+    iFid.add(indice_imagen);
+    //oscP5.send(iFid, loc_video);
+    oscP5.send(iFid, loc_texto);
+    //println(distortionAmount, indice_imagen);
+
+    ant_distortion = distortionAmount;
+  }
+
   // ACTUALIZO INDICE DE VIDEO Y ENVIO A LAS OTRAS COMPUS
   if (newIndex != currentVideoIndex) {
     OscMessage cv = new OscMessage("/video");
@@ -163,20 +179,8 @@ void draw() {
     currentVideoIndex = newIndex;
   }
 
-  // ENVIO NITIDEZ
-  OscMessage n = new OscMessage("/nitidez");
-  n.add(distortionAmount);
-  oscP5.send(n, loc_video);
-  oscP5.send(n, loc_texto);
-
-  indice_imagen = int(constrain(distortionAmount * cantImgsPorVideo, 0, cantImgsPorVideo-1));
-  //println(distortionAmount, indice_imagen);
-
   // DISTORSIONO IMAGEN
   mostrarImagen();
-
-
-  ant_distortion = distortionAmount;
 
   // oscurezco la pantalla
   monitorearActividad();
@@ -192,9 +196,18 @@ void draw() {
 
 void mostrarImagen() {
   if (distortionAmount > 1/float(cantImgsPorVideo)/2) {
-    transicionImagenes = calcularTransicionImgs(distortionAmount);
-    println(transicionImagenes);
-    
+    float nTransicion = calcularTransicionImgs(distortionAmount);
+
+    if (transicionImagenes != nTransicion) {
+      transicionImagenes = nTransicion;
+      
+      OscMessage trans = new OscMessage("/transicion");
+      trans.add(transicionImagenes);
+      //oscP5.send(n, loc_video);
+      oscP5.send(trans, loc_texto);
+    }
+   
+    //println(transicionImagenes);
 
     if (transicionImagenes < 0.1) {
       image(imgs[clip][indice_imagen], 0, 0);
@@ -285,7 +298,7 @@ float calcularTransicionImgs(float i) {
   //float t = abs(sin(a));
   //transicionImagenes = pow(abs(transicionImagenes), 0.5) * Math.signum(transicionImagenes);
   float t = abs(tan(1.5 * sin(a)));
-  
+
   return t/15;
 }
 
@@ -337,7 +350,7 @@ void serialEvent(Serial myPort) {
         OscMessage sv = new OscMessage("/sVideo"); // envio valor del sensor de nitidez a raspi
         sv.add(sVideo);
         oscP5.send(sv, loc_video);
-        //oscP5.send(sv, loc_texto);
+        oscP5.send(sv, loc_texto);
       }
 
       if (sNitidez != datos[1]) {
