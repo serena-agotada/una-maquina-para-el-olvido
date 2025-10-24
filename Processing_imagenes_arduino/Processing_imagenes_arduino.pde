@@ -7,15 +7,15 @@ Serial myPort;
 
 OscP5 oscP5;
 
-int cantVideos = 10;
+int cantVideos = 5;
 int max_dial = (cantVideos+1)*30;
 int cantImgsPorVideo = 4;
 int limite_inactividad = 10;
 
 int puerto = 12345;
 
-String ip_video = "192.168.1.4";
-String ip_texto = "192.168.100.93";
+String ip_video = "192.168.1.255";
+String ip_texto = "192.168.100.162";
 
 NetAddress loc_video;
 NetAddress loc_texto;
@@ -46,6 +46,11 @@ float escalar;
 int oscuridad;
 int tiempo_inactividad;
 boolean actividad;
+
+//TEXTO ---------------
+String[][][] textos;
+String texto_random, texto;
+int caracteres_escritos;
 
 void setup() {
   //size(1920, 1080);
@@ -103,8 +108,22 @@ void setup() {
   oscP5.send(n, loc_texto);
 
   escalar = float(width)/float(imgs[0][0].width);
+
+  // TEXTO -----------------------------------------------------------
+  textos = new String[cantVideos][cantVideos][];
+
+  for (int t=0; t < cantVideos; t++) {
+    for (int f=0; f < cantImgsPorVideo; f++) {
+      textos[t][f] = loadStrings("../Textos/" + t + "_" + f + ".txt");
+      println("texto " + t + "_" + f + " cargado");
+    }
+  }
+  texto_random = "";
+
+  caracteres_escritos = 0;
 }
 
+// --------------------------------------------------------------------------------------------
 
 void draw() {
 
@@ -157,12 +176,18 @@ void draw() {
     oscP5.send(n, loc_video);
     oscP5.send(n, loc_texto);
 
-    indice_imagen = int(constrain(distortionAmount * cantImgsPorVideo, 0, cantImgsPorVideo-1));
-    OscMessage iFid = new OscMessage("/iFidelidad"); // envio valor del sensor de nitidez a raspi
-    iFid.add(indice_imagen);
-    //oscP5.send(iFid, loc_video);
-    oscP5.send(iFid, loc_texto);
-    //println(distortionAmount, indice_imagen);
+    // CALCULO INDICE DE IMAGEN / TEXTO
+    int n_indice = int(constrain(distortionAmount * cantImgsPorVideo, 0, cantImgsPorVideo-1));
+    if (n_indice != indice_imagen) {
+      indice_imagen = n_indice;
+      caracteres_escritos = 0;
+      
+      OscMessage iFid = new OscMessage("/iFidelidad"); // envio valor del sensor de nitidez a raspi
+      iFid.add(indice_imagen);
+      //oscP5.send(iFid, loc_video);
+      oscP5.send(iFid, loc_texto);
+      //println(distortionAmount, indice_imagen);
+    }
 
     ant_distortion = distortionAmount;
   }
@@ -179,8 +204,11 @@ void draw() {
     currentVideoIndex = newIndex;
   }
 
+  calcularTexto();
+
   // DISTORSIONO IMAGEN
   mostrarImagen();
+  filter(BLUR, map(transicionImagenes, 0, 1, 1, 3));
 
   // oscurezco la pantalla
   monitorearActividad();
@@ -200,13 +228,13 @@ void mostrarImagen() {
 
     if (transicionImagenes != nTransicion) {
       transicionImagenes = nTransicion;
-      
+
       OscMessage trans = new OscMessage("/transicion");
       trans.add(transicionImagenes);
       //oscP5.send(n, loc_video);
       oscP5.send(trans, loc_texto);
     }
-   
+
     //println(transicionImagenes);
 
     if (transicionImagenes < 0.1) {
@@ -244,9 +272,6 @@ void cambiarClip() {
   if (randomize != 0 && frameCount % randomize == 0) {
     shouldSetPosition = true;
 
-    // Guardo la posicion del video
-    //videoPositions[currentVideoIndex] = videoPlayer.getPosition();
-
     // cuanto mas cerca este el sensor a un punto de sintonizacion (distSintVideo es mas cercano a 0), mas probabilidad de que aparezca ese video
     float prob = random(distSintVideo);
 
@@ -259,6 +284,8 @@ void cambiarClip() {
         newIndex = (int) random(0, cantVideos - 1);
       }
     }
+
+    caracteres_escritos = 0;
   }
 }
 
@@ -375,6 +402,54 @@ void oscEvent(OscMessage mensajeOscEntrante) {
     }
   }
 }
+
+// TEXTO --------------------------------------------------------------------------------------------------------------------------
+
+void calcularTexto() {
+  texto = textos[clip][indice_imagen][0];
+
+  if (transicionImagenes < 0.5) {
+    texto_random = texto.substring(0, caracteres_escritos);
+  } else if (transicionImagenes > 0.8) {
+    texto_random = "Pensando...";
+  } else if (frameCount % 6 == 0) {
+    texto_random = "";
+    for (int i=0; i < caracteres_escritos; i++) {
+      if (random(1) < transicionImagenes && i < texto.length() && texto.charAt(i) != ' ' && texto.charAt(i) != '.' && texto.charAt(i) != ',') {
+        int randChar = int( random(0, texto.length()-1) );
+
+        while (texto.charAt(randChar) == ' ' || texto.charAt(randChar) == '.' || texto.charAt(randChar) == ',') {
+          randChar = int(random(0, texto.length()-1));
+        }
+
+        texto_random += texto.charAt(randChar);
+      } else if (i < texto.length()) texto_random += textos[clip][indice_imagen][0].charAt(i);
+    }
+  }
+
+  int velocidad_escritura = int(map(transicionImagenes, 0, 1, 5, 1)); // cantidad de caracteres escritos por frame
+
+  if (caracteres_escritos < texto.length() - velocidad_escritura - 1) {
+    texto_random += "| ";
+    caracteres_escritos+= velocidad_escritura;
+  } else if (caracteres_escritos < texto.length()-1) {
+    caracteres_escritos++;
+  } else if (caracteres_escritos > texto.length()) {
+    caracteres_escritos = texto.length();
+  }
+
+  try {
+    byte[] utf8 = texto_random.getBytes("UTF-8");
+    OscMessage m = new OscMessage("/texto");
+    m.add(utf8);
+    oscP5.send(m, loc_texto);
+  }
+  catch(Exception e) {
+    e.printStackTrace();
+  }
+}
+
+// --------------------------------------------------------------------------------------------------------------------------
 
 void keyPressed() {
   if (keyCode == ESC) exit();

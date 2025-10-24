@@ -48,11 +48,55 @@ void setup() {
 void draw() {
   background(0);
 
-  //distortionAmount = map(sNitidez, 0, 1024, 0, 1);
-  //indice_video = int(map(mouseX, 0, width, 0, cantVids-1));
+  fill(255);
+  text(texto, 35, 35, width-35, height-35);
 
-  //println(indice_video, distortionAmount);
+  fill(255, 20, 255);
+}
 
+void oscEvent(OscMessage mensajeOscEntrante) {
+  //delay(100);
+  /*if (mensajeOscEntrante.checkAddrPattern("/video")==true) {
+    if (mensajeOscEntrante.checkTypetag("i")) {
+      int nuevo_indice = mensajeOscEntrante.get(0).intValue();
+
+      if (indice_video != nuevo_indice) {
+        cambio_video = true;
+      } else cambio_video = false;
+      indice_video = nuevo_indice;
+      texto_random = textos[indice_video][indice_fidelidad][0];
+    }
+  }
+  else if (mensajeOscEntrante.checkAddrPattern("/nitidez")==true) {
+    if (mensajeOscEntrante.checkTypetag("f")) {
+      distortionAmount = mensajeOscEntrante.get(0).floatValue();
+    }
+  }
+  else if (mensajeOscEntrante.checkAddrPattern("/iFidelidad")==true) {
+    if (mensajeOscEntrante.checkTypetag("i")) {
+      indice_fidelidad = mensajeOscEntrante.get(0).intValue();
+    }
+  }
+  else if (mensajeOscEntrante.checkAddrPattern("/transicion")==true) {
+    if (mensajeOscEntrante.checkTypetag("f")) {
+      transicion = mensajeOscEntrante.get(0).floatValue();
+    }
+  }*/
+  
+  if (mensajeOscEntrante.checkAddrPattern("/texto")==true) {
+    if (mensajeOscEntrante.checkTypetag("s")) {
+      texto = mensajeOscEntrante.get(0).stringValue();
+    }
+  }
+  else if (mensajeOscEntrante.checkAddrPattern("/oscuridad")==true) {
+    if (mensajeOscEntrante.checkTypetag("i")) {
+      oscuridad = int(map(mensajeOscEntrante.get(0).intValue(), 0, 240, 255, 5));
+    }
+  }
+  
+}
+
+void calcularTexto(){
   texto = textos[indice_video][indice_fidelidad][0];
   
   if (transicion < 0.15) {
@@ -71,60 +115,6 @@ void draw() {
 
         texto_random += texto.charAt(randChar);
       } else if (i < texto.length()) texto_random += textos[indice_video][indice_fidelidad][0].charAt(i);
-    }
-  }
-
-  fill(255);
-  text(texto_random, 35, 35, width-35, height-35);
-
-  fill(255, 20, 255);
-  //text(indice_video, 15, 35);
-
-  /*if (frameCount % 10 ==0) {
-   if (random(0, 0.7) < distortionAmount) {
-   int cant_puntos = int( map(distortionAmount, 0, 1, 0, width*7) );
-   float tam_pix = int( map(distortionAmount, 0, 1, 0, 15) );
-   
-   for (int i=0; i < cant_puntos; i++) {
-   fill(0);
-   rect(random(width), random(height), tam_pix, tam_pix);
-   }
-   }
-   }*/
-}
-
-void oscEvent(OscMessage mensajeOscEntrante) {
-  delay(100);
-  if (mensajeOscEntrante.checkAddrPattern("/video")==true) {
-    if (mensajeOscEntrante.checkTypetag("i")) {
-      int nuevo_indice = mensajeOscEntrante.get(0).intValue();
-
-      if (indice_video != nuevo_indice) {
-        cambio_video = true;
-      } else cambio_video = false;
-      indice_video = nuevo_indice;
-      texto_random = textos[indice_video][indice_fidelidad][0];
-    }
-  }
-
-  if (mensajeOscEntrante.checkAddrPattern("/nitidez")==true) {
-    if (mensajeOscEntrante.checkTypetag("f")) {
-      distortionAmount = mensajeOscEntrante.get(0).floatValue();
-    }
-  }
-  if (mensajeOscEntrante.checkAddrPattern("/oscuridad")==true) {
-    if (mensajeOscEntrante.checkTypetag("i")) {
-      oscuridad = int(map(mensajeOscEntrante.get(0).intValue(), 0, 240, 255, 5));
-    }
-  }
-  if (mensajeOscEntrante.checkAddrPattern("/iFidelidad")==true) {
-    if (mensajeOscEntrante.checkTypetag("i")) {
-      indice_fidelidad = mensajeOscEntrante.get(0).intValue();
-    }
-  }
-  if (mensajeOscEntrante.checkAddrPattern("/transicion")==true) {
-    if (mensajeOscEntrante.checkTypetag("f")) {
-      transicion = mensajeOscEntrante.get(0).floatValue();
     }
   }
 }
