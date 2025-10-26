@@ -63,7 +63,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Beverage",
-        "Confidence": 51.04475021362305,
+        "Confidence": 21.04475021362305,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -297,7 +297,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Market",
-        "Confidence": 55.23334884643555,
+        "Confidence": 25.23334884643555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -375,7 +375,7 @@
               "Left": 0.5557246208190918,
               "Top": 0.07952135801315308
             },
-            "Confidence": 55.555580139160156
+            "Confidence": 35.555580139160156
           }
         ],
         "Parents": [],
@@ -395,7 +395,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Shop",
-        "Confidence": 55.4156608581543,
+        "Confidence": 45.4156608581543,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -461,7 +461,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Vending Machine",
-        "Confidence": 52.0703125,
+        "Confidence": 22.0703125,
         "Instances": [],
         "Parents": [
           {
@@ -650,7 +650,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Grocery Store",
-        "Confidence": 56.094173431396484,
+        "Confidence": 36.094173431396484,
         "Instances": [],
         "Parents": [
           {
@@ -1134,7 +1134,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Alcohol",
-        "Confidence": 55.17274475097656,
+        "Confidence": 45.17274475097656,
         "Instances": [],
         "Parents": [
           {
@@ -1168,7 +1168,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Beverage",
-        "Confidence": 55.47254180908203,
+        "Confidence": 45.47254180908203,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1253,7 +1253,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Handbag",
-        "Confidence": 50.009002685546875,
+        "Confidence": 40.009002685546875,
         "Instances": [],
         "Parents": [
           {
@@ -1275,7 +1275,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 54.9660758972168,
+        "Confidence": 44.9660758972168,
         "Instances": [],
         "Parents": [
           {
@@ -1357,7 +1357,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Laughing",
-        "Confidence": 53.582763671875,
+        "Confidence": 23.582763671875,
         "Instances": [],
         "Parents": [
           {
@@ -1608,7 +1608,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Shop",
-        "Confidence": 50.37025833129883,
+        "Confidence": 40.37025833129883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1789,7 +1789,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 53.16954803466797,
+        "Confidence": 33.16954803466797,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1936,7 +1936,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 53.60599899291992,
+        "Confidence": 23.60599899291992,
         "Instances": [],
         "Parents": [
           {
@@ -1959,7 +1959,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.99816131591797,
+        "Confidence": 30.99816131591797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2142,7 +2142,7 @@
               "Left": 0.5160037875175476,
               "Top": 0.06999116390943527
             },
-            "Confidence": 59.86761474609375
+            "Confidence": 49.86761474609375
           },
           {
             "BoundingBox": {
@@ -2151,7 +2151,7 @@
               "Left": 0.49907025694847107,
               "Top": 0.0580197237432003
             },
-            "Confidence": 57.8565788269043
+            "Confidence": 27.8565788269043
           }
         ],
         "Parents": [],
@@ -2226,7 +2226,7 @@
               "Left": 0.49907025694847107,
               "Top": 0.0580197237432003
             },
-            "Confidence": 57.8565788269043
+            "Confidence": 47.8565788269043
           }
         ],
         "Parents": [
@@ -2556,7 +2556,7 @@
               "Left": 0.8832682371139526,
               "Top": 0.8871104121208191
             },
-            "Confidence": 51.742469787597656
+            "Confidence": 41.742469787597656
           }
         ],
         "Parents": [
@@ -2645,7 +2645,7 @@
               "Left": 0.015810443088412285,
               "Top": 0.001001663156785071
             },
-            "Confidence": 52.595680236816406
+            "Confidence": 42.595680236816406
           },
           {
             "BoundingBox": {
@@ -2654,7 +2654,7 @@
               "Left": 0.8832682371139526,
               "Top": 0.8871104121208191
             },
-            "Confidence": 51.742469787597656
+            "Confidence": 31.742469787597656
           }
         ],
         "Parents": [],
@@ -2796,7 +2796,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Female",
-        "Confidence": 52.64954376220703,
+        "Confidence": 32.64954376220703,
         "Instances": [],
         "Parents": [
           {
@@ -2906,7 +2906,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Ice Hockey Stick",
-        "Confidence": 58.447330474853516,
+        "Confidence": 38.447330474853516,
         "Instances": [
           {
             "BoundingBox": {
@@ -2965,7 +2965,7 @@
               "Left": 0.5156245231628418,
               "Top": 0.0008016967913135886
             },
-            "Confidence": 53.899688720703125
+            "Confidence": 33.899688720703125
           }
         ],
         "Parents": [
@@ -3142,7 +3142,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 51.337432861328125,
+        "Confidence": 41.337432861328125,
         "Instances": [],
         "Parents": [
           {
@@ -3205,7 +3205,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Woman",
-        "Confidence": 52.64954376220703,
+        "Confidence": 42.64954376220703,
         "Instances": [],
         "Parents": [
           {
@@ -3257,7 +3257,7 @@
               "Left": 0.3252317011356354,
               "Top": 0.0015256977640092373
             },
-            "Confidence": 58.444339752197266
+            "Confidence": 28.444339752197266
           },
           {
             "BoundingBox": {
@@ -3266,7 +3266,7 @@
               "Left": 0.8514417409896851,
               "Top": 0.0006262683891691267
             },
-            "Confidence": 57.309593200683594
+            "Confidence": 27.309593200683594
           },
           {
             "BoundingBox": {
@@ -3453,7 +3453,7 @@
               "Left": 0.0005371809820644557,
               "Top": 0.20605334639549255
             },
-            "Confidence": 59.80473709106445
+            "Confidence": 49.80473709106445
           },
           {
             "BoundingBox": {
@@ -3471,7 +3471,7 @@
               "Left": 0.8514417409896851,
               "Top": 0.0006262683891691267
             },
-            "Confidence": 57.309593200683594
+            "Confidence": 27.309593200683594
           },
           {
             "BoundingBox": {
@@ -3480,7 +3480,7 @@
               "Left": 0.11774276942014694,
               "Top": 0.2650531828403473
             },
-            "Confidence": 55.72343444824219
+            "Confidence": 45.72343444824219
           },
           {
             "BoundingBox": {
@@ -3573,7 +3573,7 @@
               "Left": 0.8514417409896851,
               "Top": 0.0006262683891691267
             },
-            "Confidence": 57.309593200683594
+            "Confidence": 37.309593200683594
           },
           {
             "BoundingBox": {
@@ -3608,7 +3608,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.36351776123047,
+        "Confidence": 40.36351776123047,
         "Instances": [],
         "Parents": [
           {
@@ -3728,7 +3728,7 @@
               "Left": 0.8514417409896851,
               "Top": 0.0006262683891691267
             },
-            "Confidence": 57.309593200683594
+            "Confidence": 37.309593200683594
           },
           {
             "BoundingBox": {
@@ -3737,7 +3737,7 @@
               "Left": 0.11774276942014694,
               "Top": 0.2650531828403473
             },
-            "Confidence": 55.72343444824219
+            "Confidence": 45.72343444824219
           },
           {
             "BoundingBox": {
@@ -3746,7 +3746,7 @@
               "Left": 0.03576793149113655,
               "Top": 0.0026418971829116344
             },
-            "Confidence": 55.65342712402344
+            "Confidence": 45.65342712402344
           },
           {
             "BoundingBox": {
@@ -3910,7 +3910,7 @@
               "Left": 0.27953070402145386,
               "Top": 0.25640714168548584
             },
-            "Confidence": 54.20370864868164
+            "Confidence": 14.20370864868164
           },
           {
             "BoundingBox": {
@@ -3919,7 +3919,7 @@
               "Left": 0.292937308549881,
               "Top": 0.259566992521286
             },
-            "Confidence": 51.817501068115234
+            "Confidence": 21.817501068115234
           }
         ],
         "Parents": [
@@ -3970,7 +3970,7 @@
               "Left": 0.0036714100278913975,
               "Top": 0.3533099293708801
             },
-            "Confidence": 58.632057189941406
+            "Confidence": 48.632057189941406
           },
           {
             "BoundingBox": {
@@ -3979,7 +3979,7 @@
               "Left": 0.27953070402145386,
               "Top": 0.25640714168548584
             },
-            "Confidence": 54.20370864868164
+            "Confidence": 44.20370864868164
           }
         ],
         "Parents": [
@@ -4229,7 +4229,7 @@
               "Left": 0.0036714100278913975,
               "Top": 0.3533099293708801
             },
-            "Confidence": 58.632057189941406
+            "Confidence": 38.632057189941406
           },
           {
             "BoundingBox": {
@@ -4238,7 +4238,7 @@
               "Left": 0.27953070402145386,
               "Top": 0.25640714168548584
             },
-            "Confidence": 54.20370864868164
+            "Confidence": 44.20370864868164
           },
           {
             "BoundingBox": {
@@ -4247,7 +4247,7 @@
               "Left": 0.292937308549881,
               "Top": 0.259566992521286
             },
-            "Confidence": 51.817501068115234
+            "Confidence": 41.817501068115234
           },
           {
             "BoundingBox": {
@@ -4256,7 +4256,7 @@
               "Left": 0.0027531178202480078,
               "Top": 0.14785583317279816
             },
-            "Confidence": 50.488304138183594
+            "Confidence": 10.488304138183594
           }
         ],
         "Parents": [],
@@ -4291,7 +4291,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.00751495361328,
+        "Confidence": 32.00751495361328,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4310,7 +4310,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Woman",
-        "Confidence": 57.614097595214844,
+        "Confidence": 37.614097595214844,
         "Instances": [
           {
             "BoundingBox": {
@@ -4328,7 +4328,7 @@
               "Left": 0.27953070402145386,
               "Top": 0.25640714168548584
             },
-            "Confidence": 54.20370864868164
+            "Confidence": 34.20370864868164
           }
         ],
         "Parents": [
@@ -4410,7 +4410,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Baby",
-        "Confidence": 59.058536529541016,
+        "Confidence": 49.058536529541016,
         "Instances": [
           {
             "BoundingBox": {
@@ -4439,7 +4439,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 51.0788459777832,
+        "Confidence": 21.0788459777832,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4499,7 +4499,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Food",
-        "Confidence": 52.98979187011719,
+        "Confidence": 12.98979187011719,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4746,7 +4746,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.37297058105469,
+        "Confidence": 31.37297058105469,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4862,7 +4862,7 @@
               "Left": 0.48790305852890015,
               "Top": 0.6616088151931763
             },
-            "Confidence": 56.505340576171875
+            "Confidence": 46.505340576171875
           }
         ],
         "Parents": [
@@ -5099,7 +5099,7 @@
               "Left": 0.48790305852890015,
               "Top": 0.6616088151931763
             },
-            "Confidence": 56.505340576171875
+            "Confidence": 16.505340576171875
           }
         ],
         "Parents": [
@@ -5188,7 +5188,7 @@
               "Left": 0.1319965273141861,
               "Top": 0.6553290486335754
             },
-            "Confidence": 57.72337341308594
+            "Confidence": 37.72337341308594
           },
           {
             "BoundingBox": {
@@ -5197,7 +5197,7 @@
               "Left": 0.48790305852890015,
               "Top": 0.6616088151931763
             },
-            "Confidence": 56.505340576171875
+            "Confidence": 46.505340576171875
           }
         ],
         "Parents": [],
@@ -5217,7 +5217,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.07362365722656,
+        "Confidence": 40.07362365722656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5517,7 +5517,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.391029357910156,
+        "Confidence": 40.391029357910156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5642,7 +5642,7 @@
               "Left": 0.05152750760316849,
               "Top": 0.2969180643558502
             },
-            "Confidence": 55.34619140625
+            "Confidence": 45.34619140625
           },
           {
             "BoundingBox": {
@@ -5743,7 +5743,7 @@
               "Left": 0.006011308636516333,
               "Top": 0.05514415726065636
             },
-            "Confidence": 51.03644561767578
+            "Confidence": 41.03644561767578
           }
         ],
         "Parents": [
@@ -5832,7 +5832,7 @@
               "Left": 0.5694662928581238,
               "Top": 0.6523222923278809
             },
-            "Confidence": 56.824485778808594
+            "Confidence": 16.824485778808594
           },
           {
             "BoundingBox": {
@@ -5841,7 +5841,7 @@
               "Left": 0.05152750760316849,
               "Top": 0.2969180643558502
             },
-            "Confidence": 55.34619140625
+            "Confidence": 35.34619140625
           },
           {
             "BoundingBox": {
@@ -5850,7 +5850,7 @@
               "Left": 0.006011308636516333,
               "Top": 0.05514415726065636
             },
-            "Confidence": 51.03644561767578
+            "Confidence": 41.03644561767578
           }
         ],
         "Parents": [],
@@ -5943,7 +5943,7 @@
               "Left": 0.8313455581665039,
               "Top": 0.24114055931568146
             },
-            "Confidence": 53.389400482177734
+            "Confidence": 33.389400482177734
           }
         ],
         "Parents": [
@@ -6106,7 +6106,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.542449951171875,
+        "Confidence": 20.542449951171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6231,7 +6231,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 50.74464416503906,
+        "Confidence": 20.74464416503906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6309,7 +6309,7 @@
               "Left": 0.8313455581665039,
               "Top": 0.24114055931568146
             },
-            "Confidence": 53.389400482177734
+            "Confidence": 23.389400482177734
           }
         ],
         "Parents": [],
@@ -6436,7 +6436,7 @@
               "Left": 0.5098577737808228,
               "Top": 0.6514410972595215
             },
-            "Confidence": 59.71283721923828
+            "Confidence": 39.71283721923828
           },
           {
             "BoundingBox": {
@@ -6445,7 +6445,7 @@
               "Left": 0.6764926910400391,
               "Top": 0.0020054245833307505
             },
-            "Confidence": 50.983673095703125
+            "Confidence": 20.983673095703125
           }
         ],
         "Parents": [
@@ -6599,7 +6599,7 @@
               "Left": 0.6764926910400391,
               "Top": 0.0020054245833307505
             },
-            "Confidence": 50.983673095703125
+            "Confidence": 20.983673095703125
           }
         ],
         "Parents": [
@@ -6655,7 +6655,7 @@
               "Left": 0.5098577737808228,
               "Top": 0.6514410972595215
             },
-            "Confidence": 59.71283721923828
+            "Confidence": 39.71283721923828
           },
           {
             "BoundingBox": {
@@ -6735,7 +6735,7 @@
               "Left": 0.5098577737808228,
               "Top": 0.6514410972595215
             },
-            "Confidence": 59.71283721923828
+            "Confidence": 39.71283721923828
           },
           {
             "BoundingBox": {
@@ -6744,7 +6744,7 @@
               "Left": 0.6764926910400391,
               "Top": 0.0020054245833307505
             },
-            "Confidence": 50.983673095703125
+            "Confidence": 30.983673095703125
           }
         ],
         "Parents": [],
@@ -6828,7 +6828,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Female",
-        "Confidence": 55.941585540771484,
+        "Confidence": 35.941585540771484,
         "Instances": [],
         "Parents": [
           {
@@ -6895,7 +6895,7 @@
               "Left": 0.47093936800956726,
               "Top": 0.2112676054239273
             },
-            "Confidence": 50.161888122558594
+            "Confidence": 20.161888122558594
           }
         ],
         "Parents": [
@@ -6924,7 +6924,7 @@
               "Left": 0.7626335024833679,
               "Top": 4.5471191697288305e-05
             },
-            "Confidence": 57.73689270019531
+            "Confidence": 37.73689270019531
           }
         ],
         "Parents": [
@@ -6977,7 +6977,7 @@
               "Left": 0.47093936800956726,
               "Top": 0.2112676054239273
             },
-            "Confidence": 50.161888122558594
+            "Confidence": 30.161888122558594
           }
         ],
         "Parents": [],
@@ -7064,7 +7064,7 @@
               "Left": 0.7428815960884094,
               "Top": 0.4852491021156311
             },
-            "Confidence": 50.56289291381836
+            "Confidence": 30.56289291381836
           }
         ],
         "Parents": [
@@ -7239,7 +7239,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Market",
-        "Confidence": 50.75688934326172,
+        "Confidence": 20.75688934326172,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7281,7 +7281,7 @@
               "Left": 0.7428815960884094,
               "Top": 0.4852491021156311
             },
-            "Confidence": 50.56289291381836
+            "Confidence": 30.56289291381836
           }
         ],
         "Parents": [],
@@ -7385,7 +7385,7 @@
               "Left": 0.7428815960884094,
               "Top": 0.4852491021156311
             },
-            "Confidence": 50.56289291381836
+            "Confidence": 40.56289291381836
           }
         ],
         "Parents": [
@@ -7738,7 +7738,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Supermarket",
-        "Confidence": 52.261112213134766,
+        "Confidence": 32.261112213134766,
         "Instances": [],
         "Parents": [
           {
@@ -7770,7 +7770,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Walk-In Closet",
-        "Confidence": 50.368743896484375,
+        "Confidence": 20.368743896484375,
         "Instances": [],
         "Parents": [
           {
@@ -8141,7 +8141,7 @@
               "Left": 0.3855900466442108,
               "Top": 0.03152141720056534
             },
-            "Confidence": 51.02482986450195
+            "Confidence": 41.02482986450195
           }
         ],
         "Parents": [
@@ -8183,7 +8183,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 51.219276428222656,
+        "Confidence": 31.219276428222656,
         "Instances": [],
         "Parents": [
           {
@@ -8211,7 +8211,7 @@
               "Left": 0.3855900466442108,
               "Top": 0.03152141720056534
             },
-            "Confidence": 51.02482986450195
+            "Confidence": 41.02482986450195
           }
         ],
         "Parents": [
@@ -8231,7 +8231,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Grocery Store",
-        "Confidence": 51.42281723022461,
+        "Confidence": 41.42281723022461,
         "Instances": [],
         "Parents": [
           {
@@ -8348,7 +8348,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Market",
-        "Confidence": 51.41047286987305,
+        "Confidence": 41.41047286987305,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8381,7 +8381,7 @@
               "Left": 0.3855900466442108,
               "Top": 0.03152141720056534
             },
-            "Confidence": 51.02482986450195
+            "Confidence": 21.02482986450195
           }
         ],
         "Parents": [],
@@ -8512,7 +8512,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Face",
-        "Confidence": 53.832611083984375,
+        "Confidence": 33.832611083984375,
         "Instances": [],
         "Parents": [
           {
@@ -8534,7 +8534,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Grocery Store",
-        "Confidence": 54.661773681640625,
+        "Confidence": 34.661773681640625,
         "Instances": [],
         "Parents": [
           {
@@ -8587,7 +8587,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Machine",
-        "Confidence": 50.648860931396484,
+        "Confidence": 20.648860931396484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8666,7 +8666,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Market",
-        "Confidence": 54.655601501464844,
+        "Confidence": 14.655601501464844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8725,7 +8725,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Supermarket",
-        "Confidence": 54.655601501464844,
+        "Confidence": 34.655601501464844,
         "Instances": [],
         "Parents": [
           {
@@ -8960,7 +8960,7 @@
               "Left": 0.6600210666656494,
               "Top": 0.19338707625865936
             },
-            "Confidence": 57.92580795288086
+            "Confidence": 37.92580795288086
           }
         ],
         "Parents": [
@@ -9024,7 +9024,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Market",
-        "Confidence": 54.18547821044922,
+        "Confidence": 24.18547821044922,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9075,7 +9075,7 @@
               "Left": 0.6600210666656494,
               "Top": 0.19338707625865936
             },
-            "Confidence": 57.92580795288086
+            "Confidence": 27.92580795288086
           },
           {
             "BoundingBox": {
@@ -9084,7 +9084,7 @@
               "Left": 0.6819340586662292,
               "Top": 0.28876596689224243
             },
-            "Confidence": 57.81690979003906
+            "Confidence": 27.81690979003906
           }
         ],
         "Parents": [],
@@ -9119,7 +9119,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Supermarket",
-        "Confidence": 54.18547821044922,
+        "Confidence": 24.18547821044922,
         "Instances": [],
         "Parents": [
           {
@@ -9151,7 +9151,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 52.19815444946289,
+        "Confidence": 42.19815444946289,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9442,7 +9442,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Market",
-        "Confidence": 56.02298355102539,
+        "Confidence": 46.02298355102539,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9513,7 +9513,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Shop",
-        "Confidence": 56.04011535644531,
+        "Confidence": 46.04011535644531,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9528,7 +9528,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Shoving",
-        "Confidence": 50.537742614746094,
+        "Confidence": 20.537742614746094,
         "Instances": [],
         "Parents": [
           {
@@ -9547,7 +9547,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Supermarket",
-        "Confidence": 56.02298355102539,
+        "Confidence": 36.02298355102539,
         "Instances": [],
         "Parents": [
           {
@@ -9579,7 +9579,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 54.225433349609375,
+        "Confidence": 34.225433349609375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9719,7 +9719,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Grocery Store",
-        "Confidence": 50.28795623779297,
+        "Confidence": 40.28795623779297,
         "Instances": [],
         "Parents": [
           {
@@ -9908,7 +9908,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Market",
-        "Confidence": 50.28795623779297,
+        "Confidence": 30.28795623779297,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10006,7 +10006,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Shop",
-        "Confidence": 50.38896942138672,
+        "Confidence": 20.38896942138672,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10157,7 +10157,7 @@
               "Left": 0.27117377519607544,
               "Top": 0.5753433108329773
             },
-            "Confidence": 53.1099739074707
+            "Confidence": 13.1099739074707
           }
         ],
         "Parents": [
@@ -10594,7 +10594,7 @@
               "Left": 0.37668555974960327,
               "Top": 0.7723920345306396
             },
-            "Confidence": 53.11573791503906
+            "Confidence": 23.11573791503906
           }
         ],
         "Parents": [
@@ -10896,7 +10896,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Market",
-        "Confidence": 50.471702575683594,
+        "Confidence": 40.471702575683594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10974,7 +10974,7 @@
               "Left": 0.3303169310092926,
               "Top": 0.577289879322052
             },
-            "Confidence": 55.235694885253906
+            "Confidence": 45.235694885253906
           },
           {
             "BoundingBox": {
@@ -11003,7 +11003,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Shop",
-        "Confidence": 51.573978424072266,
+        "Confidence": 21.573978424072266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11018,7 +11018,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Supermarket",
-        "Confidence": 50.471702575683594,
+        "Confidence": 20.471702575683594,
         "Instances": [],
         "Parents": [
           {
@@ -11050,7 +11050,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 52.61233139038086,
+        "Confidence": 22.61233139038086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11163,7 +11163,7 @@
               "Left": 0.06549467891454697,
               "Top": 0.16173353791236877
             },
-            "Confidence": 53.525577545166016
+            "Confidence": 33.525577545166016
           }
         ],
         "Parents": [
@@ -11299,7 +11299,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.55451202392578,
+        "Confidence": 40.55451202392578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11590,7 +11590,7 @@
               "Left": 0.06549467891454697,
               "Top": 0.16173353791236877
             },
-            "Confidence": 53.525577545166016
+            "Confidence": 33.525577545166016
           }
         ],
         "Parents": [],
@@ -11610,7 +11610,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Shop",
-        "Confidence": 51.5301513671875,
+        "Confidence": 21.5301513671875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11907,7 +11907,7 @@
               "Left": 0.4157301187515259,
               "Top": 0.6888110637664795
             },
-            "Confidence": 57.412200927734375
+            "Confidence": 37.412200927734375
           }
         ],
         "Parents": [
@@ -12027,7 +12027,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Sport",
-        "Confidence": 53.714176177978516,
+        "Confidence": 33.714176177978516,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -12126,7 +12126,7 @@
               "Left": 0.11100496351718903,
               "Top": 0.09996341168880463
             },
-            "Confidence": 51.37767028808594
+            "Confidence": 31.37767028808594
           }
         ],
         "Parents": [
@@ -12155,7 +12155,7 @@
               "Left": 0.2501496970653534,
               "Top": 0.009956016205251217
             },
-            "Confidence": 54.56178283691406
+            "Confidence": 24.56178283691406
           }
         ],
         "Parents": [
@@ -12187,7 +12187,7 @@
               "Left": 0.2501496970653534,
               "Top": 0.009956016205251217
             },
-            "Confidence": 54.56178283691406
+            "Confidence": 24.56178283691406
           }
         ],
         "Parents": [
@@ -12233,7 +12233,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.686702728271484,
+        "Confidence": 30.686702728271484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12304,7 +12304,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Machine",
-        "Confidence": 52.94212341308594,
+        "Confidence": 22.94212341308594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12355,7 +12355,7 @@
               "Left": 0.2501496970653534,
               "Top": 0.009956016205251217
             },
-            "Confidence": 54.56178283691406
+            "Confidence": 34.56178283691406
           },
           {
             "BoundingBox": {
@@ -12429,7 +12429,7 @@
               "Left": 0.058243393898010254,
               "Top": 0.3321065902709961
             },
-            "Confidence": 54.452449798583984
+            "Confidence": 24.452449798583984
           },
           {
             "BoundingBox": {
@@ -12538,7 +12538,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Pump",
-        "Confidence": 51.732017517089844,
+        "Confidence": 41.732017517089844,
         "Instances": [],
         "Parents": [
           {
@@ -12557,7 +12557,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Sport",
-        "Confidence": 50.94220733642578,
+        "Confidence": 30.94220733642578,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -12591,7 +12591,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.032814025878906,
+        "Confidence": 33.032814025878906,
         "Instances": [],
         "Parents": [
           {
@@ -12882,7 +12882,7 @@
               "Left": 0.6816349625587463,
               "Top": 0.1797449290752411
             },
-            "Confidence": 59.41206359863281
+            "Confidence": 49.41206359863281
           }
         ],
         "Parents": [],
@@ -13019,7 +13019,7 @@
               "Left": 0.6110028028488159,
               "Top": 0.04675453156232834
             },
-            "Confidence": 54.89714050292969
+            "Confidence": 14.89714050292969
           },
           {
             "BoundingBox": {
@@ -13028,7 +13028,7 @@
               "Left": 0.5140091180801392,
               "Top": 0.4630339443683624
             },
-            "Confidence": 53.53074645996094
+            "Confidence": 43.53074645996094
           },
           {
             "BoundingBox": {
@@ -13037,7 +13037,7 @@
               "Left": 0.6686712503433228,
               "Top": 0.10248592495918274
             },
-            "Confidence": 52.39905548095703
+            "Confidence": 42.39905548095703
           },
           {
             "BoundingBox": {
@@ -13129,7 +13129,7 @@
               "Left": 0.5388182997703552,
               "Top": 0.3891545236110687
             },
-            "Confidence": 51.84336853027344
+            "Confidence": 31.84336853027344
           }
         ],
         "Parents": [
@@ -13374,7 +13374,7 @@
               "Left": 0.6110028028488159,
               "Top": 0.04675453156232834
             },
-            "Confidence": 54.89714050292969
+            "Confidence": 44.89714050292969
           },
           {
             "BoundingBox": {
@@ -13383,7 +13383,7 @@
               "Left": 0.5140091180801392,
               "Top": 0.4630339443683624
             },
-            "Confidence": 53.53074645996094
+            "Confidence": 23.53074645996094
           },
           {
             "BoundingBox": {
@@ -13939,7 +13939,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Animal",
-        "Confidence": 50.8129768371582,
+        "Confidence": 30.8129768371582,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14100,7 +14100,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 53.49733352661133,
+        "Confidence": 23.49733352661133,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -14314,7 +14314,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 50.90399169921875,
+        "Confidence": 40.90399169921875,
         "Instances": [],
         "Parents": [
           {
@@ -14435,7 +14435,7 @@
               "Left": 0.5500059127807617,
               "Top": 0.0007299804710783064
             },
-            "Confidence": 54.78968048095703
+            "Confidence": 34.78968048095703
           }
         ],
         "Parents": [
@@ -14502,7 +14502,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Bride",
-        "Confidence": 56.515316009521484,
+        "Confidence": 46.515316009521484,
         "Instances": [
           {
             "BoundingBox": {
@@ -14558,7 +14558,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Carton",
-        "Confidence": 51.06393814086914,
+        "Confidence": 11.06393814086914,
         "Instances": [],
         "Parents": [
           {
@@ -14671,7 +14671,7 @@
               "Left": 0.8927983045578003,
               "Top": 0.018408088013529778
             },
-            "Confidence": 58.43566131591797
+            "Confidence": 48.43566131591797
           }
         ],
         "Parents": [
@@ -15018,7 +15018,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 57.37147521972656,
+        "Confidence": 47.37147521972656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15481,7 +15481,7 @@
               "Left": 0.5681727528572083,
               "Top": 0.00719826715067029
             },
-            "Confidence": 58.11804962158203
+            "Confidence": 38.11804962158203
           }
         ],
         "Parents": [],
@@ -15633,7 +15633,7 @@
               "Left": 0.23260512948036194,
               "Top": 0.4190164804458618
             },
-            "Confidence": 58.749778747558594
+            "Confidence": 28.749778747558594
           }
         ],
         "Parents": [
@@ -15735,7 +15735,7 @@
               "Left": 0.23260512948036194,
               "Top": 0.4190164804458618
             },
-            "Confidence": 58.749778747558594
+            "Confidence": 48.749778747558594
           }
         ],
         "Parents": [
@@ -15804,7 +15804,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Male",
-        "Confidence": 58.70315933227539,
+        "Confidence": 48.70315933227539,
         "Instances": [],
         "Parents": [
           {
@@ -16011,7 +16011,7 @@
               "Left": 0.23260512948036194,
               "Top": 0.4190164804458618
             },
-            "Confidence": 58.749778747558594
+            "Confidence": 38.749778747558594
           }
         ],
         "Parents": [
@@ -16073,7 +16073,7 @@
               "Left": 0.022967016324400902,
               "Top": 0.8775014877319336
             },
-            "Confidence": 58.411319732666016
+            "Confidence": 28.411319732666016
           },
           {
             "BoundingBox": {
@@ -16153,7 +16153,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 52.49540710449219,
+        "Confidence": 42.49540710449219,
         "Instances": [],
         "Parents": [
           {
@@ -16229,7 +16229,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Machine",
-        "Confidence": 50.2038459777832,
+        "Confidence": 40.2038459777832,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16280,7 +16280,7 @@
               "Left": 0.11429530382156372,
               "Top": 0.002028407994657755
             },
-            "Confidence": 52.165008544921875
+            "Confidence": 42.165008544921875
           }
         ],
         "Parents": [
@@ -16327,7 +16327,7 @@
               "Left": 0.022967016324400902,
               "Top": 0.8775014877319336
             },
-            "Confidence": 58.411319732666016
+            "Confidence": 38.411319732666016
           },
           {
             "BoundingBox": {
@@ -16496,7 +16496,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Accessories",
-        "Confidence": 52.42972946166992,
+        "Confidence": 42.42972946166992,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -16598,7 +16598,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Bag",
-        "Confidence": 53.56952667236328,
+        "Confidence": 43.56952667236328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16671,7 +16671,7 @@
               "Left": 0.14300017058849335,
               "Top": 0.8187372088432312
             },
-            "Confidence": 51.5429573059082
+            "Confidence": 41.5429573059082
           }
         ],
         "Parents": [
@@ -16729,7 +16729,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 54.23584747314453,
+        "Confidence": 24.23584747314453,
         "Instances": [],
         "Parents": [
           {
@@ -16959,7 +16959,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Shopping",
-        "Confidence": 50.157554626464844,
+        "Confidence": 30.157554626464844,
         "Instances": [],
         "Parents": [
           {
@@ -17048,7 +17048,7 @@
               "Left": 0.14300017058849335,
               "Top": 0.8187372088432312
             },
-            "Confidence": 51.5429573059082
+            "Confidence": 31.5429573059082
           }
         ],
         "Parents": [
@@ -17110,7 +17110,7 @@
               "Left": 0.015333196148276329,
               "Top": 0.3668014407157898
             },
-            "Confidence": 52.889347076416016
+            "Confidence": 42.889347076416016
           },
           {
             "BoundingBox": {
@@ -17266,7 +17266,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 53.83184051513672,
+        "Confidence": 33.83184051513672,
         "Instances": [],
         "Parents": [
           {
@@ -17551,7 +17551,7 @@
               "Left": 0.20626138150691986,
               "Top": 0.14814412593841553
             },
-            "Confidence": 52.529972076416016
+            "Confidence": 42.529972076416016
           }
         ],
         "Parents": [
@@ -17624,7 +17624,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Bag",
-        "Confidence": 51.764854431152344,
+        "Confidence": 31.764854431152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17709,7 +17709,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.186668395996094,
+        "Confidence": 30.186668395996094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17905,7 +17905,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 52.122337341308594,
+        "Confidence": 42.122337341308594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18029,7 +18029,7 @@
               "Left": 0.11786825954914093,
               "Top": 0.6533034443855286
             },
-            "Confidence": 54.65769958496094
+            "Confidence": 34.65769958496094
           }
         ],
         "Parents": [
@@ -18201,7 +18201,7 @@
               "Left": 0.11786825954914093,
               "Top": 0.6533034443855286
             },
-            "Confidence": 54.65769958496094
+            "Confidence": 24.65769958496094
           }
         ],
         "Parents": [],
@@ -18239,7 +18239,7 @@
               "Left": 0.11786825954914093,
               "Top": 0.6533034443855286
             },
-            "Confidence": 54.65769958496094
+            "Confidence": 34.65769958496094
           }
         ],
         "Parents": [
@@ -18536,7 +18536,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Machine",
-        "Confidence": 54.55482482910156,
+        "Confidence": 44.55482482910156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18605,7 +18605,7 @@
               "Left": 0.6990641355514526,
               "Top": 0.15628962218761444
             },
-            "Confidence": 54.106224060058594
+            "Confidence": 34.106224060058594
           }
         ],
         "Parents": [
@@ -18661,7 +18661,7 @@
               "Left": 0.7509756088256836,
               "Top": 0.174638032913208
             },
-            "Confidence": 58.479698181152344
+            "Confidence": 18.479698181152344
           },
           {
             "BoundingBox": {
@@ -18768,7 +18768,7 @@
               "Left": 0.7165786027908325,
               "Top": 0.535901665687561
             },
-            "Confidence": 56.691871643066406
+            "Confidence": 26.691871643066406
           },
           {
             "BoundingBox": {
@@ -19584,7 +19584,7 @@
               "Left": 0.6075500845909119,
               "Top": 0.31443265080451965
             },
-            "Confidence": 50.683223724365234
+            "Confidence": 20.683223724365234
           }
         ],
         "Parents": [],
@@ -19753,7 +19753,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Bag",
-        "Confidence": 52.820926666259766,
+        "Confidence": 32.820926666259766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19819,7 +19819,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 50.671142578125,
+        "Confidence": 40.671142578125,
         "Instances": [],
         "Parents": [
           {
@@ -19872,7 +19872,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Machine",
-        "Confidence": 52.85265350341797,
+        "Confidence": 22.85265350341797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19943,7 +19943,7 @@
               "Left": 0.44198817014694214,
               "Top": 0.19432315230369568
             },
-            "Confidence": 55.78312683105469
+            "Confidence": 35.78312683105469
           }
         ],
         "Parents": [
@@ -20031,7 +20031,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Vending Machine",
-        "Confidence": 50.83284378051758,
+        "Confidence": 30.83284378051758,
         "Instances": [],
         "Parents": [
           {
@@ -20258,7 +20258,7 @@
               "Left": 0.5073051452636719,
               "Top": 0.34247469902038574
             },
-            "Confidence": 52.587520599365234
+            "Confidence": 12.587520599365234
           }
         ],
         "Parents": [
@@ -20569,7 +20569,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 50.897796630859375,
+        "Confidence": 30.897796630859375,
         "Instances": [],
         "Parents": [
           {
@@ -20616,7 +20616,7 @@
               "Left": 0.20478297770023346,
               "Top": 0.31574538350105286
             },
-            "Confidence": 56.077354431152344
+            "Confidence": 36.077354431152344
           },
           {
             "BoundingBox": {
@@ -20862,7 +20862,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Grocery Store",
-        "Confidence": 54.9405632019043,
+        "Confidence": 44.9405632019043,
         "Instances": [],
         "Parents": [
           {
@@ -21023,7 +21023,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Shop",
-        "Confidence": 54.966156005859375,
+        "Confidence": 44.966156005859375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21038,7 +21038,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Supermarket",
-        "Confidence": 54.9405632019043,
+        "Confidence": 14.9405632019043,
         "Instances": [],
         "Parents": [
           {
@@ -21137,7 +21137,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Food",
-        "Confidence": 54.35013961791992,
+        "Confidence": 34.35013961791992,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21152,7 +21152,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Grocery Store",
-        "Confidence": 54.90478515625,
+        "Confidence": 44.90478515625,
         "Instances": [],
         "Parents": [
           {
@@ -21243,7 +21243,7 @@
               "Left": 0.22419923543930054,
               "Top": 0.8486068844795227
             },
-            "Confidence": 55.95322799682617
+            "Confidence": 45.95322799682617
           }
         ],
         "Parents": [
@@ -21269,7 +21269,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Market",
-        "Confidence": 54.90478515625,
+        "Confidence": 34.90478515625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21302,7 +21302,7 @@
               "Left": 0.22419923543930054,
               "Top": 0.8486068844795227
             },
-            "Confidence": 55.95322799682617
+            "Confidence": 35.95322799682617
           }
         ],
         "Parents": [],
@@ -21369,7 +21369,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Sweets",
-        "Confidence": 50.09975051879883,
+        "Confidence": 10.09975051879883,
         "Instances": [],
         "Parents": [
           {
@@ -21392,7 +21392,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 54.10660934448242,
+        "Confidence": 44.10660934448242,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21507,7 +21507,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Boxing",
-        "Confidence": 50.24821853637695,
+        "Confidence": 30.24821853637695,
         "Instances": [],
         "Parents": [
           {
@@ -21552,7 +21552,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 50.37577819824219,
+        "Confidence": 30.37577819824219,
         "Instances": [],
         "Parents": [
           {
@@ -21689,7 +21689,7 @@
               "Left": 0.21671363711357117,
               "Top": 0.15831358730793
             },
-            "Confidence": 56.169010162353516
+            "Confidence": 36.169010162353516
           }
         ],
         "Parents": [
@@ -21833,7 +21833,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Shop",
-        "Confidence": 51.09904861450195,
+        "Confidence": 31.09904861450195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21848,7 +21848,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Sport",
-        "Confidence": 50.62648010253906,
+        "Confidence": 40.62648010253906,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -22602,7 +22602,7 @@
               "Left": 0.22117456793785095,
               "Top": 0.26873132586479187
             },
-            "Confidence": 56.129825592041016
+            "Confidence": 36.129825592041016
           }
         ],
         "Parents": [
@@ -22659,7 +22659,7 @@
       "Timestamp": 24520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 53.89923858642578,
+        "Confidence": 33.89923858642578,
         "Instances": [],
         "Parents": [
           {
@@ -23016,7 +23016,7 @@
               "Left": 0.22117456793785095,
               "Top": 0.26873132586479187
             },
-            "Confidence": 56.129825592041016
+            "Confidence": 46.129825592041016
           }
         ],
         "Parents": [],

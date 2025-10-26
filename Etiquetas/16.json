@@ -257,7 +257,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Grove",
-        "Confidence": 54.3682975769043,
+        "Confidence": 34.3682975769043,
         "Instances": [],
         "Parents": [
           {
@@ -437,7 +437,7 @@
               "Left": 0.8349024653434753,
               "Top": 0.6755517721176147
             },
-            "Confidence": 51.19587707519531
+            "Confidence": 41.19587707519531
           }
         ],
         "Parents": [
@@ -581,7 +581,7 @@
               "Left": 0.8349024653434753,
               "Top": 0.6755517721176147
             },
-            "Confidence": 51.19587707519531
+            "Confidence": 31.19587707519531
           }
         ],
         "Parents": [],
@@ -741,7 +741,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Tree Stump",
-        "Confidence": 52.277671813964844,
+        "Confidence": 22.277671813964844,
         "Instances": [],
         "Parents": [
           {
@@ -763,7 +763,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Tree Trunk",
-        "Confidence": 52.80447006225586,
+        "Confidence": 32.80447006225586,
         "Instances": [],
         "Parents": [
           {
@@ -804,7 +804,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "War",
-        "Confidence": 53.65585708618164,
+        "Confidence": 43.65585708618164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -991,7 +991,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Boat",
-        "Confidence": 52.572731018066406,
+        "Confidence": 32.572731018066406,
         "Instances": [],
         "Parents": [
           {
@@ -1298,7 +1298,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Landslide",
-        "Confidence": 50.0056037902832,
+        "Confidence": 10.0056037902832,
         "Instances": [],
         "Parents": [
           {
@@ -1320,7 +1320,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 52.739601135253906,
+        "Confidence": 32.739601135253906,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1339,7 +1339,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 52.72065734863281,
+        "Confidence": 42.72065734863281,
         "Instances": [],
         "Parents": [
           {
@@ -1445,7 +1445,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Pond",
-        "Confidence": 50.93453598022461,
+        "Confidence": 20.93453598022461,
         "Instances": [],
         "Parents": [
           {
@@ -1470,7 +1470,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Rainforest",
-        "Confidence": 59.242923736572266,
+        "Confidence": 39.242923736572266,
         "Instances": [],
         "Parents": [
           {
@@ -1504,7 +1504,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "River",
-        "Confidence": 54.257110595703125,
+        "Confidence": 44.257110595703125,
         "Instances": [],
         "Parents": [
           {
@@ -1554,7 +1554,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Sport",
-        "Confidence": 52.572731018066406,
+        "Confidence": 12.572731018066406,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1598,7 +1598,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.572731018066406,
+        "Confidence": 22.572731018066406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1685,7 +1685,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Water Sports",
-        "Confidence": 52.572731018066406,
+        "Confidence": 32.572731018066406,
         "Instances": [],
         "Parents": [
           {
@@ -2017,7 +2017,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Deer",
-        "Confidence": 52.40303039550781,
+        "Confidence": 12.40303039550781,
         "Instances": [],
         "Parents": [
           {
@@ -2116,7 +2116,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Grove",
-        "Confidence": 58.268489837646484,
+        "Confidence": 38.268489837646484,
         "Instances": [],
         "Parents": [
           {
@@ -2153,7 +2153,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.47581481933594,
+        "Confidence": 40.47581481933594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2237,7 +2237,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Landslide",
-        "Confidence": 50.72316360473633,
+        "Confidence": 40.72316360473633,
         "Instances": [],
         "Parents": [
           {
@@ -2297,7 +2297,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Mortar Shell",
-        "Confidence": 58.713653564453125,
+        "Confidence": 48.713653564453125,
         "Instances": [
           {
             "BoundingBox": {
@@ -2470,7 +2470,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Rock",
-        "Confidence": 51.46969223022461,
+        "Confidence": 11.46969223022461,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2485,7 +2485,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Stream",
-        "Confidence": 53.89266586303711,
+        "Confidence": 43.89266586303711,
         "Instances": [],
         "Parents": [
           {
@@ -2529,7 +2529,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Tree Stump",
-        "Confidence": 52.3780403137207,
+        "Confidence": 32.3780403137207,
         "Instances": [],
         "Parents": [
           {
@@ -2678,7 +2678,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 58.21375274658203,
+        "Confidence": 48.21375274658203,
         "Instances": [],
         "Parents": [
           {
@@ -2719,7 +2719,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 59.67055892944336,
+        "Confidence": 39.67055892944336,
         "Instances": [
           {
             "BoundingBox": {
@@ -2807,7 +2807,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Zoo",
-        "Confidence": 51.6875,
+        "Confidence": 21.6875,
         "Instances": [],
         "Parents": [
           {
@@ -2880,7 +2880,7 @@
               "Left": 0.7128312587738037,
               "Top": 0.659700334072113
             },
-            "Confidence": 51.419769287109375
+            "Confidence": 41.419769287109375
           },
           {
             "BoundingBox": {
@@ -2978,7 +2978,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Boat",
-        "Confidence": 50.71953582763672,
+        "Confidence": 10.71953582763672,
         "Instances": [],
         "Parents": [
           {
@@ -3133,7 +3133,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Coyote",
-        "Confidence": 51.060489654541016,
+        "Confidence": 31.060489654541016,
         "Instances": [],
         "Parents": [
           {
@@ -3180,7 +3180,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Driftwood",
-        "Confidence": 54.42757034301758,
+        "Confidence": 14.42757034301758,
         "Instances": [],
         "Parents": [
           {
@@ -3284,7 +3284,7 @@
               "Left": 0.7128312587738037,
               "Top": 0.659700334072113
             },
-            "Confidence": 51.419769287109375
+            "Confidence": 31.419769287109375
           }
         ],
         "Parents": [
@@ -3401,7 +3401,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 50.10493850708008,
+        "Confidence": 30.10493850708008,
         "Instances": [],
         "Parents": [
           {
@@ -3470,7 +3470,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 50.71953582763672,
+        "Confidence": 20.71953582763672,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -3508,7 +3508,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Mortar Shell",
-        "Confidence": 59.79829406738281,
+        "Confidence": 49.79829406738281,
         "Instances": [
           {
             "BoundingBox": {
@@ -3739,7 +3739,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Rowboat",
-        "Confidence": 50.71953582763672,
+        "Confidence": 40.71953582763672,
         "Instances": [],
         "Parents": [
           {
@@ -3899,7 +3899,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "War",
-        "Confidence": 53.42502212524414,
+        "Confidence": 33.42502212524414,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4029,7 +4029,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Willow",
-        "Confidence": 50.87055206298828,
+        "Confidence": 40.87055206298828,
         "Instances": [],
         "Parents": [
           {
@@ -4087,7 +4087,7 @@
               "Left": 0.7128312587738037,
               "Top": 0.659700334072113
             },
-            "Confidence": 51.419769287109375
+            "Confidence": 31.419769287109375
           }
         ],
         "Parents": [
@@ -4166,7 +4166,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Zoo",
-        "Confidence": 52.698543548583984,
+        "Confidence": 42.698543548583984,
         "Instances": [],
         "Parents": [
           {
@@ -4267,7 +4267,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Bag",
-        "Confidence": 53.729774475097656,
+        "Confidence": 23.729774475097656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4317,7 +4317,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Bird",
-        "Confidence": 52.51396179199219,
+        "Confidence": 32.51396179199219,
         "Instances": [],
         "Parents": [
           {
@@ -4336,7 +4336,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Boat",
-        "Confidence": 53.28864288330078,
+        "Confidence": 33.28864288330078,
         "Instances": [],
         "Parents": [
           {
@@ -4358,7 +4358,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Canoe",
-        "Confidence": 53.28864288330078,
+        "Confidence": 13.28864288330078,
         "Instances": [],
         "Parents": [
           {
@@ -4454,7 +4454,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Deer",
-        "Confidence": 54.33729934692383,
+        "Confidence": 34.33729934692383,
         "Instances": [],
         "Parents": [
           {
@@ -4746,7 +4746,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Oak",
-        "Confidence": 50.55804443359375,
+        "Confidence": 10.55804443359375,
         "Instances": [],
         "Parents": [
           {
@@ -4911,7 +4911,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Rock",
-        "Confidence": 50.35404586791992,
+        "Confidence": 30.35404586791992,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4951,7 +4951,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Sport",
-        "Confidence": 53.52540969848633,
+        "Confidence": 33.52540969848633,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4970,7 +4970,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Swamp",
-        "Confidence": 50.34698486328125,
+        "Confidence": 20.34698486328125,
         "Instances": [],
         "Parents": [
           {
@@ -5039,7 +5039,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Tree Stump",
-        "Confidence": 52.43812561035156,
+        "Confidence": 22.43812561035156,
         "Instances": [],
         "Parents": [
           {
@@ -5102,7 +5102,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.336273193359375,
+        "Confidence": 43.336273193359375,
         "Instances": [],
         "Parents": [
           {
@@ -5173,7 +5173,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Water Sports",
-        "Confidence": 53.28864288330078,
+        "Confidence": 33.28864288330078,
         "Instances": [],
         "Parents": [
           {
@@ -5371,7 +5371,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Animal",
-        "Confidence": 55.54769515991211,
+        "Confidence": 25.54769515991211,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5415,7 +5415,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Bag",
-        "Confidence": 54.35781478881836,
+        "Confidence": 34.35781478881836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5455,7 +5455,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Boat",
-        "Confidence": 53.17205810546875,
+        "Confidence": 33.17205810546875,
         "Instances": [],
         "Parents": [
           {
@@ -5477,7 +5477,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Boy",
-        "Confidence": 58.7366943359375,
+        "Confidence": 38.7366943359375,
         "Instances": [
           {
             "BoundingBox": {
@@ -5509,7 +5509,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Canoe",
-        "Confidence": 53.17205810546875,
+        "Confidence": 33.17205810546875,
         "Instances": [],
         "Parents": [
           {
@@ -5583,7 +5583,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Child",
-        "Confidence": 58.7366943359375,
+        "Confidence": 48.7366943359375,
         "Instances": [
           {
             "BoundingBox": {
@@ -5616,7 +5616,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Face",
-        "Confidence": 53.2331428527832,
+        "Confidence": 43.2331428527832,
         "Instances": [],
         "Parents": [
           {
@@ -5845,7 +5845,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 54.96758270263672,
+        "Confidence": 34.96758270263672,
         "Instances": [],
         "Parents": [
           {
@@ -6088,7 +6088,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 53.26732635498047,
+        "Confidence": 23.26732635498047,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6122,7 +6122,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Tree Trunk",
-        "Confidence": 52.87632369995117,
+        "Confidence": 32.87632369995117,
         "Instances": [],
         "Parents": [
           {
@@ -6259,7 +6259,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 54.68963623046875,
+        "Confidence": 24.68963623046875,
         "Instances": [],
         "Parents": [
           {
@@ -6455,7 +6455,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Ape",
-        "Confidence": 51.35785675048828,
+        "Confidence": 41.35785675048828,
         "Instances": [],
         "Parents": [
           {
@@ -6620,7 +6620,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Driftwood",
-        "Confidence": 50.8845100402832,
+        "Confidence": 10.8845100402832,
         "Instances": [],
         "Parents": [
           {
@@ -6648,7 +6648,7 @@
               "Left": 0.6792868971824646,
               "Top": 0.3565470278263092
             },
-            "Confidence": 58.8336296081543
+            "Confidence": 38.8336296081543
           },
           {
             "BoundingBox": {
@@ -6657,7 +6657,7 @@
               "Left": 0.0005731346318498254,
               "Top": 0.6232765913009644
             },
-            "Confidence": 51.580875396728516
+            "Confidence": 31.580875396728516
           },
           {
             "BoundingBox": {
@@ -6742,7 +6742,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Hunting",
-        "Confidence": 52.7177848815918,
+        "Confidence": 42.7177848815918,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6757,7 +6757,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Jungle",
-        "Confidence": 56.631195068359375,
+        "Confidence": 36.631195068359375,
         "Instances": [],
         "Parents": [
           {
@@ -6955,7 +6955,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Oak",
-        "Confidence": 50.88504409790039,
+        "Confidence": 20.88504409790039,
         "Instances": [],
         "Parents": [
           {
@@ -7176,7 +7176,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 52.542701721191406,
+        "Confidence": 32.542701721191406,
         "Instances": [],
         "Parents": [
           {
@@ -7214,7 +7214,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Tree Trunk",
-        "Confidence": 53.77436447143555,
+        "Confidence": 33.77436447143555,
         "Instances": [],
         "Parents": [
           {
@@ -7255,7 +7255,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Vulture",
-        "Confidence": 52.175228118896484,
+        "Confidence": 22.175228118896484,
         "Instances": [],
         "Parents": [
           {
@@ -7292,7 +7292,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.10035705566406,
+        "Confidence": 31.10035705566406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7357,7 +7357,7 @@
               "Left": 0.6792868971824646,
               "Top": 0.3565470278263092
             },
-            "Confidence": 58.8336296081543
+            "Confidence": 28.8336296081543
           },
           {
             "BoundingBox": {
@@ -7445,7 +7445,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Zoo",
-        "Confidence": 54.36796951293945,
+        "Confidence": 44.36796951293945,
         "Instances": [],
         "Parents": [
           {
@@ -7491,7 +7491,7 @@
               "Left": 0.20205514132976532,
               "Top": 0.34165287017822266
             },
-            "Confidence": 59.37868881225586
+            "Confidence": 49.37868881225586
           },
           {
             "BoundingBox": {
@@ -7509,7 +7509,7 @@
               "Left": 0.47429317235946655,
               "Top": 0.2400597631931305
             },
-            "Confidence": 52.42923355102539
+            "Confidence": 42.42923355102539
           }
         ],
         "Parents": [
@@ -7578,7 +7578,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Bird",
-        "Confidence": 50.54610824584961,
+        "Confidence": 20.54610824584961,
         "Instances": [],
         "Parents": [
           {
@@ -7651,7 +7651,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Canoe",
-        "Confidence": 59.73728561401367,
+        "Confidence": 49.73728561401367,
         "Instances": [],
         "Parents": [
           {
@@ -7679,7 +7679,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Canoeing",
-        "Confidence": 59.73728561401367,
+        "Confidence": 49.73728561401367,
         "Instances": [],
         "Parents": [
           {
@@ -7852,7 +7852,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Jungle",
-        "Confidence": 54.545082092285156,
+        "Confidence": 34.545082092285156,
         "Instances": [],
         "Parents": [
           {
@@ -7976,7 +7976,7 @@
               "Left": 0.47429317235946655,
               "Top": 0.2400597631931305
             },
-            "Confidence": 52.42923355102539
+            "Confidence": 42.42923355102539
           }
         ],
         "Parents": [
@@ -7996,7 +7996,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 52.31002426147461,
+        "Confidence": 22.31002426147461,
         "Instances": [],
         "Parents": [
           {
@@ -8042,7 +8042,7 @@
               "Left": 0.47429317235946655,
               "Top": 0.2400597631931305
             },
-            "Confidence": 52.42923355102539
+            "Confidence": 42.42923355102539
           }
         ],
         "Parents": [
@@ -8169,7 +8169,7 @@
               "Left": 0.20205514132976532,
               "Top": 0.34165287017822266
             },
-            "Confidence": 59.37868881225586
+            "Confidence": 39.37868881225586
           },
           {
             "BoundingBox": {
@@ -8178,7 +8178,7 @@
               "Left": 0.37584778666496277,
               "Top": 0.6382206082344055
             },
-            "Confidence": 56.05695724487305
+            "Confidence": 26.05695724487305
           },
           {
             "BoundingBox": {
@@ -8187,7 +8187,7 @@
               "Left": 0.47429317235946655,
               "Top": 0.2400597631931305
             },
-            "Confidence": 52.42923355102539
+            "Confidence": 42.42923355102539
           }
         ],
         "Parents": [],
@@ -8256,7 +8256,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Rowboat",
-        "Confidence": 59.73728561401367,
+        "Confidence": 29.73728561401367,
         "Instances": [],
         "Parents": [
           {
@@ -8353,7 +8353,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Tree Trunk",
-        "Confidence": 52.08206558227539,
+        "Confidence": 32.08206558227539,
         "Instances": [],
         "Parents": [
           {
@@ -8490,7 +8490,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Wilderness",
-        "Confidence": 50.65281295776367,
+        "Confidence": 40.65281295776367,
         "Instances": [],
         "Parents": [
           {
@@ -8512,7 +8512,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 51.661495208740234,
+        "Confidence": 41.661495208740234,
         "Instances": [],
         "Parents": [
           {
@@ -8590,7 +8590,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Woodland",
-        "Confidence": 59.47312927246094,
+        "Confidence": 39.47312927246094,
         "Instances": [],
         "Parents": [
           {
@@ -8628,7 +8628,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Zoo",
-        "Confidence": 50.69900131225586,
+        "Confidence": 30.69900131225586,
         "Instances": [],
         "Parents": [
           {
@@ -8886,7 +8886,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Driftwood",
-        "Confidence": 51.444053649902344,
+        "Confidence": 41.444053649902344,
         "Instances": [],
         "Parents": [
           {
@@ -9008,7 +9008,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Jungle",
-        "Confidence": 54.17652893066406,
+        "Confidence": 34.17652893066406,
         "Instances": [],
         "Parents": [
           {
@@ -9036,7 +9036,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Koala",
-        "Confidence": 51.71284484863281,
+        "Confidence": 21.71284484863281,
         "Instances": [],
         "Parents": [
           {
@@ -9083,7 +9083,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 53.714454650878906,
+        "Confidence": 23.714454650878906,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -9263,7 +9263,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Oak",
-        "Confidence": 50.180843353271484,
+        "Confidence": 30.180843353271484,
         "Instances": [],
         "Parents": [
           {
@@ -9329,7 +9329,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Panther",
-        "Confidence": 53.39712142944336,
+        "Confidence": 43.39712142944336,
         "Instances": [],
         "Parents": [
           {
@@ -9459,7 +9459,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Reptile",
-        "Confidence": 51.44639587402344,
+        "Confidence": 11.44639587402344,
         "Instances": [],
         "Parents": [
           {
@@ -9478,7 +9478,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Sport",
-        "Confidence": 54.48203659057617,
+        "Confidence": 44.48203659057617,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -9572,7 +9572,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.60153579711914,
+        "Confidence": 23.60153579711914,
         "Instances": [],
         "Parents": [
           {
@@ -9613,7 +9613,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "War",
-        "Confidence": 52.3183708190918,
+        "Confidence": 42.3183708190918,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9628,7 +9628,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Water",
-        "Confidence": 53.97509765625,
+        "Confidence": 43.97509765625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9643,7 +9643,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Wilderness",
-        "Confidence": 53.76127243041992,
+        "Confidence": 33.76127243041992,
         "Instances": [],
         "Parents": [
           {
@@ -10041,7 +10041,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 50.91104507446289,
+        "Confidence": 40.91104507446289,
         "Instances": [],
         "Parents": [
           {
@@ -10132,7 +10132,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Jungle",
-        "Confidence": 52.120609283447266,
+        "Confidence": 32.120609283447266,
         "Instances": [],
         "Parents": [
           {
@@ -10256,7 +10256,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 53.06769943237305,
+        "Confidence": 23.06769943237305,
         "Instances": [],
         "Parents": [
           {
@@ -10329,7 +10329,7 @@
               "Left": 5.269561006571166e-05,
               "Top": 0.31808677315711975
             },
-            "Confidence": 53.929203033447266
+            "Confidence": 43.929203033447266
           }
         ],
         "Parents": [
@@ -10355,7 +10355,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 55.50305938720703,
+        "Confidence": 45.50305938720703,
         "Instances": [],
         "Parents": [
           {
@@ -10374,7 +10374,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.65097427368164,
+        "Confidence": 35.65097427368164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10480,7 +10480,7 @@
               "Left": 5.269561006571166e-05,
               "Top": 0.31808677315711975
             },
-            "Confidence": 53.929203033447266
+            "Confidence": 13.929203033447266
           }
         ],
         "Parents": [],
@@ -10628,7 +10628,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 52.679466247558594,
+        "Confidence": 22.679466247558594,
         "Instances": [],
         "Parents": [
           {
@@ -10767,7 +10767,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Face",
-        "Confidence": 59.81726837158203,
+        "Confidence": 49.81726837158203,
         "Instances": [],
         "Parents": [
           {

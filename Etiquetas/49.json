@@ -34,7 +34,7 @@
               "Left": 0.5893170237541199,
               "Top": 0.7102539539337158
             },
-            "Confidence": 51.672508239746094
+            "Confidence": 21.672508239746094
           }
         ],
         "Parents": [
@@ -76,7 +76,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Armor",
-        "Confidence": 52.81260299682617,
+        "Confidence": 32.81260299682617,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -110,7 +110,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.35301208496094,
+        "Confidence": 42.35301208496094,
         "Instances": [],
         "Parents": [
           {
@@ -266,7 +266,7 @@
               "Left": 0.5893170237541199,
               "Top": 0.7102539539337158
             },
-            "Confidence": 51.672508239746094
+            "Confidence": 21.672508239746094
           }
         ],
         "Parents": [
@@ -427,7 +427,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Swat Team",
-        "Confidence": 52.81260299682617,
+        "Confidence": 32.81260299682617,
         "Instances": [],
         "Parents": [
           {
@@ -498,7 +498,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Truck",
-        "Confidence": 55.96160125732422,
+        "Confidence": 35.96160125732422,
         "Instances": [],
         "Parents": [
           {
@@ -620,7 +620,7 @@
               "Left": 0.6486340761184692,
               "Top": 0.7328569889068604
             },
-            "Confidence": 57.69320297241211
+            "Confidence": 27.69320297241211
           }
         ],
         "Parents": [
@@ -931,7 +931,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Military Uniform",
-        "Confidence": 51.985816955566406,
+        "Confidence": 41.985816955566406,
         "Instances": [],
         "Parents": [
           {
@@ -968,7 +968,7 @@
               "Left": 0.6486340761184692,
               "Top": 0.7328569889068604
             },
-            "Confidence": 57.69320297241211
+            "Confidence": 37.69320297241211
           }
         ],
         "Parents": [],
@@ -988,7 +988,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Soldier",
-        "Confidence": 51.354183197021484,
+        "Confidence": 31.354183197021484,
         "Instances": [],
         "Parents": [
           {
@@ -1094,7 +1094,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Truck",
-        "Confidence": 55.18864440917969,
+        "Confidence": 35.18864440917969,
         "Instances": [],
         "Parents": [
           {
@@ -1225,7 +1225,7 @@
               "Left": 0.22232122719287872,
               "Top": 0.39452728629112244
             },
-            "Confidence": 55.60122299194336
+            "Confidence": 35.60122299194336
           },
           {
             "BoundingBox": {
@@ -1234,7 +1234,7 @@
               "Left": 0.22674846649169922,
               "Top": 0.7799943089485168
             },
-            "Confidence": 51.25181198120117
+            "Confidence": 21.25181198120117
           }
         ],
         "Parents": [
@@ -1254,7 +1254,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Amphibious Vehicle",
-        "Confidence": 51.1696662902832,
+        "Confidence": 31.1696662902832,
         "Instances": [],
         "Parents": [
           {
@@ -1276,7 +1276,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Armor",
-        "Confidence": 53.70860290527344,
+        "Confidence": 23.70860290527344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1310,7 +1310,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Car",
-        "Confidence": 54.37273406982422,
+        "Confidence": 34.37273406982422,
         "Instances": [],
         "Parents": [
           {
@@ -1336,7 +1336,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Half Track",
-        "Confidence": 53.951961517333984,
+        "Confidence": 33.951961517333984,
         "Instances": [],
         "Parents": [
           {
@@ -1438,7 +1438,7 @@
               "Left": 0.6859450936317444,
               "Top": 0.7231067419052124
             },
-            "Confidence": 57.647705078125
+            "Confidence": 47.647705078125
           },
           {
             "BoundingBox": {
@@ -1447,7 +1447,7 @@
               "Left": 0.22232122719287872,
               "Top": 0.39452728629112244
             },
-            "Confidence": 55.60122299194336
+            "Confidence": 25.60122299194336
           },
           {
             "BoundingBox": {
@@ -1572,7 +1572,7 @@
               "Left": 0.6859450936317444,
               "Top": 0.7231067419052124
             },
-            "Confidence": 57.647705078125
+            "Confidence": 47.647705078125
           },
           {
             "BoundingBox": {
@@ -1581,7 +1581,7 @@
               "Left": 0.22232122719287872,
               "Top": 0.39452728629112244
             },
-            "Confidence": 55.60122299194336
+            "Confidence": 25.60122299194336
           },
           {
             "BoundingBox": {
@@ -1590,7 +1590,7 @@
               "Left": 0.22674846649169922,
               "Top": 0.7799943089485168
             },
-            "Confidence": 51.25181198120117
+            "Confidence": 21.25181198120117
           }
         ],
         "Parents": [],
@@ -1660,7 +1660,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Swat Team",
-        "Confidence": 53.70860290527344,
+        "Confidence": 23.70860290527344,
         "Instances": [],
         "Parents": [
           {
@@ -1726,7 +1726,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Tire",
-        "Confidence": 50.47491455078125,
+        "Confidence": 40.47491455078125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1889,7 +1889,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Amphibious Vehicle",
-        "Confidence": 51.62133026123047,
+        "Confidence": 41.62133026123047,
         "Instances": [],
         "Parents": [
           {
@@ -1981,7 +1981,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Half Track",
-        "Confidence": 53.169349670410156,
+        "Confidence": 23.169349670410156,
         "Instances": [],
         "Parents": [
           {
@@ -2326,7 +2326,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Truck",
-        "Confidence": 54.453372955322266,
+        "Confidence": 34.453372955322266,
         "Instances": [],
         "Parents": [
           {
@@ -2367,7 +2367,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "War",
-        "Confidence": 56.31922912597656,
+        "Confidence": 36.31922912597656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2459,7 +2459,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Amphibious Vehicle",
-        "Confidence": 51.83387756347656,
+        "Confidence": 41.83387756347656,
         "Instances": [],
         "Parents": [
           {
@@ -2591,7 +2591,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Jeep",
-        "Confidence": 51.63644790649414,
+        "Confidence": 21.63644790649414,
         "Instances": [],
         "Parents": [
           {
@@ -2732,7 +2732,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Military Uniform",
-        "Confidence": 51.88715362548828,
+        "Confidence": 31.88715362548828,
         "Instances": [],
         "Parents": [
           {
@@ -2805,7 +2805,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Swat Team",
-        "Confidence": 53.66490173339844,
+        "Confidence": 23.66490173339844,
         "Instances": [],
         "Parents": [
           {
@@ -2886,7 +2886,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Truck",
-        "Confidence": 54.45262145996094,
+        "Confidence": 24.45262145996094,
         "Instances": [],
         "Parents": [
           {
@@ -2927,7 +2927,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "War",
-        "Confidence": 59.24727249145508,
+        "Confidence": 49.24727249145508,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3111,7 +3111,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Half Track",
-        "Confidence": 53.650386810302734,
+        "Confidence": 23.650386810302734,
         "Instances": [],
         "Parents": [
           {
@@ -3161,7 +3161,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Jeep",
-        "Confidence": 50.749061584472656,
+        "Confidence": 40.749061584472656,
         "Instances": [],
         "Parents": [
           {
@@ -3186,7 +3186,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 57.815284729003906,
+        "Confidence": 47.815284729003906,
         "Instances": [],
         "Parents": [
           {
@@ -3350,7 +3350,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Soldier",
-        "Confidence": 51.32124710083008,
+        "Confidence": 11.32124710083008,
         "Instances": [],
         "Parents": [
           {
@@ -3400,7 +3400,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Tank",
-        "Confidence": 57.75033187866211,
+        "Confidence": 37.75033187866211,
         "Instances": [],
         "Parents": [
           {
@@ -3595,7 +3595,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Half Track",
-        "Confidence": 50.69271469116211,
+        "Confidence": 10.69271469116211,
         "Instances": [],
         "Parents": [
           {
@@ -4011,7 +4011,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Helicopter",
-        "Confidence": 50.62834167480469,
+        "Confidence": 10.62834167480469,
         "Instances": [],
         "Parents": [
           {
@@ -4066,7 +4066,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Person",
-        "Confidence": 53.08985137939453,
+        "Confidence": 43.08985137939453,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4182,7 +4182,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "War",
-        "Confidence": 58.73094940185547,
+        "Confidence": 38.73094940185547,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4317,7 +4317,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 56.73419952392578,
+        "Confidence": 36.73419952392578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4332,7 +4332,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "House",
-        "Confidence": 50.37362289428711,
+        "Confidence": 20.37362289428711,
         "Instances": [],
         "Parents": [
           {
@@ -4409,7 +4409,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.35082244873047,
+        "Confidence": 41.35082244873047,
         "Instances": [],
         "Parents": [
           {
@@ -4443,7 +4443,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Person",
-        "Confidence": 52.50647735595703,
+        "Confidence": 32.50647735595703,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4986,7 +4986,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Male",
-        "Confidence": 55.864768981933594,
+        "Confidence": 45.864768981933594,
         "Instances": [
           {
             "BoundingBox": {
@@ -5050,7 +5050,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 53.68759536743164,
+        "Confidence": 33.68759536743164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5159,7 +5159,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Van",
-        "Confidence": 53.00510787963867,
+        "Confidence": 33.00510787963867,
         "Instances": [],
         "Parents": [
           {
@@ -5200,7 +5200,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Wheel",
-        "Confidence": 53.27872848510742,
+        "Confidence": 23.27872848510742,
         "Instances": [
           {
             "BoundingBox": {
@@ -5339,7 +5339,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "House",
-        "Confidence": 56.63541793823242,
+        "Confidence": 36.63541793823242,
         "Instances": [],
         "Parents": [
           {
@@ -5438,7 +5438,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Moving Van",
-        "Confidence": 56.64006805419922,
+        "Confidence": 46.64006805419922,
         "Instances": [
           {
             "BoundingBox": {
@@ -5488,7 +5488,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 51.64841842651367,
+        "Confidence": 11.64841842651367,
         "Instances": [],
         "Parents": [
           {
@@ -5517,7 +5517,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Person",
-        "Confidence": 53.10661315917969,
+        "Confidence": 23.10661315917969,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -5654,7 +5654,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Building",
-        "Confidence": 50.72108459472656,
+        "Confidence": 30.72108459472656,
         "Instances": [],
         "Parents": [
           {
@@ -5673,7 +5673,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Bus",
-        "Confidence": 50.206085205078125,
+        "Confidence": 30.206085205078125,
         "Instances": [],
         "Parents": [
           {
@@ -5721,7 +5721,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 50.46829605102539,
+        "Confidence": 20.46829605102539,
         "Instances": [],
         "Parents": [
           {
@@ -5780,7 +5780,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 50.82329177856445,
+        "Confidence": 40.82329177856445,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5824,7 +5824,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Person",
-        "Confidence": 52.151790618896484,
+        "Confidence": 22.151790618896484,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -5868,7 +5868,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Sedan",
-        "Confidence": 50.293800354003906,
+        "Confidence": 20.293800354003906,
         "Instances": [],
         "Parents": [
           {
@@ -5927,7 +5927,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Wheel",
-        "Confidence": 56.81328582763672,
+        "Confidence": 16.81328582763672,
         "Instances": [],
         "Parents": [
           {
@@ -5946,7 +5946,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Adventure",
-        "Confidence": 51.675106048583984,
+        "Confidence": 31.675106048583984,
         "Instances": [],
         "Parents": [
           {
@@ -5991,7 +5991,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Coupe",
-        "Confidence": 50.54466247558594,
+        "Confidence": 30.54466247558594,
         "Instances": [],
         "Parents": [
           {
@@ -6019,7 +6019,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 51.675106048583984,
+        "Confidence": 41.675106048583984,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6088,7 +6088,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 54.91269302368164,
+        "Confidence": 34.91269302368164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6103,7 +6103,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 56.00722122192383,
+        "Confidence": 46.00722122192383,
         "Instances": [],
         "Parents": [
           {
@@ -6170,7 +6170,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Police Car",
-        "Confidence": 52.25684356689453,
+        "Confidence": 42.25684356689453,
         "Instances": [],
         "Parents": [
           {
@@ -6195,7 +6195,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Race Car",
-        "Confidence": 50.1231803894043,
+        "Confidence": 30.1231803894043,
         "Instances": [],
         "Parents": [
           {
@@ -6214,7 +6214,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Road",
-        "Confidence": 50.85603713989258,
+        "Confidence": 20.85603713989258,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6254,7 +6254,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Sport",
-        "Confidence": 50.2756233215332,
+        "Confidence": 10.2756233215332,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6347,7 +6347,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Adventure",
-        "Confidence": 50.70148849487305,
+        "Confidence": 40.70148849487305,
         "Instances": [],
         "Parents": [
           {
@@ -6402,7 +6402,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Coupe",
-        "Confidence": 51.278011322021484,
+        "Confidence": 41.278011322021484,
         "Instances": [],
         "Parents": [
           {
@@ -6471,7 +6471,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Machine",
-        "Confidence": 50.95637512207031,
+        "Confidence": 30.95637512207031,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6529,7 +6529,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 55.93733596801758,
+        "Confidence": 25.93733596801758,
         "Instances": [],
         "Parents": [
           {
@@ -6587,7 +6587,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Pickup Truck",
-        "Confidence": 50.3763427734375,
+        "Confidence": 10.3763427734375,
         "Instances": [],
         "Parents": [
           {
@@ -6671,7 +6671,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Sedan",
-        "Confidence": 52.156211853027344,
+        "Confidence": 42.156211853027344,
         "Instances": [],
         "Parents": [
           {
@@ -6715,7 +6715,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Sports Car",
-        "Confidence": 53.349361419677734,
+        "Confidence": 23.349361419677734,
         "Instances": [],
         "Parents": [
           {
@@ -6855,7 +6855,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Bus",
-        "Confidence": 52.6352653503418,
+        "Confidence": 42.6352653503418,
         "Instances": [],
         "Parents": [
           {
@@ -6913,7 +6913,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Crime Scene",
-        "Confidence": 51.09886932373047,
+        "Confidence": 41.09886932373047,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6965,7 +6965,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 52.55342483520508,
+        "Confidence": 42.55342483520508,
         "Instances": [],
         "Parents": [
           {
@@ -7053,7 +7053,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 50.64326858520508,
+        "Confidence": 20.64326858520508,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7229,7 +7229,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 50.80585861206055,
+        "Confidence": 30.80585861206055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7409,7 +7409,7 @@
               "Left": 0.044306568801403046,
               "Top": 0.05487838760018349
             },
-            "Confidence": 53.42443084716797
+            "Confidence": 33.42443084716797
           }
         ],
         "Parents": [
@@ -7525,7 +7525,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Machine",
-        "Confidence": 56.847007751464844,
+        "Confidence": 36.847007751464844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7567,7 +7567,7 @@
               "Left": 0.044306568801403046,
               "Top": 0.05487838760018349
             },
-            "Confidence": 53.42443084716797
+            "Confidence": 13.42443084716797
           }
         ],
         "Parents": [
@@ -7614,7 +7614,7 @@
               "Left": 0.044306568801403046,
               "Top": 0.05487838760018349
             },
-            "Confidence": 53.42443084716797
+            "Confidence": 13.42443084716797
           }
         ],
         "Parents": [
@@ -7640,7 +7640,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.83503341674805,
+        "Confidence": 10.83503341674805,
         "Instances": [],
         "Parents": [
           {
@@ -7730,7 +7730,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Storm",
-        "Confidence": 50.72868347167969,
+        "Confidence": 20.72868347167969,
         "Instances": [],
         "Parents": [
           {
@@ -7752,7 +7752,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Tornado",
-        "Confidence": 50.669525146484375,
+        "Confidence": 40.669525146484375,
         "Instances": [],
         "Parents": [
           {
@@ -7792,7 +7792,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 56.39309310913086,
+        "Confidence": 26.39309310913086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7807,7 +7807,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 58.50002670288086,
+        "Confidence": 48.50002670288086,
         "Instances": [],
         "Parents": [
           {
@@ -7835,7 +7835,7 @@
               "Left": 0.6074244976043701,
               "Top": 0.9075102806091309
             },
-            "Confidence": 55.280696868896484
+            "Confidence": 35.280696868896484
           }
         ],
         "Parents": [
@@ -7899,7 +7899,7 @@
               "Left": 0.0030438390094786882,
               "Top": 0.561119019985199
             },
-            "Confidence": 55.64164352416992
+            "Confidence": 45.64164352416992
           }
         ],
         "Parents": [
@@ -8144,7 +8144,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Armor",
-        "Confidence": 51.74285888671875,
+        "Confidence": 41.74285888671875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8178,7 +8178,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.65396499633789,
+        "Confidence": 31.65396499633789,
         "Instances": [],
         "Parents": [
           {
@@ -8329,7 +8329,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 57.6137809753418,
+        "Confidence": 37.6137809753418,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8344,7 +8344,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Truck",
-        "Confidence": 53.33563232421875,
+        "Confidence": 33.33563232421875,
         "Instances": [],
         "Parents": [
           {
@@ -8366,7 +8366,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 51.59063720703125,
+        "Confidence": 41.59063720703125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8415,7 +8415,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.56357192993164,
+        "Confidence": 32.56357192993164,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -8497,7 +8497,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Cannon",
-        "Confidence": 51.23659133911133,
+        "Confidence": 31.23659133911133,
         "Instances": [],
         "Parents": [
           {
@@ -8516,7 +8516,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Car",
-        "Confidence": 55.913761138916016,
+        "Confidence": 45.913761138916016,
         "Instances": [
           {
             "BoundingBox": {
@@ -8552,7 +8552,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Fire Truck",
-        "Confidence": 51.208412170410156,
+        "Confidence": 21.208412170410156,
         "Instances": [],
         "Parents": [
           {
@@ -8719,7 +8719,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 58.02547836303711,
+        "Confidence": 48.02547836303711,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8866,7 +8866,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Bus",
-        "Confidence": 50.11482238769531,
+        "Confidence": 20.11482238769531,
         "Instances": [],
         "Parents": [
           {
@@ -8888,7 +8888,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.91752243041992,
+        "Confidence": 43.91752243041992,
         "Instances": [],
         "Parents": [
           {
@@ -9101,7 +9101,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Pickup Truck",
-        "Confidence": 51.07863235473633,
+        "Confidence": 11.07863235473633,
         "Instances": [],
         "Parents": [
           {
@@ -9141,7 +9141,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Truck",
-        "Confidence": 54.02084732055664,
+        "Confidence": 34.02084732055664,
         "Instances": [],
         "Parents": [
           {
@@ -9163,7 +9163,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 51.150794982910156,
+        "Confidence": 31.150794982910156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9197,7 +9197,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "War",
-        "Confidence": 57.28205108642578,
+        "Confidence": 27.28205108642578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9315,7 +9315,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Jeep",
-        "Confidence": 50.72261428833008,
+        "Confidence": 30.72261428833008,
         "Instances": [],
         "Parents": [
           {
@@ -9377,7 +9377,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Military",
-        "Confidence": 50.043060302734375,
+        "Confidence": 40.043060302734375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9436,7 +9436,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Truck",
-        "Confidence": 53.265968322753906,
+        "Confidence": 33.265968322753906,
         "Instances": [],
         "Parents": [
           {
@@ -9557,7 +9557,7 @@
               "Left": 0.5251346230506897,
               "Top": 0.43892911076545715
             },
-            "Confidence": 52.87782669067383
+            "Confidence": 42.87782669067383
           }
         ],
         "Parents": [
@@ -9777,7 +9777,7 @@
               "Left": 0.5251346230506897,
               "Top": 0.43892911076545715
             },
-            "Confidence": 52.87782669067383
+            "Confidence": 32.87782669067383
           }
         ],
         "Parents": [
@@ -9839,7 +9839,7 @@
               "Left": 0.5251346230506897,
               "Top": 0.43892911076545715
             },
-            "Confidence": 52.87782669067383
+            "Confidence": 32.87782669067383
           }
         ],
         "Parents": [],
@@ -9938,7 +9938,7 @@
               "Left": 0.001390900113619864,
               "Top": 0.7289392948150635
             },
-            "Confidence": 52.45896530151367
+            "Confidence": 12.45896530151367
           }
         ],
         "Parents": [
@@ -10107,7 +10107,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Machine",
-        "Confidence": 51.021453857421875,
+        "Confidence": 41.021453857421875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10222,7 +10222,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Military",
-        "Confidence": 50.42325973510742,
+        "Confidence": 40.42325973510742,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10273,7 +10273,7 @@
               "Left": 0.5950770974159241,
               "Top": 0.7775840759277344
             },
-            "Confidence": 57.97600555419922
+            "Confidence": 37.97600555419922
           },
           {
             "BoundingBox": {
@@ -10465,7 +10465,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Amphibious Vehicle",
-        "Confidence": 50.36555862426758,
+        "Confidence": 20.36555862426758,
         "Instances": [],
         "Parents": [
           {
@@ -10506,7 +10506,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.54176330566406,
+        "Confidence": 22.54176330566406,
         "Instances": [],
         "Parents": [
           {
@@ -10582,7 +10582,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 51.91651916503906,
+        "Confidence": 41.91651916503906,
         "Instances": [],
         "Parents": [
           {

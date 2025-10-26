@@ -31,7 +31,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Audience",
-        "Confidence": 52.0223388671875,
+        "Confidence": 42.0223388671875,
         "Instances": [],
         "Parents": [
           {
@@ -167,7 +167,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Desk",
-        "Confidence": 53.15091323852539,
+        "Confidence": 43.15091323852539,
         "Instances": [],
         "Parents": [
           {
@@ -238,7 +238,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Office",
-        "Confidence": 55.51249694824219,
+        "Confidence": 45.51249694824219,
         "Instances": [],
         "Parents": [
           {
@@ -323,7 +323,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "School",
-        "Confidence": 55.389591217041016,
+        "Confidence": 35.389591217041016,
         "Instances": [],
         "Parents": [
           {
@@ -467,7 +467,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Courtroom",
-        "Confidence": 50.48735809326172,
+        "Confidence": 30.48735809326172,
         "Instances": [],
         "Parents": [
           {
@@ -583,7 +583,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Office Chair",
-        "Confidence": 53.714561462402344,
+        "Confidence": 43.714561462402344,
         "Instances": [],
         "Parents": [
           {
@@ -746,7 +746,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Building",
-        "Confidence": 54.402896881103516,
+        "Confidence": 34.402896881103516,
         "Instances": [],
         "Parents": [
           {
@@ -784,7 +784,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Classroom",
-        "Confidence": 54.37632369995117,
+        "Confidence": 34.37632369995117,
         "Instances": [],
         "Parents": [
           {
@@ -841,7 +841,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Crowd",
-        "Confidence": 51.165653228759766,
+        "Confidence": 21.165653228759766,
         "Instances": [],
         "Parents": [
           {
@@ -931,7 +931,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Lab",
-        "Confidence": 50.0220947265625,
+        "Confidence": 30.0220947265625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -965,7 +965,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Office Chair",
-        "Confidence": 52.180912017822266,
+        "Confidence": 42.180912017822266,
         "Instances": [],
         "Parents": [
           {
@@ -1012,7 +1012,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Room",
-        "Confidence": 54.5869140625,
+        "Confidence": 44.5869140625,
         "Instances": [],
         "Parents": [
           {
@@ -1031,7 +1031,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "School",
-        "Confidence": 54.402896881103516,
+        "Confidence": 24.402896881103516,
         "Instances": [],
         "Parents": [
           {
@@ -1072,7 +1072,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 54.35903549194336,
+        "Confidence": 34.35903549194336,
         "Instances": [],
         "Parents": [
           {
@@ -1091,7 +1091,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "White Board",
-        "Confidence": 50.684104919433594,
+        "Confidence": 30.684104919433594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1106,7 +1106,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 53.64969253540039,
+        "Confidence": 43.64969253540039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1159,7 +1159,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Classroom",
-        "Confidence": 53.57887268066406,
+        "Confidence": 43.57887268066406,
         "Instances": [],
         "Parents": [
           {
@@ -1216,7 +1216,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Desk",
-        "Confidence": 51.62575149536133,
+        "Confidence": 21.62575149536133,
         "Instances": [],
         "Parents": [
           {
@@ -1257,7 +1257,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 58.45701217651367,
+        "Confidence": 48.45701217651367,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1287,7 +1287,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 55.96617889404297,
+        "Confidence": 25.96617889404297,
         "Instances": [],
         "Parents": [
           {
@@ -1306,7 +1306,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Lab",
-        "Confidence": 50.75371170043945,
+        "Confidence": 40.75371170043945,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1321,7 +1321,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Laboratory",
-        "Confidence": 50.77961349487305,
+        "Confidence": 20.77961349487305,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1425,7 +1425,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Table",
-        "Confidence": 54.33005142211914,
+        "Confidence": 14.33005142211914,
         "Instances": [],
         "Parents": [
           {
@@ -1463,7 +1463,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 50.668582916259766,
+        "Confidence": 30.668582916259766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1478,7 +1478,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "White Board",
-        "Confidence": 50.38474655151367,
+        "Confidence": 30.38474655151367,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1548,7 +1548,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 52.74806594848633,
+        "Confidence": 12.74806594848633,
         "Instances": [],
         "Parents": [
           {
@@ -1596,7 +1596,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 50.755916595458984,
+        "Confidence": 40.755916595458984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1693,7 +1693,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Room",
-        "Confidence": 51.055084228515625,
+        "Confidence": 21.055084228515625,
         "Instances": [],
         "Parents": [
           {
@@ -1864,7 +1864,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 52.19158935546875,
+        "Confidence": 42.19158935546875,
         "Instances": [],
         "Parents": [
           {
@@ -1921,7 +1921,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 55.474586486816406,
+        "Confidence": 35.474586486816406,
         "Instances": [],
         "Parents": [
           {
@@ -2003,7 +2003,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Male",
-        "Confidence": 58.4036865234375,
+        "Confidence": 38.4036865234375,
         "Instances": [
           {
             "BoundingBox": {
@@ -2096,7 +2096,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Room",
-        "Confidence": 51.873409271240234,
+        "Confidence": 31.873409271240234,
         "Instances": [],
         "Parents": [
           {
@@ -2115,7 +2115,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 51.120948791503906,
+        "Confidence": 41.120948791503906,
         "Instances": [],
         "Parents": [
           {
@@ -2134,7 +2134,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Clinic",
-        "Confidence": 50.00653076171875,
+        "Confidence": 40.00653076171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2164,7 +2164,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.130611419677734,
+        "Confidence": 40.130611419677734,
         "Instances": [],
         "Parents": [
           {
@@ -2207,7 +2207,7 @@
               "Left": 0.0014468070585280657,
               "Top": 0.22640113532543182
             },
-            "Confidence": 54.11436462402344
+            "Confidence": 44.11436462402344
           }
         ],
         "Parents": [],
@@ -2242,7 +2242,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 55.537540435791016,
+        "Confidence": 25.537540435791016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2291,7 +2291,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Person",
-        "Confidence": 51.38384246826172,
+        "Confidence": 41.38384246826172,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -2332,7 +2332,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Text",
-        "Confidence": 50.064727783203125,
+        "Confidence": 40.064727783203125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2347,7 +2347,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.09388732910156,
+        "Confidence": 30.09388732910156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2426,7 +2426,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 53.18860626220703,
+        "Confidence": 43.18860626220703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3208,7 +3208,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 50.55790710449219,
+        "Confidence": 30.55790710449219,
         "Instances": [],
         "Parents": [
           {
@@ -3274,7 +3274,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 53.25331497192383,
+        "Confidence": 33.25331497192383,
         "Instances": [],
         "Parents": [
           {
@@ -3403,7 +3403,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 52.97886657714844,
+        "Confidence": 42.97886657714844,
         "Instances": [],
         "Parents": [
           {
@@ -3431,7 +3431,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Sport",
-        "Confidence": 51.12618637084961,
+        "Confidence": 31.12618637084961,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -3450,7 +3450,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 53.02666473388672,
+        "Confidence": 43.02666473388672,
         "Instances": [],
         "Parents": [
           {
@@ -3696,7 +3696,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 54.586944580078125,
+        "Confidence": 34.586944580078125,
         "Instances": [],
         "Parents": [
           {
@@ -3812,7 +3812,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Laughing",
-        "Confidence": 50.72196960449219,
+        "Confidence": 20.72196960449219,
         "Instances": [],
         "Parents": [
           {
@@ -3928,7 +3928,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.22438430786133,
+        "Confidence": 20.22438430786133,
         "Instances": [],
         "Parents": [
           {
@@ -4244,7 +4244,7 @@
               "Left": 0.5333914160728455,
               "Top": 0.14658427238464355
             },
-            "Confidence": 52.55448913574219
+            "Confidence": 32.55448913574219
           }
         ],
         "Parents": [
@@ -4327,7 +4327,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 51.205055236816406,
+        "Confidence": 31.205055236816406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4342,7 +4342,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Laughing",
-        "Confidence": 52.46976852416992,
+        "Confidence": 42.46976852416992,
         "Instances": [],
         "Parents": [
           {
@@ -4531,7 +4531,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Slapping",
-        "Confidence": 52.24341583251953,
+        "Confidence": 42.24341583251953,
         "Instances": [],
         "Parents": [
           {
@@ -4550,7 +4550,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 50.36829376220703,
+        "Confidence": 30.36829376220703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4565,7 +4565,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Sport",
-        "Confidence": 51.18852996826172,
+        "Confidence": 31.18852996826172,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4777,7 +4777,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Crying",
-        "Confidence": 51.312931060791016,
+        "Confidence": 21.312931060791016,
         "Instances": [],
         "Parents": [
           {
@@ -4805,7 +4805,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 53.16276168823242,
+        "Confidence": 43.16276168823242,
         "Instances": [],
         "Parents": [
           {
@@ -4914,7 +4914,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 56.47061538696289,
+        "Confidence": 46.47061538696289,
         "Instances": [],
         "Parents": [
           {
@@ -4977,7 +4977,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 50.694580078125,
+        "Confidence": 20.694580078125,
         "Instances": [],
         "Parents": [
           {
@@ -5113,7 +5113,7 @@
               "Left": 0.6191222667694092,
               "Top": 0.3365359902381897
             },
-            "Confidence": 55.698455810546875
+            "Confidence": 35.698455810546875
           }
         ],
         "Parents": [],
@@ -5181,7 +5181,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 51.591670989990234,
+        "Confidence": 41.591670989990234,
         "Instances": [],
         "Parents": [
           {
@@ -5397,7 +5397,7 @@
               "Left": 0.621246337890625,
               "Top": 0.3402763903141022
             },
-            "Confidence": 58.68790054321289
+            "Confidence": 28.68790054321289
           }
         ],
         "Parents": [
@@ -5417,7 +5417,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.062931060791016,
+        "Confidence": 31.062931060791016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5460,7 +5460,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 51.03424072265625,
+        "Confidence": 41.03424072265625,
         "Instances": [],
         "Parents": [
           {
@@ -5569,7 +5569,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 55.61724853515625,
+        "Confidence": 35.61724853515625,
         "Instances": [],
         "Parents": [
           {
@@ -5635,7 +5635,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 54.7114372253418,
+        "Confidence": 34.7114372253418,
         "Instances": [],
         "Parents": [
           {
@@ -5679,7 +5679,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.99028778076172,
+        "Confidence": 40.99028778076172,
         "Instances": [],
         "Parents": [
           {
@@ -5704,7 +5704,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Laughing",
-        "Confidence": 52.43264389038086,
+        "Confidence": 32.43264389038086,
         "Instances": [],
         "Parents": [
           {
@@ -6026,7 +6026,7 @@
               "Left": 0.00012133501877542585,
               "Top": 0.05854576826095581
             },
-            "Confidence": 59.369041442871094
+            "Confidence": 19.369041442871094
           },
           {
             "BoundingBox": {
@@ -6035,7 +6035,7 @@
               "Left": 0.00024169907555915415,
               "Top": 0.40128785371780396
             },
-            "Confidence": 56.89622116088867
+            "Confidence": 36.89622116088867
           },
           {
             "BoundingBox": {
@@ -6134,7 +6134,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 51.64765930175781,
+        "Confidence": 31.64765930175781,
         "Instances": [],
         "Parents": [
           {
@@ -6410,7 +6410,7 @@
               "Left": 0.00012133501877542585,
               "Top": 0.05854576826095581
             },
-            "Confidence": 59.369041442871094
+            "Confidence": 39.369041442871094
           },
           {
             "BoundingBox": {
@@ -6467,7 +6467,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Shoving",
-        "Confidence": 50.68379592895508,
+        "Confidence": 30.68379592895508,
         "Instances": [],
         "Parents": [
           {
@@ -6575,7 +6575,7 @@
               "Left": 0.6254459023475647,
               "Top": 0.002456397982314229
             },
-            "Confidence": 57.42155456542969
+            "Confidence": 47.42155456542969
           }
         ],
         "Parents": [
@@ -6610,7 +6610,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Arrest",
-        "Confidence": 52.71910095214844,
+        "Confidence": 32.71910095214844,
         "Instances": [],
         "Parents": [
           {
@@ -6629,7 +6629,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Cat",
-        "Confidence": 54.30366897583008,
+        "Confidence": 44.30366897583008,
         "Instances": [
           {
             "BoundingBox": {
@@ -7079,7 +7079,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Cat",
-        "Confidence": 57.89297866821289,
+        "Confidence": 27.89297866821289,
         "Instances": [
           {
             "BoundingBox": {
@@ -7114,7 +7114,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 58.67401885986328,
+        "Confidence": 38.67401885986328,
         "Instances": [],
         "Parents": [
           {
@@ -7236,7 +7236,7 @@
               "Left": 2.8990440114284866e-05,
               "Top": 0.0002899074461311102
             },
-            "Confidence": 55.66046905517578
+            "Confidence": 25.66046905517578
           }
         ],
         "Parents": [
@@ -7311,7 +7311,7 @@
               "Left": 2.8990440114284866e-05,
               "Top": 0.0002899074461311102
             },
-            "Confidence": 55.66046905517578
+            "Confidence": 25.66046905517578
           }
         ],
         "Parents": [
@@ -7529,7 +7529,7 @@
               "Left": 0.020724816247820854,
               "Top": 0.3792688548564911
             },
-            "Confidence": 59.982383728027344
+            "Confidence": 49.982383728027344
           },
           {
             "BoundingBox": {
@@ -7547,7 +7547,7 @@
               "Left": 0.8549970984458923,
               "Top": 0.5311073064804077
             },
-            "Confidence": 51.35019302368164
+            "Confidence": 41.35019302368164
           }
         ],
         "Parents": [
@@ -7791,7 +7791,7 @@
               "Left": 0.8549970984458923,
               "Top": 0.5311073064804077
             },
-            "Confidence": 51.35019302368164
+            "Confidence": 31.35019302368164
           }
         ],
         "Parents": [
@@ -7963,7 +7963,7 @@
               "Left": 0.0821472704410553,
               "Top": 0.0
             },
-            "Confidence": 55.69943618774414
+            "Confidence": 35.69943618774414
           },
           {
             "BoundingBox": {
@@ -7972,7 +7972,7 @@
               "Left": 0.8549970984458923,
               "Top": 0.5311073064804077
             },
-            "Confidence": 51.35019302368164
+            "Confidence": 11.35019302368164
           }
         ],
         "Parents": [],
@@ -7992,7 +7992,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 50.90806579589844,
+        "Confidence": 30.90806579589844,
         "Instances": [],
         "Parents": [
           {

@@ -90,7 +90,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Balloon",
-        "Confidence": 54.643348693847656,
+        "Confidence": 24.643348693847656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -157,7 +157,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 54.79724884033203,
+        "Confidence": 24.79724884033203,
         "Instances": [],
         "Parents": [
           {
@@ -360,7 +360,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 54.79724884033203,
+        "Confidence": 44.79724884033203,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -637,7 +637,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Urban",
-        "Confidence": 54.20343780517578,
+        "Confidence": 44.20343780517578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -786,7 +786,7 @@
               "Left": 0.2987348437309265,
               "Top": 0.336635023355484
             },
-            "Confidence": 53.54591751098633
+            "Confidence": 23.54591751098633
           },
           {
             "BoundingBox": {
@@ -795,7 +795,7 @@
               "Left": 0.8607147336006165,
               "Top": 0.3598645031452179
             },
-            "Confidence": 52.9459342956543
+            "Confidence": 42.9459342956543
           }
         ],
         "Parents": [
@@ -830,7 +830,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Balloon",
-        "Confidence": 50.84646224975586,
+        "Confidence": 30.84646224975586,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -886,7 +886,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Child",
-        "Confidence": 50.25094223022461,
+        "Confidence": 20.25094223022461,
         "Instances": [],
         "Parents": [
           {
@@ -1215,7 +1215,7 @@
               "Left": 0.2987348437309265,
               "Top": 0.336635023355484
             },
-            "Confidence": 53.54591751098633
+            "Confidence": 33.54591751098633
           }
         ],
         "Parents": [
@@ -1468,7 +1468,7 @@
               "Left": 0.8607147336006165,
               "Top": 0.3598645031452179
             },
-            "Confidence": 52.9459342956543
+            "Confidence": 32.9459342956543
           }
         ],
         "Parents": [
@@ -1685,7 +1685,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 53.543060302734375,
+        "Confidence": 43.543060302734375,
         "Instances": [],
         "Parents": [
           {
@@ -1711,7 +1711,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Disco",
-        "Confidence": 50.8638801574707,
+        "Confidence": 40.8638801574707,
         "Instances": [],
         "Parents": [
           {
@@ -2014,7 +2014,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Night Club",
-        "Confidence": 50.8812370300293,
+        "Confidence": 40.8812370300293,
         "Instances": [],
         "Parents": [
           {
@@ -2369,7 +2369,7 @@
               "Left": 0.8908309936523438,
               "Top": 0.6539279222488403
             },
-            "Confidence": 59.05140686035156
+            "Confidence": 49.05140686035156
           }
         ],
         "Parents": [
@@ -2392,7 +2392,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 56.73751449584961,
+        "Confidence": 46.73751449584961,
         "Instances": [],
         "Parents": [
           {
@@ -2411,7 +2411,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Child",
-        "Confidence": 55.12406539916992,
+        "Confidence": 45.12406539916992,
         "Instances": [
           {
             "BoundingBox": {
@@ -2619,7 +2619,7 @@
               "Left": 0.8908309936523438,
               "Top": 0.6539279222488403
             },
-            "Confidence": 59.05140686035156
+            "Confidence": 49.05140686035156
           },
           {
             "BoundingBox": {
@@ -2628,7 +2628,7 @@
               "Left": 0.671933114528656,
               "Top": 0.6379915475845337
             },
-            "Confidence": 58.53315734863281
+            "Confidence": 48.53315734863281
           },
           {
             "BoundingBox": {
@@ -2637,7 +2637,7 @@
               "Left": 0.19122757017612457,
               "Top": 0.2785974144935608
             },
-            "Confidence": 55.22993087768555
+            "Confidence": 45.22993087768555
           }
         ],
         "Parents": [
@@ -2719,7 +2719,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Party",
-        "Confidence": 57.304779052734375,
+        "Confidence": 37.304779052734375,
         "Instances": [],
         "Parents": [
           {
@@ -2829,7 +2829,7 @@
               "Left": 0.671933114528656,
               "Top": 0.6379915475845337
             },
-            "Confidence": 58.53315734863281
+            "Confidence": 28.53315734863281
           },
           {
             "BoundingBox": {
@@ -2981,7 +2981,7 @@
               "Left": 0.6059337258338928,
               "Top": 0.352155476808548
             },
-            "Confidence": 59.60663604736328
+            "Confidence": 49.60663604736328
           },
           {
             "BoundingBox": {
@@ -2990,7 +2990,7 @@
               "Left": 0.43672963976860046,
               "Top": 0.35987454652786255
             },
-            "Confidence": 55.26420974731445
+            "Confidence": 35.26420974731445
           }
         ],
         "Parents": [
@@ -3029,7 +3029,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Cutlery",
-        "Confidence": 50.86166763305664,
+        "Confidence": 40.86166763305664,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3075,7 +3075,7 @@
               "Left": 0.6059337258338928,
               "Top": 0.352155476808548
             },
-            "Confidence": 59.60663604736328
+            "Confidence": 29.60663604736328
           }
         ],
         "Parents": [
@@ -3396,7 +3396,7 @@
               "Left": 0.6059337258338928,
               "Top": 0.352155476808548
             },
-            "Confidence": 59.60663604736328
+            "Confidence": 39.60663604736328
           },
           {
             "BoundingBox": {
@@ -3405,7 +3405,7 @@
               "Left": 0.0009206680115312338,
               "Top": 0.6166078448295593
             },
-            "Confidence": 58.52464294433594
+            "Confidence": 48.52464294433594
           },
           {
             "BoundingBox": {
@@ -3462,7 +3462,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Spoon",
-        "Confidence": 50.86166763305664,
+        "Confidence": 30.86166763305664,
         "Instances": [
           {
             "BoundingBox": {
@@ -3667,7 +3667,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 51.07514572143555,
+        "Confidence": 41.07514572143555,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -3770,7 +3770,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 51.83286666870117,
+        "Confidence": 31.83286666870117,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3961,7 +3961,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Party",
-        "Confidence": 51.83286666870117,
+        "Confidence": 41.83286666870117,
         "Instances": [],
         "Parents": [
           {
@@ -4242,7 +4242,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Child",
-        "Confidence": 50.397701263427734,
+        "Confidence": 30.397701263427734,
         "Instances": [],
         "Parents": [
           {
@@ -4265,7 +4265,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Face",
-        "Confidence": 56.429908752441406,
+        "Confidence": 46.429908752441406,
         "Instances": [],
         "Parents": [
           {
@@ -4655,7 +4655,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 53.351165771484375,
+        "Confidence": 43.351165771484375,
         "Instances": [],
         "Parents": [
           {
@@ -5113,7 +5113,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 52.706153869628906,
+        "Confidence": 32.706153869628906,
         "Instances": [
           {
             "BoundingBox": {
@@ -5276,7 +5276,7 @@
               "Left": 0.7202044129371643,
               "Top": 0.2700764238834381
             },
-            "Confidence": 54.903507232666016
+            "Confidence": 34.903507232666016
           }
         ],
         "Parents": [
@@ -5328,7 +5328,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 55.69358444213867,
+        "Confidence": 35.69358444213867,
         "Instances": [],
         "Parents": [
           {
@@ -5493,7 +5493,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 50.3417854309082,
+        "Confidence": 10.3417854309082,
         "Instances": [],
         "Parents": [
           {
@@ -5512,7 +5512,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 58.827545166015625,
+        "Confidence": 48.827545166015625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5583,7 +5583,7 @@
               "Left": 0.7202044129371643,
               "Top": 0.2700764238834381
             },
-            "Confidence": 54.903507232666016
+            "Confidence": 44.903507232666016
           }
         ],
         "Parents": [
@@ -5638,7 +5638,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Party",
-        "Confidence": 58.827545166015625,
+        "Confidence": 38.827545166015625,
         "Instances": [],
         "Parents": [
           {
@@ -6022,7 +6022,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 54.488155364990234,
+        "Confidence": 34.488155364990234,
         "Instances": [],
         "Parents": [
           {
@@ -6215,7 +6215,7 @@
               "Left": 0.5139465928077698,
               "Top": 0.18444699048995972
             },
-            "Confidence": 57.708770751953125
+            "Confidence": 47.708770751953125
           },
           {
             "BoundingBox": {
@@ -6497,7 +6497,7 @@
               "Left": 0.5139465928077698,
               "Top": 0.18444699048995972
             },
-            "Confidence": 57.708770751953125
+            "Confidence": 47.708770751953125
           },
           {
             "BoundingBox": {
@@ -6669,7 +6669,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 55.80609130859375,
+        "Confidence": 35.80609130859375,
         "Instances": [],
         "Parents": [
           {
@@ -6746,7 +6746,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 50.10886764526367,
+        "Confidence": 40.10886764526367,
         "Instances": [],
         "Parents": [
           {
@@ -6765,7 +6765,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 57.1182861328125,
+        "Confidence": 47.1182861328125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6822,7 +6822,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 55.993038177490234,
+        "Confidence": 35.993038177490234,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -7060,7 +7060,7 @@
               "Left": 0.883486270904541,
               "Top": 0.45552730560302734
             },
-            "Confidence": 59.00633239746094
+            "Confidence": 49.00633239746094
           },
           {
             "BoundingBox": {
@@ -7069,7 +7069,7 @@
               "Left": 0.00027755534392781556,
               "Top": 0.38870811462402344
             },
-            "Confidence": 52.369117736816406
+            "Confidence": 42.369117736816406
           }
         ],
         "Parents": [],
@@ -7089,7 +7089,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Riot",
-        "Confidence": 53.26002502441406,
+        "Confidence": 33.26002502441406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7274,7 +7274,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 53.97064971923828,
+        "Confidence": 43.97064971923828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7587,7 +7587,7 @@
               "Left": 0.788102924823761,
               "Top": 0.47744932770729065
             },
-            "Confidence": 51.72836685180664
+            "Confidence": 31.72836685180664
           }
         ],
         "Parents": [
@@ -7607,7 +7607,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Boy",
-        "Confidence": 53.848628997802734,
+        "Confidence": 43.848628997802734,
         "Instances": [
           {
             "BoundingBox": {
@@ -7658,7 +7658,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Child",
-        "Confidence": 53.848628997802734,
+        "Confidence": 33.848628997802734,
         "Instances": [
           {
             "BoundingBox": {
@@ -7667,7 +7667,7 @@
               "Left": 0.1818826049566269,
               "Top": 0.4077608287334442
             },
-            "Confidence": 59.77981185913086
+            "Confidence": 39.77981185913086
           }
         ],
         "Parents": [
@@ -7747,7 +7747,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 55.4912109375,
+        "Confidence": 25.4912109375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7945,7 +7945,7 @@
               "Left": 0.788102924823761,
               "Top": 0.47744932770729065
             },
-            "Confidence": 51.72836685180664
+            "Confidence": 21.72836685180664
           }
         ],
         "Parents": [],
@@ -8106,7 +8106,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Club",
-        "Confidence": 50.51870346069336,
+        "Confidence": 30.51870346069336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8242,7 +8242,7 @@
               "Left": 0.7562669515609741,
               "Top": 0.4855896532535553
             },
-            "Confidence": 56.70244598388672
+            "Confidence": 46.70244598388672
           },
           {
             "BoundingBox": {
@@ -8316,7 +8316,7 @@
               "Left": 0.859479546546936,
               "Top": 0.5033057928085327
             },
-            "Confidence": 52.48564529418945
+            "Confidence": 42.48564529418945
           }
         ],
         "Parents": [
@@ -8433,7 +8433,7 @@
               "Left": 0.7608619332313538,
               "Top": 0.13681747019290924
             },
-            "Confidence": 53.355384826660156
+            "Confidence": 33.355384826660156
           },
           {
             "BoundingBox": {
@@ -8825,7 +8825,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Party",
-        "Confidence": 59.736663818359375,
+        "Confidence": 39.736663818359375,
         "Instances": [],
         "Parents": [
           {
@@ -9002,7 +9002,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 55.08478927612305,
+        "Confidence": 35.08478927612305,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9120,7 +9120,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Balloon",
-        "Confidence": 51.818058013916016,
+        "Confidence": 31.818058013916016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9173,7 +9173,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Cream",
-        "Confidence": 51.44309616088867,
+        "Confidence": 41.44309616088867,
         "Instances": [],
         "Parents": [
           {
@@ -9630,7 +9630,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 55.9395751953125,
+        "Confidence": 15.9395751953125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9980,7 +9980,7 @@
               "Left": 0.7107996940612793,
               "Top": 0.470302939414978
             },
-            "Confidence": 58.3756217956543
+            "Confidence": 38.3756217956543
           },
           {
             "BoundingBox": {
@@ -10153,7 +10153,7 @@
               "Left": 0.7107996940612793,
               "Top": 0.470302939414978
             },
-            "Confidence": 58.3756217956543
+            "Confidence": 38.3756217956543
           },
           {
             "BoundingBox": {
@@ -10393,7 +10393,7 @@
               "Left": 0.3139568269252777,
               "Top": 0.49309277534484863
             },
-            "Confidence": 54.6353874206543
+            "Confidence": 24.6353874206543
           }
         ],
         "Parents": [
@@ -10499,7 +10499,7 @@
               "Left": 0.3139568269252777,
               "Top": 0.49309277534484863
             },
-            "Confidence": 54.6353874206543
+            "Confidence": 24.6353874206543
           }
         ],
         "Parents": [
@@ -10519,7 +10519,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 58.884681701660156,
+        "Confidence": 38.884681701660156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10635,7 +10635,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Party",
-        "Confidence": 58.67560577392578,
+        "Confidence": 38.67560577392578,
         "Instances": [],
         "Parents": [
           {
@@ -10736,7 +10736,7 @@
               "Left": 0.3139568269252777,
               "Top": 0.49309277534484863
             },
-            "Confidence": 54.6353874206543
+            "Confidence": 44.6353874206543
           }
         ],
         "Parents": [],
@@ -10816,7 +10816,7 @@
               "Left": 0.3139568269252777,
               "Top": 0.49309277534484863
             },
-            "Confidence": 54.6353874206543
+            "Confidence": 44.6353874206543
           }
         ],
         "Parents": [
@@ -11082,7 +11082,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 52.93282699584961,
+        "Confidence": 22.93282699584961,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -11622,7 +11622,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 51.42796325683594,
+        "Confidence": 31.42796325683594,
         "Instances": [],
         "Parents": [
           {
@@ -11726,7 +11726,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 53.271697998046875,
+        "Confidence": 23.271697998046875,
         "Instances": [],
         "Parents": [
           {
@@ -11779,7 +11779,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 52.33190155029297,
+        "Confidence": 42.33190155029297,
         "Instances": [],
         "Parents": [
           {
@@ -11940,7 +11940,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "People",
-        "Confidence": 57.6503791809082,
+        "Confidence": 47.6503791809082,
         "Instances": [],
         "Parents": [
           {
@@ -12370,7 +12370,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Kicking",
-        "Confidence": 50.131988525390625,
+        "Confidence": 20.131988525390625,
         "Instances": [],
         "Parents": [
           {
@@ -12408,7 +12408,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Man",
-        "Confidence": 54.77138900756836,
+        "Confidence": 24.77138900756836,
         "Instances": [],
         "Parents": [
           {
@@ -12433,7 +12433,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.83975601196289,
+        "Confidence": 43.83975601196289,
         "Instances": [],
         "Parents": [
           {
@@ -12452,7 +12452,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "People",
-        "Confidence": 50.96985626220703,
+        "Confidence": 40.96985626220703,
         "Instances": [],
         "Parents": [
           {
@@ -12563,7 +12563,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 55.80516052246094,
+        "Confidence": 35.80516052246094,
         "Instances": [
           {
             "BoundingBox": {
@@ -12880,7 +12880,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 50.17662811279297,
+        "Confidence": 40.17662811279297,
         "Instances": [],
         "Parents": [
           {
@@ -12978,7 +12978,7 @@
               "Left": 0.5060716867446899,
               "Top": 0.23503834009170532
             },
-            "Confidence": 55.030513763427734
+            "Confidence": 35.030513763427734
           }
         ],
         "Parents": [
@@ -13043,7 +13043,7 @@
               "Left": 0.5060716867446899,
               "Top": 0.23503834009170532
             },
-            "Confidence": 55.030513763427734
+            "Confidence": 35.030513763427734
           }
         ],
         "Parents": [
@@ -13088,7 +13088,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "People",
-        "Confidence": 54.201515197753906,
+        "Confidence": 44.201515197753906,
         "Instances": [],
         "Parents": [
           {
@@ -13695,7 +13695,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Party",
-        "Confidence": 57.799678802490234,
+        "Confidence": 47.799678802490234,
         "Instances": [],
         "Parents": [
           {
@@ -14216,7 +14216,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Party",
-        "Confidence": 52.66891098022461,
+        "Confidence": 32.66891098022461,
         "Instances": [],
         "Parents": [
           {
@@ -14947,7 +14947,7 @@
               "Left": 0.20292408764362335,
               "Top": 0.4626781642436981
             },
-            "Confidence": 57.91556930541992
+            "Confidence": 37.91556930541992
           }
         ],
         "Parents": [],
@@ -14982,7 +14982,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 59.85275650024414,
+        "Confidence": 39.85275650024414,
         "Instances": [
           {
             "BoundingBox": {
@@ -15156,7 +15156,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 50.112117767333984,
+        "Confidence": 40.112117767333984,
         "Instances": [],
         "Parents": [
           {
@@ -15253,7 +15253,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.411521911621094,
+        "Confidence": 32.411521911621094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15405,7 +15405,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.98698043823242,
+        "Confidence": 41.98698043823242,
         "Instances": [],
         "Parents": [
           {
@@ -15424,7 +15424,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 52.774009704589844,
+        "Confidence": 22.774009704589844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15558,7 +15558,7 @@
               "Left": 0.1552911251783371,
               "Top": 0.24414752423763275
             },
-            "Confidence": 59.08572006225586
+            "Confidence": 29.08572006225586
           }
         ],
         "Parents": [],
@@ -15702,7 +15702,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Alcohol",
-        "Confidence": 50.28714370727539,
+        "Confidence": 40.28714370727539,
         "Instances": [],
         "Parents": [
           {
@@ -15740,7 +15740,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Drinking",
-        "Confidence": 50.707035064697266,
+        "Confidence": 40.707035064697266,
         "Instances": [],
         "Parents": [
           {
@@ -15865,7 +15865,7 @@
               "Left": 0.4779268503189087,
               "Top": 0.5410346984863281
             },
-            "Confidence": 55.15595626831055
+            "Confidence": 25.15595626831055
           }
         ],
         "Parents": [
@@ -15903,7 +15903,7 @@
               "Left": 0.4779268503189087,
               "Top": 0.5410346984863281
             },
-            "Confidence": 55.15595626831055
+            "Confidence": 25.15595626831055
           }
         ],
         "Parents": [
@@ -16083,7 +16083,7 @@
               "Left": 0.529645562171936,
               "Top": 0.7088302969932556
             },
-            "Confidence": 55.69679260253906
+            "Confidence": 45.69679260253906
           }
         ],
         "Parents": [
@@ -16184,7 +16184,7 @@
               "Left": 0.529645562171936,
               "Top": 0.7088302969932556
             },
-            "Confidence": 55.69679260253906
+            "Confidence": 25.69679260253906
           }
         ],
         "Parents": [
@@ -16410,7 +16410,7 @@
               "Left": 0.13448967039585114,
               "Top": 0.19765685498714447
             },
-            "Confidence": 53.27921676635742
+            "Confidence": 43.27921676635742
           }
         ],
         "Parents": [],
@@ -16430,7 +16430,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Pet",
-        "Confidence": 57.48857498168945,
+        "Confidence": 27.48857498168945,
         "Instances": [],
         "Parents": [
           {
@@ -16855,7 +16855,7 @@
               "Left": 0.24568520486354828,
               "Top": 0.1641664057970047
             },
-            "Confidence": 55.94404983520508
+            "Confidence": 45.94404983520508
           }
         ],
         "Parents": [
@@ -17024,7 +17024,7 @@
               "Left": 0.24568520486354828,
               "Top": 0.1641664057970047
             },
-            "Confidence": 55.94404983520508
+            "Confidence": 35.94404983520508
           }
         ],
         "Parents": [
@@ -17077,7 +17077,7 @@
               "Left": 0.24568520486354828,
               "Top": 0.1641664057970047
             },
-            "Confidence": 55.94404983520508
+            "Confidence": 45.94404983520508
           }
         ],
         "Parents": [],
@@ -17097,7 +17097,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Riot",
-        "Confidence": 52.045860290527344,
+        "Confidence": 12.045860290527344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17475,7 +17475,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.0666618347168,
+        "Confidence": 33.0666618347168,
         "Instances": [],
         "Parents": [
           {
@@ -17852,7 +17852,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 50.16916275024414,
+        "Confidence": 30.16916275024414,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18267,7 +18267,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Female",
-        "Confidence": 54.59065246582031,
+        "Confidence": 34.59065246582031,
         "Instances": [],
         "Parents": [
           {
@@ -18305,7 +18305,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 54.13369369506836,
+        "Confidence": 44.13369369506836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18531,7 +18531,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "People",
-        "Confidence": 51.91042709350586,
+        "Confidence": 41.91042709350586,
         "Instances": [],
         "Parents": [
           {
@@ -18648,7 +18648,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 54.59065246582031,
+        "Confidence": 34.59065246582031,
         "Instances": [],
         "Parents": [
           {
@@ -19654,7 +19654,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.030635833740234,
+        "Confidence": 43.030635833740234,
         "Instances": [],
         "Parents": [
           {
@@ -19673,7 +19673,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "People",
-        "Confidence": 53.60969543457031,
+        "Confidence": 23.60969543457031,
         "Instances": [],
         "Parents": [
           {
@@ -20291,7 +20291,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Face",
-        "Confidence": 51.2862663269043,
+        "Confidence": 41.2862663269043,
         "Instances": [],
         "Parents": [
           {
@@ -20377,7 +20377,7 @@
               "Left": 0.587039053440094,
               "Top": 0.6901926398277283
             },
-            "Confidence": 59.045623779296875
+            "Confidence": 29.045623779296875
           }
         ],
         "Parents": [
@@ -20745,7 +20745,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 50.21010971069336,
+        "Confidence": 30.21010971069336,
         "Instances": [],
         "Parents": [
           {
@@ -21241,7 +21241,7 @@
               "Left": 0.06708851456642151,
               "Top": 0.3771245777606964
             },
-            "Confidence": 50.102508544921875
+            "Confidence": 30.102508544921875
           }
         ],
         "Parents": [],
@@ -21737,7 +21737,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 54.271705627441406,
+        "Confidence": 34.271705627441406,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -21756,7 +21756,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Male",
-        "Confidence": 57.21537399291992,
+        "Confidence": 27.21537399291992,
         "Instances": [
           {
             "BoundingBox": {
@@ -21804,7 +21804,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Man",
-        "Confidence": 52.141090393066406,
+        "Confidence": 42.141090393066406,
         "Instances": [
           {
             "BoundingBox": {
@@ -21813,7 +21813,7 @@
               "Left": 0.02096126414835453,
               "Top": 0.25776633620262146
             },
-            "Confidence": 51.32815933227539
+            "Confidence": 41.32815933227539
           }
         ],
         "Parents": [
@@ -21839,7 +21839,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Moon",
-        "Confidence": 56.27265930175781,
+        "Confidence": 46.27265930175781,
         "Instances": [
           {
             "BoundingBox": {
@@ -22052,7 +22052,7 @@
               "Left": 0.05401653051376343,
               "Top": 0.3436366021633148
             },
-            "Confidence": 58.09525680541992
+            "Confidence": 48.09525680541992
           },
           {
             "BoundingBox": {
@@ -22115,7 +22115,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.43484115600586,
+        "Confidence": 31.43484115600586,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22166,7 +22166,7 @@
               "Left": 0.7401562929153442,
               "Top": 0.5296979546546936
             },
-            "Confidence": 59.76591110229492
+            "Confidence": 49.76591110229492
           }
         ],
         "Parents": [
@@ -22323,7 +22323,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 53.10617446899414,
+        "Confidence": 33.10617446899414,
         "Instances": [],
         "Parents": [
           {
@@ -22557,7 +22557,7 @@
               "Left": 0.8589910268783569,
               "Top": 0.6674135327339172
             },
-            "Confidence": 55.8171272277832
+            "Confidence": 35.8171272277832
           }
         ],
         "Parents": [
@@ -22656,7 +22656,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 52.555206298828125,
+        "Confidence": 42.555206298828125,
         "Instances": [],
         "Parents": [
           {
@@ -22809,7 +22809,7 @@
               "Left": 0.4792819619178772,
               "Top": 0.530680775642395
             },
-            "Confidence": 59.05095291137695
+            "Confidence": 39.05095291137695
           },
           {
             "BoundingBox": {
@@ -23064,7 +23064,7 @@
               "Left": 0.2359788715839386,
               "Top": 0.5027733445167542
             },
-            "Confidence": 53.46973419189453
+            "Confidence": 23.46973419189453
           }
         ],
         "Parents": [
@@ -23084,7 +23084,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Airport",
-        "Confidence": 50.420677185058594,
+        "Confidence": 40.420677185058594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23099,7 +23099,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Astronomy",
-        "Confidence": 54.91294479370117,
+        "Confidence": 44.91294479370117,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23114,7 +23114,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 50.67158126831055,
+        "Confidence": 30.67158126831055,
         "Instances": [],
         "Parents": [
           {
@@ -23166,7 +23166,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 50.35498809814453,
+        "Confidence": 40.35498809814453,
         "Instances": [],
         "Parents": [
           {
@@ -23259,7 +23259,7 @@
               "Left": 0.2359788715839386,
               "Top": 0.5027733445167542
             },
-            "Confidence": 53.46973419189453
+            "Confidence": 43.46973419189453
           }
         ],
         "Parents": [
@@ -23279,7 +23279,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Festival",
-        "Confidence": 51.42238998413086,
+        "Confidence": 21.42238998413086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23294,7 +23294,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 57.49165344238281,
+        "Confidence": 47.49165344238281,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23360,7 +23360,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 50.35498809814453,
+        "Confidence": 20.35498809814453,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -23536,7 +23536,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Night",
-        "Confidence": 56.79444885253906,
+        "Confidence": 26.79444885253906,
         "Instances": [],
         "Parents": [
           {
@@ -23592,7 +23592,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Parade",
-        "Confidence": 50.39981460571289,
+        "Confidence": 20.39981460571289,
         "Instances": [],
         "Parents": [
           {
@@ -23611,7 +23611,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Party",
-        "Confidence": 55.22947692871094,
+        "Confidence": 25.22947692871094,
         "Instances": [],
         "Parents": [
           {
@@ -23774,7 +23774,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Tourist",
-        "Confidence": 50.88728332519531,
+        "Confidence": 10.88728332519531,
         "Instances": [],
         "Parents": [
           {
@@ -23814,7 +23814,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Vacation",
-        "Confidence": 51.85258865356445,
+        "Confidence": 31.85258865356445,
         "Instances": [],
         "Parents": [
           {
@@ -23969,7 +23969,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 53.71047592163086,
+        "Confidence": 13.71047592163086,
         "Instances": [],
         "Parents": [
           {
@@ -24007,7 +24007,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 56.349769592285156,
+        "Confidence": 16.349769592285156,
         "Instances": [],
         "Parents": [
           {
@@ -24133,7 +24133,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Fun",
-        "Confidence": 56.953006744384766,
+        "Confidence": 46.953006744384766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24167,7 +24167,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 56.349769592285156,
+        "Confidence": 26.349769592285156,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -24268,7 +24268,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.24806594848633,
+        "Confidence": 20.24806594848633,
         "Instances": [],
         "Parents": [
           {
@@ -24487,7 +24487,7 @@
               "Left": 0.804126501083374,
               "Top": 0.6383606195449829
             },
-            "Confidence": 52.87488555908203
+            "Confidence": 22.87488555908203
           }
         ],
         "Parents": [],
@@ -24522,7 +24522,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 57.80878829956055,
+        "Confidence": 37.80878829956055,
         "Instances": [
           {
             "BoundingBox": {
@@ -24700,7 +24700,7 @@
               "Left": 0.26378539204597473,
               "Top": 0.3606119453907013
             },
-            "Confidence": 59.316646575927734
+            "Confidence": 39.316646575927734
           }
         ],
         "Parents": [
@@ -24720,7 +24720,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 53.251861572265625,
+        "Confidence": 23.251861572265625,
         "Instances": [],
         "Parents": [
           {
@@ -24987,7 +24987,7 @@
               "Left": 0.26378539204597473,
               "Top": 0.3606119453907013
             },
-            "Confidence": 59.316646575927734
+            "Confidence": 49.316646575927734
           }
         ],
         "Parents": [
@@ -25016,7 +25016,7 @@
               "Left": 0.26378539204597473,
               "Top": 0.3606119453907013
             },
-            "Confidence": 59.316646575927734
+            "Confidence": 49.316646575927734
           }
         ],
         "Parents": [
@@ -25042,7 +25042,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.688743591308594,
+        "Confidence": 40.688743591308594,
         "Instances": [],
         "Parents": [
           {
@@ -25270,7 +25270,7 @@
               "Left": 0.26378539204597473,
               "Top": 0.3606119453907013
             },
-            "Confidence": 59.316646575927734
+            "Confidence": 49.316646575927734
           },
           {
             "BoundingBox": {
@@ -25279,7 +25279,7 @@
               "Left": 0.6680809259414673,
               "Top": 0.5271278023719788
             },
-            "Confidence": 58.12974548339844
+            "Confidence": 28.12974548339844
           }
         ],
         "Parents": [],
@@ -25314,7 +25314,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Urban",
-        "Confidence": 53.22532272338867,
+        "Confidence": 33.22532272338867,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25484,7 +25484,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 51.3865966796875,
+        "Confidence": 41.3865966796875,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -25654,7 +25654,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 51.78190231323242,
+        "Confidence": 31.78190231323242,
         "Instances": [],
         "Parents": [
           {
@@ -25760,7 +25760,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Party",
-        "Confidence": 54.09242630004883,
+        "Confidence": 34.09242630004883,
         "Instances": [],
         "Parents": [
           {
@@ -26129,7 +26129,7 @@
               "Left": 0.4953106939792633,
               "Top": 0.12852048873901367
             },
-            "Confidence": 57.940338134765625
+            "Confidence": 27.940338134765625
           }
         ],
         "Parents": [
@@ -26149,7 +26149,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 52.62812423706055,
+        "Confidence": 22.62812423706055,
         "Instances": [],
         "Parents": [
           {
@@ -26313,7 +26313,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Fun",
-        "Confidence": 55.77733612060547,
+        "Confidence": 35.77733612060547,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -26370,7 +26370,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 57.09599304199219,
+        "Confidence": 27.09599304199219,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -26689,7 +26689,7 @@
               "Left": 0.41195085644721985,
               "Top": 0.3737103044986725
             },
-            "Confidence": 57.27539825439453
+            "Confidence": 47.27539825439453
           }
         ],
         "Parents": [],
@@ -26709,7 +26709,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.345001220703125,
+        "Confidence": 40.345001220703125,
         "Instances": [],
         "Parents": [
           {
@@ -27446,7 +27446,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Riot",
-        "Confidence": 52.00069808959961,
+        "Confidence": 32.00069808959961,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -27480,7 +27480,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.36134719848633,
+        "Confidence": 31.36134719848633,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -27883,7 +27883,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 52.58979034423828,
+        "Confidence": 22.58979034423828,
         "Instances": [],
         "Parents": [
           {
@@ -28149,7 +28149,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Riot",
-        "Confidence": 55.21408462524414,
+        "Confidence": 25.21408462524414,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28405,7 +28405,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Fun",
-        "Confidence": 54.50164031982422,
+        "Confidence": 34.50164031982422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28477,7 +28477,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Party",
-        "Confidence": 54.50164031982422,
+        "Confidence": 34.50164031982422,
         "Instances": [],
         "Parents": [
           {
@@ -28677,7 +28677,7 @@
               "Left": 0.015726881101727486,
               "Top": 0.6615796089172363
             },
-            "Confidence": 51.55427551269531
+            "Confidence": 21.55427551269531
           }
         ],
         "Parents": [],
@@ -29100,7 +29100,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.28498458862305,
+        "Confidence": 40.28498458862305,
         "Instances": [],
         "Parents": [
           {
@@ -29119,7 +29119,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.98722457885742,
+        "Confidence": 43.98722457885742,
         "Instances": [],
         "Parents": [
           {
@@ -29336,7 +29336,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.215599060058594,
+        "Confidence": 22.215599060058594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29470,7 +29470,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 53.9557991027832,
+        "Confidence": 33.9557991027832,
         "Instances": [],
         "Parents": [
           {
@@ -29547,7 +29547,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Fun",
-        "Confidence": 50.12681579589844,
+        "Confidence": 30.12681579589844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29909,7 +29909,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.61117172241211,
+        "Confidence": 42.61117172241211,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30013,7 +30013,7 @@
               "Left": 0.2047479897737503,
               "Top": 0.48117706179618835
             },
-            "Confidence": 56.31056594848633
+            "Confidence": 26.31056594848633
           }
         ],
         "Parents": [
@@ -30048,7 +30048,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 50.53615188598633,
+        "Confidence": 10.53615188598633,
         "Instances": [],
         "Parents": [
           {
@@ -30143,7 +30143,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Fun",
-        "Confidence": 50.444740295410156,
+        "Confidence": 20.444740295410156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30177,7 +30177,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 50.53615188598633,
+        "Confidence": 20.53615188598633,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -30223,7 +30223,7 @@
               "Left": 0.2047479897737503,
               "Top": 0.48117706179618835
             },
-            "Confidence": 56.31056594848633
+            "Confidence": 46.31056594848633
           }
         ],
         "Parents": [
@@ -30261,7 +30261,7 @@
               "Left": 0.3508448898792267,
               "Top": 0.49914565682411194
             },
-            "Confidence": 57.805091857910156
+            "Confidence": 27.805091857910156
           },
           {
             "BoundingBox": {
@@ -30270,7 +30270,7 @@
               "Left": 0.2047479897737503,
               "Top": 0.48117706179618835
             },
-            "Confidence": 56.31056594848633
+            "Confidence": 26.31056594848633
           }
         ],
         "Parents": [
@@ -30375,7 +30375,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 53.625946044921875,
+        "Confidence": 33.625946044921875,
         "Instances": [],
         "Parents": [
           {
@@ -30720,7 +30720,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.06178283691406,
+        "Confidence": 43.06178283691406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31095,7 +31095,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.62868881225586,
+        "Confidence": 23.62868881225586,
         "Instances": [],
         "Parents": [
           {
@@ -31421,7 +31421,7 @@
               "Left": 0.05673396959900856,
               "Top": 0.19133144617080688
             },
-            "Confidence": 55.07878112792969
+            "Confidence": 25.07878112792969
           },
           {
             "BoundingBox": {
@@ -31469,7 +31469,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 52.38138961791992,
+        "Confidence": 42.38138961791992,
         "Instances": [],
         "Parents": [
           {
@@ -31680,7 +31680,7 @@
               "Left": 0.2798008918762207,
               "Top": 0.35855358839035034
             },
-            "Confidence": 53.89511489868164
+            "Confidence": 23.89511489868164
           }
         ],
         "Parents": [
@@ -31745,7 +31745,7 @@
               "Left": 0.2798008918762207,
               "Top": 0.35855358839035034
             },
-            "Confidence": 53.89511489868164
+            "Confidence": 33.89511489868164
           }
         ],
         "Parents": [
@@ -31812,7 +31812,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 54.81584167480469,
+        "Confidence": 34.81584167480469,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31946,7 +31946,7 @@
               "Left": 0.05673396959900856,
               "Top": 0.19133144617080688
             },
-            "Confidence": 55.07878112792969
+            "Confidence": 35.07878112792969
           },
           {
             "BoundingBox": {
@@ -31955,7 +31955,7 @@
               "Left": 0.2798008918762207,
               "Top": 0.35855358839035034
             },
-            "Confidence": 53.89511489868164
+            "Confidence": 23.89511489868164
           }
         ],
         "Parents": [],
@@ -31990,7 +31990,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Snow",
-        "Confidence": 50.27458953857422,
+        "Confidence": 30.27458953857422,
         "Instances": [],
         "Parents": [
           {
@@ -32506,7 +32506,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "People",
-        "Confidence": 51.182395935058594,
+        "Confidence": 21.182395935058594,
         "Instances": [],
         "Parents": [
           {
@@ -32874,7 +32874,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 50.85780334472656,
+        "Confidence": 20.85780334472656,
         "Instances": [],
         "Parents": [
           {
@@ -33051,7 +33051,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.73599624633789,
+        "Confidence": 20.73599624633789,
         "Instances": [],
         "Parents": [
           {
@@ -33233,7 +33233,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Snow",
-        "Confidence": 51.50939178466797,
+        "Confidence": 31.50939178466797,
         "Instances": [],
         "Parents": [
           {
@@ -33447,7 +33447,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 50.12408447265625,
+        "Confidence": 30.12408447265625,
         "Instances": [],
         "Parents": [
           {
@@ -33736,7 +33736,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.2732048034668,
+        "Confidence": 30.2732048034668,
         "Instances": [],
         "Parents": [
           {
@@ -34130,7 +34130,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 51.59821701049805,
+        "Confidence": 41.59821701049805,
         "Instances": [],
         "Parents": [
           {
@@ -34818,7 +34818,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 50.99867248535156,
+        "Confidence": 30.99867248535156,
         "Instances": [],
         "Parents": [
           {
@@ -34893,7 +34893,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.44749069213867,
+        "Confidence": 30.44749069213867,
         "Instances": [],
         "Parents": [
           {
@@ -35299,7 +35299,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.150081634521484,
+        "Confidence": 22.150081634521484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35333,7 +35333,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Concert",
-        "Confidence": 51.1343879699707,
+        "Confidence": 31.1343879699707,
         "Instances": [],
         "Parents": [
           {
@@ -35355,7 +35355,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Crowd",
-        "Confidence": 53.80875778198242,
+        "Confidence": 23.80875778198242,
         "Instances": [],
         "Parents": [
           {
@@ -35374,7 +35374,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 51.44798278808594,
+        "Confidence": 41.44798278808594,
         "Instances": [],
         "Parents": [
           {
@@ -35485,7 +35485,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 52.150081634521484,
+        "Confidence": 22.150081634521484,
         "Instances": [],
         "Parents": [
           {
@@ -35574,7 +35574,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 51.671085357666016,
+        "Confidence": 21.671085357666016,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -35712,7 +35712,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Night",
-        "Confidence": 51.22905731201172,
+        "Confidence": 21.22905731201172,
         "Instances": [],
         "Parents": [
           {
@@ -35734,7 +35734,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.382423400878906,
+        "Confidence": 35.382423400878906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35940,7 +35940,7 @@
               "Left": 0.3569220304489136,
               "Top": 0.5797207951545715
             },
-            "Confidence": 51.4127197265625
+            "Confidence": 41.4127197265625
           }
         ],
         "Parents": [],
@@ -35960,7 +35960,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Riot",
-        "Confidence": 51.90748596191406,
+        "Confidence": 31.90748596191406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36012,7 +36012,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Snowball Fight",
-        "Confidence": 50.41321563720703,
+        "Confidence": 20.41321563720703,
         "Instances": [],
         "Parents": [
           {
@@ -36178,7 +36178,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Airport",
-        "Confidence": 51.32499694824219,
+        "Confidence": 21.32499694824219,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36234,7 +36234,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Crowd",
-        "Confidence": 54.0494499206543,
+        "Confidence": 34.0494499206543,
         "Instances": [],
         "Parents": [
           {
@@ -36447,7 +36447,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Nature",
-        "Confidence": 54.089622497558594,
+        "Confidence": 24.089622497558594,
         "Instances": [],
         "Parents": [
           {
@@ -36485,7 +36485,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.315589904785156,
+        "Confidence": 35.315589904785156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36684,7 +36684,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Riot",
-        "Confidence": 57.1512451171875,
+        "Confidence": 37.1512451171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36746,7 +36746,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.99531936645508,
+        "Confidence": 12.99531936645508,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36921,7 +36921,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Crowd",
-        "Confidence": 51.92741012573242,
+        "Confidence": 31.92741012573242,
         "Instances": [],
         "Parents": [
           {
@@ -37000,7 +37000,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Fun",
-        "Confidence": 58.35846710205078,
+        "Confidence": 38.35846710205078,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37344,7 +37344,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Snowball Fight",
-        "Confidence": 52.02655029296875,
+        "Confidence": 42.02655029296875,
         "Instances": [],
         "Parents": [
           {
@@ -37721,7 +37721,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Nature",
-        "Confidence": 54.010337829589844,
+        "Confidence": 44.010337829589844,
         "Instances": [],
         "Parents": [
           {
@@ -37755,7 +37755,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Paper",
-        "Confidence": 51.540061950683594,
+        "Confidence": 31.540061950683594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37963,7 +37963,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Riot",
-        "Confidence": 58.5681037902832,
+        "Confidence": 28.5681037902832,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37978,7 +37978,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Snow",
-        "Confidence": 51.955902099609375,
+        "Confidence": 41.955902099609375,
         "Instances": [],
         "Parents": [
           {
@@ -38220,7 +38220,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Child",
-        "Confidence": 50.13792037963867,
+        "Confidence": 40.13792037963867,
         "Instances": [
           {
             "BoundingBox": {
@@ -38229,7 +38229,7 @@
               "Left": 0.38934990763664246,
               "Top": 0.8387029767036438
             },
-            "Confidence": 57.026885986328125
+            "Confidence": 47.026885986328125
           }
         ],
         "Parents": [
@@ -38253,7 +38253,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Concert",
-        "Confidence": 52.1819953918457,
+        "Confidence": 12.1819953918457,
         "Instances": [],
         "Parents": [
           {
@@ -38275,7 +38275,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Crowd",
-        "Confidence": 52.1819953918457,
+        "Confidence": 42.1819953918457,
         "Instances": [],
         "Parents": [
           {
@@ -38361,7 +38361,7 @@
               "Left": 0.38934990763664246,
               "Top": 0.8387029767036438
             },
-            "Confidence": 57.026885986328125
+            "Confidence": 37.026885986328125
           }
         ],
         "Parents": [
@@ -38531,7 +38531,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.76063537597656,
+        "Confidence": 30.76063537597656,
         "Instances": [],
         "Parents": [
           {
@@ -38550,7 +38550,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 52.6712646484375,
+        "Confidence": 22.6712646484375,
         "Instances": [],
         "Parents": [
           {
@@ -38739,7 +38739,7 @@
               "Left": 0.38934990763664246,
               "Top": 0.8387029767036438
             },
-            "Confidence": 57.026885986328125
+            "Confidence": 37.026885986328125
           }
         ],
         "Parents": [],
@@ -38774,7 +38774,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Tourist",
-        "Confidence": 50.28158187866211,
+        "Confidence": 40.28158187866211,
         "Instances": [],
         "Parents": [
           {
@@ -38814,7 +38814,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Vacation",
-        "Confidence": 50.3425178527832,
+        "Confidence": 40.3425178527832,
         "Instances": [],
         "Parents": [
           {
@@ -38993,7 +38993,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Airport",
-        "Confidence": 51.73824691772461,
+        "Confidence": 31.73824691772461,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -39227,7 +39227,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 50.854339599609375,
+        "Confidence": 40.854339599609375,
         "Instances": [],
         "Parents": [
           {
@@ -39613,7 +39613,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Tourist",
-        "Confidence": 50.897010803222656,
+        "Confidence": 40.897010803222656,
         "Instances": [],
         "Parents": [
           {
@@ -39653,7 +39653,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Vacation",
-        "Confidence": 50.90638732910156,
+        "Confidence": 20.90638732910156,
         "Instances": [],
         "Parents": [
           {
@@ -39819,7 +39819,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 51.2161750793457,
+        "Confidence": 31.2161750793457,
         "Instances": [],
         "Parents": [
           {
@@ -40267,7 +40267,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.28767395019531,
+        "Confidence": 31.28767395019531,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -40418,7 +40418,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 55.726585388183594,
+        "Confidence": 25.726585388183594,
         "Instances": [],
         "Parents": [
           {
@@ -40478,7 +40478,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Disco",
-        "Confidence": 50.277610778808594,
+        "Confidence": 20.277610778808594,
         "Instances": [],
         "Parents": [
           {
@@ -40639,7 +40639,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 54.77912139892578,
+        "Confidence": 44.77912139892578,
         "Instances": [],
         "Parents": [
           {
@@ -40662,7 +40662,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 51.988243103027344,
+        "Confidence": 41.988243103027344,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -40700,7 +40700,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Man",
-        "Confidence": 55.00680923461914,
+        "Confidence": 25.00680923461914,
         "Instances": [],
         "Parents": [
           {
@@ -41017,7 +41017,7 @@
               "Left": 0.2737230956554413,
               "Top": 0.3636441230773926
             },
-            "Confidence": 58.89833450317383
+            "Confidence": 38.89833450317383
           }
         ],
         "Parents": [
@@ -41093,7 +41093,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 54.561283111572266,
+        "Confidence": 34.561283111572266,
         "Instances": [],
         "Parents": [
           {
@@ -41233,7 +41233,7 @@
               "Left": 0.2737230956554413,
               "Top": 0.3636441230773926
             },
-            "Confidence": 58.89833450317383
+            "Confidence": 48.89833450317383
           }
         ],
         "Parents": [
@@ -41725,7 +41725,7 @@
       "Timestamp": 32720,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 55.50927734375,
+        "Confidence": 45.50927734375,
         "Instances": [],
         "Parents": [
           {
@@ -42094,7 +42094,7 @@
       "Timestamp": 32720,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 51.33564376831055,
+        "Confidence": 11.33564376831055,
         "Instances": [],
         "Parents": [
           {
@@ -42540,7 +42540,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Cat",
-        "Confidence": 50.3380241394043,
+        "Confidence": 30.3380241394043,
         "Instances": [
           {
             "BoundingBox": {
@@ -42695,7 +42695,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.0716438293457,
+        "Confidence": 41.0716438293457,
         "Instances": [],
         "Parents": [
           {
@@ -42759,7 +42759,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 56.83355712890625,
+        "Confidence": 36.83355712890625,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -42998,7 +42998,7 @@
               "Left": 0.5745543837547302,
               "Top": 0.14118506014347076
             },
-            "Confidence": 51.485069274902344
+            "Confidence": 41.485069274902344
           }
         ],
         "Parents": [],
@@ -43037,7 +43037,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Urban",
-        "Confidence": 50.47207260131836,
+        "Confidence": 40.47207260131836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43178,7 +43178,7 @@
               "Left": 0.255727618932724,
               "Top": 0.27162936329841614
             },
-            "Confidence": 57.388832092285156
+            "Confidence": 37.388832092285156
           }
         ],
         "Parents": [
@@ -43217,7 +43217,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 53.66360855102539,
+        "Confidence": 33.66360855102539,
         "Instances": [],
         "Parents": [
           {
@@ -43776,7 +43776,7 @@
               "Left": 0.5739390254020691,
               "Top": 0.6190536618232727
             },
-            "Confidence": 55.765098571777344
+            "Confidence": 45.765098571777344
           }
         ],
         "Parents": [
@@ -44236,7 +44236,7 @@
               "Left": 0.5739390254020691,
               "Top": 0.6190536618232727
             },
-            "Confidence": 55.765098571777344
+            "Confidence": 35.765098571777344
           }
         ],
         "Parents": [],
@@ -44381,7 +44381,7 @@
               "Left": 0.5323362350463867,
               "Top": 0.41270869970321655
             },
-            "Confidence": 53.800846099853516
+            "Confidence": 33.800846099853516
           }
         ],
         "Parents": [
@@ -44514,7 +44514,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Fun",
-        "Confidence": 54.9124755859375,
+        "Confidence": 34.9124755859375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -44649,7 +44649,7 @@
               "Left": 0.3755209445953369,
               "Top": 0.31269145011901855
             },
-            "Confidence": 50.616031646728516
+            "Confidence": 40.616031646728516
           }
         ],
         "Parents": [
@@ -44714,7 +44714,7 @@
               "Left": 0.5323362350463867,
               "Top": 0.41270869970321655
             },
-            "Confidence": 53.800846099853516
+            "Confidence": 23.800846099853516
           }
         ],
         "Parents": [

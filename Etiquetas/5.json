@@ -16,7 +16,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.74468994140625,
+        "Confidence": 30.74468994140625,
         "Instances": [],
         "Parents": [
           {
@@ -122,7 +122,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.5915641784668,
+        "Confidence": 10.5915641784668,
         "Instances": [],
         "Parents": [
           {
@@ -228,7 +228,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.06273651123047,
+        "Confidence": 11.06273651123047,
         "Instances": [],
         "Parents": [
           {
@@ -334,7 +334,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.98859405517578,
+        "Confidence": 11.98859405517578,
         "Instances": [],
         "Parents": [
           {
@@ -415,7 +415,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 50.542396545410156,
+        "Confidence": 30.542396545410156,
         "Instances": [],
         "Parents": [
           {
@@ -465,7 +465,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.487632751464844,
+        "Confidence": 31.487632751464844,
         "Instances": [],
         "Parents": [
           {
@@ -624,7 +624,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 52.04462432861328,
+        "Confidence": 32.04462432861328,
         "Instances": [],
         "Parents": [
           {
@@ -864,7 +864,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 52.16993713378906,
+        "Confidence": 42.16993713378906,
         "Instances": [],
         "Parents": [
           {
@@ -914,7 +914,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.95962905883789,
+        "Confidence": 21.95962905883789,
         "Instances": [],
         "Parents": [
           {
@@ -995,7 +995,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 50.81418991088867,
+        "Confidence": 10.81418991088867,
         "Instances": [],
         "Parents": [
           {
@@ -1126,7 +1126,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.30169677734375,
+        "Confidence": 21.30169677734375,
         "Instances": [],
         "Parents": [
           {
@@ -1176,7 +1176,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.23258590698242,
+        "Confidence": 41.23258590698242,
         "Instances": [],
         "Parents": [
           {
@@ -1329,7 +1329,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.21185302734375,
+        "Confidence": 11.21185302734375,
         "Instances": [],
         "Parents": [
           {
@@ -1438,7 +1438,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.36233901977539,
+        "Confidence": 31.36233901977539,
         "Instances": [],
         "Parents": [
           {
@@ -1488,7 +1488,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 53.065460205078125,
+        "Confidence": 43.065460205078125,
         "Instances": [],
         "Parents": [
           {
@@ -1572,7 +1572,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Sky",
-        "Confidence": 50.47213363647461,
+        "Confidence": 40.47213363647461,
         "Instances": [],
         "Parents": [
           {
@@ -1616,7 +1616,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.2214469909668,
+        "Confidence": 41.2214469909668,
         "Instances": [],
         "Parents": [
           {
@@ -1666,7 +1666,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Weather",
-        "Confidence": 52.414161682128906,
+        "Confidence": 42.414161682128906,
         "Instances": [],
         "Parents": [
           {
@@ -1688,7 +1688,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Cloud",
-        "Confidence": 50.76913070678711,
+        "Confidence": 40.76913070678711,
         "Instances": [],
         "Parents": [
           {
@@ -1713,7 +1713,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.578514099121094,
+        "Confidence": 40.578514099121094,
         "Instances": [],
         "Parents": [
           {
@@ -1738,7 +1738,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Landscape",
-        "Confidence": 50.1198844909668,
+        "Confidence": 40.1198844909668,
         "Instances": [],
         "Parents": [
           {
@@ -1822,7 +1822,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Scenery",
-        "Confidence": 51.43617630004883,
+        "Confidence": 31.43617630004883,
         "Instances": [],
         "Parents": [
           {
@@ -1888,7 +1888,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.85348129272461,
+        "Confidence": 31.85348129272461,
         "Instances": [],
         "Parents": [
           {
@@ -1938,7 +1938,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 53.48595428466797,
+        "Confidence": 43.48595428466797,
         "Instances": [],
         "Parents": [
           {
@@ -1960,7 +1960,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 50.026153564453125,
+        "Confidence": 20.026153564453125,
         "Instances": [],
         "Parents": [
           {
@@ -1982,7 +1982,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.056434631347656,
+        "Confidence": 20.056434631347656,
         "Instances": [],
         "Parents": [
           {
@@ -2007,7 +2007,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 50.411556243896484,
+        "Confidence": 20.411556243896484,
         "Instances": [],
         "Parents": [
           {
@@ -2069,7 +2069,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Sky",
-        "Confidence": 50.17002487182617,
+        "Confidence": 40.17002487182617,
         "Instances": [],
         "Parents": [
           {
@@ -2188,7 +2188,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.026153564453125,
+        "Confidence": 20.026153564453125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2203,7 +2203,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.026153564453125,
+        "Confidence": 20.026153564453125,
         "Instances": [],
         "Parents": [
           {
@@ -2222,7 +2222,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Weather",
-        "Confidence": 52.43527603149414,
+        "Confidence": 32.43527603149414,
         "Instances": [],
         "Parents": [
           {
@@ -2244,7 +2244,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.35042190551758,
+        "Confidence": 30.35042190551758,
         "Instances": [],
         "Parents": [
           {
@@ -2425,7 +2425,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 52.95835876464844,
+        "Confidence": 22.95835876464844,
         "Instances": [],
         "Parents": [
           {
@@ -2469,7 +2469,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Airfield",
-        "Confidence": 50.639644622802734,
+        "Confidence": 10.639644622802734,
         "Instances": [],
         "Parents": [
           {
@@ -2503,7 +2503,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 50.38502502441406,
+        "Confidence": 20.38502502441406,
         "Instances": [],
         "Parents": [
           {
@@ -2662,7 +2662,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 51.196537017822266,
+        "Confidence": 41.196537017822266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2740,7 +2740,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Airfield",
-        "Confidence": 52.44203567504883,
+        "Confidence": 32.44203567504883,
         "Instances": [],
         "Parents": [
           {
@@ -2883,7 +2883,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 52.04631042480469,
+        "Confidence": 32.04631042480469,
         "Instances": [],
         "Parents": [
           {
@@ -2933,7 +2933,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 51.60210037231445,
+        "Confidence": 31.60210037231445,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2967,7 +2967,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 52.6796875,
+        "Confidence": 42.6796875,
         "Instances": [],
         "Parents": [
           {
@@ -3051,7 +3051,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Sky",
-        "Confidence": 50.001800537109375,
+        "Confidence": 20.001800537109375,
         "Instances": [],
         "Parents": [
           {
@@ -3145,7 +3145,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Weather",
-        "Confidence": 51.63031005859375,
+        "Confidence": 21.63031005859375,
         "Instances": [],
         "Parents": [
           {
@@ -3167,7 +3167,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.3839225769043,
+        "Confidence": 20.3839225769043,
         "Instances": [],
         "Parents": [
           {
@@ -3192,7 +3192,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 50.948909759521484,
+        "Confidence": 30.948909759521484,
         "Instances": [],
         "Parents": [
           {
@@ -3485,7 +3485,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Weather",
-        "Confidence": 51.78116989135742,
+        "Confidence": 21.78116989135742,
         "Instances": [],
         "Parents": [
           {
@@ -3641,7 +3641,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 51.08162307739258,
+        "Confidence": 41.08162307739258,
         "Instances": [],
         "Parents": [
           {
@@ -3663,7 +3663,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 50.222599029541016,
+        "Confidence": 20.222599029541016,
         "Instances": [],
         "Parents": [
           {
@@ -3881,7 +3881,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 52.84042739868164,
+        "Confidence": 32.84042739868164,
         "Instances": [],
         "Parents": [
           {
@@ -3931,7 +3931,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 51.48054504394531,
+        "Confidence": 41.48054504394531,
         "Instances": [],
         "Parents": [
           {
@@ -4015,7 +4015,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 53.342491149902344,
+        "Confidence": 43.342491149902344,
         "Instances": [],
         "Parents": [
           {
@@ -4087,7 +4087,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 51.54330825805664,
+        "Confidence": 41.54330825805664,
         "Instances": [],
         "Parents": [
           {
@@ -4221,7 +4221,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 51.72367477416992,
+        "Confidence": 31.72367477416992,
         "Instances": [],
         "Parents": [
           {
@@ -4305,7 +4305,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 53.7445182800293,
+        "Confidence": 43.7445182800293,
         "Instances": [],
         "Parents": [
           {
@@ -4396,7 +4396,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Airport",
-        "Confidence": 50.01508331298828,
+        "Confidence": 30.01508331298828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4520,7 +4520,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Sky",
-        "Confidence": 53.39120101928711,
+        "Confidence": 33.39120101928711,
         "Instances": [],
         "Parents": [
           {
@@ -4614,7 +4614,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 52.85193634033203,
+        "Confidence": 42.85193634033203,
         "Instances": [],
         "Parents": [
           {
@@ -4814,7 +4814,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Airfield",
-        "Confidence": 52.323089599609375,
+        "Confidence": 32.323089599609375,
         "Instances": [],
         "Parents": [
           {
@@ -4833,7 +4833,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Airport",
-        "Confidence": 52.323089599609375,
+        "Confidence": 42.323089599609375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4873,7 +4873,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 51.14844512939453,
+        "Confidence": 41.14844512939453,
         "Instances": [],
         "Parents": [
           {
@@ -4979,7 +4979,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 52.291568756103516,
+        "Confidence": 22.291568756103516,
         "Instances": [],
         "Parents": [
           {
@@ -5004,7 +5004,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.674373626708984,
+        "Confidence": 41.674373626708984,
         "Instances": [],
         "Parents": [
           {
@@ -5069,7 +5069,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.291568756103516,
+        "Confidence": 22.291568756103516,
         "Instances": [],
         "Parents": [
           {
@@ -5132,7 +5132,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Airfield",
-        "Confidence": 50.73417282104492,
+        "Confidence": 20.73417282104492,
         "Instances": [],
         "Parents": [
           {
@@ -5151,7 +5151,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Airport",
-        "Confidence": 50.73417282104492,
+        "Confidence": 20.73417282104492,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5365,7 +5365,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 51.46052169799805,
+        "Confidence": 41.46052169799805,
         "Instances": [],
         "Parents": [
           {
@@ -5384,7 +5384,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Weather",
-        "Confidence": 50.962615966796875,
+        "Confidence": 20.962615966796875,
         "Instances": [],
         "Parents": [
           {
@@ -5406,7 +5406,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 50.51422119140625,
+        "Confidence": 30.51422119140625,
         "Instances": [],
         "Parents": [
           {
@@ -5447,7 +5447,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Airport",
-        "Confidence": 50.19618225097656,
+        "Confidence": 40.19618225097656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5543,7 +5543,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.51422119140625,
+        "Confidence": 30.51422119140625,
         "Instances": [],
         "Parents": [
           {
@@ -5618,7 +5618,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.51422119140625,
+        "Confidence": 20.51422119140625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5783,7 +5783,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 50.28989028930664,
+        "Confidence": 40.28989028930664,
         "Instances": [],
         "Parents": [
           {
@@ -5930,7 +5930,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.28989028930664,
+        "Confidence": 20.28989028930664,
         "Instances": [],
         "Parents": [
           {
@@ -5955,7 +5955,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 50.96692657470703,
+        "Confidence": 40.96692657470703,
         "Instances": [],
         "Parents": [
           {
@@ -6005,7 +6005,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.10594177246094,
+        "Confidence": 22.10594177246094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6020,7 +6020,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.10594177246094,
+        "Confidence": 32.10594177246094,
         "Instances": [],
         "Parents": [
           {
@@ -6039,7 +6039,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 50.517723083496094,
+        "Confidence": 40.517723083496094,
         "Instances": [],
         "Parents": [
           {
@@ -6061,7 +6061,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 50.36349105834961,
+        "Confidence": 40.36349105834961,
         "Instances": [],
         "Parents": [
           {
@@ -6098,7 +6098,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.30974578857422,
+        "Confidence": 31.30974578857422,
         "Instances": [],
         "Parents": [
           {
@@ -6159,7 +6159,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 50.135868072509766,
+        "Confidence": 20.135868072509766,
         "Instances": [],
         "Parents": [
           {
@@ -6240,7 +6240,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Scenery",
-        "Confidence": 50.870548248291016,
+        "Confidence": 30.870548248291016,
         "Instances": [],
         "Parents": [
           {
@@ -6306,7 +6306,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.36349105834961,
+        "Confidence": 30.36349105834961,
         "Instances": [],
         "Parents": [
           {
@@ -6331,7 +6331,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.15224838256836,
+        "Confidence": 21.15224838256836,
         "Instances": [],
         "Parents": [
           {
@@ -6396,7 +6396,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.99559020996094,
+        "Confidence": 43.99559020996094,
         "Instances": [],
         "Parents": [
           {
@@ -6415,7 +6415,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Weather",
-        "Confidence": 51.282493591308594,
+        "Confidence": 11.282493591308594,
         "Instances": [],
         "Parents": [
           {
@@ -6609,7 +6609,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Animal",
-        "Confidence": 58.59682083129883,
+        "Confidence": 18.59682083129883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6765,7 +6765,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Person",
-        "Confidence": 55.23031234741211,
+        "Confidence": 45.23031234741211,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6784,7 +6784,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Pet",
-        "Confidence": 56.33195877075195,
+        "Confidence": 16.33195877075195,
         "Instances": [],
         "Parents": [
           {
@@ -7030,7 +7030,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 51.60063171386719,
+        "Confidence": 11.60063171386719,
         "Instances": [],
         "Parents": [
           {
@@ -7049,7 +7049,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 50.09079360961914,
+        "Confidence": 20.09079360961914,
         "Instances": [],
         "Parents": [
           {
@@ -7071,7 +7071,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 50.534080505371094,
+        "Confidence": 30.534080505371094,
         "Instances": [],
         "Parents": [
           {
@@ -7165,7 +7165,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Scenery",
-        "Confidence": 50.17555236816406,
+        "Confidence": 40.17555236816406,
         "Instances": [],
         "Parents": [
           {
@@ -7231,7 +7231,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.09079360961914,
+        "Confidence": 30.09079360961914,
         "Instances": [],
         "Parents": [
           {
@@ -7340,7 +7340,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Weather",
-        "Confidence": 50.73256301879883,
+        "Confidence": 20.73256301879883,
         "Instances": [],
         "Parents": [
           {
@@ -7384,7 +7384,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Horizon",
-        "Confidence": 50.879276275634766,
+        "Confidence": 30.879276275634766,
         "Instances": [],
         "Parents": [
           {
@@ -7409,7 +7409,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.08192825317383,
+        "Confidence": 40.08192825317383,
         "Instances": [],
         "Parents": [
           {
@@ -7496,7 +7496,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Scenery",
-        "Confidence": 52.16182327270508,
+        "Confidence": 12.16182327270508,
         "Instances": [],
         "Parents": [
           {
@@ -7518,7 +7518,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Sky",
-        "Confidence": 59.66645431518555,
+        "Confidence": 29.66645431518555,
         "Instances": [],
         "Parents": [
           {
@@ -7562,7 +7562,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.77764892578125,
+        "Confidence": 20.77764892578125,
         "Instances": [],
         "Parents": [
           {
@@ -7587,7 +7587,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.60501480102539,
+        "Confidence": 21.60501480102539,
         "Instances": [],
         "Parents": [
           {
@@ -7637,7 +7637,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 53.00653076171875,
+        "Confidence": 33.00653076171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7671,7 +7671,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 51.86262130737305,
+        "Confidence": 31.86262130737305,
         "Instances": [],
         "Parents": [
           {
@@ -7693,7 +7693,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Aerial View",
-        "Confidence": 50.11684799194336,
+        "Confidence": 40.11684799194336,
         "Instances": [],
         "Parents": [
           {
@@ -7790,7 +7790,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Sky",
-        "Confidence": 54.59455871582031,
+        "Confidence": 24.59455871582031,
         "Instances": [],
         "Parents": [
           {
@@ -7859,7 +7859,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 50.46135330200195,
+        "Confidence": 20.46135330200195,
         "Instances": [],
         "Parents": [
           {
@@ -7909,7 +7909,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.129032135009766,
+        "Confidence": 42.129032135009766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7965,7 +7965,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Aerial View",
-        "Confidence": 50.35460662841797,
+        "Confidence": 20.35460662841797,
         "Instances": [],
         "Parents": [
           {
@@ -7984,7 +7984,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 51.96965789794922,
+        "Confidence": 21.96965789794922,
         "Instances": [],
         "Parents": [
           {
@@ -8006,7 +8006,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Airfield",
-        "Confidence": 50.1058464050293,
+        "Confidence": 20.1058464050293,
         "Instances": [],
         "Parents": [
           {
@@ -8025,7 +8025,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Airport",
-        "Confidence": 50.1058464050293,
+        "Confidence": 20.1058464050293,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8040,7 +8040,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Cloud",
-        "Confidence": 50.28978729248047,
+        "Confidence": 30.28978729248047,
         "Instances": [],
         "Parents": [
           {
@@ -8065,7 +8065,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Horizon",
-        "Confidence": 51.35887908935547,
+        "Confidence": 41.35887908935547,
         "Instances": [],
         "Parents": [
           {
@@ -8197,7 +8197,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Sky",
-        "Confidence": 56.20988082885742,
+        "Confidence": 46.20988082885742,
         "Instances": [],
         "Parents": [
           {
@@ -8241,7 +8241,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 51.96965789794922,
+        "Confidence": 21.96965789794922,
         "Instances": [],
         "Parents": [
           {
@@ -8325,7 +8325,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.59195327758789,
+        "Confidence": 31.59195327758789,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8424,7 +8424,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Landscape",
-        "Confidence": 54.45903778076172,
+        "Confidence": 34.45903778076172,
         "Instances": [],
         "Parents": [
           {
@@ -8480,7 +8480,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Panoramic",
-        "Confidence": 50.59544372558594,
+        "Confidence": 30.59544372558594,
         "Instances": [],
         "Parents": [
           {
@@ -8508,7 +8508,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Scenery",
-        "Confidence": 56.45357131958008,
+        "Confidence": 36.45357131958008,
         "Instances": [],
         "Parents": [
           {
@@ -8574,7 +8574,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.75066375732422,
+        "Confidence": 30.75066375732422,
         "Instances": [],
         "Parents": [
           {
@@ -8599,7 +8599,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Tornado",
-        "Confidence": 59.952964782714844,
+        "Confidence": 39.952964782714844,
         "Instances": [],
         "Parents": [
           {
@@ -8624,7 +8624,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.75066375732422,
+        "Confidence": 30.75066375732422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8639,7 +8639,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.75066375732422,
+        "Confidence": 30.75066375732422,
         "Instances": [],
         "Parents": [
           {
@@ -8658,7 +8658,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Weather",
-        "Confidence": 52.47498321533203,
+        "Confidence": 32.47498321533203,
         "Instances": [],
         "Parents": [
           {
@@ -8680,7 +8680,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Aerial View",
-        "Confidence": 50.64663314819336,
+        "Confidence": 30.64663314819336,
         "Instances": [],
         "Parents": [
           {
@@ -8699,7 +8699,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 50.28645706176758,
+        "Confidence": 30.28645706176758,
         "Instances": [],
         "Parents": [
           {
@@ -8721,7 +8721,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Ground",
-        "Confidence": 50.19703674316406,
+        "Confidence": 40.19703674316406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8736,7 +8736,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Horizon",
-        "Confidence": 54.15611267089844,
+        "Confidence": 44.15611267089844,
         "Instances": [],
         "Parents": [
           {
@@ -8761,7 +8761,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Landscape",
-        "Confidence": 52.611209869384766,
+        "Confidence": 22.611209869384766,
         "Instances": [],
         "Parents": [
           {
@@ -8883,7 +8883,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.28645706176758,
+        "Confidence": 30.28645706176758,
         "Instances": [],
         "Parents": [
           {
@@ -8948,7 +8948,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.28645706176758,
+        "Confidence": 20.28645706176758,
         "Instances": [],
         "Parents": [
           {
@@ -9070,7 +9070,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Scenery",
-        "Confidence": 53.27129364013672,
+        "Confidence": 33.27129364013672,
         "Instances": [],
         "Parents": [
           {
@@ -9211,7 +9211,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Lightning",
-        "Confidence": 50.20882797241211,
+        "Confidence": 20.20882797241211,
         "Instances": [],
         "Parents": [
           {
@@ -9295,7 +9295,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Sky",
-        "Confidence": 53.650333404541016,
+        "Confidence": 43.650333404541016,
         "Instances": [],
         "Parents": [
           {
@@ -9389,7 +9389,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Aerial View",
-        "Confidence": 50.887271881103516,
+        "Confidence": 20.887271881103516,
         "Instances": [],
         "Parents": [
           {
@@ -9568,7 +9568,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Sky",
-        "Confidence": 54.847293853759766,
+        "Confidence": 44.847293853759766,
         "Instances": [],
         "Parents": [
           {
@@ -9612,7 +9612,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.43928909301758,
+        "Confidence": 31.43928909301758,
         "Instances": [],
         "Parents": [
           {
@@ -9662,7 +9662,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Water",
-        "Confidence": 53.101524353027344,
+        "Confidence": 23.101524353027344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9677,7 +9677,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Aerial View",
-        "Confidence": 50.12635803222656,
+        "Confidence": 20.12635803222656,
         "Instances": [],
         "Parents": [
           {
@@ -9696,7 +9696,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 50.14913558959961,
+        "Confidence": 30.14913558959961,
         "Instances": [],
         "Parents": [
           {
@@ -9752,7 +9752,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Animal",
-        "Confidence": 50.19763946533203,
+        "Confidence": 30.19763946533203,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9814,7 +9814,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Farm",
-        "Confidence": 51.16909408569336,
+        "Confidence": 41.16909408569336,
         "Instances": [],
         "Parents": [
           {
@@ -9972,7 +9972,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 50.04055404663086,
+        "Confidence": 20.04055404663086,
         "Instances": [],
         "Parents": [
           {
@@ -10025,7 +10025,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Panoramic",
-        "Confidence": 50.43986129760742,
+        "Confidence": 40.43986129760742,
         "Instances": [],
         "Parents": [
           {
@@ -10053,7 +10053,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Pasture",
-        "Confidence": 51.16909408569336,
+        "Confidence": 21.16909408569336,
         "Instances": [],
         "Parents": [
           {
@@ -10087,7 +10087,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Rural",
-        "Confidence": 51.16909408569336,
+        "Confidence": 31.16909408569336,
         "Instances": [],
         "Parents": [
           {
@@ -10134,7 +10134,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Sky",
-        "Confidence": 53.40299606323242,
+        "Confidence": 43.40299606323242,
         "Instances": [],
         "Parents": [
           {
@@ -10178,7 +10178,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.14913558959961,
+        "Confidence": 40.14913558959961,
         "Instances": [],
         "Parents": [
           {
@@ -10203,7 +10203,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.134979248046875,
+        "Confidence": 21.134979248046875,
         "Instances": [],
         "Parents": [
           {
@@ -10253,7 +10253,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.14913558959961,
+        "Confidence": 30.14913558959961,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10268,7 +10268,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.14913558959961,
+        "Confidence": 30.14913558959961,
         "Instances": [],
         "Parents": [
           {

@@ -272,7 +272,7 @@
               "Left": 0.5370243191719055,
               "Top": 0.4853454530239105
             },
-            "Confidence": 52.756317138671875
+            "Confidence": 32.756317138671875
           }
         ],
         "Parents": [],
@@ -528,7 +528,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 53.1083984375,
+        "Confidence": 43.1083984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -684,7 +684,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.89895248413086,
+        "Confidence": 21.89895248413086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -758,7 +758,7 @@
               "Left": 0.3422534167766571,
               "Top": 0.012735252268612385
             },
-            "Confidence": 55.92021942138672
+            "Confidence": 35.92021942138672
           }
         ],
         "Parents": [
@@ -778,7 +778,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Bride",
-        "Confidence": 50.662750244140625,
+        "Confidence": 30.662750244140625,
         "Instances": [
           {
             "BoundingBox": {
@@ -875,7 +875,7 @@
               "Left": 0.3422534167766571,
               "Top": 0.012735252268612385
             },
-            "Confidence": 55.92021942138672
+            "Confidence": 25.92021942138672
           }
         ],
         "Parents": [
@@ -925,7 +925,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 54.85785675048828,
+        "Confidence": 44.85785675048828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -940,7 +940,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Lava",
-        "Confidence": 50.11300277709961,
+        "Confidence": 40.11300277709961,
         "Instances": [],
         "Parents": [
           {
@@ -1027,7 +1027,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Person",
-        "Confidence": 59.92023849487305,
+        "Confidence": 19.92023849487305,
         "Instances": [
           {
             "BoundingBox": {
@@ -1036,7 +1036,7 @@
               "Left": 0.3422534167766571,
               "Top": 0.012735252268612385
             },
-            "Confidence": 55.92021942138672
+            "Confidence": 15.92021942138672
           }
         ],
         "Parents": [],
@@ -1096,7 +1096,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Wedding",
-        "Confidence": 50.662750244140625,
+        "Confidence": 20.662750244140625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1237,7 +1237,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 50.97529220581055,
+        "Confidence": 30.97529220581055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1426,7 +1426,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 58.56970977783203,
+        "Confidence": 38.56970977783203,
         "Instances": [
           {
             "BoundingBox": {
@@ -1435,7 +1435,7 @@
               "Left": 0.3431030213832855,
               "Top": 0.30491605401039124
             },
-            "Confidence": 56.12474822998047
+            "Confidence": 46.12474822998047
           }
         ],
         "Parents": [
@@ -1455,7 +1455,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 52.472816467285156,
+        "Confidence": 42.472816467285156,
         "Instances": [],
         "Parents": [
           {
@@ -1517,7 +1517,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 51.916629791259766,
+        "Confidence": 31.916629791259766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1532,7 +1532,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Male",
-        "Confidence": 56.02788162231445,
+        "Confidence": 46.02788162231445,
         "Instances": [
           {
             "BoundingBox": {
@@ -1561,7 +1561,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Man",
-        "Confidence": 56.02788162231445,
+        "Confidence": 36.02788162231445,
         "Instances": [
           {
             "BoundingBox": {
@@ -1570,7 +1570,7 @@
               "Left": 0.3431030213832855,
               "Top": 0.30491605401039124
             },
-            "Confidence": 56.12474822998047
+            "Confidence": 36.12474822998047
           }
         ],
         "Parents": [
@@ -1754,7 +1754,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 55.77119827270508,
+        "Confidence": 35.77119827270508,
         "Instances": [],
         "Parents": [
           {
@@ -1782,7 +1782,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Explosion",
-        "Confidence": 51.05560302734375,
+        "Confidence": 31.05560302734375,
         "Instances": [],
         "Parents": [
           {
@@ -1801,7 +1801,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Festival",
-        "Confidence": 50.4596061706543,
+        "Confidence": 40.4596061706543,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1995,7 +1995,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 55.985477447509766,
+        "Confidence": 25.985477447509766,
         "Instances": [],
         "Parents": [
           {
@@ -2020,7 +2020,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 55.63115310668945,
+        "Confidence": 35.63115310668945,
         "Instances": [
           {
             "BoundingBox": {
@@ -2029,7 +2029,7 @@
               "Left": 0.27461668848991394,
               "Top": 0.02720329351723194
             },
-            "Confidence": 53.99130630493164
+            "Confidence": 43.99130630493164
           }
         ],
         "Parents": [
@@ -2049,7 +2049,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Chart",
-        "Confidence": 50.2491340637207,
+        "Confidence": 40.2491340637207,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2064,7 +2064,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 57.633949279785156,
+        "Confidence": 27.633949279785156,
         "Instances": [],
         "Parents": [
           {
@@ -2156,7 +2156,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Male",
-        "Confidence": 52.23806381225586,
+        "Confidence": 22.23806381225586,
         "Instances": [
           {
             "BoundingBox": {
@@ -2165,7 +2165,7 @@
               "Left": 0.27461668848991394,
               "Top": 0.02720329351723194
             },
-            "Confidence": 53.99130630493164
+            "Confidence": 43.99130630493164
           }
         ],
         "Parents": [
@@ -2285,7 +2285,7 @@
               "Left": 0.27461668848991394,
               "Top": 0.02720329351723194
             },
-            "Confidence": 53.99130630493164
+            "Confidence": 23.99130630493164
           }
         ],
         "Parents": [],
@@ -2305,7 +2305,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Scatter Plot",
-        "Confidence": 50.2491340637207,
+        "Confidence": 40.2491340637207,
         "Instances": [],
         "Parents": [
           {
@@ -2324,7 +2324,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 57.633949279785156,
+        "Confidence": 27.633949279785156,
         "Instances": [],
         "Parents": [
           {
@@ -2364,7 +2364,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Adult",
-        "Confidence": 52.30378723144531,
+        "Confidence": 22.30378723144531,
         "Instances": [],
         "Parents": [
           {
@@ -2383,7 +2383,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Chart",
-        "Confidence": 51.42082977294922,
+        "Confidence": 21.42082977294922,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2562,7 +2562,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.69133377075195,
+        "Confidence": 40.69133377075195,
         "Instances": [],
         "Parents": [
           {
@@ -2710,7 +2710,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Water",
-        "Confidence": 53.23993682861328,
+        "Confidence": 33.23993682861328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3042,7 +3042,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Water",
-        "Confidence": 52.29448699951172,
+        "Confidence": 22.29448699951172,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3072,7 +3072,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 54.28939437866211,
+        "Confidence": 44.28939437866211,
         "Instances": [
           {
             "BoundingBox": {
@@ -3136,7 +3136,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 50.30550765991211,
+        "Confidence": 40.30550765991211,
         "Instances": [],
         "Parents": [
           {
@@ -3303,7 +3303,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Night",
-        "Confidence": 53.15899658203125,
+        "Confidence": 33.15899658203125,
         "Instances": [],
         "Parents": [
           {
@@ -3349,7 +3349,7 @@
               "Left": 0.38624274730682373,
               "Top": 0.5369653105735779
             },
-            "Confidence": 57.53644561767578
+            "Confidence": 47.53644561767578
           }
         ],
         "Parents": [],
@@ -3559,7 +3559,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 57.94852066040039,
+        "Confidence": 47.94852066040039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3574,7 +3574,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Flame",
-        "Confidence": 50.286529541015625,
+        "Confidence": 30.286529541015625,
         "Instances": [],
         "Parents": [
           {
@@ -3678,7 +3678,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Scatter Plot",
-        "Confidence": 50.568824768066406,
+        "Confidence": 30.568824768066406,
         "Instances": [],
         "Parents": [
           {
@@ -3864,7 +3864,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 55.76115798950195,
+        "Confidence": 35.76115798950195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4197,7 +4197,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Fire",
-        "Confidence": 55.95957565307617,
+        "Confidence": 45.95957565307617,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4212,7 +4212,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 54.156978607177734,
+        "Confidence": 44.156978607177734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4440,7 +4440,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Adult",
-        "Confidence": 55.29195785522461,
+        "Confidence": 35.29195785522461,
         "Instances": [],
         "Parents": [
           {
@@ -4517,7 +4517,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 56.28501892089844,
+        "Confidence": 46.28501892089844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4723,7 +4723,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.08231735229492,
+        "Confidence": 20.08231735229492,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4825,7 +4825,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Forge",
-        "Confidence": 51.53834915161133,
+        "Confidence": 41.53834915161133,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4915,7 +4915,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Person",
-        "Confidence": 59.20433807373047,
+        "Confidence": 49.20433807373047,
         "Instances": [
           {
             "BoundingBox": {
@@ -4924,7 +4924,7 @@
               "Left": 0.3222768306732178,
               "Top": 0.13939781486988068
             },
-            "Confidence": 59.273475646972656
+            "Confidence": 19.273475646972656
           }
         ],
         "Parents": [],
@@ -4944,7 +4944,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 59.34019088745117,
+        "Confidence": 29.34019088745117,
         "Instances": [],
         "Parents": [
           {
@@ -5017,7 +5017,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Christmas Decorations",
-        "Confidence": 50.91279220581055,
+        "Confidence": 20.91279220581055,
         "Instances": [],
         "Parents": [
           {
@@ -5067,7 +5067,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Festival",
-        "Confidence": 53.8720588684082,
+        "Confidence": 23.8720588684082,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5153,7 +5153,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Night",
-        "Confidence": 52.85429000854492,
+        "Confidence": 42.85429000854492,
         "Instances": [],
         "Parents": [
           {
@@ -5190,7 +5190,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Person",
-        "Confidence": 57.6429328918457,
+        "Confidence": 47.6429328918457,
         "Instances": [
           {
             "BoundingBox": {
@@ -5219,7 +5219,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Starry Sky",
-        "Confidence": 51.274288177490234,
+        "Confidence": 31.274288177490234,
         "Instances": [],
         "Parents": [
           {
@@ -5327,7 +5327,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 52.3036003112793,
+        "Confidence": 22.3036003112793,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5398,7 +5398,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Person",
-        "Confidence": 52.057220458984375,
+        "Confidence": 22.057220458984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -5470,7 +5470,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Explosion",
-        "Confidence": 54.15735626220703,
+        "Confidence": 34.15735626220703,
         "Instances": [],
         "Parents": [
           {
@@ -5504,7 +5504,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 53.023765563964844,
+        "Confidence": 43.023765563964844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5764,7 +5764,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 50.013519287109375,
+        "Confidence": 40.013519287109375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5779,7 +5779,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Building",
-        "Confidence": 50.013519287109375,
+        "Confidence": 10.013519287109375,
         "Instances": [],
         "Parents": [
           {
@@ -5832,7 +5832,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 56.82618713378906,
+        "Confidence": 46.82618713378906,
         "Instances": [],
         "Parents": [
           {
@@ -5866,7 +5866,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "War",
-        "Confidence": 50.64445877075195,
+        "Confidence": 30.64445877075195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5964,7 +5964,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 53.19159698486328,
+        "Confidence": 33.19159698486328,
         "Instances": [],
         "Parents": [
           {
@@ -5998,7 +5998,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Person",
-        "Confidence": 50.18198776245117,
+        "Confidence": 40.18198776245117,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6017,7 +6017,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 55.905975341796875,
+        "Confidence": 35.905975341796875,
         "Instances": [
           {
             "BoundingBox": {
@@ -6046,7 +6046,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Explosion",
-        "Confidence": 52.03289794921875,
+        "Confidence": 42.03289794921875,
         "Instances": [],
         "Parents": [
           {
@@ -6095,7 +6095,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Metalworking",
-        "Confidence": 50.889774322509766,
+        "Confidence": 10.889774322509766,
         "Instances": [],
         "Parents": [
           {
@@ -6114,7 +6114,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Mountain",
-        "Confidence": 50.06249237060547,
+        "Confidence": 40.06249237060547,
         "Instances": [],
         "Parents": [
           {
@@ -6233,7 +6233,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Flame",
-        "Confidence": 50.96306610107422,
+        "Confidence": 30.96306610107422,
         "Instances": [],
         "Parents": [
           {
@@ -6252,7 +6252,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Forge",
-        "Confidence": 52.213226318359375,
+        "Confidence": 12.213226318359375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6342,7 +6342,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Person",
-        "Confidence": 52.72765350341797,
+        "Confidence": 32.72765350341797,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6390,7 +6390,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 50.656253814697266,
+        "Confidence": 20.656253814697266,
         "Instances": [],
         "Parents": [
           {
@@ -6418,7 +6418,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Explosion",
-        "Confidence": 52.198001861572266,
+        "Confidence": 22.198001861572266,
         "Instances": [],
         "Parents": [
           {
@@ -6437,7 +6437,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Female",
-        "Confidence": 54.53464889526367,
+        "Confidence": 24.53464889526367,
         "Instances": [
           {
             "BoundingBox": {
@@ -6481,7 +6481,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Forge",
-        "Confidence": 51.0495491027832,
+        "Confidence": 31.0495491027832,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6496,7 +6496,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Mountain",
-        "Confidence": 58.94953155517578,
+        "Confidence": 48.94953155517578,
         "Instances": [],
         "Parents": [
           {
@@ -6518,7 +6518,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 59.33696365356445,
+        "Confidence": 29.33696365356445,
         "Instances": [],
         "Parents": [
           {
@@ -6641,7 +6641,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 54.60079574584961,
+        "Confidence": 44.60079574584961,
         "Instances": [],
         "Parents": [
           {
@@ -6842,7 +6842,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Forge",
-        "Confidence": 53.95789337158203,
+        "Confidence": 33.95789337158203,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6857,7 +6857,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Metalworking",
-        "Confidence": 50.626617431640625,
+        "Confidence": 40.626617431640625,
         "Instances": [],
         "Parents": [
           {
@@ -6951,7 +6951,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 55.35004425048828,
+        "Confidence": 45.35004425048828,
         "Instances": [],
         "Parents": [
           {
@@ -6976,7 +6976,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 51.87823486328125,
+        "Confidence": 21.87823486328125,
         "Instances": [],
         "Parents": [
           {
@@ -7019,7 +7019,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Forge",
-        "Confidence": 53.25821304321289,
+        "Confidence": 33.25821304321289,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7034,7 +7034,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Metalworking",
-        "Confidence": 52.718711853027344,
+        "Confidence": 12.718711853027344,
         "Instances": [],
         "Parents": [
           {
@@ -7109,7 +7109,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Person",
-        "Confidence": 55.409690856933594,
+        "Confidence": 35.409690856933594,
         "Instances": [
           {
             "BoundingBox": {
@@ -7118,7 +7118,7 @@
               "Left": 0.004035409074276686,
               "Top": 0.5280572772026062
             },
-            "Confidence": 58.05965042114258
+            "Confidence": 28.05965042114258
           }
         ],
         "Parents": [],
@@ -7277,7 +7277,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 53.81477355957031,
+        "Confidence": 33.81477355957031,
         "Instances": [],
         "Parents": [
           {
@@ -7330,7 +7330,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Festival",
-        "Confidence": 50.09030532836914,
+        "Confidence": 10.09030532836914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7360,7 +7360,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 55.966922760009766,
+        "Confidence": 45.966922760009766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7375,7 +7375,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Mountain",
-        "Confidence": 52.134002685546875,
+        "Confidence": 22.134002685546875,
         "Instances": [],
         "Parents": [
           {
@@ -7431,7 +7431,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Person",
-        "Confidence": 50.24541473388672,
+        "Confidence": 30.24541473388672,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -7450,7 +7450,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 50.18639373779297,
+        "Confidence": 40.18639373779297,
         "Instances": [],
         "Parents": [
           {
@@ -7570,7 +7570,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Food",
-        "Confidence": 51.10498809814453,
+        "Confidence": 21.10498809814453,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7604,7 +7604,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Night",
-        "Confidence": 53.29528045654297,
+        "Confidence": 43.29528045654297,
         "Instances": [],
         "Parents": [
           {
@@ -7679,7 +7679,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Plant",
-        "Confidence": 50.568180084228516,
+        "Confidence": 20.568180084228516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7694,7 +7694,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 51.56779861450195,
+        "Confidence": 31.56779861450195,
         "Instances": [],
         "Parents": [
           {
@@ -7723,7 +7723,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Shoreline",
-        "Confidence": 51.282264709472656,
+        "Confidence": 21.282264709472656,
         "Instances": [],
         "Parents": [
           {
@@ -7764,7 +7764,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Starry Sky",
-        "Confidence": 51.332820892333984,
+        "Confidence": 31.332820892333984,
         "Instances": [],
         "Parents": [
           {
@@ -7789,7 +7789,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.56779861450195,
+        "Confidence": 41.56779861450195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7822,7 +7822,7 @@
               "Left": 0.24303017556667328,
               "Top": 0.8334624171257019
             },
-            "Confidence": 54.9140625
+            "Confidence": 24.9140625
           }
         ],
         "Parents": [
@@ -7945,7 +7945,7 @@
               "Left": 0.24303017556667328,
               "Top": 0.8334624171257019
             },
-            "Confidence": 54.9140625
+            "Confidence": 34.9140625
           }
         ],
         "Parents": [
@@ -8010,7 +8010,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Land",
-        "Confidence": 53.6309700012207,
+        "Confidence": 23.6309700012207,
         "Instances": [],
         "Parents": [
           {
@@ -8126,7 +8126,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Plant",
-        "Confidence": 55.10809326171875,
+        "Confidence": 45.10809326171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8141,7 +8141,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Tree",
-        "Confidence": 53.6309700012207,
+        "Confidence": 43.6309700012207,
         "Instances": [],
         "Parents": [
           {
@@ -8160,7 +8160,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Vegetation",
-        "Confidence": 54.89505386352539,
+        "Confidence": 24.89505386352539,
         "Instances": [],
         "Parents": [
           {
@@ -8223,7 +8223,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Woodland",
-        "Confidence": 53.6309700012207,
+        "Confidence": 23.6309700012207,
         "Instances": [],
         "Parents": [
           {
@@ -8261,7 +8261,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 53.194305419921875,
+        "Confidence": 33.194305419921875,
         "Instances": [
           {
             "BoundingBox": {
@@ -8309,7 +8309,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Chart",
-        "Confidence": 51.681236267089844,
+        "Confidence": 31.681236267089844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8324,7 +8324,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Coast",
-        "Confidence": 50.88960647583008,
+        "Confidence": 40.88960647583008,
         "Instances": [],
         "Parents": [
           {
@@ -8402,7 +8402,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Festival",
-        "Confidence": 51.725650787353516,
+        "Confidence": 41.725650787353516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8447,7 +8447,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Flame",
-        "Confidence": 51.241851806640625,
+        "Confidence": 31.241851806640625,
         "Instances": [],
         "Parents": [
           {
@@ -8466,7 +8466,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.53997039794922,
+        "Confidence": 30.53997039794922,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8481,7 +8481,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Mountain",
-        "Confidence": 53.688114166259766,
+        "Confidence": 43.688114166259766,
         "Instances": [],
         "Parents": [
           {
@@ -8603,7 +8603,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Scatter Plot",
-        "Confidence": 51.681236267089844,
+        "Confidence": 21.681236267089844,
         "Instances": [],
         "Parents": [
           {
@@ -8622,7 +8622,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 52.40265655517578,
+        "Confidence": 32.40265655517578,
         "Instances": [],
         "Parents": [
           {
@@ -8651,7 +8651,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Shoreline",
-        "Confidence": 50.88960647583008,
+        "Confidence": 20.88960647583008,
         "Instances": [],
         "Parents": [
           {
@@ -8670,7 +8670,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Starry Sky",
-        "Confidence": 51.77511215209961,
+        "Confidence": 41.77511215209961,
         "Instances": [],
         "Parents": [
           {
@@ -8798,7 +8798,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Aerial View",
-        "Confidence": 50.42011260986328,
+        "Confidence": 30.42011260986328,
         "Instances": [],
         "Parents": [
           {
@@ -8858,7 +8858,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Coast",
-        "Confidence": 51.179100036621094,
+        "Confidence": 21.179100036621094,
         "Instances": [],
         "Parents": [
           {
@@ -8889,7 +8889,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 51.02438735961914,
+        "Confidence": 41.02438735961914,
         "Instances": [],
         "Parents": [
           {
@@ -9006,7 +9006,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Land",
-        "Confidence": 50.60830307006836,
+        "Confidence": 30.60830307006836,
         "Instances": [],
         "Parents": [
           {
@@ -9069,7 +9069,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.52729797363281,
+        "Confidence": 40.52729797363281,
         "Instances": [],
         "Parents": [
           {
@@ -9124,7 +9124,7 @@
               "Left": 0.29490822553634644,
               "Top": 0.3674374520778656
             },
-            "Confidence": 52.94524002075195
+            "Confidence": 42.94524002075195
           }
         ],
         "Parents": [],
@@ -9144,7 +9144,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Plant",
-        "Confidence": 51.27128601074219,
+        "Confidence": 21.27128601074219,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9188,7 +9188,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Shoreline",
-        "Confidence": 51.179100036621094,
+        "Confidence": 21.179100036621094,
         "Instances": [],
         "Parents": [
           {
@@ -9251,7 +9251,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Vegetation",
-        "Confidence": 50.68730926513672,
+        "Confidence": 30.68730926513672,
         "Instances": [],
         "Parents": [
           {
@@ -9360,7 +9360,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Woodland",
-        "Confidence": 50.60830307006836,
+        "Confidence": 30.60830307006836,
         "Instances": [],
         "Parents": [
           {
@@ -9398,7 +9398,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Aerial View",
-        "Confidence": 51.16832733154297,
+        "Confidence": 41.16832733154297,
         "Instances": [],
         "Parents": [
           {
@@ -9542,7 +9542,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Night",
-        "Confidence": 53.927146911621094,
+        "Confidence": 33.927146911621094,
         "Instances": [],
         "Parents": [
           {
@@ -9579,7 +9579,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Person",
-        "Confidence": 53.03688049316406,
+        "Confidence": 43.03688049316406,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -9661,7 +9661,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Shoreline",
-        "Confidence": 51.451290130615234,
+        "Confidence": 41.451290130615234,
         "Instances": [],
         "Parents": [
           {
@@ -9680,7 +9680,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Starry Sky",
-        "Confidence": 53.54953384399414,
+        "Confidence": 33.54953384399414,
         "Instances": [],
         "Parents": [
           {
@@ -9862,7 +9862,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Person",
-        "Confidence": 50.570960998535156,
+        "Confidence": 30.570960998535156,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -9881,7 +9881,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 58.47966384887695,
+        "Confidence": 28.47966384887695,
         "Instances": [
           {
             "BoundingBox": {
@@ -9910,7 +9910,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Bonfire",
-        "Confidence": 50.235755920410156,
+        "Confidence": 30.235755920410156,
         "Instances": [],
         "Parents": [
           {
@@ -9973,7 +9973,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 51.93751525878906,
+        "Confidence": 21.93751525878906,
         "Instances": [],
         "Parents": [
           {
@@ -10045,7 +10045,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Fireworks",
-        "Confidence": 55.618953704833984,
+        "Confidence": 45.618953704833984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10135,7 +10135,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Person",
-        "Confidence": 59.10299301147461,
+        "Confidence": 29.10299301147461,
         "Instances": [
           {
             "BoundingBox": {
@@ -10164,7 +10164,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 52.69941711425781,
+        "Confidence": 22.69941711425781,
         "Instances": [],
         "Parents": [
           {
@@ -10314,7 +10314,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Female",
-        "Confidence": 54.63352966308594,
+        "Confidence": 34.63352966308594,
         "Instances": [
           {
             "BoundingBox": {
@@ -10332,7 +10332,7 @@
               "Left": 0.09043220430612564,
               "Top": 0.03760375827550888
             },
-            "Confidence": 50.891090393066406
+            "Confidence": 40.891090393066406
           }
         ],
         "Parents": [
@@ -10352,7 +10352,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Festival",
-        "Confidence": 51.943382263183594,
+        "Confidence": 31.943382263183594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10416,7 +10416,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Mountain",
-        "Confidence": 52.458763122558594,
+        "Confidence": 22.458763122558594,
         "Instances": [],
         "Parents": [
           {
@@ -10457,7 +10457,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.444515228271484,
+        "Confidence": 40.444515228271484,
         "Instances": [],
         "Parents": [
           {
@@ -10503,7 +10503,7 @@
               "Left": 0.09043220430612564,
               "Top": 0.03760375827550888
             },
-            "Confidence": 50.891090393066406
+            "Confidence": 40.891090393066406
           }
         ],
         "Parents": [],
@@ -10722,7 +10722,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Festival",
-        "Confidence": 53.160400390625,
+        "Confidence": 43.160400390625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10827,7 +10827,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.945743560791016,
+        "Confidence": 30.945743560791016,
         "Instances": [],
         "Parents": [
           {
@@ -10893,7 +10893,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Scatter Plot",
-        "Confidence": 51.84811019897461,
+        "Confidence": 21.84811019897461,
         "Instances": [],
         "Parents": [
           {
@@ -10941,7 +10941,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Starry Sky",
-        "Confidence": 50.081703186035156,
+        "Confidence": 10.081703186035156,
         "Instances": [],
         "Parents": [
           {
@@ -11088,7 +11088,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Bonfire",
-        "Confidence": 50.046974182128906,
+        "Confidence": 10.046974182128906,
         "Instances": [],
         "Parents": [
           {
@@ -11234,7 +11234,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Flame",
-        "Confidence": 53.343894958496094,
+        "Confidence": 33.343894958496094,
         "Instances": [],
         "Parents": [
           {
@@ -11253,7 +11253,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Male",
-        "Confidence": 52.373695373535156,
+        "Confidence": 32.373695373535156,
         "Instances": [
           {
             "BoundingBox": {
@@ -11282,7 +11282,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Man",
-        "Confidence": 52.373695373535156,
+        "Confidence": 42.373695373535156,
         "Instances": [
           {
             "BoundingBox": {
@@ -11411,7 +11411,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 50.03609848022461,
+        "Confidence": 20.03609848022461,
         "Instances": [],
         "Parents": [
           {
@@ -11486,7 +11486,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 57.573875427246094,
+        "Confidence": 37.573875427246094,
         "Instances": [
           {
             "BoundingBox": {
@@ -11549,7 +11549,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 52.91627502441406,
+        "Confidence": 42.91627502441406,
         "Instances": [],
         "Parents": [
           {
@@ -11577,7 +11577,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Female",
-        "Confidence": 55.242679595947266,
+        "Confidence": 15.242679595947266,
         "Instances": [
           {
             "BoundingBox": {
@@ -11606,7 +11606,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Festival",
-        "Confidence": 53.42353057861328,
+        "Confidence": 43.42353057861328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11735,7 +11735,7 @@
               "Left": 0.10059551149606705,
               "Top": 0.14715667068958282
             },
-            "Confidence": 56.156517028808594
+            "Confidence": 36.156517028808594
           }
         ],
         "Parents": [],
@@ -11755,7 +11755,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Scatter Plot",
-        "Confidence": 50.44632339477539,
+        "Confidence": 30.44632339477539,
         "Instances": [],
         "Parents": [
           {
@@ -11774,7 +11774,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 53.35358810424805,
+        "Confidence": 43.35358810424805,
         "Instances": [],
         "Parents": [
           {
@@ -11799,7 +11799,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 55.242679595947266,
+        "Confidence": 45.242679595947266,
         "Instances": [
           {
             "BoundingBox": {
@@ -11834,7 +11834,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Adult",
-        "Confidence": 51.58578109741211,
+        "Confidence": 21.58578109741211,
         "Instances": [],
         "Parents": [
           {
@@ -11920,7 +11920,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Flame",
-        "Confidence": 54.196746826171875,
+        "Confidence": 44.196746826171875,
         "Instances": [],
         "Parents": [
           {
@@ -11939,7 +11939,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Mountain",
-        "Confidence": 52.7602653503418,
+        "Confidence": 42.7602653503418,
         "Instances": [],
         "Parents": [
           {
@@ -11995,7 +11995,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Person",
-        "Confidence": 51.58578109741211,
+        "Confidence": 21.58578109741211,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -12043,7 +12043,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 50.44123077392578,
+        "Confidence": 20.44123077392578,
         "Instances": [],
         "Parents": [
           {
@@ -12062,7 +12062,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Chart",
-        "Confidence": 50.347328186035156,
+        "Confidence": 30.347328186035156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12118,7 +12118,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Festival",
-        "Confidence": 55.464908599853516,
+        "Confidence": 25.464908599853516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12211,7 +12211,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Man",
-        "Confidence": 53.75343322753906,
+        "Confidence": 23.75343322753906,
         "Instances": [
           {
             "BoundingBox": {
@@ -12246,7 +12246,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Mountain",
-        "Confidence": 50.50656509399414,
+        "Confidence": 30.50656509399414,
         "Instances": [],
         "Parents": [
           {
@@ -12287,7 +12287,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 59.67226791381836,
+        "Confidence": 29.67226791381836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12331,7 +12331,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Scatter Plot",
-        "Confidence": 50.347328186035156,
+        "Confidence": 40.347328186035156,
         "Instances": [],
         "Parents": [
           {
@@ -12398,7 +12398,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Chart",
-        "Confidence": 50.12918472290039,
+        "Confidence": 20.12918472290039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12454,7 +12454,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Christmas Tree",
-        "Confidence": 52.340736389160156,
+        "Confidence": 42.340736389160156,
         "Instances": [],
         "Parents": [
           {
@@ -12507,7 +12507,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Female",
-        "Confidence": 59.63750076293945,
+        "Confidence": 29.63750076293945,
         "Instances": [
           {
             "BoundingBox": {
@@ -12622,7 +12622,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Night",
-        "Confidence": 54.806800842285156,
+        "Confidence": 24.806800842285156,
         "Instances": [],
         "Parents": [
           {
@@ -12688,7 +12688,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Plant",
-        "Confidence": 51.03743362426758,
+        "Confidence": 41.03743362426758,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12703,7 +12703,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Scatter Plot",
-        "Confidence": 50.12918472290039,
+        "Confidence": 40.12918472290039,
         "Instances": [],
         "Parents": [
           {
@@ -12722,7 +12722,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 50.52463912963867,
+        "Confidence": 20.52463912963867,
         "Instances": [],
         "Parents": [
           {
@@ -12747,7 +12747,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Woman",
-        "Confidence": 59.63750076293945,
+        "Confidence": 49.63750076293945,
         "Instances": [
           {
             "BoundingBox": {
@@ -12801,7 +12801,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Chart",
-        "Confidence": 50.22496795654297,
+        "Confidence": 40.22496795654297,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12816,7 +12816,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 53.362430572509766,
+        "Confidence": 43.362430572509766,
         "Instances": [],
         "Parents": [
           {
@@ -12889,7 +12889,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Flame",
-        "Confidence": 51.66901397705078,
+        "Confidence": 41.66901397705078,
         "Instances": [],
         "Parents": [
           {
@@ -12964,7 +12964,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Person",
-        "Confidence": 54.01359176635742,
+        "Confidence": 44.01359176635742,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -13360,7 +13360,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 51.46355438232422,
+        "Confidence": 11.46355438232422,
         "Instances": [],
         "Parents": [
           {
@@ -13379,7 +13379,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 56.759765625,
+        "Confidence": 26.759765625,
         "Instances": [],
         "Parents": [
           {
@@ -13569,7 +13569,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Night",
-        "Confidence": 52.19902801513672,
+        "Confidence": 32.19902801513672,
         "Instances": [],
         "Parents": [
           {
@@ -13625,7 +13625,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 57.55746078491211,
+        "Confidence": 47.55746078491211,
         "Instances": [],
         "Parents": [
           {
@@ -13707,7 +13707,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Christmas Decorations",
-        "Confidence": 50.56254196166992,
+        "Confidence": 30.56254196166992,
         "Instances": [],
         "Parents": [
           {
@@ -13856,7 +13856,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Flame",
-        "Confidence": 54.87633514404297,
+        "Confidence": 24.87633514404297,
         "Instances": [],
         "Parents": [
           {
@@ -13875,7 +13875,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Male",
-        "Confidence": 51.168067932128906,
+        "Confidence": 21.168067932128906,
         "Instances": [
           {
             "BoundingBox": {
@@ -13980,7 +13980,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Night",
-        "Confidence": 53.95568084716797,
+        "Confidence": 33.95568084716797,
         "Instances": [],
         "Parents": [
           {
@@ -14035,7 +14035,7 @@
               "Left": 0.21118304133415222,
               "Top": 0.7061511874198914
             },
-            "Confidence": 54.657894134521484
+            "Confidence": 34.657894134521484
           }
         ],
         "Parents": [],
@@ -14109,7 +14109,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 55.729774475097656,
+        "Confidence": 45.729774475097656,
         "Instances": [],
         "Parents": [
           {
@@ -14134,7 +14134,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.16371536254883,
+        "Confidence": 21.16371536254883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14232,7 +14232,7 @@
       "Timestamp": 24000,
       "Label": {
         "Name": "Chart",
-        "Confidence": 50.716609954833984,
+        "Confidence": 30.716609954833984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14247,7 +14247,7 @@
       "Timestamp": 24000,
       "Label": {
         "Name": "Coast",
-        "Confidence": 50.15059280395508,
+        "Confidence": 40.15059280395508,
         "Instances": [],
         "Parents": [
           {
@@ -14278,7 +14278,7 @@
       "Timestamp": 24000,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 52.734214782714844,
+        "Confidence": 12.734214782714844,
         "Instances": [],
         "Parents": [
           {
@@ -14306,7 +14306,7 @@
       "Timestamp": 24000,
       "Label": {
         "Name": "Festival",
-        "Confidence": 52.3624153137207,
+        "Confidence": 42.3624153137207,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14379,7 +14379,7 @@
               "Left": 0.3052665889263153,
               "Top": 0.32599785923957825
             },
-            "Confidence": 59.95035171508789
+            "Confidence": 49.95035171508789
           }
         ],
         "Parents": [
@@ -14434,7 +14434,7 @@
       "Timestamp": 24000,
       "Label": {
         "Name": "Mountain",
-        "Confidence": 57.137969970703125,
+        "Confidence": 27.137969970703125,
         "Instances": [],
         "Parents": [
           {
@@ -14475,7 +14475,7 @@
       "Timestamp": 24000,
       "Label": {
         "Name": "Night",
-        "Confidence": 52.599727630615234,
+        "Confidence": 42.599727630615234,
         "Instances": [],
         "Parents": [
           {
@@ -14521,7 +14521,7 @@
               "Left": 0.3052665889263153,
               "Top": 0.32599785923957825
             },
-            "Confidence": 59.95035171508789
+            "Confidence": 49.95035171508789
           }
         ],
         "Parents": [],
@@ -14560,7 +14560,7 @@
       "Timestamp": 24000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 50.96654510498047,
+        "Confidence": 30.96654510498047,
         "Instances": [],
         "Parents": [
           {
@@ -14608,7 +14608,7 @@
       "Timestamp": 24000,
       "Label": {
         "Name": "Starry Sky",
-        "Confidence": 50.614376068115234,
+        "Confidence": 20.614376068115234,
         "Instances": [],
         "Parents": [
           {
@@ -14658,7 +14658,7 @@
       "Timestamp": 24000,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.96654510498047,
+        "Confidence": 30.96654510498047,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14870,7 +14870,7 @@
       "Timestamp": 24520,
       "Label": {
         "Name": "Flame",
-        "Confidence": 52.86806106567383,
+        "Confidence": 42.86806106567383,
         "Instances": [],
         "Parents": [
           {
@@ -14930,7 +14930,7 @@
       "Timestamp": 24520,
       "Label": {
         "Name": "Night",
-        "Confidence": 53.611419677734375,
+        "Confidence": 23.611419677734375,
         "Instances": [],
         "Parents": [
           {
@@ -14996,7 +14996,7 @@
       "Timestamp": 24520,
       "Label": {
         "Name": "Starry Sky",
-        "Confidence": 50.57706069946289,
+        "Confidence": 30.57706069946289,
         "Instances": [],
         "Parents": [
           {
@@ -15081,7 +15081,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 59.31435012817383,
+        "Confidence": 49.31435012817383,
         "Instances": [
           {
             "BoundingBox": {
@@ -15110,7 +15110,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Celebrating",
-        "Confidence": 50.207645416259766,
+        "Confidence": 30.207645416259766,
         "Instances": [],
         "Parents": [
           {
@@ -15144,7 +15144,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Eruption",
-        "Confidence": 55.620975494384766,
+        "Confidence": 35.620975494384766,
         "Instances": [],
         "Parents": [
           {
@@ -15201,7 +15201,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Festival",
-        "Confidence": 52.49652862548828,
+        "Confidence": 22.49652862548828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15246,7 +15246,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Flame",
-        "Confidence": 52.65278625488281,
+        "Confidence": 32.65278625488281,
         "Instances": [],
         "Parents": [
           {
@@ -15265,7 +15265,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.524658203125,
+        "Confidence": 20.524658203125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15321,7 +15321,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.90925598144531,
+        "Confidence": 40.90925598144531,
         "Instances": [],
         "Parents": [
           {
@@ -15387,7 +15387,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Scatter Plot",
-        "Confidence": 51.268218994140625,
+        "Confidence": 21.268218994140625,
         "Instances": [],
         "Parents": [
           {
@@ -15465,7 +15465,7 @@
               "Left": 0.19523432850837708,
               "Top": 0.09600509703159332
             },
-            "Confidence": 57.63817596435547
+            "Confidence": 37.63817596435547
           }
         ],
         "Parents": [
@@ -15578,7 +15578,7 @@
       "Timestamp": 25520,
       "Label": {
         "Name": "Flame",
-        "Confidence": 51.468544006347656,
+        "Confidence": 41.468544006347656,
         "Instances": [],
         "Parents": [
           {
@@ -15597,7 +15597,7 @@
       "Timestamp": 25520,
       "Label": {
         "Name": "Lava",
-        "Confidence": 51.7686767578125,
+        "Confidence": 31.7686767578125,
         "Instances": [],
         "Parents": [
           {
@@ -15811,7 +15811,7 @@
               "Left": 0.20780330896377563,
               "Top": 0.07479095458984375
             },
-            "Confidence": 52.07677459716797
+            "Confidence": 42.07677459716797
           }
         ],
         "Parents": [
@@ -15964,7 +15964,7 @@
       "Timestamp": 26000,
       "Label": {
         "Name": "Night",
-        "Confidence": 51.59657287597656,
+        "Confidence": 41.59657287597656,
         "Instances": [],
         "Parents": [
           {
@@ -16001,7 +16001,7 @@
       "Timestamp": 26000,
       "Label": {
         "Name": "Person",
-        "Confidence": 53.5648193359375,
+        "Confidence": 43.5648193359375,
         "Instances": [
           {
             "BoundingBox": {
@@ -16055,7 +16055,7 @@
       "Timestamp": 26520,
       "Label": {
         "Name": "Adult",
-        "Confidence": 52.93223571777344,
+        "Confidence": 22.93223571777344,
         "Instances": [
           {
             "BoundingBox": {
@@ -16064,7 +16064,7 @@
               "Left": 0.22975851595401764,
               "Top": 0.024676665663719177
             },
-            "Confidence": 53.547977447509766
+            "Confidence": 33.547977447509766
           }
         ],
         "Parents": [
@@ -16084,7 +16084,7 @@
       "Timestamp": 26520,
       "Label": {
         "Name": "Chart",
-        "Confidence": 52.66518020629883,
+        "Confidence": 32.66518020629883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16127,7 +16127,7 @@
       "Timestamp": 26520,
       "Label": {
         "Name": "Festival",
-        "Confidence": 52.41095733642578,
+        "Confidence": 42.41095733642578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16142,7 +16142,7 @@
       "Timestamp": 26520,
       "Label": {
         "Name": "Fire",
-        "Confidence": 59.256736755371094,
+        "Confidence": 19.256736755371094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16279,7 +16279,7 @@
       "Timestamp": 26520,
       "Label": {
         "Name": "Powder",
-        "Confidence": 50.16541290283203,
+        "Confidence": 30.16541290283203,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16313,7 +16313,7 @@
       "Timestamp": 26520,
       "Label": {
         "Name": "Starry Sky",
-        "Confidence": 50.30675506591797,
+        "Confidence": 40.30675506591797,
         "Instances": [],
         "Parents": [
           {
@@ -16363,7 +16363,7 @@
       "Timestamp": 26520,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.3433837890625,
+        "Confidence": 20.3433837890625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16511,7 +16511,7 @@
       "Timestamp": 27000,
       "Label": {
         "Name": "Volcano",
-        "Confidence": 56.04621887207031,
+        "Confidence": 26.04621887207031,
         "Instances": [],
         "Parents": [
           {

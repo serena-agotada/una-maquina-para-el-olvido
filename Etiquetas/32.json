@@ -43,7 +43,7 @@
               "Left": 0.1054578498005867,
               "Top": 0.05139949917793274
             },
-            "Confidence": 56.43217086791992
+            "Confidence": 26.43217086791992
           }
         ],
         "Parents": [
@@ -153,7 +153,7 @@
               "Left": 0.1054578498005867,
               "Top": 0.05139949917793274
             },
-            "Confidence": 56.43217086791992
+            "Confidence": 36.43217086791992
           }
         ],
         "Parents": [
@@ -383,7 +383,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Snow",
-        "Confidence": 53.54805374145508,
+        "Confidence": 23.54805374145508,
         "Instances": [],
         "Parents": [
           {
@@ -483,7 +483,7 @@
               "Left": 0.4645848572254181,
               "Top": 0.15326182544231415
             },
-            "Confidence": 55.864925384521484
+            "Confidence": 45.864925384521484
           },
           {
             "BoundingBox": {
@@ -563,7 +563,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Fog",
-        "Confidence": 53.79878234863281,
+        "Confidence": 43.79878234863281,
         "Instances": [],
         "Parents": [
           {
@@ -650,7 +650,7 @@
               "Left": 0.11911190301179886,
               "Top": 0.0
             },
-            "Confidence": 54.33219528198242
+            "Confidence": 34.33219528198242
           },
           {
             "BoundingBox": {
@@ -668,7 +668,7 @@
               "Left": 0.7554565072059631,
               "Top": 0.08626747131347656
             },
-            "Confidence": 50.73064422607422
+            "Confidence": 20.73064422607422
           },
           {
             "BoundingBox": {
@@ -706,7 +706,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Man",
-        "Confidence": 59.654388427734375,
+        "Confidence": 39.654388427734375,
         "Instances": [
           {
             "BoundingBox": {
@@ -742,7 +742,7 @@
               "Left": 0.7554565072059631,
               "Top": 0.08626747131347656
             },
-            "Confidence": 50.73064422607422
+            "Confidence": 30.73064422607422
           },
           {
             "BoundingBox": {
@@ -751,7 +751,7 @@
               "Left": 0.38186925649642944,
               "Top": 0.0030345343984663486
             },
-            "Confidence": 50.20002746582031
+            "Confidence": 30.20002746582031
           },
           {
             "BoundingBox": {
@@ -760,7 +760,7 @@
               "Left": 0.07319459319114685,
               "Top": 0.1110793724656105
             },
-            "Confidence": 50.05348205566406
+            "Confidence": 40.05348205566406
           }
         ],
         "Parents": [
@@ -847,7 +847,7 @@
               "Left": 0.3544037938117981,
               "Top": 0.0055281068198382854
             },
-            "Confidence": 51.40671157836914
+            "Confidence": 31.40671157836914
           },
           {
             "BoundingBox": {
@@ -865,7 +865,7 @@
               "Left": 0.38186925649642944,
               "Top": 0.0030345343984663486
             },
-            "Confidence": 50.20002746582031
+            "Confidence": 20.20002746582031
           },
           {
             "BoundingBox": {
@@ -894,7 +894,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 51.536380767822266,
+        "Confidence": 21.536380767822266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -924,7 +924,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Smog",
-        "Confidence": 51.268218994140625,
+        "Confidence": 21.268218994140625,
         "Instances": [],
         "Parents": [
           {
@@ -970,7 +970,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Storm",
-        "Confidence": 52.08378219604492,
+        "Confidence": 42.08378219604492,
         "Instances": [],
         "Parents": [
           {
@@ -992,7 +992,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Tornado",
-        "Confidence": 50.23944091796875,
+        "Confidence": 10.23944091796875,
         "Instances": [],
         "Parents": [
           {
@@ -1017,7 +1017,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "War",
-        "Confidence": 50.24614334106445,
+        "Confidence": 40.24614334106445,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1090,7 +1090,7 @@
               "Left": 0.3827022314071655,
               "Top": 0.0010264968732371926
             },
-            "Confidence": 57.877559661865234
+            "Confidence": 27.877559661865234
           },
           {
             "BoundingBox": {
@@ -1108,7 +1108,7 @@
               "Left": 0.4448646008968353,
               "Top": 0.08308269828557968
             },
-            "Confidence": 54.37557601928711
+            "Confidence": 14.37557601928711
           }
         ],
         "Parents": [
@@ -1208,7 +1208,7 @@
               "Left": 0.3366859257221222,
               "Top": 0.0
             },
-            "Confidence": 55.68939971923828
+            "Confidence": 35.68939971923828
           },
           {
             "BoundingBox": {
@@ -1273,7 +1273,7 @@
               "Left": 0.3366859257221222,
               "Top": 0.0
             },
-            "Confidence": 55.68939971923828
+            "Confidence": 15.68939971923828
           },
           {
             "BoundingBox": {
@@ -1282,7 +1282,7 @@
               "Left": 0.4448646008968353,
               "Top": 0.08308269828557968
             },
-            "Confidence": 54.37557601928711
+            "Confidence": 34.37557601928711
           }
         ],
         "Parents": [
@@ -1378,7 +1378,7 @@
               "Left": 0.3827022314071655,
               "Top": 0.0010264968732371926
             },
-            "Confidence": 57.877559661865234
+            "Confidence": 37.877559661865234
           },
           {
             "BoundingBox": {
@@ -1396,7 +1396,7 @@
               "Left": 0.4448646008968353,
               "Top": 0.08308269828557968
             },
-            "Confidence": 54.37557601928711
+            "Confidence": 44.37557601928711
           }
         ],
         "Parents": [],
@@ -1431,7 +1431,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Storm",
-        "Confidence": 51.410526275634766,
+        "Confidence": 31.410526275634766,
         "Instances": [],
         "Parents": [
           {
@@ -1453,7 +1453,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Tornado",
-        "Confidence": 50.33729553222656,
+        "Confidence": 40.33729553222656,
         "Instances": [],
         "Parents": [
           {
@@ -1544,7 +1544,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Fog",
-        "Confidence": 58.34449768066406,
+        "Confidence": 28.34449768066406,
         "Instances": [],
         "Parents": [
           {
@@ -1569,7 +1569,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.13005828857422,
+        "Confidence": 31.13005828857422,
         "Instances": [],
         "Parents": [
           {
@@ -1736,7 +1736,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Smog",
-        "Confidence": 53.97631072998047,
+        "Confidence": 23.97631072998047,
         "Instances": [],
         "Parents": [
           {
@@ -1829,7 +1829,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "War",
-        "Confidence": 51.55175018310547,
+        "Confidence": 41.55175018310547,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1911,7 +1911,7 @@
               "Left": 0.23984432220458984,
               "Top": 0.6076859831809998
             },
-            "Confidence": 56.082271575927734
+            "Confidence": 26.082271575927734
           },
           {
             "BoundingBox": {
@@ -2028,7 +2028,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.31589126586914,
+        "Confidence": 21.31589126586914,
         "Instances": [],
         "Parents": [
           {
@@ -2163,7 +2163,7 @@
               "Left": 0.23984432220458984,
               "Top": 0.6076859831809998
             },
-            "Confidence": 56.082271575927734
+            "Confidence": 46.082271575927734
           }
         ],
         "Parents": [
@@ -2189,7 +2189,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Mist",
-        "Confidence": 52.77314758300781,
+        "Confidence": 42.77314758300781,
         "Instances": [],
         "Parents": [
           {
@@ -2305,7 +2305,7 @@
               "Left": 0.4102225601673126,
               "Top": 5.3243638831190765e-05
             },
-            "Confidence": 52.40901184082031
+            "Confidence": 42.40901184082031
           }
         ],
         "Parents": [],
@@ -2325,7 +2325,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Riot",
-        "Confidence": 54.8927001953125,
+        "Confidence": 24.8927001953125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2408,7 +2408,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Storm",
-        "Confidence": 52.32257843017578,
+        "Confidence": 22.32257843017578,
         "Instances": [],
         "Parents": [
           {
@@ -2565,7 +2565,7 @@
               "Left": 0.34285101294517517,
               "Top": 0.006262779235839844
             },
-            "Confidence": 53.3271598815918
+            "Confidence": 33.3271598815918
           },
           {
             "BoundingBox": {
@@ -2574,7 +2574,7 @@
               "Left": 0.7495209574699402,
               "Top": 0.410731703042984
             },
-            "Confidence": 50.726463317871094
+            "Confidence": 40.726463317871094
           }
         ],
         "Parents": [
@@ -2669,7 +2669,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Fog",
-        "Confidence": 56.25083923339844,
+        "Confidence": 36.25083923339844,
         "Instances": [],
         "Parents": [
           {
@@ -2792,7 +2792,7 @@
               "Left": 0.34285101294517517,
               "Top": 0.006262779235839844
             },
-            "Confidence": 53.3271598815918
+            "Confidence": 43.3271598815918
           }
         ],
         "Parents": [
@@ -2892,7 +2892,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Mist",
-        "Confidence": 50.2037467956543,
+        "Confidence": 40.2037467956543,
         "Instances": [],
         "Parents": [
           {
@@ -3026,7 +3026,7 @@
               "Left": 0.7495209574699402,
               "Top": 0.410731703042984
             },
-            "Confidence": 50.726463317871094
+            "Confidence": 30.726463317871094
           }
         ],
         "Parents": [],
@@ -3061,7 +3061,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Smog",
-        "Confidence": 51.137882232666016,
+        "Confidence": 41.137882232666016,
         "Instances": [],
         "Parents": [
           {
@@ -3273,7 +3273,7 @@
               "Left": 0.7461334466934204,
               "Top": 0.4027957022190094
             },
-            "Confidence": 56.265113830566406
+            "Confidence": 46.265113830566406
           },
           {
             "BoundingBox": {
@@ -3282,7 +3282,7 @@
               "Left": 0.0006103138439357281,
               "Top": 0.5761833190917969
             },
-            "Confidence": 52.74418640136719
+            "Confidence": 42.74418640136719
           }
         ],
         "Parents": [
@@ -3717,7 +3717,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Post Apocalyptic",
-        "Confidence": 53.60064697265625,
+        "Confidence": 13.60064697265625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3833,7 +3833,7 @@
               "Left": 0.7461334466934204,
               "Top": 0.4027957022190094
             },
-            "Confidence": 56.265113830566406
+            "Confidence": 46.265113830566406
           }
         ],
         "Parents": [
@@ -3915,7 +3915,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Fire",
-        "Confidence": 55.271732330322266,
+        "Confidence": 45.271732330322266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3955,7 +3955,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 53.44316101074219,
+        "Confidence": 33.44316101074219,
         "Instances": [],
         "Parents": [
           {
@@ -4072,7 +4072,7 @@
               "Left": 0.19078172743320465,
               "Top": 0.45871856808662415
             },
-            "Confidence": 52.656288146972656
+            "Confidence": 42.656288146972656
           }
         ],
         "Parents": [
@@ -4188,7 +4188,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Post Apocalyptic",
-        "Confidence": 53.77447509765625,
+        "Confidence": 33.77447509765625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4218,7 +4218,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Smog",
-        "Confidence": 51.94203567504883,
+        "Confidence": 41.94203567504883,
         "Instances": [],
         "Parents": [
           {
@@ -4264,7 +4264,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Storm",
-        "Confidence": 53.53802490234375,
+        "Confidence": 43.53802490234375,
         "Instances": [],
         "Parents": [
           {
@@ -4471,7 +4471,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Fire",
-        "Confidence": 53.311561584472656,
+        "Confidence": 43.311561584472656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4486,7 +4486,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Fog",
-        "Confidence": 58.46083450317383,
+        "Confidence": 48.46083450317383,
         "Instances": [],
         "Parents": [
           {
@@ -4804,7 +4804,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 54.46361541748047,
+        "Confidence": 34.46361541748047,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4841,7 +4841,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Storm",
-        "Confidence": 52.478275299072266,
+        "Confidence": 32.478275299072266,
         "Instances": [],
         "Parents": [
           {
@@ -4933,7 +4933,7 @@
               "Left": 0.19570496678352356,
               "Top": 0.4417230784893036
             },
-            "Confidence": 56.15711975097656
+            "Confidence": 36.15711975097656
           }
         ],
         "Parents": [
@@ -4977,7 +4977,7 @@
               "Left": 0.7489369511604309,
               "Top": 0.4026205241680145
             },
-            "Confidence": 56.780731201171875
+            "Confidence": 46.780731201171875
           },
           {
             "BoundingBox": {
@@ -4986,7 +4986,7 @@
               "Left": 0.2703700065612793,
               "Top": 0.033346425741910934
             },
-            "Confidence": 51.586387634277344
+            "Confidence": 21.586387634277344
           }
         ],
         "Parents": [
@@ -5099,7 +5099,7 @@
               "Left": 0.1766904592514038,
               "Top": 0.47297027707099915
             },
-            "Confidence": 59.67229080200195
+            "Confidence": 39.67229080200195
           },
           {
             "BoundingBox": {
@@ -5146,7 +5146,7 @@
               "Left": 0.1766904592514038,
               "Top": 0.47297027707099915
             },
-            "Confidence": 59.67229080200195
+            "Confidence": 49.67229080200195
           },
           {
             "BoundingBox": {
@@ -5155,7 +5155,7 @@
               "Left": 0.7489369511604309,
               "Top": 0.4026205241680145
             },
-            "Confidence": 56.780731201171875
+            "Confidence": 46.780731201171875
           },
           {
             "BoundingBox": {
@@ -5164,7 +5164,7 @@
               "Left": 0.2703700065612793,
               "Top": 0.033346425741910934
             },
-            "Confidence": 51.586387634277344
+            "Confidence": 31.586387634277344
           }
         ],
         "Parents": [
@@ -5261,7 +5261,7 @@
               "Left": 0.1766904592514038,
               "Top": 0.47297027707099915
             },
-            "Confidence": 59.67229080200195
+            "Confidence": 19.67229080200195
           },
           {
             "BoundingBox": {
@@ -5270,7 +5270,7 @@
               "Left": 0.7489369511604309,
               "Top": 0.4026205241680145
             },
-            "Confidence": 56.780731201171875
+            "Confidence": 46.780731201171875
           },
           {
             "BoundingBox": {
@@ -5299,7 +5299,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Smog",
-        "Confidence": 55.25742721557617,
+        "Confidence": 15.25742721557617,
         "Instances": [],
         "Parents": [
           {
@@ -5330,7 +5330,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 55.723838806152344,
+        "Confidence": 35.723838806152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5345,7 +5345,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 55.50779342651367,
+        "Confidence": 45.50779342651367,
         "Instances": [],
         "Parents": [
           {
@@ -5367,7 +5367,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Storm",
-        "Confidence": 53.68865966796875,
+        "Confidence": 13.68865966796875,
         "Instances": [],
         "Parents": [
           {
@@ -5389,7 +5389,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "War",
-        "Confidence": 50.89805603027344,
+        "Confidence": 20.89805603027344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5631,7 +5631,7 @@
               "Left": 0.5842920541763306,
               "Top": 0.19104743003845215
             },
-            "Confidence": 59.32839584350586
+            "Confidence": 49.32839584350586
           },
           {
             "BoundingBox": {
@@ -5687,7 +5687,7 @@
               "Left": 0.5842920541763306,
               "Top": 0.19104743003845215
             },
-            "Confidence": 59.32839584350586
+            "Confidence": 49.32839584350586
           },
           {
             "BoundingBox": {
@@ -5722,7 +5722,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Mist",
-        "Confidence": 55.49163055419922,
+        "Confidence": 45.49163055419922,
         "Instances": [],
         "Parents": [
           {
@@ -5932,7 +5932,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "War",
-        "Confidence": 54.745174407958984,
+        "Confidence": 14.745174407958984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5969,7 +5969,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 59.75035095214844,
+        "Confidence": 49.75035095214844,
         "Instances": [
           {
             "BoundingBox": {

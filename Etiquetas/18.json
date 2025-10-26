@@ -121,7 +121,7 @@
               "Left": 0.32933276891708374,
               "Top": 0.20736238360404968
             },
-            "Confidence": 59.43455505371094
+            "Confidence": 49.43455505371094
           },
           {
             "BoundingBox": {
@@ -165,7 +165,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 54.96702194213867,
+        "Confidence": 24.96702194213867,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -263,7 +263,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 51.41876983642578,
+        "Confidence": 31.41876983642578,
         "Instances": [],
         "Parents": [
           {
@@ -323,7 +323,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 51.41876983642578,
+        "Confidence": 41.41876983642578,
         "Instances": [],
         "Parents": [
           {
@@ -363,7 +363,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Injury",
-        "Confidence": 51.449867248535156,
+        "Confidence": 21.449867248535156,
         "Instances": [],
         "Parents": [
           {
@@ -401,7 +401,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Kissing",
-        "Confidence": 50.85842514038086,
+        "Confidence": 40.85842514038086,
         "Instances": [],
         "Parents": [
           {
@@ -430,7 +430,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Knee",
-        "Confidence": 51.27228927612305,
+        "Confidence": 31.27228927612305,
         "Instances": [],
         "Parents": [
           {
@@ -452,7 +452,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 54.605648040771484,
+        "Confidence": 44.605648040771484,
         "Instances": [],
         "Parents": [
           {
@@ -574,7 +574,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Massage",
-        "Confidence": 51.707942962646484,
+        "Confidence": 31.707942962646484,
         "Instances": [],
         "Parents": [
           {
@@ -593,7 +593,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Panties",
-        "Confidence": 51.62649154663086,
+        "Confidence": 41.62649154663086,
         "Instances": [],
         "Parents": [
           {
@@ -681,7 +681,7 @@
               "Left": 0.32933276891708374,
               "Top": 0.20736238360404968
             },
-            "Confidence": 59.43455505371094
+            "Confidence": 29.43455505371094
           },
           {
             "BoundingBox": {
@@ -751,7 +751,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 54.8499641418457,
+        "Confidence": 44.8499641418457,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -766,7 +766,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.67746353149414,
+        "Confidence": 43.67746353149414,
         "Instances": [],
         "Parents": [
           {
@@ -788,7 +788,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Thong",
-        "Confidence": 50.49732971191406,
+        "Confidence": 20.49732971191406,
         "Instances": [],
         "Parents": [
           {
@@ -816,7 +816,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 54.95627975463867,
+        "Confidence": 44.95627975463867,
         "Instances": [],
         "Parents": [
           {
@@ -1030,7 +1030,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.2962532043457,
+        "Confidence": 44.2962532043457,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1060,7 +1060,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Bra",
-        "Confidence": 50.84787368774414,
+        "Confidence": 40.84787368774414,
         "Instances": [],
         "Parents": [
           {
@@ -1085,7 +1085,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Chair",
-        "Confidence": 55.579036712646484,
+        "Confidence": 45.579036712646484,
         "Instances": [],
         "Parents": [
           {
@@ -1123,7 +1123,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 53.89696502685547,
+        "Confidence": 43.89696502685547,
         "Instances": [],
         "Parents": [
           {
@@ -1214,7 +1214,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Finger",
-        "Confidence": 51.49494171142578,
+        "Confidence": 41.49494171142578,
         "Instances": [],
         "Parents": [
           {
@@ -1239,7 +1239,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 56.113548278808594,
+        "Confidence": 36.113548278808594,
         "Instances": [],
         "Parents": [
           {
@@ -1273,7 +1273,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.959716796875,
+        "Confidence": 31.959716796875,
         "Instances": [],
         "Parents": [
           {
@@ -1373,7 +1373,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Injection",
-        "Confidence": 50.634002685546875,
+        "Confidence": 30.634002685546875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1417,7 +1417,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 53.80860137939453,
+        "Confidence": 43.80860137939453,
         "Instances": [],
         "Parents": [
           {
@@ -1630,7 +1630,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 51.132808685302734,
+        "Confidence": 41.132808685302734,
         "Instances": [],
         "Parents": [
           {
@@ -1649,7 +1649,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Room",
-        "Confidence": 53.89696502685547,
+        "Confidence": 33.89696502685547,
         "Instances": [],
         "Parents": [
           {
@@ -1690,7 +1690,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 54.85359573364258,
+        "Confidence": 44.85359573364258,
         "Instances": [],
         "Parents": [
           {
@@ -1709,7 +1709,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 58.749637603759766,
+        "Confidence": 38.749637603759766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1793,7 +1793,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Thong",
-        "Confidence": 52.098182678222656,
+        "Confidence": 32.098182678222656,
         "Instances": [],
         "Parents": [
           {
@@ -2085,7 +2085,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Bikini",
-        "Confidence": 50.20143127441406,
+        "Confidence": 10.20143127441406,
         "Instances": [],
         "Parents": [
           {
@@ -2162,7 +2162,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 54.45311737060547,
+        "Confidence": 44.45311737060547,
         "Instances": [],
         "Parents": [
           {
@@ -2200,7 +2200,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 51.51704406738281,
+        "Confidence": 41.51704406738281,
         "Instances": [],
         "Parents": [
           {
@@ -2219,7 +2219,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 53.16060256958008,
+        "Confidence": 43.16060256958008,
         "Instances": [],
         "Parents": [
           {
@@ -2241,7 +2241,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 50.10441589355469,
+        "Confidence": 40.10441589355469,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2334,7 +2334,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 50.17338943481445,
+        "Confidence": 30.17338943481445,
         "Instances": [],
         "Parents": [
           {
@@ -2353,7 +2353,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Finger",
-        "Confidence": 53.243595123291016,
+        "Confidence": 33.243595123291016,
         "Instances": [],
         "Parents": [
           {
@@ -2397,7 +2397,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 56.028228759765625,
+        "Confidence": 26.028228759765625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2434,7 +2434,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Hat",
-        "Confidence": 50.53024673461914,
+        "Confidence": 40.53024673461914,
         "Instances": [],
         "Parents": [
           {
@@ -2531,7 +2531,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Injection",
-        "Confidence": 51.000579833984375,
+        "Confidence": 31.000579833984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2546,7 +2546,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Kicking",
-        "Confidence": 50.29343795776367,
+        "Confidence": 30.29343795776367,
         "Instances": [],
         "Parents": [
           {
@@ -2565,7 +2565,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Kissing",
-        "Confidence": 52.24095153808594,
+        "Confidence": 22.24095153808594,
         "Instances": [],
         "Parents": [
           {
@@ -2711,7 +2711,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 51.94083786010742,
+        "Confidence": 41.94083786010742,
         "Instances": [],
         "Parents": [
           {
@@ -2817,7 +2817,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 52.59342575073242,
+        "Confidence": 42.59342575073242,
         "Instances": [],
         "Parents": [
           {
@@ -2836,7 +2836,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Room",
-        "Confidence": 53.16060256958008,
+        "Confidence": 23.16060256958008,
         "Instances": [],
         "Parents": [
           {
@@ -2855,7 +2855,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 55.050140380859375,
+        "Confidence": 35.050140380859375,
         "Instances": [],
         "Parents": [
           {
@@ -2877,7 +2877,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 56.11626434326172,
+        "Confidence": 36.11626434326172,
         "Instances": [],
         "Parents": [
           {
@@ -2958,7 +2958,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.95085144042969,
+        "Confidence": 43.95085144042969,
         "Instances": [],
         "Parents": [
           {
@@ -3030,7 +3030,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Tub",
-        "Confidence": 50.21155548095703,
+        "Confidence": 20.21155548095703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3220,7 +3220,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 51.6905517578125,
+        "Confidence": 41.6905517578125,
         "Instances": [],
         "Parents": [
           {
@@ -3271,7 +3271,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 51.262046813964844,
+        "Confidence": 21.262046813964844,
         "Instances": [],
         "Parents": [
           {
@@ -3290,7 +3290,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Bathroom",
-        "Confidence": 50.85971450805664,
+        "Confidence": 40.85971450805664,
         "Instances": [],
         "Parents": [
           {
@@ -3450,7 +3450,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Cream",
-        "Confidence": 50.23521423339844,
+        "Confidence": 20.23521423339844,
         "Instances": [],
         "Parents": [
           {
@@ -3476,7 +3476,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 50.23521423339844,
+        "Confidence": 10.23521423339844,
         "Instances": [],
         "Parents": [
           {
@@ -3495,7 +3495,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 54.18816375732422,
+        "Confidence": 44.18816375732422,
         "Instances": [],
         "Parents": [
           {
@@ -3575,7 +3575,7 @@
               "Left": 0.59556645154953,
               "Top": 0.3099953830242157
             },
-            "Confidence": 51.64957046508789
+            "Confidence": 31.64957046508789
           }
         ],
         "Parents": [
@@ -3620,7 +3620,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.35129165649414,
+        "Confidence": 30.35129165649414,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3710,7 +3710,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Hat",
-        "Confidence": 50.45189666748047,
+        "Confidence": 20.45189666748047,
         "Instances": [],
         "Parents": [
           {
@@ -3748,7 +3748,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 53.180076599121094,
+        "Confidence": 43.180076599121094,
         "Instances": [],
         "Parents": [
           {
@@ -3792,7 +3792,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 50.23521423339844,
+        "Confidence": 40.23521423339844,
         "Instances": [],
         "Parents": [
           {
@@ -3832,7 +3832,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Kicking",
-        "Confidence": 50.485469818115234,
+        "Confidence": 20.485469818115234,
         "Instances": [],
         "Parents": [
           {
@@ -3851,7 +3851,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 53.31668472290039,
+        "Confidence": 43.31668472290039,
         "Instances": [],
         "Parents": [
           {
@@ -3873,7 +3873,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Latex Clothing",
-        "Confidence": 52.02719497680664,
+        "Confidence": 32.02719497680664,
         "Instances": [],
         "Parents": [
           {
@@ -3914,7 +3914,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Panties",
-        "Confidence": 54.7579460144043,
+        "Confidence": 44.7579460144043,
         "Instances": [],
         "Parents": [
           {
@@ -3939,7 +3939,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 50.743927001953125,
+        "Confidence": 20.743927001953125,
         "Instances": [],
         "Parents": [
           {
@@ -4006,7 +4006,7 @@
               "Left": 0.59556645154953,
               "Top": 0.3099953830242157
             },
-            "Confidence": 51.64957046508789
+            "Confidence": 41.64957046508789
           }
         ],
         "Parents": [],
@@ -4045,7 +4045,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Room",
-        "Confidence": 54.18816375732422,
+        "Confidence": 34.18816375732422,
         "Instances": [],
         "Parents": [
           {
@@ -4064,7 +4064,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 53.180076599121094,
+        "Confidence": 43.180076599121094,
         "Instances": [],
         "Parents": [
           {
@@ -4189,7 +4189,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Thong",
-        "Confidence": 52.29118347167969,
+        "Confidence": 42.29118347167969,
         "Instances": [],
         "Parents": [
           {
@@ -4217,7 +4217,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Toilet",
-        "Confidence": 50.85971450805664,
+        "Confidence": 30.85971450805664,
         "Instances": [],
         "Parents": [
           {
@@ -4264,7 +4264,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Tub",
-        "Confidence": 51.21870803833008,
+        "Confidence": 41.21870803833008,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4279,7 +4279,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 56.887908935546875,
+        "Confidence": 16.887908935546875,
         "Instances": [],
         "Parents": [
           {
@@ -4317,7 +4317,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.08888244628906,
+        "Confidence": 31.08888244628906,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4398,7 +4398,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Accessories",
-        "Confidence": 50.129173278808594,
+        "Confidence": 40.129173278808594,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4444,7 +4444,7 @@
               "Left": 0.37579891085624695,
               "Top": 0.0005754661397077143
             },
-            "Confidence": 57.142234802246094
+            "Confidence": 47.142234802246094
           },
           {
             "BoundingBox": {
@@ -4611,7 +4611,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 52.486053466796875,
+        "Confidence": 22.486053466796875,
         "Instances": [],
         "Parents": [
           {
@@ -4691,7 +4691,7 @@
               "Left": 0.23174136877059937,
               "Top": 0.00024770735763013363
             },
-            "Confidence": 55.44974136352539
+            "Confidence": 25.44974136352539
           }
         ],
         "Parents": [
@@ -4830,7 +4830,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Hat",
-        "Confidence": 50.47050476074219,
+        "Confidence": 40.47050476074219,
         "Instances": [],
         "Parents": [
           {
@@ -4927,7 +4927,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Kicking",
-        "Confidence": 50.495479583740234,
+        "Confidence": 40.495479583740234,
         "Instances": [],
         "Parents": [
           {
@@ -4946,7 +4946,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 52.561283111572266,
+        "Confidence": 42.561283111572266,
         "Instances": [],
         "Parents": [
           {
@@ -4968,7 +4968,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Latex Clothing",
-        "Confidence": 51.18817138671875,
+        "Confidence": 41.18817138671875,
         "Instances": [],
         "Parents": [
           {
@@ -5009,7 +5009,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 52.20328140258789,
+        "Confidence": 12.20328140258789,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5024,7 +5024,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Panties",
-        "Confidence": 54.342811584472656,
+        "Confidence": 34.342811584472656,
         "Instances": [],
         "Parents": [
           {
@@ -5049,7 +5049,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 53.26668930053711,
+        "Confidence": 33.26668930053711,
         "Instances": [],
         "Parents": [
           {
@@ -5165,7 +5165,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 53.78884506225586,
+        "Confidence": 23.78884506225586,
         "Instances": [],
         "Parents": [
           {
@@ -5187,7 +5187,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 55.48115539550781,
+        "Confidence": 35.48115539550781,
         "Instances": [],
         "Parents": [
           {
@@ -5287,7 +5287,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 54.40959548950195,
+        "Confidence": 34.40959548950195,
         "Instances": [],
         "Parents": [
           {
@@ -5337,7 +5337,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Tub",
-        "Confidence": 51.03129959106445,
+        "Confidence": 21.03129959106445,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5352,7 +5352,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 56.58168411254883,
+        "Confidence": 26.58168411254883,
         "Instances": [],
         "Parents": [
           {
@@ -5390,7 +5390,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.08916091918945,
+        "Confidence": 41.08916091918945,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -5546,7 +5546,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Bathroom",
-        "Confidence": 50.45207595825195,
+        "Confidence": 20.45207595825195,
         "Instances": [],
         "Parents": [
           {
@@ -5568,7 +5568,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Bikini",
-        "Confidence": 52.90568161010742,
+        "Confidence": 12.90568161010742,
         "Instances": [],
         "Parents": [
           {
@@ -5590,7 +5590,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.93849182128906,
+        "Confidence": 33.93849182128906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5630,7 +5630,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Chair",
-        "Confidence": 51.8564567565918,
+        "Confidence": 41.8564567565918,
         "Instances": [],
         "Parents": [
           {
@@ -5687,7 +5687,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 53.434749603271484,
+        "Confidence": 33.434749603271484,
         "Instances": [],
         "Parents": [
           {
@@ -5709,7 +5709,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Duel",
-        "Confidence": 50.15087890625,
+        "Confidence": 40.15087890625,
         "Instances": [],
         "Parents": [
           {
@@ -5865,7 +5865,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 50.18518829345703,
+        "Confidence": 40.18518829345703,
         "Instances": [],
         "Parents": [
           {
@@ -5884,7 +5884,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 51.91777420043945,
+        "Confidence": 41.91777420043945,
         "Instances": [],
         "Parents": [
           {
@@ -6007,7 +6007,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 56.87943649291992,
+        "Confidence": 46.87943649291992,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6022,7 +6022,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 50.92282485961914,
+        "Confidence": 20.92282485961914,
         "Instances": [],
         "Parents": [
           {
@@ -6044,7 +6044,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Latex Clothing",
-        "Confidence": 51.0052490234375,
+        "Confidence": 31.0052490234375,
         "Instances": [],
         "Parents": [
           {
@@ -6085,7 +6085,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 50.2038688659668,
+        "Confidence": 40.2038688659668,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6297,7 +6297,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 52.90699005126953,
+        "Confidence": 32.90699005126953,
         "Instances": [],
         "Parents": [
           {
@@ -6419,7 +6419,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Tub",
-        "Confidence": 51.050907135009766,
+        "Confidence": 31.050907135009766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6472,7 +6472,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.056148529052734,
+        "Confidence": 22.056148529052734,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6628,7 +6628,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 50.28472900390625,
+        "Confidence": 20.28472900390625,
         "Instances": [],
         "Parents": [
           {
@@ -6679,7 +6679,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 50.590606689453125,
+        "Confidence": 40.590606689453125,
         "Instances": [],
         "Parents": [
           {
@@ -6698,7 +6698,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Bathing",
-        "Confidence": 51.04689407348633,
+        "Confidence": 21.04689407348633,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6713,7 +6713,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Bathroom",
-        "Confidence": 51.96357727050781,
+        "Confidence": 41.96357727050781,
         "Instances": [],
         "Parents": [
           {
@@ -6735,7 +6735,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Bathtub",
-        "Confidence": 51.04689407348633,
+        "Confidence": 41.04689407348633,
         "Instances": [],
         "Parents": [
           {
@@ -6782,7 +6782,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.93791198730469,
+        "Confidence": 33.93791198730469,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6822,7 +6822,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 52.896827697753906,
+        "Confidence": 22.896827697753906,
         "Instances": [],
         "Parents": [
           {
@@ -6923,7 +6923,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Fashion",
-        "Confidence": 50.35063934326172,
+        "Confidence": 20.35063934326172,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7019,7 +7019,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 53.111454010009766,
+        "Confidence": 43.111454010009766,
         "Instances": [],
         "Parents": [
           {
@@ -7053,7 +7053,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 52.73268127441406,
+        "Confidence": 22.73268127441406,
         "Instances": [],
         "Parents": [
           {
@@ -7091,7 +7091,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 53.69567108154297,
+        "Confidence": 23.69567108154297,
         "Instances": [],
         "Parents": [
           {
@@ -7157,7 +7157,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 51.948116302490234,
+        "Confidence": 31.948116302490234,
         "Instances": [],
         "Parents": [
           {
@@ -7176,7 +7176,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 56.433189392089844,
+        "Confidence": 46.433189392089844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7273,7 +7273,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Man",
-        "Confidence": 50.583274841308594,
+        "Confidence": 40.583274841308594,
         "Instances": [],
         "Parents": [
           {
@@ -7298,7 +7298,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 52.74561309814453,
+        "Confidence": 32.74561309814453,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7444,7 +7444,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 53.111454010009766,
+        "Confidence": 33.111454010009766,
         "Instances": [],
         "Parents": [
           {
@@ -7831,7 +7831,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Animal",
-        "Confidence": 59.71585464477539,
+        "Confidence": 49.71585464477539,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7947,7 +7947,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Duel",
-        "Confidence": 52.602840423583984,
+        "Confidence": 22.602840423583984,
         "Instances": [],
         "Parents": [
           {
@@ -8079,7 +8079,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 53.578609466552734,
+        "Confidence": 33.578609466552734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8113,7 +8113,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.0537109375,
+        "Confidence": 31.0537109375,
         "Instances": [],
         "Parents": [
           {
@@ -8154,7 +8154,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.278499603271484,
+        "Confidence": 40.278499603271484,
         "Instances": [],
         "Parents": [
           {
@@ -8194,7 +8194,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 57.68354034423828,
+        "Confidence": 47.68354034423828,
         "Instances": [],
         "Parents": [
           {
@@ -8245,7 +8245,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 59.491050720214844,
+        "Confidence": 19.491050720214844,
         "Instances": [],
         "Parents": [
           {
@@ -8449,7 +8449,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 56.91632080078125,
+        "Confidence": 26.91632080078125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8533,7 +8533,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Tub",
-        "Confidence": 51.69365692138672,
+        "Confidence": 31.69365692138672,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8714,7 +8714,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Animal",
-        "Confidence": 50.46158981323242,
+        "Confidence": 40.46158981323242,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8780,7 +8780,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.691715240478516,
+        "Confidence": 21.691715240478516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8795,7 +8795,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 57.7234001159668,
+        "Confidence": 37.7234001159668,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -8814,7 +8814,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 50.15251922607422,
+        "Confidence": 20.15251922607422,
         "Instances": [],
         "Parents": [
           {
@@ -8852,7 +8852,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Face",
-        "Confidence": 51.84574890136719,
+        "Confidence": 11.84574890136719,
         "Instances": [],
         "Parents": [
           {
@@ -8940,7 +8940,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 50.15251922607422,
+        "Confidence": 40.15251922607422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9018,7 +9018,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.04251480102539,
+        "Confidence": 40.04251480102539,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9253,7 +9253,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 50.67204284667969,
+        "Confidence": 10.67204284667969,
         "Instances": [],
         "Parents": [
           {
@@ -9328,7 +9328,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 50.73826217651367,
+        "Confidence": 10.73826217651367,
         "Instances": [],
         "Parents": [
           {
@@ -9474,7 +9474,7 @@
               "Left": 0.35636258125305176,
               "Top": 0.16053825616836548
             },
-            "Confidence": 57.59239959716797
+            "Confidence": 27.59239959716797
           }
         ],
         "Parents": [
@@ -9554,7 +9554,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.44923782348633,
+        "Confidence": 22.44923782348633,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9569,7 +9569,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Chair",
-        "Confidence": 51.551780700683594,
+        "Confidence": 31.551780700683594,
         "Instances": [],
         "Parents": [
           {
@@ -9626,7 +9626,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Duel",
-        "Confidence": 54.12919616699219,
+        "Confidence": 24.12919616699219,
         "Instances": [],
         "Parents": [
           {
@@ -9724,7 +9724,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 52.10083770751953,
+        "Confidence": 32.10083770751953,
         "Instances": [],
         "Parents": [
           {
@@ -9743,7 +9743,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 52.20721435546875,
+        "Confidence": 22.20721435546875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9821,7 +9821,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 50.4647331237793,
+        "Confidence": 40.4647331237793,
         "Instances": [],
         "Parents": [
           {
@@ -9840,7 +9840,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.20205307006836,
+        "Confidence": 20.20205307006836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9855,7 +9855,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 50.6366081237793,
+        "Confidence": 40.6366081237793,
         "Instances": [],
         "Parents": [
           {
@@ -10006,7 +10006,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 50.4647331237793,
+        "Confidence": 20.4647331237793,
         "Instances": [],
         "Parents": [
           {
@@ -10171,7 +10171,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 52.494014739990234,
+        "Confidence": 22.494014739990234,
         "Instances": [],
         "Parents": [
           {
@@ -10205,7 +10205,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 50.760040283203125,
+        "Confidence": 10.760040283203125,
         "Instances": [],
         "Parents": [
           {
@@ -10274,7 +10274,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 51.21751022338867,
+        "Confidence": 21.21751022338867,
         "Instances": [],
         "Parents": [
           {
@@ -10349,7 +10349,7 @@
               "Left": 0.891296923160553,
               "Top": 0.08971317112445831
             },
-            "Confidence": 58.28556442260742
+            "Confidence": 38.28556442260742
           }
         ],
         "Parents": [
@@ -10431,7 +10431,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Bikini",
-        "Confidence": 52.21401596069336,
+        "Confidence": 32.21401596069336,
         "Instances": [],
         "Parents": [
           {
@@ -10468,7 +10468,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 50.569820404052734,
+        "Confidence": 40.569820404052734,
         "Instances": [],
         "Parents": [
           {
@@ -10593,7 +10593,7 @@
               "Left": 0.2837372422218323,
               "Top": 0.01431705430150032
             },
-            "Confidence": 54.318641662597656
+            "Confidence": 34.318641662597656
           }
         ],
         "Parents": [
@@ -10613,7 +10613,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Firearm",
-        "Confidence": 51.42534637451172,
+        "Confidence": 41.42534637451172,
         "Instances": [],
         "Parents": [
           {
@@ -10632,7 +10632,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 53.260379791259766,
+        "Confidence": 23.260379791259766,
         "Instances": [],
         "Parents": [
           {
@@ -10651,7 +10651,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 54.092281341552734,
+        "Confidence": 34.092281341552734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10748,7 +10748,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.665924072265625,
+        "Confidence": 40.665924072265625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10763,7 +10763,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Injection",
-        "Confidence": 50.12399673461914,
+        "Confidence": 20.12399673461914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10778,7 +10778,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Kicking",
-        "Confidence": 50.109344482421875,
+        "Confidence": 20.109344482421875,
         "Instances": [],
         "Parents": [
           {
@@ -10797,7 +10797,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 51.61000442504883,
+        "Confidence": 41.61000442504883,
         "Instances": [],
         "Parents": [
           {
@@ -11077,7 +11077,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 54.1366081237793,
+        "Confidence": 44.1366081237793,
         "Instances": [],
         "Parents": [
           {
@@ -11111,7 +11111,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 50.98662567138672,
+        "Confidence": 30.98662567138672,
         "Instances": [],
         "Parents": [
           {
@@ -11158,7 +11158,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.53617477416992,
+        "Confidence": 33.53617477416992,
         "Instances": [],
         "Parents": [
           {
@@ -11180,7 +11180,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 53.28041458129883,
+        "Confidence": 43.28041458129883,
         "Instances": [],
         "Parents": [
           {
@@ -11422,7 +11422,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 57.03300857543945,
+        "Confidence": 47.03300857543945,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -11441,7 +11441,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Couch",
-        "Confidence": 51.92271423339844,
+        "Confidence": 31.92271423339844,
         "Instances": [],
         "Parents": [
           {
@@ -11460,7 +11460,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Duel",
-        "Confidence": 54.56840896606445,
+        "Confidence": 24.56840896606445,
         "Instances": [],
         "Parents": [
           {
@@ -11530,7 +11530,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 51.82826232910156,
+        "Confidence": 31.82826232910156,
         "Instances": [],
         "Parents": [
           {
@@ -11621,7 +11621,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 52.37366485595703,
+        "Confidence": 32.37366485595703,
         "Instances": [],
         "Parents": [
           {
@@ -11646,7 +11646,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 50.58381271362305,
+        "Confidence": 30.58381271362305,
         "Instances": [],
         "Parents": [
           {
@@ -11665,7 +11665,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.95565414428711,
+        "Confidence": 40.95565414428711,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11680,7 +11680,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Injection",
-        "Confidence": 50.829105377197266,
+        "Confidence": 30.829105377197266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11714,7 +11714,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 51.91046905517578,
+        "Confidence": 31.91046905517578,
         "Instances": [],
         "Parents": [
           {
@@ -11840,7 +11840,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Panties",
-        "Confidence": 51.490318298339844,
+        "Confidence": 41.490318298339844,
         "Instances": [],
         "Parents": [
           {
@@ -11984,7 +11984,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Shooting",
-        "Confidence": 51.319183349609375,
+        "Confidence": 21.319183349609375,
         "Instances": [],
         "Parents": [
           {
@@ -12025,7 +12025,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 57.58607482910156,
+        "Confidence": 37.58607482910156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12040,7 +12040,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 51.69919967651367,
+        "Confidence": 41.69919967651367,
         "Instances": [],
         "Parents": [
           {
@@ -12087,7 +12087,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 52.1750373840332,
+        "Confidence": 12.1750373840332,
         "Instances": [],
         "Parents": [
           {
@@ -12131,7 +12131,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 54.2402458190918,
+        "Confidence": 34.2402458190918,
         "Instances": [],
         "Parents": [
           {
@@ -12277,7 +12277,7 @@
               "Left": 0.41915932297706604,
               "Top": 0.16204553842544556
             },
-            "Confidence": 57.32982635498047
+            "Confidence": 47.32982635498047
           },
           {
             "BoundingBox": {
@@ -12286,7 +12286,7 @@
               "Left": 0.42136436700820923,
               "Top": 0.23940931260585785
             },
-            "Confidence": 50.520259857177734
+            "Confidence": 30.520259857177734
           }
         ],
         "Parents": [
@@ -12335,7 +12335,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Bikini",
-        "Confidence": 50.905189514160156,
+        "Confidence": 40.905189514160156,
         "Instances": [],
         "Parents": [
           {
@@ -12372,7 +12372,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 57.19722366333008,
+        "Confidence": 47.19722366333008,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -12391,7 +12391,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 50.936798095703125,
+        "Confidence": 30.936798095703125,
         "Instances": [],
         "Parents": [
           {
@@ -12432,7 +12432,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Duel",
-        "Confidence": 53.59144973754883,
+        "Confidence": 33.59144973754883,
         "Instances": [],
         "Parents": [
           {
@@ -12518,7 +12518,7 @@
               "Left": 0.8853691220283508,
               "Top": 0.09581732004880905
             },
-            "Confidence": 57.42886734008789
+            "Confidence": 37.42886734008789
           }
         ],
         "Parents": [
@@ -12538,7 +12538,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 50.557987213134766,
+        "Confidence": 30.557987213134766,
         "Instances": [],
         "Parents": [
           {
@@ -12557,7 +12557,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 52.46941375732422,
+        "Confidence": 42.46941375732422,
         "Instances": [],
         "Parents": [
           {
@@ -12629,7 +12629,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 52.46941375732422,
+        "Confidence": 32.46941375732422,
         "Instances": [],
         "Parents": [
           {
@@ -12654,7 +12654,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 51.055320739746094,
+        "Confidence": 21.055320739746094,
         "Instances": [],
         "Parents": [
           {
@@ -12703,7 +12703,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Kissing",
-        "Confidence": 50.19407653808594,
+        "Confidence": 40.19407653808594,
         "Instances": [],
         "Parents": [
           {
@@ -12785,7 +12785,7 @@
               "Left": 0.41915932297706604,
               "Top": 0.16204553842544556
             },
-            "Confidence": 57.32982635498047
+            "Confidence": 37.32982635498047
           },
           {
             "BoundingBox": {
@@ -12968,7 +12968,7 @@
               "Left": 0.41915932297706604,
               "Top": 0.16204553842544556
             },
-            "Confidence": 57.32982635498047
+            "Confidence": 47.32982635498047
           },
           {
             "BoundingBox": {
@@ -12977,7 +12977,7 @@
               "Left": 0.42136436700820923,
               "Top": 0.23940931260585785
             },
-            "Confidence": 50.520259857177734
+            "Confidence": 30.520259857177734
           }
         ],
         "Parents": [],
@@ -12997,7 +12997,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.94694900512695,
+        "Confidence": 40.94694900512695,
         "Instances": [],
         "Parents": [
           {
@@ -13079,7 +13079,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 53.83875274658203,
+        "Confidence": 33.83875274658203,
         "Instances": [],
         "Parents": [
           {
@@ -13160,7 +13160,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 52.77297592163086,
+        "Confidence": 42.77297592163086,
         "Instances": [],
         "Parents": [
           {
@@ -13182,7 +13182,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 52.87728500366211,
+        "Confidence": 22.87728500366211,
         "Instances": [],
         "Parents": [
           {
@@ -13426,7 +13426,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.6117057800293,
+        "Confidence": 22.6117057800293,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13460,7 +13460,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Couch",
-        "Confidence": 50.21688461303711,
+        "Confidence": 20.21688461303711,
         "Instances": [],
         "Parents": [
           {
@@ -13520,7 +13520,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Face",
-        "Confidence": 59.78146743774414,
+        "Confidence": 29.78146743774414,
         "Instances": [],
         "Parents": [
           {
@@ -13598,7 +13598,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Finger",
-        "Confidence": 51.819244384765625,
+        "Confidence": 31.819244384765625,
         "Instances": [],
         "Parents": [
           {
@@ -13623,7 +13623,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Firearm",
-        "Confidence": 50.882957458496094,
+        "Confidence": 10.882957458496094,
         "Instances": [],
         "Parents": [
           {
@@ -13755,7 +13755,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 53.300968170166016,
+        "Confidence": 33.300968170166016,
         "Instances": [],
         "Parents": [
           {
@@ -13814,7 +13814,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Injection",
-        "Confidence": 50.10769271850586,
+        "Confidence": 30.10769271850586,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13891,7 +13891,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 51.18122863769531,
+        "Confidence": 31.18122863769531,
         "Instances": [],
         "Parents": [
           {
@@ -14084,7 +14084,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 52.33602523803711,
+        "Confidence": 42.33602523803711,
         "Instances": [],
         "Parents": [
           {
@@ -14181,7 +14181,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Tub",
-        "Confidence": 50.598575592041016,
+        "Confidence": 30.598575592041016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14215,7 +14215,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 56.17875671386719,
+        "Confidence": 36.17875671386719,
         "Instances": [],
         "Parents": [
           {
@@ -14701,7 +14701,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.480628967285156,
+        "Confidence": 41.480628967285156,
         "Instances": [],
         "Parents": [
           {
@@ -14786,7 +14786,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.641632080078125,
+        "Confidence": 42.641632080078125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15036,7 +15036,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.02886962890625,
+        "Confidence": 40.02886962890625,
         "Instances": [],
         "Parents": [
           {
@@ -15074,7 +15074,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 53.79323959350586,
+        "Confidence": 43.79323959350586,
         "Instances": [],
         "Parents": [
           {
@@ -15096,7 +15096,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Shooting",
-        "Confidence": 52.081199645996094,
+        "Confidence": 42.081199645996094,
         "Instances": [],
         "Parents": [
           {
@@ -15221,7 +15221,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 50.41960525512695,
+        "Confidence": 40.41960525512695,
         "Instances": [],
         "Parents": [
           {
@@ -15305,7 +15305,7 @@
               "Left": 0.3092304766178131,
               "Top": 0.406791090965271
             },
-            "Confidence": 56.704227447509766
+            "Confidence": 26.704227447509766
           }
         ],
         "Parents": [
@@ -15405,7 +15405,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.35165786743164,
+        "Confidence": 43.35165786743164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15492,7 +15492,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Duel",
-        "Confidence": 53.297767639160156,
+        "Confidence": 43.297767639160156,
         "Instances": [],
         "Parents": [
           {
@@ -15617,7 +15617,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 52.628475189208984,
+        "Confidence": 42.628475189208984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15748,7 +15748,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 51.17124557495117,
+        "Confidence": 31.17124557495117,
         "Instances": [],
         "Parents": [
           {
@@ -15770,7 +15770,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 54.03540802001953,
+        "Confidence": 34.03540802001953,
         "Instances": [],
         "Parents": [
           {
@@ -15801,7 +15801,7 @@
               "Left": 0.563723087310791,
               "Top": 0.19118741154670715
             },
-            "Confidence": 58.263023376464844
+            "Confidence": 48.263023376464844
           }
         ],
         "Parents": [
@@ -15871,7 +15871,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Package",
-        "Confidence": 54.55362319946289,
+        "Confidence": 44.55362319946289,
         "Instances": [
           {
             "BoundingBox": {
@@ -15900,7 +15900,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Panties",
-        "Confidence": 51.07259750366211,
+        "Confidence": 21.07259750366211,
         "Instances": [],
         "Parents": [
           {
@@ -15925,7 +15925,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 50.9063720703125,
+        "Confidence": 20.9063720703125,
         "Instances": [],
         "Parents": [
           {
@@ -16021,7 +16021,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 52.62035369873047,
+        "Confidence": 22.62035369873047,
         "Instances": [],
         "Parents": [
           {
@@ -16043,7 +16043,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Shooting",
-        "Confidence": 52.14377212524414,
+        "Confidence": 42.14377212524414,
         "Instances": [],
         "Parents": [
           {
@@ -16065,7 +16065,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 53.91138458251953,
+        "Confidence": 23.91138458251953,
         "Instances": [],
         "Parents": [
           {
@@ -16099,7 +16099,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 52.96616744995117,
+        "Confidence": 22.96616744995117,
         "Instances": [],
         "Parents": [
           {
@@ -16427,7 +16427,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 55.41044235229492,
+        "Confidence": 45.41044235229492,
         "Instances": [],
         "Parents": [
           {
@@ -16465,7 +16465,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 54.1704216003418,
+        "Confidence": 24.1704216003418,
         "Instances": [],
         "Parents": [
           {
@@ -16484,7 +16484,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 51.26285934448242,
+        "Confidence": 31.26285934448242,
         "Instances": [],
         "Parents": [
           {
@@ -16594,7 +16594,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Finger",
-        "Confidence": 51.041709899902344,
+        "Confidence": 31.041709899902344,
         "Instances": [],
         "Parents": [
           {
@@ -16619,7 +16619,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 53.92868423461914,
+        "Confidence": 23.92868423461914,
         "Instances": [],
         "Parents": [
           {
@@ -16638,7 +16638,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 55.990928649902344,
+        "Confidence": 35.990928649902344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16672,7 +16672,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Gun",
-        "Confidence": 55.98591995239258,
+        "Confidence": 45.98591995239258,
         "Instances": [],
         "Parents": [
           {
@@ -16791,7 +16791,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Kissing",
-        "Confidence": 50.95832443237305,
+        "Confidence": 40.95832443237305,
         "Instances": [],
         "Parents": [
           {
@@ -16961,7 +16961,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Panties",
-        "Confidence": 51.661399841308594,
+        "Confidence": 31.661399841308594,
         "Instances": [],
         "Parents": [
           {
@@ -16986,7 +16986,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 51.93988800048828,
+        "Confidence": 31.93988800048828,
         "Instances": [],
         "Parents": [
           {
@@ -17062,7 +17062,7 @@
               "Left": 0.349789559841156,
               "Top": 0.005492114927619696
             },
-            "Confidence": 59.21665573120117
+            "Confidence": 49.21665573120117
           }
         ],
         "Parents": [],
@@ -17082,7 +17082,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 51.12611389160156,
+        "Confidence": 41.12611389160156,
         "Instances": [],
         "Parents": [
           {
@@ -17101,7 +17101,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Room",
-        "Confidence": 51.26285934448242,
+        "Confidence": 41.26285934448242,
         "Instances": [],
         "Parents": [
           {
@@ -17120,7 +17120,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 53.92868423461914,
+        "Confidence": 13.92868423461914,
         "Instances": [],
         "Parents": [
           {
@@ -17223,7 +17223,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 53.37113952636719,
+        "Confidence": 33.37113952636719,
         "Instances": [],
         "Parents": [
           {
@@ -17264,7 +17264,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Thong",
-        "Confidence": 50.07359313964844,
+        "Confidence": 30.07359313964844,
         "Instances": [],
         "Parents": [
           {
@@ -17311,7 +17311,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 56.13954162597656,
+        "Confidence": 26.13954162597656,
         "Instances": [],
         "Parents": [
           {
@@ -17500,7 +17500,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.2158317565918,
+        "Confidence": 33.2158317565918,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17515,7 +17515,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Chair",
-        "Confidence": 54.726898193359375,
+        "Confidence": 44.726898193359375,
         "Instances": [],
         "Parents": [
           {
@@ -17534,7 +17534,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 58.22587203979492,
+        "Confidence": 38.22587203979492,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -17572,7 +17572,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 51.285499572753906,
+        "Confidence": 21.285499572753906,
         "Instances": [],
         "Parents": [
           {
@@ -17654,7 +17654,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 52.79245376586914,
+        "Confidence": 22.79245376586914,
         "Instances": [],
         "Parents": [
           {
@@ -17673,7 +17673,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 55.753482818603516,
+        "Confidence": 45.753482818603516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17789,7 +17789,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 55.31849670410156,
+        "Confidence": 45.31849670410156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17855,7 +17855,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 55.92322540283203,
+        "Confidence": 45.92322540283203,
         "Instances": [],
         "Parents": [
           {
@@ -18044,7 +18044,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.48472213745117,
+        "Confidence": 30.48472213745117,
         "Instances": [],
         "Parents": [
           {
@@ -18123,7 +18123,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 50.66266632080078,
+        "Confidence": 20.66266632080078,
         "Instances": [],
         "Parents": [
           {
@@ -18157,7 +18157,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 53.87458038330078,
+        "Confidence": 23.87458038330078,
         "Instances": [],
         "Parents": [
           {
@@ -18185,7 +18185,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 54.0731315612793,
+        "Confidence": 44.0731315612793,
         "Instances": [],
         "Parents": [
           {
@@ -18204,7 +18204,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.042293548583984,
+        "Confidence": 43.042293548583984,
         "Instances": [],
         "Parents": [
           {
@@ -18327,7 +18327,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Accessories",
-        "Confidence": 50.422630310058594,
+        "Confidence": 10.422630310058594,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -18415,7 +18415,7 @@
               "Left": 0.4017501175403595,
               "Top": 0.4169536530971527
             },
-            "Confidence": 54.27655029296875
+            "Confidence": 14.27655029296875
           }
         ],
         "Parents": [
@@ -18457,7 +18457,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.76079559326172,
+        "Confidence": 33.76079559326172,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18472,7 +18472,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Bra",
-        "Confidence": 50.21989440917969,
+        "Confidence": 40.21989440917969,
         "Instances": [],
         "Parents": [
           {
@@ -18573,7 +18573,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 50.38297653198242,
+        "Confidence": 40.38297653198242,
         "Instances": [],
         "Parents": [
           {
@@ -18843,7 +18843,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 51.62180709838867,
+        "Confidence": 31.62180709838867,
         "Instances": [],
         "Parents": [
           {
@@ -18892,7 +18892,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Interview",
-        "Confidence": 51.2194709777832,
+        "Confidence": 31.2194709777832,
         "Instances": [],
         "Parents": [
           {
@@ -18965,7 +18965,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 55.87882614135742,
+        "Confidence": 35.87882614135742,
         "Instances": [],
         "Parents": [
           {
@@ -19066,7 +19066,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Panties",
-        "Confidence": 51.7119140625,
+        "Confidence": 21.7119140625,
         "Instances": [],
         "Parents": [
           {
@@ -19091,7 +19091,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 51.62180709838867,
+        "Confidence": 11.62180709838867,
         "Instances": [],
         "Parents": [
           {
@@ -19140,7 +19140,7 @@
               "Left": 0.4017501175403595,
               "Top": 0.4169536530971527
             },
-            "Confidence": 54.27655029296875
+            "Confidence": 24.27655029296875
           }
         ],
         "Parents": [],
@@ -19179,7 +19179,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Room",
-        "Confidence": 50.543548583984375,
+        "Confidence": 30.543548583984375,
         "Instances": [],
         "Parents": [
           {
@@ -19239,7 +19239,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 53.250572204589844,
+        "Confidence": 43.250572204589844,
         "Instances": [],
         "Parents": [
           {
@@ -19392,7 +19392,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Torso",
-        "Confidence": 50.1486930847168,
+        "Confidence": 30.1486930847168,
         "Instances": [],
         "Parents": [
           {
@@ -19542,7 +19542,7 @@
               "Left": 0.3819241523742676,
               "Top": 0.013005523942410946
             },
-            "Confidence": 56.26689910888672
+            "Confidence": 26.26689910888672
           }
         ],
         "Parents": [
@@ -19562,7 +19562,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 53.476768493652344,
+        "Confidence": 43.476768493652344,
         "Instances": [],
         "Parents": [
           {
@@ -19632,7 +19632,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Bathroom",
-        "Confidence": 50.976234436035156,
+        "Confidence": 20.976234436035156,
         "Instances": [],
         "Parents": [
           {
@@ -19691,7 +19691,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Chair",
-        "Confidence": 56.071868896484375,
+        "Confidence": 46.071868896484375,
         "Instances": [],
         "Parents": [
           {
@@ -19729,7 +19729,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Conversation",
-        "Confidence": 51.104610443115234,
+        "Confidence": 21.104610443115234,
         "Instances": [],
         "Parents": [
           {
@@ -19748,7 +19748,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Couch",
-        "Confidence": 56.00784683227539,
+        "Confidence": 36.00784683227539,
         "Instances": [],
         "Parents": [
           {
@@ -19789,7 +19789,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Duel",
-        "Confidence": 51.1829833984375,
+        "Confidence": 31.1829833984375,
         "Instances": [],
         "Parents": [
           {
@@ -19911,7 +19911,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 53.520606994628906,
+        "Confidence": 23.520606994628906,
         "Instances": [],
         "Parents": [
           {
@@ -19964,7 +19964,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.18777084350586,
+        "Confidence": 31.18777084350586,
         "Instances": [],
         "Parents": [
           {
@@ -19986,7 +19986,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Hat",
-        "Confidence": 51.31269836425781,
+        "Confidence": 41.31269836425781,
         "Instances": [],
         "Parents": [
           {
@@ -20049,7 +20049,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 52.325992584228516,
+        "Confidence": 32.325992584228516,
         "Instances": [],
         "Parents": [
           {
@@ -20142,7 +20142,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 55.7642936706543,
+        "Confidence": 25.7642936706543,
         "Instances": [],
         "Parents": [
           {
@@ -20164,7 +20164,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Male",
-        "Confidence": 54.9544677734375,
+        "Confidence": 44.9544677734375,
         "Instances": [],
         "Parents": [
           {
@@ -20208,7 +20208,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 52.325992584228516,
+        "Confidence": 32.325992584228516,
         "Instances": [],
         "Parents": [
           {
@@ -20275,7 +20275,7 @@
               "Left": 0.3819241523742676,
               "Top": 0.013005523942410946
             },
-            "Confidence": 56.26689910888672
+            "Confidence": 36.26689910888672
           }
         ],
         "Parents": [],
@@ -20295,7 +20295,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Room",
-        "Confidence": 51.36582565307617,
+        "Confidence": 41.36582565307617,
         "Instances": [],
         "Parents": [
           {
@@ -20314,7 +20314,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 53.520606994628906,
+        "Confidence": 43.520606994628906,
         "Instances": [],
         "Parents": [
           {
@@ -20417,7 +20417,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 56.49424743652344,
+        "Confidence": 46.49424743652344,
         "Instances": [],
         "Parents": [
           {
@@ -20477,7 +20477,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Toilet",
-        "Confidence": 50.976234436035156,
+        "Confidence": 30.976234436035156,
         "Instances": [],
         "Parents": [
           {
@@ -20521,7 +20521,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 55.8990592956543,
+        "Confidence": 45.8990592956543,
         "Instances": [],
         "Parents": [
           {
@@ -20668,7 +20668,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 52.792991638183594,
+        "Confidence": 42.792991638183594,
         "Instances": [],
         "Parents": [
           {
@@ -20728,7 +20728,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Bikini",
-        "Confidence": 50.72295379638672,
+        "Confidence": 40.72295379638672,
         "Instances": [],
         "Parents": [
           {
@@ -20765,7 +20765,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 56.31547927856445,
+        "Confidence": 46.31547927856445,
         "Instances": [],
         "Parents": [
           {
@@ -20860,7 +20860,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Face",
-        "Confidence": 58.75541687011719,
+        "Confidence": 28.75541687011719,
         "Instances": [],
         "Parents": [
           {
@@ -20963,7 +20963,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 50.26073455810547,
+        "Confidence": 30.26073455810547,
         "Instances": [],
         "Parents": [
           {
@@ -21039,7 +21039,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 51.75298309326172,
+        "Confidence": 31.75298309326172,
         "Instances": [],
         "Parents": [
           {
@@ -21120,7 +21120,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 50.6213493347168,
+        "Confidence": 40.6213493347168,
         "Instances": [],
         "Parents": [
           {
@@ -21223,7 +21223,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 50.83531951904297,
+        "Confidence": 10.83531951904297,
         "Instances": [],
         "Parents": [
           {
@@ -21310,7 +21310,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 51.75298309326172,
+        "Confidence": 21.75298309326172,
         "Instances": [],
         "Parents": [
           {
@@ -21454,7 +21454,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 54.47189712524414,
+        "Confidence": 34.47189712524414,
         "Instances": [],
         "Parents": [
           {
@@ -21473,7 +21473,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 53.62510299682617,
+        "Confidence": 43.62510299682617,
         "Instances": [],
         "Parents": [
           {
@@ -21609,7 +21609,7 @@
               "Left": 0.0007230453775264323,
               "Top": 0.004680518992245197
             },
-            "Confidence": 51.11326599121094
+            "Confidence": 31.11326599121094
           }
         ],
         "Parents": [
@@ -21629,7 +21629,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 53.13653564453125,
+        "Confidence": 43.13653564453125,
         "Instances": [],
         "Parents": [
           {
@@ -21680,7 +21680,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Bikini",
-        "Confidence": 50.36366653442383,
+        "Confidence": 40.36366653442383,
         "Instances": [],
         "Parents": [
           {
@@ -21702,7 +21702,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.633262634277344,
+        "Confidence": 23.633262634277344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21761,7 +21761,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 58.497379302978516,
+        "Confidence": 48.497379302978516,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -21912,7 +21912,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 53.88331604003906,
+        "Confidence": 33.88331604003906,
         "Instances": [],
         "Parents": [
           {
@@ -22069,7 +22069,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.98202896118164,
+        "Confidence": 42.98202896118164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22165,7 +22165,7 @@
               "Left": 0.0007230453775264323,
               "Top": 0.004680518992245197
             },
-            "Confidence": 51.11326599121094
+            "Confidence": 21.11326599121094
           }
         ],
         "Parents": [
@@ -22254,7 +22254,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 51.20296859741211,
+        "Confidence": 31.20296859741211,
         "Instances": [],
         "Parents": [
           {
@@ -22330,7 +22330,7 @@
               "Left": 0.0007230453775264323,
               "Top": 0.004680518992245197
             },
-            "Confidence": 51.11326599121094
+            "Confidence": 21.11326599121094
           }
         ],
         "Parents": [],
@@ -22410,7 +22410,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 55.54637908935547,
+        "Confidence": 25.54637908935547,
         "Instances": [],
         "Parents": [
           {
@@ -22532,7 +22532,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Thong",
-        "Confidence": 50.068145751953125,
+        "Confidence": 10.068145751953125,
         "Instances": [],
         "Parents": [
           {
@@ -22560,7 +22560,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Torso",
-        "Confidence": 50.044681549072266,
+        "Confidence": 20.044681549072266,
         "Instances": [],
         "Parents": [
           {
@@ -22582,7 +22582,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 55.03157424926758,
+        "Confidence": 25.03157424926758,
         "Instances": [],
         "Parents": [
           {
@@ -22601,7 +22601,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 57.072505950927734,
+        "Confidence": 37.072505950927734,
         "Instances": [],
         "Parents": [
           {
@@ -22620,7 +22620,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.99940872192383,
+        "Confidence": 22.99940872192383,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -22867,7 +22867,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.11294937133789,
+        "Confidence": 43.11294937133789,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22980,7 +22980,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Face",
-        "Confidence": 54.582679748535156,
+        "Confidence": 34.582679748535156,
         "Instances": [],
         "Parents": [
           {
@@ -23029,7 +23029,7 @@
               "Left": 0.36189600825309753,
               "Top": 0.0018901824951171875
             },
-            "Confidence": 56.666038513183594
+            "Confidence": 26.666038513183594
           },
           {
             "BoundingBox": {
@@ -23117,7 +23117,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Gun",
-        "Confidence": 54.76155471801758,
+        "Confidence": 44.76155471801758,
         "Instances": [],
         "Parents": [
           {
@@ -23177,7 +23177,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 53.31580352783203,
+        "Confidence": 23.31580352783203,
         "Instances": [],
         "Parents": [
           {
@@ -23202,7 +23202,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 50.652259826660156,
+        "Confidence": 30.652259826660156,
         "Instances": [],
         "Parents": [
           {
@@ -23221,7 +23221,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 54.00202560424805,
+        "Confidence": 44.00202560424805,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23236,7 +23236,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 52.15511703491211,
+        "Confidence": 32.15511703491211,
         "Instances": [],
         "Parents": [
           {
@@ -23336,7 +23336,7 @@
               "Left": 0.5472238659858704,
               "Top": 0.45890334248542786
             },
-            "Confidence": 58.68400955200195
+            "Confidence": 48.68400955200195
           }
         ],
         "Parents": [
@@ -23362,7 +23362,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Panties",
-        "Confidence": 51.851993560791016,
+        "Confidence": 31.851993560791016,
         "Instances": [],
         "Parents": [
           {
@@ -23387,7 +23387,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 50.652259826660156,
+        "Confidence": 40.652259826660156,
         "Instances": [],
         "Parents": [
           {
@@ -23472,7 +23472,7 @@
               "Left": 0.36189600825309753,
               "Top": 0.0018901824951171875
             },
-            "Confidence": 56.666038513183594
+            "Confidence": 36.666038513183594
           },
           {
             "BoundingBox": {
@@ -23481,7 +23481,7 @@
               "Left": 0.4136849343776703,
               "Top": 0.006022548768669367
             },
-            "Confidence": 53.23295593261719
+            "Confidence": 33.23295593261719
           }
         ],
         "Parents": [],
@@ -23501,7 +23501,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Room",
-        "Confidence": 50.40658187866211,
+        "Confidence": 30.40658187866211,
         "Instances": [],
         "Parents": [
           {
@@ -23520,7 +23520,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 53.31580352783203,
+        "Confidence": 33.31580352783203,
         "Instances": [],
         "Parents": [
           {
@@ -23561,7 +23561,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 59.23754119873047,
+        "Confidence": 29.23754119873047,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23645,7 +23645,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Thong",
-        "Confidence": 50.145164489746094,
+        "Confidence": 40.145164489746094,
         "Instances": [],
         "Parents": [
           {
@@ -23711,7 +23711,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 54.76155471801758,
+        "Confidence": 34.76155471801758,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -23819,7 +23819,7 @@
               "Left": 0.41554999351501465,
               "Top": 0.004447345621883869
             },
-            "Confidence": 50.27140808105469
+            "Confidence": 30.27140808105469
           }
         ],
         "Parents": [
@@ -23839,7 +23839,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.9033088684082,
+        "Confidence": 20.9033088684082,
         "Instances": [],
         "Parents": [
           {
@@ -23861,7 +23861,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Arm",
-        "Confidence": 50.353553771972656,
+        "Confidence": 30.353553771972656,
         "Instances": [],
         "Parents": [
           {
@@ -23883,7 +23883,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 53.78221130371094,
+        "Confidence": 33.78221130371094,
         "Instances": [],
         "Parents": [
           {
@@ -23997,7 +23997,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 55.81638717651367,
+        "Confidence": 45.81638717651367,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24012,7 +24012,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Bra",
-        "Confidence": 50.060935974121094,
+        "Confidence": 30.060935974121094,
         "Instances": [],
         "Parents": [
           {
@@ -24113,7 +24113,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 51.22346878051758,
+        "Confidence": 31.22346878051758,
         "Instances": [],
         "Parents": [
           {
@@ -24292,7 +24292,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 52.84135437011719,
+        "Confidence": 12.84135437011719,
         "Instances": [],
         "Parents": [
           {
@@ -24448,7 +24448,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 54.58660888671875,
+        "Confidence": 34.58660888671875,
         "Instances": [],
         "Parents": [
           {
@@ -24470,7 +24470,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Latex Clothing",
-        "Confidence": 50.268489837646484,
+        "Confidence": 40.268489837646484,
         "Instances": [],
         "Parents": [
           {
@@ -24575,7 +24575,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 50.44377136230469,
+        "Confidence": 20.44377136230469,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24590,7 +24590,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Panties",
-        "Confidence": 52.122154235839844,
+        "Confidence": 32.122154235839844,
         "Instances": [],
         "Parents": [
           {
@@ -24651,7 +24651,7 @@
               "Left": 0.41554999351501465,
               "Top": 0.004447345621883869
             },
-            "Confidence": 50.27140808105469
+            "Confidence": 30.27140808105469
           }
         ],
         "Parents": [],
@@ -24900,7 +24900,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Toilet",
-        "Confidence": 53.544986724853516,
+        "Confidence": 33.544986724853516,
         "Instances": [],
         "Parents": [
           {
@@ -24947,7 +24947,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Tub",
-        "Confidence": 52.5128173828125,
+        "Confidence": 22.5128173828125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25000,7 +25000,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.84135437011719,
+        "Confidence": 42.84135437011719,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -25037,7 +25037,7 @@
               "Left": 0.41554999351501465,
               "Top": 0.004447345621883869
             },
-            "Confidence": 50.27140808105469
+            "Confidence": 30.27140808105469
           }
         ],
         "Parents": [
@@ -25110,7 +25110,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Alien",
-        "Confidence": 50.364593505859375,
+        "Confidence": 40.364593505859375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25207,7 +25207,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 52.353858947753906,
+        "Confidence": 22.353858947753906,
         "Instances": [],
         "Parents": [
           {
@@ -25226,7 +25226,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Bathroom",
-        "Confidence": 50.992130279541016,
+        "Confidence": 40.992130279541016,
         "Instances": [],
         "Parents": [
           {
@@ -25270,7 +25270,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 55.40918731689453,
+        "Confidence": 45.40918731689453,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25285,7 +25285,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Bra",
-        "Confidence": 51.72777557373047,
+        "Confidence": 41.72777557373047,
         "Instances": [],
         "Parents": [
           {
@@ -25458,7 +25458,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Finger",
-        "Confidence": 55.2351188659668,
+        "Confidence": 45.2351188659668,
         "Instances": [],
         "Parents": [
           {
@@ -25483,7 +25483,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 59.483985900878906,
+        "Confidence": 49.483985900878906,
         "Instances": [],
         "Parents": [
           {
@@ -25577,7 +25577,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Hat",
-        "Confidence": 50.17200469970703,
+        "Confidence": 40.17200469970703,
         "Instances": [],
         "Parents": [
           {
@@ -25615,7 +25615,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 59.483985900878906,
+        "Confidence": 49.483985900878906,
         "Instances": [],
         "Parents": [
           {
@@ -25662,7 +25662,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 52.0204963684082,
+        "Confidence": 22.0204963684082,
         "Instances": [],
         "Parents": [
           {
@@ -25681,7 +25681,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 55.227149963378906,
+        "Confidence": 25.227149963378906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25766,7 +25766,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 57.513282775878906,
+        "Confidence": 37.513282775878906,
         "Instances": [],
         "Parents": [
           {
@@ -25788,7 +25788,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 50.051048278808594,
+        "Confidence": 30.051048278808594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25915,7 +25915,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.472843170166016,
+        "Confidence": 40.472843170166016,
         "Instances": [],
         "Parents": [
           {
@@ -26037,7 +26037,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 56.151119232177734,
+        "Confidence": 36.151119232177734,
         "Instances": [],
         "Parents": [
           {
@@ -26078,7 +26078,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Thong",
-        "Confidence": 50.89106750488281,
+        "Confidence": 30.89106750488281,
         "Instances": [],
         "Parents": [
           {
@@ -26131,7 +26131,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Tub",
-        "Confidence": 51.176509857177734,
+        "Confidence": 41.176509857177734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -26146,7 +26146,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 52.191856384277344,
+        "Confidence": 42.191856384277344,
         "Instances": [],
         "Parents": [
           {
@@ -26301,7 +26301,7 @@
               "Left": 0.43791094422340393,
               "Top": 0.09199044853448868
             },
-            "Confidence": 51.37519836425781
+            "Confidence": 31.37519836425781
           }
         ],
         "Parents": [
@@ -26321,7 +26321,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.99665069580078,
+        "Confidence": 20.99665069580078,
         "Instances": [],
         "Parents": [
           {
@@ -26374,7 +26374,7 @@
               "Left": 0.11723605543375015,
               "Top": 0.27393457293510437
             },
-            "Confidence": 58.99662399291992
+            "Confidence": 18.99662399291992
           }
         ],
         "Parents": [
@@ -26394,7 +26394,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 53.1666374206543,
+        "Confidence": 23.1666374206543,
         "Instances": [],
         "Parents": [
           {
@@ -26413,7 +26413,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Bathroom",
-        "Confidence": 50.25767517089844,
+        "Confidence": 20.25767517089844,
         "Instances": [],
         "Parents": [
           {
@@ -26435,7 +26435,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Bikini",
-        "Confidence": 50.75703430175781,
+        "Confidence": 30.75703430175781,
         "Instances": [],
         "Parents": [
           {
@@ -26457,7 +26457,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.71476745605469,
+        "Confidence": 44.71476745605469,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -26595,7 +26595,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Duel",
-        "Confidence": 50.44832992553711,
+        "Confidence": 40.44832992553711,
         "Instances": [],
         "Parents": [
           {
@@ -26614,7 +26614,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Face",
-        "Confidence": 58.10161590576172,
+        "Confidence": 38.10161590576172,
         "Instances": [],
         "Parents": [
           {
@@ -26733,7 +26733,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 52.36299514770508,
+        "Confidence": 32.36299514770508,
         "Instances": [],
         "Parents": [
           {
@@ -26752,7 +26752,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 54.3244514465332,
+        "Confidence": 44.3244514465332,
         "Instances": [],
         "Parents": [
           {
@@ -26774,7 +26774,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Hat",
-        "Confidence": 50.10593032836914,
+        "Confidence": 30.10593032836914,
         "Instances": [],
         "Parents": [
           {
@@ -26837,7 +26837,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 53.67306137084961,
+        "Confidence": 43.67306137084961,
         "Instances": [],
         "Parents": [
           {
@@ -26871,7 +26871,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Interview",
-        "Confidence": 50.730934143066406,
+        "Confidence": 30.730934143066406,
         "Instances": [],
         "Parents": [
           {
@@ -26944,7 +26944,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Latex Clothing",
-        "Confidence": 50.7916374206543,
+        "Confidence": 10.7916374206543,
         "Instances": [],
         "Parents": [
           {
@@ -27012,7 +27012,7 @@
               "Left": 0.0003014239191543311,
               "Top": 0.5672606825828552
             },
-            "Confidence": 58.24705505371094
+            "Confidence": 18.24705505371094
           }
         ],
         "Parents": [
@@ -27059,7 +27059,7 @@
               "Left": 0.0003014239191543311,
               "Top": 0.5672606825828552
             },
-            "Confidence": 58.24705505371094
+            "Confidence": 28.24705505371094
           }
         ],
         "Parents": [
@@ -27085,7 +27085,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Miniskirt",
-        "Confidence": 51.2901611328125,
+        "Confidence": 31.2901611328125,
         "Instances": [],
         "Parents": [
           {
@@ -27132,7 +27132,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 53.67306137084961,
+        "Confidence": 33.67306137084961,
         "Instances": [],
         "Parents": [
           {
@@ -27190,7 +27190,7 @@
               "Left": 0.11723605543375015,
               "Top": 0.27393457293510437
             },
-            "Confidence": 58.99662399291992
+            "Confidence": 38.99662399291992
           },
           {
             "BoundingBox": {
@@ -27228,7 +27228,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.1864128112793,
+        "Confidence": 20.1864128112793,
         "Instances": [],
         "Parents": [
           {
@@ -27341,7 +27341,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 52.85394287109375,
+        "Confidence": 42.85394287109375,
         "Instances": [],
         "Parents": [
           {
@@ -27410,7 +27410,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Thong",
-        "Confidence": 50.67678451538086,
+        "Confidence": 20.67678451538086,
         "Instances": [],
         "Parents": [
           {
@@ -27463,7 +27463,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 52.91554260253906,
+        "Confidence": 42.91554260253906,
         "Instances": [],
         "Parents": [
           {
@@ -27482,7 +27482,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 57.59339904785156,
+        "Confidence": 37.59339904785156,
         "Instances": [],
         "Parents": [
           {
@@ -27501,7 +27501,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.36299514770508,
+        "Confidence": 32.36299514770508,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -27538,7 +27538,7 @@
               "Left": 0.43791094422340393,
               "Top": 0.09199044853448868
             },
-            "Confidence": 51.37519836425781
+            "Confidence": 41.37519836425781
           }
         ],
         "Parents": [
@@ -27624,7 +27624,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 51.5518798828125,
+        "Confidence": 31.5518798828125,
         "Instances": [],
         "Parents": [
           {
@@ -27769,7 +27769,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.29383850097656,
+        "Confidence": 33.29383850097656,
         "Instances": [],
         "Parents": [
           {
@@ -27880,7 +27880,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Finger",
-        "Confidence": 53.947288513183594,
+        "Confidence": 33.947288513183594,
         "Instances": [],
         "Parents": [
           {
@@ -27924,7 +27924,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 57.422828674316406,
+        "Confidence": 17.422828674316406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28024,7 +28024,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 50.119728088378906,
+        "Confidence": 30.119728088378906,
         "Instances": [],
         "Parents": [
           {
@@ -28077,7 +28077,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 51.74024963378906,
+        "Confidence": 31.74024963378906,
         "Instances": [],
         "Parents": [
           {
@@ -28204,7 +28204,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Panties",
-        "Confidence": 53.584678649902344,
+        "Confidence": 13.584678649902344,
         "Instances": [],
         "Parents": [
           {
@@ -28229,7 +28229,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 50.119728088378906,
+        "Confidence": 30.119728088378906,
         "Instances": [],
         "Parents": [
           {
@@ -28336,7 +28336,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 57.842037200927734,
+        "Confidence": 37.842037200927734,
         "Instances": [],
         "Parents": [
           {
@@ -28358,7 +28358,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 54.54343032836914,
+        "Confidence": 44.54343032836914,
         "Instances": [],
         "Parents": [
           {
@@ -28564,7 +28564,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.37798309326172,
+        "Confidence": 32.37798309326172,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -28707,7 +28707,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 50.202003479003906,
+        "Confidence": 40.202003479003906,
         "Instances": [],
         "Parents": [
           {
@@ -28726,7 +28726,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.53850173950195,
+        "Confidence": 23.53850173950195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28779,7 +28779,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Couch",
-        "Confidence": 54.5269660949707,
+        "Confidence": 14.5269660949707,
         "Instances": [],
         "Parents": [
           {
@@ -28890,7 +28890,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Finger",
-        "Confidence": 51.43612289428711,
+        "Confidence": 11.43612289428711,
         "Instances": [],
         "Parents": [
           {
@@ -28934,7 +28934,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 57.527000427246094,
+        "Confidence": 47.527000427246094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28949,7 +28949,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 54.672420501708984,
+        "Confidence": 44.672420501708984,
         "Instances": [],
         "Parents": [
           {
@@ -29138,7 +29138,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 55.828914642333984,
+        "Confidence": 45.828914642333984,
         "Instances": [],
         "Parents": [
           {
@@ -29249,7 +29249,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 50.89952087402344,
+        "Confidence": 20.89952087402344,
         "Instances": [],
         "Parents": [
           {
@@ -29356,7 +29356,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 56.8106803894043,
+        "Confidence": 36.8106803894043,
         "Instances": [],
         "Parents": [
           {
@@ -29412,7 +29412,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 54.67698287963867,
+        "Confidence": 24.67698287963867,
         "Instances": [],
         "Parents": [
           {
@@ -29459,7 +29459,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.219635009765625,
+        "Confidence": 43.219635009765625,
         "Instances": [],
         "Parents": [
           {
@@ -29481,7 +29481,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Thong",
-        "Confidence": 50.68855667114258,
+        "Confidence": 40.68855667114258,
         "Instances": [],
         "Parents": [
           {
@@ -29509,7 +29509,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 53.34564971923828,
+        "Confidence": 33.34564971923828,
         "Instances": [],
         "Parents": [
           {
@@ -29657,7 +29657,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.71120834350586,
+        "Confidence": 33.71120834350586,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29751,7 +29751,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Duel",
-        "Confidence": 51.35162353515625,
+        "Confidence": 31.35162353515625,
         "Instances": [],
         "Parents": [
           {
@@ -29864,7 +29864,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Gun",
-        "Confidence": 54.8786506652832,
+        "Confidence": 34.8786506652832,
         "Instances": [],
         "Parents": [
           {
@@ -29902,7 +29902,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 54.47949981689453,
+        "Confidence": 24.47949981689453,
         "Instances": [],
         "Parents": [
           {
@@ -29946,7 +29946,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 54.15379333496094,
+        "Confidence": 34.15379333496094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29976,7 +29976,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Kicking",
-        "Confidence": 51.323692321777344,
+        "Confidence": 31.323692321777344,
         "Instances": [],
         "Parents": [
           {
@@ -30017,7 +30017,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 55.11947250366211,
+        "Confidence": 45.11947250366211,
         "Instances": [],
         "Parents": [
           {
@@ -30121,7 +30121,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Panties",
-        "Confidence": 52.49116134643555,
+        "Confidence": 42.49116134643555,
         "Instances": [],
         "Parents": [
           {
@@ -30146,7 +30146,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 50.088050842285156,
+        "Confidence": 20.088050842285156,
         "Instances": [],
         "Parents": [
           {
@@ -30262,7 +30262,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 54.47949981689453,
+        "Confidence": 34.47949981689453,
         "Instances": [],
         "Parents": [
           {
@@ -30284,7 +30284,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 54.413516998291016,
+        "Confidence": 44.413516998291016,
         "Instances": [],
         "Parents": [
           {
@@ -30365,7 +30365,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.57550048828125,
+        "Confidence": 43.57550048828125,
         "Instances": [],
         "Parents": [
           {
@@ -30387,7 +30387,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Thong",
-        "Confidence": 50.60512924194336,
+        "Confidence": 40.60512924194336,
         "Instances": [],
         "Parents": [
           {
@@ -30453,7 +30453,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 54.8786506652832,
+        "Confidence": 44.8786506652832,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -30572,7 +30572,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 50.609893798828125,
+        "Confidence": 40.609893798828125,
         "Instances": [],
         "Parents": [
           {
@@ -30623,7 +30623,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.177371978759766,
+        "Confidence": 33.177371978759766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30638,7 +30638,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Bra",
-        "Confidence": 50.315582275390625,
+        "Confidence": 40.315582275390625,
         "Instances": [],
         "Parents": [
           {
@@ -30663,7 +30663,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Chair",
-        "Confidence": 55.78803253173828,
+        "Confidence": 25.78803253173828,
         "Instances": [],
         "Parents": [
           {
@@ -30820,7 +30820,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 55.87064743041992,
+        "Confidence": 35.87064743041992,
         "Instances": [],
         "Parents": [
           {
@@ -30917,7 +30917,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 55.40838623046875,
+        "Confidence": 25.40838623046875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30983,7 +30983,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 56.285491943359375,
+        "Confidence": 26.285491943359375,
         "Instances": [],
         "Parents": [
           {
@@ -31005,7 +31005,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Male",
-        "Confidence": 58.55486297607422,
+        "Confidence": 48.55486297607422,
         "Instances": [],
         "Parents": [
           {
@@ -31161,7 +31161,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 51.013431549072266,
+        "Confidence": 41.013431549072266,
         "Instances": [],
         "Parents": [
           {
@@ -31221,7 +31221,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 51.12586975097656,
+        "Confidence": 31.12586975097656,
         "Instances": [],
         "Parents": [
           {
@@ -31255,7 +31255,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 55.4404411315918,
+        "Confidence": 45.4404411315918,
         "Instances": [],
         "Parents": [
           {
@@ -31283,7 +31283,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 52.15678024291992,
+        "Confidence": 32.15678024291992,
         "Instances": [],
         "Parents": [
           {
@@ -31302,7 +31302,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.139339447021484,
+        "Confidence": 43.139339447021484,
         "Instances": [],
         "Parents": [
           {
@@ -31324,7 +31324,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 56.44782638549805,
+        "Confidence": 46.44782638549805,
         "Instances": [],
         "Parents": [
           {
@@ -31461,7 +31461,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.181373596191406,
+        "Confidence": 40.181373596191406,
         "Instances": [],
         "Parents": [
           {
@@ -31885,7 +31885,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 55.162784576416016,
+        "Confidence": 25.162784576416016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31929,7 +31929,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 52.18083953857422,
+        "Confidence": 42.18083953857422,
         "Instances": [],
         "Parents": [
           {
@@ -31951,7 +31951,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Latex Clothing",
-        "Confidence": 50.29595184326172,
+        "Confidence": 20.29595184326172,
         "Instances": [],
         "Parents": [
           {
@@ -31970,7 +31970,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 56.43421936035156,
+        "Confidence": 36.43421936035156,
         "Instances": [],
         "Parents": [
           {
@@ -32099,7 +32099,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 51.76668167114258,
+        "Confidence": 31.76668167114258,
         "Instances": [],
         "Parents": [
           {
@@ -32246,7 +32246,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 53.28117752075195,
+        "Confidence": 33.28117752075195,
         "Instances": [],
         "Parents": [
           {
@@ -32349,7 +32349,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Thong",
-        "Confidence": 50.55988311767578,
+        "Confidence": 20.55988311767578,
         "Instances": [],
         "Parents": [
           {
@@ -32415,7 +32415,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.38698959350586,
+        "Confidence": 31.38698959350586,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -32516,7 +32516,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.42026901245117,
+        "Confidence": 30.42026901245117,
         "Instances": [],
         "Parents": [
           {
@@ -32729,7 +32729,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 51.36785125732422,
+        "Confidence": 41.36785125732422,
         "Instances": [],
         "Parents": [
           {
@@ -32821,7 +32821,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Finger",
-        "Confidence": 51.40047073364258,
+        "Confidence": 31.40047073364258,
         "Instances": [],
         "Parents": [
           {
@@ -32846,7 +32846,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 55.993675231933594,
+        "Confidence": 15.993675231933594,
         "Instances": [],
         "Parents": [
           {
@@ -32899,7 +32899,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.40047073364258,
+        "Confidence": 31.40047073364258,
         "Instances": [],
         "Parents": [
           {
@@ -32940,7 +32940,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 55.993675231933594,
+        "Confidence": 25.993675231933594,
         "Instances": [],
         "Parents": [
           {
@@ -32965,7 +32965,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 51.327396392822266,
+        "Confidence": 31.327396392822266,
         "Instances": [],
         "Parents": [
           {
@@ -32999,7 +32999,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Interview",
-        "Confidence": 50.166847229003906,
+        "Confidence": 20.166847229003906,
         "Instances": [],
         "Parents": [
           {
@@ -33021,7 +33021,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Kissing",
-        "Confidence": 50.65208053588867,
+        "Confidence": 40.65208053588867,
         "Instances": [],
         "Parents": [
           {
@@ -33072,7 +33072,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 55.61589813232422,
+        "Confidence": 15.61589813232422,
         "Instances": [],
         "Parents": [
           {
@@ -33158,7 +33158,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Miniskirt",
-        "Confidence": 50.259056091308594,
+        "Confidence": 30.259056091308594,
         "Instances": [],
         "Parents": [
           {
@@ -33199,7 +33199,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Painting",
-        "Confidence": 50.96927261352539,
+        "Confidence": 10.96927261352539,
         "Instances": [],
         "Parents": [
           {
@@ -33218,7 +33218,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Panties",
-        "Confidence": 50.56602096557617,
+        "Confidence": 40.56602096557617,
         "Instances": [],
         "Parents": [
           {
@@ -33391,7 +33391,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Skirt",
-        "Confidence": 50.29250717163086,
+        "Confidence": 20.29250717163086,
         "Instances": [],
         "Parents": [
           {
@@ -33472,7 +33472,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 52.64435958862305,
+        "Confidence": 42.64435958862305,
         "Instances": [],
         "Parents": [
           {
@@ -33532,7 +33532,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Waiting Room",
-        "Confidence": 50.36378479003906,
+        "Confidence": 40.36378479003906,
         "Instances": [],
         "Parents": [
           {
@@ -33747,7 +33747,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.364498138427734,
+        "Confidence": 34.364498138427734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -33800,7 +33800,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Conversation",
-        "Confidence": 51.3661003112793,
+        "Confidence": 11.3661003112793,
         "Instances": [],
         "Parents": [
           {
@@ -33860,7 +33860,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Duel",
-        "Confidence": 50.956825256347656,
+        "Confidence": 30.956825256347656,
         "Instances": [],
         "Parents": [
           {
@@ -33964,7 +33964,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 56.78600311279297,
+        "Confidence": 36.78600311279297,
         "Instances": [],
         "Parents": [
           {
@@ -34017,7 +34017,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 53.04083251953125,
+        "Confidence": 23.04083251953125,
         "Instances": [],
         "Parents": [
           {
@@ -34058,7 +34058,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 56.78600311279297,
+        "Confidence": 36.78600311279297,
         "Instances": [],
         "Parents": [
           {
@@ -34190,7 +34190,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 55.68833541870117,
+        "Confidence": 45.68833541870117,
         "Instances": [],
         "Parents": [
           {
@@ -34276,7 +34276,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Miniskirt",
-        "Confidence": 50.588890075683594,
+        "Confidence": 40.588890075683594,
         "Instances": [],
         "Parents": [
           {
@@ -34298,7 +34298,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Panties",
-        "Confidence": 50.67832946777344,
+        "Confidence": 30.67832946777344,
         "Instances": [],
         "Parents": [
           {
@@ -34439,7 +34439,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 56.78600311279297,
+        "Confidence": 26.78600311279297,
         "Instances": [],
         "Parents": [
           {
@@ -34461,7 +34461,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 54.810123443603516,
+        "Confidence": 44.810123443603516,
         "Instances": [],
         "Parents": [
           {
@@ -34514,7 +34514,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 52.00262451171875,
+        "Confidence": 42.00262451171875,
         "Instances": [],
         "Parents": [
           {
@@ -34542,7 +34542,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 52.83176040649414,
+        "Confidence": 32.83176040649414,
         "Instances": [],
         "Parents": [
           {
@@ -34643,7 +34643,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 53.17249298095703,
+        "Confidence": 33.17249298095703,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -34753,7 +34753,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Alien",
-        "Confidence": 50.75662612915039,
+        "Confidence": 20.75662612915039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35019,7 +35019,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Conversation",
-        "Confidence": 50.27979278564453,
+        "Confidence": 30.27979278564453,
         "Instances": [],
         "Parents": [
           {
@@ -35057,7 +35057,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 50.177711486816406,
+        "Confidence": 20.177711486816406,
         "Instances": [],
         "Parents": [
           {
@@ -35076,7 +35076,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 50.999698638916016,
+        "Confidence": 30.999698638916016,
         "Instances": [],
         "Parents": [
           {
@@ -35098,7 +35098,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Duel",
-        "Confidence": 51.95154571533203,
+        "Confidence": 41.95154571533203,
         "Instances": [],
         "Parents": [
           {
@@ -35139,7 +35139,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Fashion",
-        "Confidence": 50.46625900268555,
+        "Confidence": 30.46625900268555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35192,7 +35192,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Finger",
-        "Confidence": 55.24348449707031,
+        "Confidence": 45.24348449707031,
         "Instances": [],
         "Parents": [
           {
@@ -35217,7 +35217,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 56.69736099243164,
+        "Confidence": 36.69736099243164,
         "Instances": [],
         "Parents": [
           {
@@ -35251,7 +35251,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 53.8847770690918,
+        "Confidence": 33.8847770690918,
         "Instances": [],
         "Parents": [
           {
@@ -35270,7 +35270,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 55.24348449707031,
+        "Confidence": 25.24348449707031,
         "Instances": [],
         "Parents": [
           {
@@ -35292,7 +35292,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Hat",
-        "Confidence": 50.325340270996094,
+        "Confidence": 40.325340270996094,
         "Instances": [],
         "Parents": [
           {
@@ -35311,7 +35311,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Head",
-        "Confidence": 57.765132904052734,
+        "Confidence": 47.765132904052734,
         "Instances": [],
         "Parents": [
           {
@@ -35370,7 +35370,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 51.2654914855957,
+        "Confidence": 31.2654914855957,
         "Instances": [],
         "Parents": [
           {
@@ -35389,7 +35389,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.82823944091797,
+        "Confidence": 32.82823944091797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35404,7 +35404,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Injection",
-        "Confidence": 50.57554626464844,
+        "Confidence": 30.57554626464844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35441,7 +35441,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 54.18144989013672,
+        "Confidence": 44.18144989013672,
         "Instances": [],
         "Parents": [
           {
@@ -35571,7 +35571,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Modern Art",
-        "Confidence": 50.45305633544922,
+        "Confidence": 40.45305633544922,
         "Instances": [],
         "Parents": [
           {
@@ -35609,7 +35609,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Panties",
-        "Confidence": 50.84226989746094,
+        "Confidence": 40.84226989746094,
         "Instances": [],
         "Parents": [
           {
@@ -35712,7 +35712,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Room",
-        "Confidence": 51.10408401489258,
+        "Confidence": 41.10408401489258,
         "Instances": [],
         "Parents": [
           {
@@ -35731,7 +35731,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 56.69736099243164,
+        "Confidence": 36.69736099243164,
         "Instances": [],
         "Parents": [
           {
@@ -35753,7 +35753,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 55.0999755859375,
+        "Confidence": 15.0999755859375,
         "Instances": [],
         "Parents": [
           {
@@ -35937,7 +35937,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Tub",
-        "Confidence": 50.31777572631836,
+        "Confidence": 40.31777572631836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35971,7 +35971,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 57.240501403808594,
+        "Confidence": 37.240501403808594,
         "Instances": [],
         "Parents": [
           {
@@ -35990,7 +35990,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 53.8847770690918,
+        "Confidence": 23.8847770690918,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -36121,7 +36121,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.670921325683594,
+        "Confidence": 30.670921325683594,
         "Instances": [],
         "Parents": [
           {
@@ -36165,7 +36165,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Art",
-        "Confidence": 53.14794158935547,
+        "Confidence": 13.14794158935547,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36287,7 +36287,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Bra",
-        "Confidence": 50.924346923828125,
+        "Confidence": 20.924346923828125,
         "Instances": [],
         "Parents": [
           {
@@ -36369,7 +36369,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 57.43456268310547,
+        "Confidence": 37.43456268310547,
         "Instances": [],
         "Parents": [
           {
@@ -36410,7 +36410,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Duel",
-        "Confidence": 52.676361083984375,
+        "Confidence": 32.676361083984375,
         "Instances": [],
         "Parents": [
           {
@@ -36548,7 +36548,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Gun",
-        "Confidence": 55.26251220703125,
+        "Confidence": 45.26251220703125,
         "Instances": [],
         "Parents": [
           {
@@ -36567,7 +36567,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 52.460792541503906,
+        "Confidence": 32.460792541503906,
         "Instances": [],
         "Parents": [
           {
@@ -36652,7 +36652,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.42206573486328,
+        "Confidence": 32.42206573486328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36667,7 +36667,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Interview",
-        "Confidence": 50.1759147644043,
+        "Confidence": 40.1759147644043,
         "Instances": [],
         "Parents": [
           {
@@ -36771,7 +36771,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Panties",
-        "Confidence": 50.940608978271484,
+        "Confidence": 40.940608978271484,
         "Instances": [],
         "Parents": [
           {
@@ -36906,7 +36906,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 53.91690444946289,
+        "Confidence": 33.91690444946289,
         "Instances": [],
         "Parents": [
           {
@@ -36925,7 +36925,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 57.04520797729492,
+        "Confidence": 37.04520797729492,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36968,7 +36968,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 54.56671905517578,
+        "Confidence": 24.56671905517578,
         "Instances": [],
         "Parents": [
           {
@@ -36987,7 +36987,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.404422760009766,
+        "Confidence": 33.404422760009766,
         "Instances": [],
         "Parents": [
           {
@@ -37056,7 +37056,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Tub",
-        "Confidence": 51.54362487792969,
+        "Confidence": 41.54362487792969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37090,7 +37090,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 57.03376770019531,
+        "Confidence": 37.03376770019531,
         "Instances": [],
         "Parents": [
           {
@@ -37109,7 +37109,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 55.26251220703125,
+        "Confidence": 45.26251220703125,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -37199,7 +37199,7 @@
               "Left": 0.3585532605648041,
               "Top": 0.0019436455331742764
             },
-            "Confidence": 51.3865966796875
+            "Confidence": 31.3865966796875
           }
         ],
         "Parents": [
@@ -37219,7 +37219,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Alien",
-        "Confidence": 50.88581085205078,
+        "Confidence": 20.88581085205078,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37249,7 +37249,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 51.26482009887695,
+        "Confidence": 41.26482009887695,
         "Instances": [],
         "Parents": [
           {
@@ -37293,7 +37293,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Art",
-        "Confidence": 51.673397064208984,
+        "Confidence": 41.673397064208984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37516,7 +37516,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 50.49137878417969,
+        "Confidence": 20.49137878417969,
         "Instances": [],
         "Parents": [
           {
@@ -37606,7 +37606,7 @@
               "Left": 0.3585532605648041,
               "Top": 0.0019436455331742764
             },
-            "Confidence": 51.3865966796875
+            "Confidence": 41.3865966796875
           }
         ],
         "Parents": [
@@ -37685,7 +37685,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 55.808719635009766,
+        "Confidence": 45.808719635009766,
         "Instances": [],
         "Parents": [
           {
@@ -37704,7 +37704,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 54.545040130615234,
+        "Confidence": 14.545040130615234,
         "Instances": [],
         "Parents": [
           {
@@ -37745,7 +37745,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 55.62562561035156,
+        "Confidence": 45.62562561035156,
         "Instances": [],
         "Parents": [
           {
@@ -37923,7 +37923,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Panties",
-        "Confidence": 51.735198974609375,
+        "Confidence": 31.735198974609375,
         "Instances": [],
         "Parents": [
           {
@@ -38026,7 +38026,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Room",
-        "Confidence": 52.16156005859375,
+        "Confidence": 12.16156005859375,
         "Instances": [],
         "Parents": [
           {
@@ -38086,7 +38086,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 51.09565353393555,
+        "Confidence": 41.09565353393555,
         "Instances": [],
         "Parents": [
           {
@@ -38105,7 +38105,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 57.66667556762695,
+        "Confidence": 17.66667556762695,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -38120,7 +38120,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 51.11008834838867,
+        "Confidence": 41.11008834838867,
         "Instances": [],
         "Parents": [
           {
@@ -38148,7 +38148,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Stain",
-        "Confidence": 50.08036804199219,
+        "Confidence": 40.08036804199219,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -38229,7 +38229,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Torso",
-        "Confidence": 50.35334777832031,
+        "Confidence": 40.35334777832031,
         "Instances": [],
         "Parents": [
           {
@@ -38266,7 +38266,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 51.285160064697266,
+        "Confidence": 11.285160064697266,
         "Instances": [],
         "Parents": [
           {
@@ -38304,7 +38304,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 55.808719635009766,
+        "Confidence": 35.808719635009766,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -38350,7 +38350,7 @@
               "Left": 0.3585532605648041,
               "Top": 0.0019436455331742764
             },
-            "Confidence": 51.3865966796875
+            "Confidence": 21.3865966796875
           }
         ],
         "Parents": [
@@ -38447,7 +38447,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.854713439941406,
+        "Confidence": 20.854713439941406,
         "Instances": [],
         "Parents": [
           {
@@ -38469,7 +38469,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 51.74824523925781,
+        "Confidence": 11.74824523925781,
         "Instances": [],
         "Parents": [
           {
@@ -38520,7 +38520,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 52.48967361450195,
+        "Confidence": 32.48967361450195,
         "Instances": [],
         "Parents": [
           {
@@ -38554,7 +38554,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 56.64374542236328,
+        "Confidence": 36.64374542236328,
         "Instances": [],
         "Parents": [
           {
@@ -38573,7 +38573,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 55.336727142333984,
+        "Confidence": 45.336727142333984,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -38592,7 +38592,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.09184646606445,
+        "Confidence": 43.09184646606445,
         "Instances": [],
         "Parents": [
           {
@@ -38611,7 +38611,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Duel",
-        "Confidence": 50.917816162109375,
+        "Confidence": 10.917816162109375,
         "Instances": [],
         "Parents": [
           {
@@ -38630,7 +38630,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Face",
-        "Confidence": 54.48969268798828,
+        "Confidence": 34.48969268798828,
         "Instances": [],
         "Parents": [
           {
@@ -38690,7 +38690,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 53.86760330200195,
+        "Confidence": 13.86760330200195,
         "Instances": [],
         "Parents": [
           {
@@ -38709,7 +38709,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 59.66588592529297,
+        "Confidence": 39.66588592529297,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -38787,7 +38787,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 51.02772521972656,
+        "Confidence": 31.02772521972656,
         "Instances": [],
         "Parents": [
           {
@@ -38821,7 +38821,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Kicking",
-        "Confidence": 50.416587829589844,
+        "Confidence": 20.416587829589844,
         "Instances": [],
         "Parents": [
           {
@@ -38840,7 +38840,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 53.17517852783203,
+        "Confidence": 43.17517852783203,
         "Instances": [],
         "Parents": [
           {
@@ -38862,7 +38862,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 54.76772689819336,
+        "Confidence": 14.76772689819336,
         "Instances": [],
         "Parents": [
           {
@@ -39058,7 +39058,7 @@
               "Left": 0.0,
               "Top": 0.0013633347116410732
             },
-            "Confidence": 59.22938537597656
+            "Confidence": 49.22938537597656
           }
         ],
         "Parents": [],
@@ -39134,7 +39134,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 52.028175354003906,
+        "Confidence": 32.028175354003906,
         "Instances": [],
         "Parents": [
           {
@@ -39181,7 +39181,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.09697723388672,
+        "Confidence": 43.09697723388672,
         "Instances": [],
         "Parents": [
           {
@@ -39203,7 +39203,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 50.63993453979492,
+        "Confidence": 20.63993453979492,
         "Instances": [],
         "Parents": [
           {
@@ -39222,7 +39222,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 54.85061264038086,
+        "Confidence": 24.85061264038086,
         "Instances": [],
         "Parents": [
           {
@@ -39351,7 +39351,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Armchair",
-        "Confidence": 50.99370193481445,
+        "Confidence": 30.99370193481445,
         "Instances": [],
         "Parents": [
           {
@@ -39391,7 +39391,7 @@
               "Left": 0.7070239186286926,
               "Top": 0.46645399928092957
             },
-            "Confidence": 51.31850814819336
+            "Confidence": 11.31850814819336
           }
         ],
         "Parents": [
@@ -39411,7 +39411,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 51.358394622802734,
+        "Confidence": 31.358394622802734,
         "Instances": [],
         "Parents": [
           {
@@ -39502,7 +39502,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Duel",
-        "Confidence": 52.75260543823242,
+        "Confidence": 42.75260543823242,
         "Instances": [],
         "Parents": [
           {
@@ -39590,7 +39590,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 53.585025787353516,
+        "Confidence": 43.585025787353516,
         "Instances": [],
         "Parents": [
           {
@@ -39681,7 +39681,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 53.585025787353516,
+        "Confidence": 23.585025787353516,
         "Instances": [],
         "Parents": [
           {
@@ -39706,7 +39706,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.02503967285156,
+        "Confidence": 30.02503967285156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -39765,7 +39765,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Male",
-        "Confidence": 51.36457061767578,
+        "Confidence": 21.36457061767578,
         "Instances": [],
         "Parents": [
           {
@@ -39809,7 +39809,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Panties",
-        "Confidence": 50.90522766113281,
+        "Confidence": 30.90522766113281,
         "Instances": [],
         "Parents": [
           {
@@ -39879,7 +39879,7 @@
               "Left": 0.7070239186286926,
               "Top": 0.46645399928092957
             },
-            "Confidence": 51.31850814819336
+            "Confidence": 21.31850814819336
           }
         ],
         "Parents": [],
@@ -39899,7 +39899,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 53.585025787353516,
+        "Confidence": 33.585025787353516,
         "Instances": [],
         "Parents": [
           {
@@ -39921,7 +39921,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Shooting",
-        "Confidence": 51.660728454589844,
+        "Confidence": 41.660728454589844,
         "Instances": [],
         "Parents": [
           {
@@ -40005,7 +40005,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 53.464691162109375,
+        "Confidence": 43.464691162109375,
         "Instances": [],
         "Parents": [
           {
@@ -40294,7 +40294,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 55.321842193603516,
+        "Confidence": 35.321842193603516,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -40313,7 +40313,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.180328369140625,
+        "Confidence": 33.180328369140625,
         "Instances": [],
         "Parents": [
           {
@@ -40420,7 +40420,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Finger",
-        "Confidence": 50.17844009399414,
+        "Confidence": 20.17844009399414,
         "Instances": [],
         "Parents": [
           {
@@ -40479,7 +40479,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Gun",
-        "Confidence": 58.681358337402344,
+        "Confidence": 38.681358337402344,
         "Instances": [],
         "Parents": [
           {
@@ -40731,7 +40731,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 51.73200225830078,
+        "Confidence": 31.73200225830078,
         "Instances": [],
         "Parents": [
           {
@@ -40818,7 +40818,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 54.76963806152344,
+        "Confidence": 44.76963806152344,
         "Instances": [],
         "Parents": [
           {
@@ -40902,7 +40902,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 53.48347854614258,
+        "Confidence": 23.48347854614258,
         "Instances": [],
         "Parents": [
           {
@@ -40971,7 +40971,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 51.623695373535156,
+        "Confidence": 31.623695373535156,
         "Instances": [],
         "Parents": [
           {
@@ -40990,7 +40990,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 55.12800598144531,
+        "Confidence": 35.12800598144531,
         "Instances": [],
         "Parents": [
           {
@@ -41009,7 +41009,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 58.681358337402344,
+        "Confidence": 38.681358337402344,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -41108,7 +41108,7 @@
               "Left": 0.39081016182899475,
               "Top": 0.0033835219219326973
             },
-            "Confidence": 56.578792572021484
+            "Confidence": 36.578792572021484
           },
           {
             "BoundingBox": {
@@ -41126,7 +41126,7 @@
               "Left": 0.5939830541610718,
               "Top": 0.14724686741828918
             },
-            "Confidence": 51.985023498535156
+            "Confidence": 41.985023498535156
           }
         ],
         "Parents": [
@@ -41216,7 +41216,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.6864128112793,
+        "Confidence": 23.6864128112793,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -41269,7 +41269,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.94181823730469,
+        "Confidence": 43.94181823730469,
         "Instances": [],
         "Parents": [
           {
@@ -41356,7 +41356,7 @@
               "Left": 0.39081016182899475,
               "Top": 0.0033835219219326973
             },
-            "Confidence": 56.578792572021484
+            "Confidence": 26.578792572021484
           },
           {
             "BoundingBox": {
@@ -41385,7 +41385,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 54.60297775268555,
+        "Confidence": 44.60297775268555,
         "Instances": [],
         "Parents": [
           {
@@ -41457,7 +41457,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 54.60297775268555,
+        "Confidence": 34.60297775268555,
         "Instances": [],
         "Parents": [
           {
@@ -41482,7 +41482,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 50.85908126831055,
+        "Confidence": 20.85908126831055,
         "Instances": [],
         "Parents": [
           {
@@ -41516,7 +41516,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 52.19404602050781,
+        "Confidence": 22.19404602050781,
         "Instances": [],
         "Parents": [
           {
@@ -41538,7 +41538,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 55.63561248779297,
+        "Confidence": 25.63561248779297,
         "Instances": [],
         "Parents": [
           {
@@ -41589,7 +41589,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Man",
-        "Confidence": 50.01633071899414,
+        "Confidence": 20.01633071899414,
         "Instances": [
           {
             "BoundingBox": {
@@ -41649,7 +41649,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 50.85908126831055,
+        "Confidence": 20.85908126831055,
         "Instances": [],
         "Parents": [
           {
@@ -41716,7 +41716,7 @@
               "Left": 0.3649553954601288,
               "Top": 0.001965312985703349
             },
-            "Confidence": 53.499149322509766
+            "Confidence": 33.499149322509766
           },
           {
             "BoundingBox": {
@@ -41767,7 +41767,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 55.22542953491211,
+        "Confidence": 25.22542953491211,
         "Instances": [],
         "Parents": [
           {
@@ -41829,7 +41829,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 53.67840576171875,
+        "Confidence": 43.67840576171875,
         "Instances": [],
         "Parents": [
           {
@@ -41870,7 +41870,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 51.0664176940918,
+        "Confidence": 41.0664176940918,
         "Instances": [],
         "Parents": [
           {
@@ -41889,7 +41889,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 55.656463623046875,
+        "Confidence": 15.656463623046875,
         "Instances": [],
         "Parents": [
           {
@@ -41908,7 +41908,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 58.44095993041992,
+        "Confidence": 18.44095993041992,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -42025,7 +42025,7 @@
               "Left": 0.34321585297584534,
               "Top": 0.002348060719668865
             },
-            "Confidence": 55.62002182006836
+            "Confidence": 25.62002182006836
           }
         ],
         "Parents": [
@@ -42111,7 +42111,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 56.28717803955078,
+        "Confidence": 46.28717803955078,
         "Instances": [],
         "Parents": [
           {
@@ -42130,7 +42130,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 57.10456466674805,
+        "Confidence": 37.10456466674805,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -42149,7 +42149,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.62175750732422,
+        "Confidence": 33.62175750732422,
         "Instances": [],
         "Parents": [
           {
@@ -42168,7 +42168,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Duel",
-        "Confidence": 51.62059783935547,
+        "Confidence": 21.62059783935547,
         "Instances": [],
         "Parents": [
           {
@@ -42245,7 +42245,7 @@
               "Left": 0.34321585297584534,
               "Top": 0.002348060719668865
             },
-            "Confidence": 55.62002182006836
+            "Confidence": 45.62002182006836
           }
         ],
         "Parents": [
@@ -42265,7 +42265,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Firearm",
-        "Confidence": 51.17427062988281,
+        "Confidence": 31.17427062988281,
         "Instances": [],
         "Parents": [
           {
@@ -42318,7 +42318,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Gun",
-        "Confidence": 57.576698303222656,
+        "Confidence": 47.576698303222656,
         "Instances": [],
         "Parents": [
           {
@@ -42381,7 +42381,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Hosiery",
-        "Confidence": 54.608402252197266,
+        "Confidence": 14.608402252197266,
         "Instances": [],
         "Parents": [
           {
@@ -42415,7 +42415,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 51.97320556640625,
+        "Confidence": 31.97320556640625,
         "Instances": [],
         "Parents": [
           {
@@ -42634,7 +42634,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 50.1239128112793,
+        "Confidence": 20.1239128112793,
         "Instances": [],
         "Parents": [
           {
@@ -42672,7 +42672,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 58.34553527832031,
+        "Confidence": 38.34553527832031,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -42687,7 +42687,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 51.35617446899414,
+        "Confidence": 11.35617446899414,
         "Instances": [],
         "Parents": [
           {
@@ -42715,7 +42715,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 53.25203323364258,
+        "Confidence": 43.25203323364258,
         "Instances": [],
         "Parents": [
           {
@@ -42734,7 +42734,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.669429779052734,
+        "Confidence": 43.669429779052734,
         "Instances": [],
         "Parents": [
           {
@@ -42911,7 +42911,7 @@
               "Left": 0.7984018325805664,
               "Top": 0.02120405249297619
             },
-            "Confidence": 57.86301040649414
+            "Confidence": 27.86301040649414
           }
         ],
         "Parents": [
@@ -43057,7 +43057,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Couch",
-        "Confidence": 51.820045471191406,
+        "Confidence": 41.820045471191406,
         "Instances": [],
         "Parents": [
           {
@@ -43195,7 +43195,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Firearm",
-        "Confidence": 50.65181350708008,
+        "Confidence": 40.65181350708008,
         "Instances": [],
         "Parents": [
           {
@@ -43248,7 +43248,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 57.052982330322266,
+        "Confidence": 27.052982330322266,
         "Instances": [],
         "Parents": [
           {
@@ -43386,7 +43386,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 56.859130859375,
+        "Confidence": 16.859130859375,
         "Instances": [],
         "Parents": [
           {
@@ -43408,7 +43408,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Panties",
-        "Confidence": 51.8021240234375,
+        "Confidence": 41.8021240234375,
         "Instances": [],
         "Parents": [
           {
@@ -43433,7 +43433,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 54.26822280883789,
+        "Confidence": 34.26822280883789,
         "Instances": [],
         "Parents": [
           {
@@ -43520,7 +43520,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Room",
-        "Confidence": 50.08878707885742,
+        "Confidence": 40.08878707885742,
         "Instances": [],
         "Parents": [
           {
@@ -43580,7 +43580,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 57.38710403442383,
+        "Confidence": 27.38710403442383,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43664,7 +43664,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 51.03529739379883,
+        "Confidence": 41.03529739379883,
         "Instances": [],
         "Parents": [
           {
@@ -43702,7 +43702,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 57.052982330322266,
+        "Confidence": 47.052982330322266,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -43757,7 +43757,7 @@
               "Left": 0.7984018325805664,
               "Top": 0.02120405249297619
             },
-            "Confidence": 57.86301040649414
+            "Confidence": 37.86301040649414
           }
         ],
         "Parents": [
@@ -43892,7 +43892,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Bikini",
-        "Confidence": 50.273250579833984,
+        "Confidence": 20.273250579833984,
         "Instances": [],
         "Parents": [
           {
@@ -43929,7 +43929,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 56.50634765625,
+        "Confidence": 46.50634765625,
         "Instances": [],
         "Parents": [
           {
@@ -43967,7 +43967,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.409488677978516,
+        "Confidence": 33.409488677978516,
         "Instances": [],
         "Parents": [
           {
@@ -43986,7 +43986,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 50.956241607666016,
+        "Confidence": 40.956241607666016,
         "Instances": [],
         "Parents": [
           {
@@ -44085,7 +44085,7 @@
               "Left": 0.32056164741516113,
               "Top": 0.0024983214680105448
             },
-            "Confidence": 54.91942596435547
+            "Confidence": 44.91942596435547
           },
           {
             "BoundingBox": {
@@ -44158,7 +44158,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 56.76023483276367,
+        "Confidence": 36.76023483276367,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -44173,7 +44173,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Gun",
-        "Confidence": 53.527950286865234,
+        "Confidence": 33.527950286865234,
         "Instances": [],
         "Parents": [
           {
@@ -44233,7 +44233,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 57.64689254760742,
+        "Confidence": 37.64689254760742,
         "Instances": [],
         "Parents": [
           {
@@ -44377,7 +44377,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Panties",
-        "Confidence": 52.4111442565918,
+        "Confidence": 32.4111442565918,
         "Instances": [],
         "Parents": [
           {
@@ -44402,7 +44402,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Pantyhose",
-        "Confidence": 55.491798400878906,
+        "Confidence": 45.491798400878906,
         "Instances": [],
         "Parents": [
           {
@@ -44460,7 +44460,7 @@
               "Left": 0.32056164741516113,
               "Top": 0.0024983214680105448
             },
-            "Confidence": 54.91942596435547
+            "Confidence": 44.91942596435547
           },
           {
             "BoundingBox": {
@@ -44489,7 +44489,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Room",
-        "Confidence": 50.956241607666016,
+        "Confidence": 20.956241607666016,
         "Instances": [],
         "Parents": [
           {
@@ -44568,7 +44568,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 55.90472412109375,
+        "Confidence": 25.90472412109375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -44611,7 +44611,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Spandex",
-        "Confidence": 50.161861419677734,
+        "Confidence": 40.161861419677734,
         "Instances": [],
         "Parents": [
           {
@@ -44630,7 +44630,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Swimwear",
-        "Confidence": 54.567222595214844,
+        "Confidence": 34.567222595214844,
         "Instances": [],
         "Parents": [
           {
@@ -44649,7 +44649,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.91825485229492,
+        "Confidence": 43.91825485229492,
         "Instances": [],
         "Parents": [
           {
@@ -44699,7 +44699,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Undershirt",
-        "Confidence": 52.036930084228516,
+        "Confidence": 32.036930084228516,
         "Instances": [],
         "Parents": [
           {
@@ -44718,7 +44718,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 56.42138671875,
+        "Confidence": 26.42138671875,
         "Instances": [],
         "Parents": [
           {
@@ -44737,7 +44737,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 53.527950286865234,
+        "Confidence": 23.527950286865234,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -44801,7 +44801,7 @@
               "Left": 0.5770689249038696,
               "Top": 0.0007015228038653731
             },
-            "Confidence": 54.798133850097656
+            "Confidence": 44.798133850097656
           }
         ],
         "Parents": [
@@ -44872,7 +44872,7 @@
               "Left": 0.5051525831222534,
               "Top": 0.34887394309043884
             },
-            "Confidence": 54.5959358215332
+            "Confidence": 34.5959358215332
           }
         ],
         "Parents": [
@@ -44936,7 +44936,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 52.29642105102539,
+        "Confidence": 32.29642105102539,
         "Instances": [],
         "Parents": [
           {
@@ -44955,7 +44955,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Bikini",
-        "Confidence": 51.296024322509766,
+        "Confidence": 31.296024322509766,
         "Instances": [],
         "Parents": [
           {
@@ -44977,7 +44977,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.226158142089844,
+        "Confidence": 24.226158142089844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -45030,7 +45030,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Conversation",
-        "Confidence": 50.611576080322266,
+        "Confidence": 40.611576080322266,
         "Instances": [],
         "Parents": [
           {
@@ -45087,7 +45087,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.88375473022461,
+        "Confidence": 32.88375473022461,
         "Instances": [],
         "Parents": [
           {
@@ -45147,7 +45147,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Finger",
-        "Confidence": 51.30979537963867,
+        "Confidence": 31.30979537963867,
         "Instances": [],
         "Parents": [
           {
@@ -45206,7 +45206,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 54.32794189453125,
+        "Confidence": 44.32794189453125,
         "Instances": [],
         "Parents": [
           {
@@ -45225,7 +45225,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.30979537963867,
+        "Confidence": 41.30979537963867,
         "Instances": [],
         "Parents": [
           {
@@ -45266,7 +45266,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 57.28825759887695,
+        "Confidence": 37.28825759887695,
         "Instances": [],
         "Parents": [
           {
@@ -45417,7 +45417,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 54.64718246459961,
+        "Confidence": 44.64718246459961,
         "Instances": [],
         "Parents": [
           {
@@ -45692,7 +45692,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 57.28825759887695,
+        "Confidence": 27.28825759887695,
         "Instances": [],
         "Parents": [
           {
@@ -45733,7 +45733,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 50.65354537963867,
+        "Confidence": 30.65354537963867,
         "Instances": [],
         "Parents": [
           {
@@ -45912,7 +45912,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 54.32794189453125,
+        "Confidence": 34.32794189453125,
         "Instances": [],
         "Parents": [],
         "Aliases": [

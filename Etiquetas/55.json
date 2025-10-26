@@ -90,7 +90,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Alcohol",
-        "Confidence": 54.11442184448242,
+        "Confidence": 44.11442184448242,
         "Instances": [],
         "Parents": [
           {
@@ -137,7 +137,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 52.07299041748047,
+        "Confidence": 12.07299041748047,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -152,7 +152,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Beverage",
-        "Confidence": 54.11442184448242,
+        "Confidence": 34.11442184448242,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -193,7 +193,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Book",
-        "Confidence": 54.937095642089844,
+        "Confidence": 24.937095642089844,
         "Instances": [],
         "Parents": [
           {
@@ -260,7 +260,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Candle",
-        "Confidence": 51.17915344238281,
+        "Confidence": 31.17915344238281,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -275,7 +275,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Church",
-        "Confidence": 52.07299041748047,
+        "Confidence": 32.07299041748047,
         "Instances": [],
         "Parents": [
           {
@@ -312,7 +312,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 50.14271926879883,
+        "Confidence": 40.14271926879883,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -446,7 +446,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Festival",
-        "Confidence": 53.0788459777832,
+        "Confidence": 33.0788459777832,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -461,7 +461,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 51.63896560668945,
+        "Confidence": 31.63896560668945,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -533,7 +533,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Incense",
-        "Confidence": 53.486236572265625,
+        "Confidence": 33.486236572265625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -548,7 +548,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 56.90285873413086,
+        "Confidence": 36.90285873413086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -563,7 +563,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 56.90285873413086,
+        "Confidence": 36.90285873413086,
         "Instances": [],
         "Parents": [
           {
@@ -582,7 +582,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Lamp",
-        "Confidence": 55.52278137207031,
+        "Confidence": 35.52278137207031,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -597,7 +597,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Lantern",
-        "Confidence": 52.24703598022461,
+        "Confidence": 22.24703598022461,
         "Instances": [],
         "Parents": [
           {
@@ -616,7 +616,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Lighting",
-        "Confidence": 53.90983963012695,
+        "Confidence": 23.90983963012695,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -675,7 +675,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Museum",
-        "Confidence": 50.322025299072266,
+        "Confidence": 30.322025299072266,
         "Instances": [],
         "Parents": [
           {
@@ -715,7 +715,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Novel",
-        "Confidence": 50.702880859375,
+        "Confidence": 30.702880859375,
         "Instances": [],
         "Parents": [
           {
@@ -849,7 +849,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Publication",
-        "Confidence": 54.937095642089844,
+        "Confidence": 34.937095642089844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -935,7 +935,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Vigil",
-        "Confidence": 50.35798645019531,
+        "Confidence": 30.35798645019531,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -950,7 +950,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Wax Seal",
-        "Confidence": 50.141387939453125,
+        "Confidence": 40.141387939453125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -965,7 +965,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 55.6128044128418,
+        "Confidence": 35.6128044128418,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -984,7 +984,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Wine",
-        "Confidence": 51.16398620605469,
+        "Confidence": 41.16398620605469,
         "Instances": [],
         "Parents": [
           {
@@ -1063,7 +1063,7 @@
               "Left": 0.5423383712768555,
               "Top": 0.0007319450378417969
             },
-            "Confidence": 52.894920349121094
+            "Confidence": 32.894920349121094
           }
         ],
         "Parents": [
@@ -1089,7 +1089,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Absinthe",
-        "Confidence": 50.77892303466797,
+        "Confidence": 30.77892303466797,
         "Instances": [],
         "Parents": [
           {
@@ -1132,7 +1132,7 @@
               "Left": 0.7292460203170776,
               "Top": 0.5800097584724426
             },
-            "Confidence": 53.16865921020508
+            "Confidence": 43.16865921020508
           }
         ],
         "Parents": [
@@ -1214,7 +1214,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 52.72587966918945,
+        "Confidence": 32.72587966918945,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1273,7 +1273,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Book",
-        "Confidence": 54.922332763671875,
+        "Confidence": 34.922332763671875,
         "Instances": [],
         "Parents": [
           {
@@ -1326,7 +1326,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Church",
-        "Confidence": 52.72587966918945,
+        "Confidence": 42.72587966918945,
         "Instances": [],
         "Parents": [
           {
@@ -1410,7 +1410,7 @@
               "Left": 0.651360809803009,
               "Top": 0.22335289418697357
             },
-            "Confidence": 56.907196044921875
+            "Confidence": 36.907196044921875
           },
           {
             "BoundingBox": {
@@ -1419,7 +1419,7 @@
               "Left": 0.7292460203170776,
               "Top": 0.5800097584724426
             },
-            "Confidence": 53.16865921020508
+            "Confidence": 23.16865921020508
           }
         ],
         "Parents": [
@@ -1439,7 +1439,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Festival",
-        "Confidence": 51.96792221069336,
+        "Confidence": 41.96792221069336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1469,7 +1469,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 50.565101623535156,
+        "Confidence": 40.565101623535156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1484,7 +1484,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 50.7566032409668,
+        "Confidence": 20.7566032409668,
         "Instances": [],
         "Parents": [
           {
@@ -1522,7 +1522,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Incense",
-        "Confidence": 55.77484893798828,
+        "Confidence": 45.77484893798828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1552,7 +1552,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Insect",
-        "Confidence": 50.076541900634766,
+        "Confidence": 40.076541900634766,
         "Instances": [],
         "Parents": [
           {
@@ -1612,7 +1612,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Lamp",
-        "Confidence": 55.944942474365234,
+        "Confidence": 25.944942474365234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1627,7 +1627,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Lantern",
-        "Confidence": 52.81265640258789,
+        "Confidence": 42.81265640258789,
         "Instances": [],
         "Parents": [
           {
@@ -1690,7 +1690,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Performer",
-        "Confidence": 54.95451736450195,
+        "Confidence": 34.95451736450195,
         "Instances": [],
         "Parents": [
           {
@@ -1727,7 +1727,7 @@
               "Left": 0.651360809803009,
               "Top": 0.22335289418697357
             },
-            "Confidence": 56.907196044921875
+            "Confidence": 46.907196044921875
           },
           {
             "BoundingBox": {
@@ -1736,7 +1736,7 @@
               "Left": 0.7292460203170776,
               "Top": 0.5800097584724426
             },
-            "Confidence": 53.16865921020508
+            "Confidence": 43.16865921020508
           }
         ],
         "Parents": [],
@@ -1756,7 +1756,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Prayer",
-        "Confidence": 52.63471984863281,
+        "Confidence": 32.63471984863281,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1790,7 +1790,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 50.148494720458984,
+        "Confidence": 40.148494720458984,
         "Instances": [],
         "Parents": [
           {
@@ -1809,7 +1809,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 54.95451736450195,
+        "Confidence": 44.95451736450195,
         "Instances": [],
         "Parents": [
           {
@@ -1831,7 +1831,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 50.148494720458984,
+        "Confidence": 30.148494720458984,
         "Instances": [],
         "Parents": [
           {
@@ -1853,7 +1853,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Table",
-        "Confidence": 50.060943603515625,
+        "Confidence": 40.060943603515625,
         "Instances": [],
         "Parents": [
           {
@@ -1872,7 +1872,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 50.56281280517578,
+        "Confidence": 40.56281280517578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1887,7 +1887,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Wasp",
-        "Confidence": 50.076541900634766,
+        "Confidence": 40.076541900634766,
         "Instances": [],
         "Parents": [
           {
@@ -1937,7 +1937,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 53.14588165283203,
+        "Confidence": 13.14588165283203,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1971,7 +1971,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Windowsill",
-        "Confidence": 51.18087387084961,
+        "Confidence": 31.18087387084961,
         "Instances": [],
         "Parents": [
           {
@@ -1990,7 +1990,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Wine",
-        "Confidence": 53.29763412475586,
+        "Confidence": 43.29763412475586,
         "Instances": [],
         "Parents": [
           {
@@ -2033,7 +2033,7 @@
               "Left": 0.7292460203170776,
               "Top": 0.5800097584724426
             },
-            "Confidence": 53.16865921020508
+            "Confidence": 43.16865921020508
           }
         ],
         "Parents": [
@@ -2077,7 +2077,7 @@
               "Left": 0.4549236297607422,
               "Top": 0.0006946945213712752
             },
-            "Confidence": 54.27019119262695
+            "Confidence": 14.27019119262695
           }
         ],
         "Parents": [
@@ -2097,7 +2097,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Alcohol",
-        "Confidence": 54.114627838134766,
+        "Confidence": 14.114627838134766,
         "Instances": [],
         "Parents": [
           {
@@ -2174,7 +2174,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Beverage",
-        "Confidence": 54.114627838134766,
+        "Confidence": 44.114627838134766,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -2319,7 +2319,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Church",
-        "Confidence": 50.82101821899414,
+        "Confidence": 40.82101821899414,
         "Instances": [],
         "Parents": [
           {
@@ -2381,7 +2381,7 @@
               "Left": 0.4549236297607422,
               "Top": 0.0006946945213712752
             },
-            "Confidence": 54.27019119262695
+            "Confidence": 34.27019119262695
           }
         ],
         "Parents": [
@@ -2416,7 +2416,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.91843032836914,
+        "Confidence": 20.91843032836914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2494,7 +2494,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Incense",
-        "Confidence": 54.10540771484375,
+        "Confidence": 34.10540771484375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2558,7 +2558,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Lantern",
-        "Confidence": 51.272274017333984,
+        "Confidence": 11.272274017333984,
         "Instances": [],
         "Parents": [
           {
@@ -2577,7 +2577,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Liquor",
-        "Confidence": 51.66861343383789,
+        "Confidence": 41.66861343383789,
         "Instances": [],
         "Parents": [
           {
@@ -2618,7 +2618,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Novel",
-        "Confidence": 50.25503158569336,
+        "Confidence": 30.25503158569336,
         "Instances": [],
         "Parents": [
           {
@@ -2677,7 +2677,7 @@
               "Left": 0.4549236297607422,
               "Top": 0.0006946945213712752
             },
-            "Confidence": 54.27019119262695
+            "Confidence": 34.27019119262695
           }
         ],
         "Parents": [],
@@ -2716,7 +2716,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Prayer",
-        "Confidence": 50.355369567871094,
+        "Confidence": 40.355369567871094,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -2778,7 +2778,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 53.42068862915039,
+        "Confidence": 23.42068862915039,
         "Instances": [],
         "Parents": [
           {
@@ -2834,7 +2834,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Wax Seal",
-        "Confidence": 50.196800231933594,
+        "Confidence": 30.196800231933594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2902,7 +2902,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Wine",
-        "Confidence": 51.66861343383789,
+        "Confidence": 31.66861343383789,
         "Instances": [],
         "Parents": [
           {
@@ -2945,7 +2945,7 @@
               "Left": 0.4549236297607422,
               "Top": 0.0006946945213712752
             },
-            "Confidence": 54.27019119262695
+            "Confidence": 44.27019119262695
           }
         ],
         "Parents": [

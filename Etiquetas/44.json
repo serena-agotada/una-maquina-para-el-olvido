@@ -52,7 +52,7 @@
               "Left": 0.34465324878692627,
               "Top": 0.0
             },
-            "Confidence": 55.970542907714844
+            "Confidence": 35.970542907714844
           }
         ],
         "Parents": [
@@ -231,7 +231,7 @@
               "Left": 0.34465324878692627,
               "Top": 0.0
             },
-            "Confidence": 55.970542907714844
+            "Confidence": 45.970542907714844
           }
         ],
         "Parents": [
@@ -251,7 +251,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.62980651855469,
+        "Confidence": 30.62980651855469,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -266,7 +266,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "German Shepherd",
-        "Confidence": 50.07975387573242,
+        "Confidence": 20.07975387573242,
         "Instances": [],
         "Parents": [
           {
@@ -378,7 +378,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 50.62980651855469,
+        "Confidence": 20.62980651855469,
         "Instances": [],
         "Parents": [
           {
@@ -418,7 +418,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 56.49201965332031,
+        "Confidence": 46.49201965332031,
         "Instances": [],
         "Parents": [
           {
@@ -571,7 +571,7 @@
               "Left": 0.34465324878692627,
               "Top": 0.0
             },
-            "Confidence": 55.970542907714844
+            "Confidence": 35.970542907714844
           }
         ],
         "Parents": [],
@@ -641,7 +641,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Walking Dog",
-        "Confidence": 55.15568923950195,
+        "Confidence": 35.15568923950195,
         "Instances": [],
         "Parents": [
           {
@@ -702,7 +702,7 @@
               "Left": 0.34465324878692627,
               "Top": 0.0
             },
-            "Confidence": 55.970542907714844
+            "Confidence": 35.970542907714844
           }
         ],
         "Parents": [
@@ -951,7 +951,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Head",
-        "Confidence": 53.41192626953125,
+        "Confidence": 23.41192626953125,
         "Instances": [],
         "Parents": [
           {
@@ -970,7 +970,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.85810089111328,
+        "Confidence": 42.85810089111328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1095,7 +1095,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 52.61560821533203,
+        "Confidence": 22.61560821533203,
         "Instances": [],
         "Parents": [
           {
@@ -1126,7 +1126,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 55.610652923583984,
+        "Confidence": 15.610652923583984,
         "Instances": [
           {
             "BoundingBox": {
@@ -1475,7 +1475,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Husky",
-        "Confidence": 50.3204231262207,
+        "Confidence": 40.3204231262207,
         "Instances": [],
         "Parents": [
           {
@@ -1521,7 +1521,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 54.674381256103516,
+        "Confidence": 44.674381256103516,
         "Instances": [],
         "Parents": [
           {
@@ -1559,7 +1559,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 53.23790740966797,
+        "Confidence": 33.23790740966797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1662,7 +1662,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 51.927635192871094,
+        "Confidence": 31.927635192871094,
         "Instances": [],
         "Parents": [
           {
@@ -1722,7 +1722,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Walking Dog",
-        "Confidence": 56.53480911254883,
+        "Confidence": 26.53480911254883,
         "Instances": [],
         "Parents": [
           {
@@ -1908,7 +1908,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 51.11564254760742,
+        "Confidence": 41.11564254760742,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -2010,7 +2010,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.24641799926758,
+        "Confidence": 42.24641799926758,
         "Instances": [],
         "Parents": [
           {
@@ -2094,7 +2094,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "German Shepherd",
-        "Confidence": 50.3332633972168,
+        "Confidence": 40.3332633972168,
         "Instances": [],
         "Parents": [
           {
@@ -2188,7 +2188,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Head",
-        "Confidence": 52.43025207519531,
+        "Confidence": 42.43025207519531,
         "Instances": [],
         "Parents": [
           {
@@ -2263,7 +2263,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 55.79378890991211,
+        "Confidence": 25.79378890991211,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2278,7 +2278,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 55.79378890991211,
+        "Confidence": 35.79378890991211,
         "Instances": [],
         "Parents": [
           {
@@ -2778,7 +2778,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Girl",
-        "Confidence": 56.644229888916016,
+        "Confidence": 46.644229888916016,
         "Instances": [
           {
             "BoundingBox": {
@@ -2787,7 +2787,7 @@
               "Left": 0.2745826244354248,
               "Top": 0.0029143141582608223
             },
-            "Confidence": 59.53241729736328
+            "Confidence": 29.53241729736328
           }
         ],
         "Parents": [
@@ -2841,7 +2841,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Head",
-        "Confidence": 56.366764068603516,
+        "Confidence": 36.366764068603516,
         "Instances": [],
         "Parents": [
           {
@@ -2891,7 +2891,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 59.69504928588867,
+        "Confidence": 39.69504928588867,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2906,7 +2906,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 59.69504928588867,
+        "Confidence": 39.69504928588867,
         "Instances": [],
         "Parents": [
           {
@@ -3001,7 +3001,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Police Dog",
-        "Confidence": 50.92858123779297,
+        "Confidence": 30.92858123779297,
         "Instances": [],
         "Parents": [
           {
@@ -3032,7 +3032,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 50.69056701660156,
+        "Confidence": 30.69056701660156,
         "Instances": [],
         "Parents": [
           {
@@ -3081,7 +3081,7 @@
               "Left": 0.608400821685791,
               "Top": 0.7075510621070862
             },
-            "Confidence": 59.451507568359375
+            "Confidence": 49.451507568359375
           }
         ],
         "Parents": [
@@ -3246,7 +3246,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.37322235107422,
+        "Confidence": 42.37322235107422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3316,7 +3316,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 53.03565216064453,
+        "Confidence": 23.03565216064453,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -3423,7 +3423,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Girl",
-        "Confidence": 58.7861213684082,
+        "Confidence": 38.7861213684082,
         "Instances": [
           {
             "BoundingBox": {
@@ -3505,7 +3505,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.7343864440918,
+        "Confidence": 42.7343864440918,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3790,7 +3790,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Arm",
-        "Confidence": 54.59893798828125,
+        "Confidence": 24.59893798828125,
         "Instances": [],
         "Parents": [
           {
@@ -3812,7 +3812,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 56.744483947753906,
+        "Confidence": 26.744483947753906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3927,7 +3927,7 @@
               "Left": 0.28772780299186707,
               "Top": 0.0052381898276507854
             },
-            "Confidence": 53.5771598815918
+            "Confidence": 43.5771598815918
           }
         ],
         "Parents": [
@@ -3947,7 +3947,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Golden Retriever",
-        "Confidence": 59.300662994384766,
+        "Confidence": 19.300662994384766,
         "Instances": [],
         "Parents": [
           {
@@ -3997,7 +3997,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 52.2037353515625,
+        "Confidence": 22.2037353515625,
         "Instances": [],
         "Parents": [
           {
@@ -4072,7 +4072,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Lawn",
-        "Confidence": 51.11784362792969,
+        "Confidence": 41.11784362792969,
         "Instances": [],
         "Parents": [
           {
@@ -4241,7 +4241,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Skin",
-        "Confidence": 55.554176330566406,
+        "Confidence": 45.554176330566406,
         "Instances": [],
         "Parents": [
           {
@@ -4269,7 +4269,7 @@
               "Left": 0.849607527256012,
               "Top": 0.6731224060058594
             },
-            "Confidence": 52.90966033935547
+            "Confidence": 32.90966033935547
           },
           {
             "BoundingBox": {
@@ -4338,7 +4338,7 @@
               "Left": 0.28772780299186707,
               "Top": 0.0052381898276507854
             },
-            "Confidence": 53.5771598815918
+            "Confidence": 33.5771598815918
           }
         ],
         "Parents": [
@@ -4408,7 +4408,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.241336822509766,
+        "Confidence": 40.241336822509766,
         "Instances": [],
         "Parents": [
           {
@@ -4452,7 +4452,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Ball",
-        "Confidence": 50.04240036010742,
+        "Confidence": 30.04240036010742,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4602,7 +4602,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Golden Retriever",
-        "Confidence": 59.310203552246094,
+        "Confidence": 29.310203552246094,
         "Instances": [],
         "Parents": [
           {
@@ -4633,7 +4633,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Grass",
-        "Confidence": 54.39003372192383,
+        "Confidence": 24.39003372192383,
         "Instances": [],
         "Parents": [
           {
@@ -4831,7 +4831,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 50.22026062011719,
+        "Confidence": 20.22026062011719,
         "Instances": [],
         "Parents": [
           {
@@ -4903,7 +4903,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Soccer Ball",
-        "Confidence": 50.04240036010742,
+        "Confidence": 10.04240036010742,
         "Instances": [],
         "Parents": [
           {
@@ -5004,7 +5004,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Walking Dog",
-        "Confidence": 51.1162109375,
+        "Confidence": 41.1162109375,
         "Instances": [],
         "Parents": [
           {
@@ -5238,7 +5238,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Child",
-        "Confidence": 55.12595748901367,
+        "Confidence": 35.12595748901367,
         "Instances": [
           {
             "BoundingBox": {
@@ -5306,7 +5306,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Doctor",
-        "Confidence": 51.41117477416992,
+        "Confidence": 31.41117477416992,
         "Instances": [],
         "Parents": [
           {
@@ -5403,7 +5403,7 @@
               "Left": 0.7797883749008179,
               "Top": 7.472992001567036e-05
             },
-            "Confidence": 56.490028381347656
+            "Confidence": 46.490028381347656
           }
         ],
         "Parents": [
@@ -5423,7 +5423,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Football",
-        "Confidence": 51.053070068359375,
+        "Confidence": 41.053070068359375,
         "Instances": [],
         "Parents": [
           {
@@ -5505,7 +5505,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Grass",
-        "Confidence": 55.270782470703125,
+        "Confidence": 25.270782470703125,
         "Instances": [],
         "Parents": [
           {
@@ -5615,7 +5615,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 56.24590301513672,
+        "Confidence": 36.24590301513672,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5649,7 +5649,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Lawn",
-        "Confidence": 52.95997619628906,
+        "Confidence": 42.95997619628906,
         "Instances": [],
         "Parents": [
           {
@@ -5671,7 +5671,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Lion",
-        "Confidence": 52.256317138671875,
+        "Confidence": 42.256317138671875,
         "Instances": [],
         "Parents": [
           {
@@ -5715,7 +5715,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.06336975097656,
+        "Confidence": 21.06336975097656,
         "Instances": [],
         "Parents": [
           {
@@ -5767,7 +5767,7 @@
               "Left": 0.7797883749008179,
               "Top": 7.472992001567036e-05
             },
-            "Confidence": 56.490028381347656
+            "Confidence": 16.490028381347656
           }
         ],
         "Parents": [],
@@ -5806,7 +5806,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Plant",
-        "Confidence": 55.270782470703125,
+        "Confidence": 45.270782470703125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5958,7 +5958,7 @@
               "Left": 0.8582015037536621,
               "Top": 0.51324862241745
             },
-            "Confidence": 53.201263427734375
+            "Confidence": 43.201263427734375
           }
         ],
         "Parents": [
@@ -5981,7 +5981,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 50.223487854003906,
+        "Confidence": 10.223487854003906,
         "Instances": [],
         "Parents": [
           {
@@ -6003,7 +6003,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Veterinarian",
-        "Confidence": 51.26035690307617,
+        "Confidence": 11.26035690307617,
         "Instances": [],
         "Parents": [
           {
@@ -6059,7 +6059,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 52.52206039428711,
+        "Confidence": 42.52206039428711,
         "Instances": [],
         "Parents": [
           {
@@ -6078,7 +6078,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 56.514034271240234,
+        "Confidence": 26.514034271240234,
         "Instances": [
           {
             "BoundingBox": {
@@ -6087,7 +6087,7 @@
               "Left": 0.7797883749008179,
               "Top": 7.472992001567036e-05
             },
-            "Confidence": 56.490028381347656
+            "Confidence": 46.490028381347656
           }
         ],
         "Parents": [
@@ -6310,7 +6310,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Female",
-        "Confidence": 56.01030349731445,
+        "Confidence": 26.01030349731445,
         "Instances": [],
         "Parents": [
           {
@@ -6360,7 +6360,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 53.123626708984375,
+        "Confidence": 13.123626708984375,
         "Instances": [],
         "Parents": [
           {
@@ -6492,7 +6492,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 52.08375549316406,
+        "Confidence": 32.08375549316406,
         "Instances": [],
         "Parents": [
           {
@@ -6752,7 +6752,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Doctor",
-        "Confidence": 51.1263542175293,
+        "Confidence": 41.1263542175293,
         "Instances": [],
         "Parents": [
           {
@@ -6940,7 +6940,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 52.43342590332031,
+        "Confidence": 22.43342590332031,
         "Instances": [],
         "Parents": [
           {
@@ -7266,7 +7266,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 52.09478759765625,
+        "Confidence": 32.09478759765625,
         "Instances": [],
         "Parents": [
           {
@@ -7382,7 +7382,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 54.915382385253906,
+        "Confidence": 34.915382385253906,
         "Instances": [],
         "Parents": [
           {
@@ -7426,7 +7426,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 56.1606559753418,
+        "Confidence": 16.1606559753418,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7491,7 +7491,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Face",
-        "Confidence": 57.68605041503906,
+        "Confidence": 47.68605041503906,
         "Instances": [],
         "Parents": [
           {
@@ -7601,7 +7601,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 53.322967529296875,
+        "Confidence": 23.322967529296875,
         "Instances": [],
         "Parents": [
           {
@@ -7623,7 +7623,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Head",
-        "Confidence": 58.298851013183594,
+        "Confidence": 38.298851013183594,
         "Instances": [],
         "Parents": [
           {
@@ -7642,7 +7642,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Hip",
-        "Confidence": 50.36269760131836,
+        "Confidence": 40.36269760131836,
         "Instances": [],
         "Parents": [
           {
@@ -7720,7 +7720,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Lion",
-        "Confidence": 51.904640197753906,
+        "Confidence": 41.904640197753906,
         "Instances": [],
         "Parents": [
           {
@@ -7764,7 +7764,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Pain",
-        "Confidence": 50.313140869140625,
+        "Confidence": 40.313140869140625,
         "Instances": [],
         "Parents": [
           {
@@ -7840,7 +7840,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Plant",
-        "Confidence": 52.27215576171875,
+        "Confidence": 32.27215576171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7886,7 +7886,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Skin",
-        "Confidence": 53.30043411254883,
+        "Confidence": 33.30043411254883,
         "Instances": [],
         "Parents": [
           {
@@ -8198,7 +8198,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.982025146484375,
+        "Confidence": 20.982025146484375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8213,7 +8213,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 50.982025146484375,
+        "Confidence": 30.982025146484375,
         "Instances": [],
         "Parents": [
           {
@@ -8331,7 +8331,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 52.261165618896484,
+        "Confidence": 32.261165618896484,
         "Instances": [],
         "Parents": [
           {
@@ -8463,7 +8463,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 58.61275863647461,
+        "Confidence": 18.61275863647461,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8620,7 +8620,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 58.4090461730957,
+        "Confidence": 38.4090461730957,
         "Instances": [],
         "Parents": [
           {
@@ -8695,7 +8695,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Lion",
-        "Confidence": 50.094810485839844,
+        "Confidence": 30.094810485839844,
         "Instances": [],
         "Parents": [
           {
@@ -8787,7 +8787,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 51.870609283447266,
+        "Confidence": 21.870609283447266,
         "Instances": [],
         "Parents": [
           {
@@ -8916,7 +8916,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 58.49388122558594,
+        "Confidence": 38.49388122558594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9092,7 +9092,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 58.305381774902344,
+        "Confidence": 38.305381774902344,
         "Instances": [],
         "Parents": [
           {
@@ -9133,7 +9133,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 53.66023635864258,
+        "Confidence": 33.66023635864258,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9234,7 +9234,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 51.20749282836914,
+        "Confidence": 21.20749282836914,
         "Instances": [],
         "Parents": [
           {
@@ -9284,7 +9284,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Tattoo",
-        "Confidence": 59.30767822265625,
+        "Confidence": 19.30767822265625,
         "Instances": [
           {
             "BoundingBox": {
@@ -9325,7 +9325,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Walking Dog",
-        "Confidence": 50.311058044433594,
+        "Confidence": 40.311058044433594,
         "Instances": [],
         "Parents": [
           {
@@ -9767,7 +9767,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Surprised",
-        "Confidence": 50.06612014770508,
+        "Confidence": 20.06612014770508,
         "Instances": [],
         "Parents": [
           {
@@ -9836,7 +9836,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.008121490478516,
+        "Confidence": 31.008121490478516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9964,7 +9964,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Grass",
-        "Confidence": 53.18858337402344,
+        "Confidence": 33.18858337402344,
         "Instances": [],
         "Parents": [
           {
@@ -10002,7 +10002,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 51.09995651245117,
+        "Confidence": 41.09995651245117,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10017,7 +10017,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 51.09995651245117,
+        "Confidence": 41.09995651245117,
         "Instances": [],
         "Parents": [
           {
@@ -10076,7 +10076,7 @@
               "Left": 0.31691089272499084,
               "Top": 0.0029359436593949795
             },
-            "Confidence": 53.96421432495117
+            "Confidence": 33.96421432495117
           }
         ],
         "Parents": [
@@ -10169,7 +10169,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 52.56925964355469,
+        "Confidence": 42.56925964355469,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10202,7 +10202,7 @@
               "Left": 0.31691089272499084,
               "Top": 0.0029359436593949795
             },
-            "Confidence": 53.96421432495117
+            "Confidence": 43.96421432495117
           }
         ],
         "Parents": [],
@@ -10340,7 +10340,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Arm",
-        "Confidence": 56.48631286621094,
+        "Confidence": 36.48631286621094,
         "Instances": [],
         "Parents": [
           {
@@ -10377,7 +10377,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 57.64620590209961,
+        "Confidence": 37.64620590209961,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10591,7 +10591,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 55.575931549072266,
+        "Confidence": 45.575931549072266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10606,7 +10606,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 55.575931549072266,
+        "Confidence": 15.575931549072266,
         "Instances": [],
         "Parents": [
           {
@@ -10765,7 +10765,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Soccer",
-        "Confidence": 52.187625885009766,
+        "Confidence": 42.187625885009766,
         "Instances": [],
         "Parents": [
           {
@@ -10815,7 +10815,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Sport",
-        "Confidence": 53.61571502685547,
+        "Confidence": 33.61571502685547,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -10856,7 +10856,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Woman",
-        "Confidence": 56.51312255859375,
+        "Confidence": 26.51312255859375,
         "Instances": [
           {
             "BoundingBox": {
@@ -10909,7 +10909,7 @@
               "Left": 0.5541002750396729,
               "Top": 0.6965942978858948
             },
-            "Confidence": 57.24116134643555
+            "Confidence": 37.24116134643555
           }
         ],
         "Parents": [
@@ -10951,7 +10951,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Animal",
-        "Confidence": 54.699092864990234,
+        "Confidence": 34.699092864990234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11022,7 +11022,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.502784729003906,
+        "Confidence": 22.502784729003906,
         "Instances": [],
         "Parents": [
           {
@@ -11073,7 +11073,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Football",
-        "Confidence": 54.69359588623047,
+        "Confidence": 34.69359588623047,
         "Instances": [],
         "Parents": [
           {
@@ -11114,7 +11114,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Head",
-        "Confidence": 52.502784729003906,
+        "Confidence": 22.502784729003906,
         "Instances": [],
         "Parents": [
           {
@@ -11192,7 +11192,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Male",
-        "Confidence": 56.032798767089844,
+        "Confidence": 46.032798767089844,
         "Instances": [
           {
             "BoundingBox": {
@@ -11221,7 +11221,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 54.50947570800781,
+        "Confidence": 34.50947570800781,
         "Instances": [],
         "Parents": [
           {
@@ -11240,7 +11240,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Man",
-        "Confidence": 52.72237014770508,
+        "Confidence": 32.72237014770508,
         "Instances": [
           {
             "BoundingBox": {
@@ -11293,7 +11293,7 @@
               "Left": 0.5541002750396729,
               "Top": 0.6965942978858948
             },
-            "Confidence": 57.24116134643555
+            "Confidence": 47.24116134643555
           }
         ],
         "Parents": [],
@@ -11313,7 +11313,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Playing American Football",
-        "Confidence": 52.144134521484375,
+        "Confidence": 42.144134521484375,
         "Instances": [],
         "Parents": [
           {
@@ -11483,7 +11483,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Baby",
-        "Confidence": 56.04874801635742,
+        "Confidence": 26.04874801635742,
         "Instances": [
           {
             "BoundingBox": {
@@ -11527,7 +11527,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Cat",
-        "Confidence": 52.09928512573242,
+        "Confidence": 12.09928512573242,
         "Instances": [],
         "Parents": [
           {
@@ -11593,7 +11593,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Female",
-        "Confidence": 59.33564376831055,
+        "Confidence": 29.33564376831055,
         "Instances": [
           {
             "BoundingBox": {
@@ -11675,7 +11675,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 58.303565979003906,
+        "Confidence": 28.303565979003906,
         "Instances": [],
         "Parents": [
           {
@@ -11902,7 +11902,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.51333236694336,
+        "Confidence": 24.51333236694336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11917,7 +11917,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Boxing",
-        "Confidence": 50.71413803100586,
+        "Confidence": 40.71413803100586,
         "Instances": [],
         "Parents": [
           {
@@ -12059,7 +12059,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Cream",
-        "Confidence": 52.606201171875,
+        "Confidence": 12.606201171875,
         "Instances": [],
         "Parents": [
           {
@@ -12085,7 +12085,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 52.70750427246094,
+        "Confidence": 22.70750427246094,
         "Instances": [],
         "Parents": [
           {
@@ -12126,7 +12126,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Food",
-        "Confidence": 52.8743782043457,
+        "Confidence": 42.8743782043457,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12141,7 +12141,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 52.045066833496094,
+        "Confidence": 32.045066833496094,
         "Instances": [],
         "Parents": [
           {
@@ -12185,7 +12185,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 52.427303314208984,
+        "Confidence": 22.427303314208984,
         "Instances": [],
         "Parents": [
           {
@@ -12530,7 +12530,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 51.376708984375,
+        "Confidence": 21.376708984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -12656,7 +12656,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 53.442100524902344,
+        "Confidence": 23.442100524902344,
         "Instances": [],
         "Parents": [
           {
@@ -12700,7 +12700,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 50.11281204223633,
+        "Confidence": 40.11281204223633,
         "Instances": [],
         "Parents": [
           {
@@ -12835,7 +12835,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 54.373451232910156,
+        "Confidence": 34.373451232910156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12878,7 +12878,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Surprised",
-        "Confidence": 53.194854736328125,
+        "Confidence": 23.194854736328125,
         "Instances": [],
         "Parents": [
           {
@@ -12982,7 +12982,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 52.84309387207031,
+        "Confidence": 12.84309387207031,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13048,7 +13048,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Fighting",
-        "Confidence": 52.02090835571289,
+        "Confidence": 42.02090835571289,
         "Instances": [],
         "Parents": [
           {
@@ -13067,7 +13067,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Hairdresser",
-        "Confidence": 51.80691909790039,
+        "Confidence": 41.80691909790039,
         "Instances": [],
         "Parents": [
           {
@@ -13214,7 +13214,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Pet",
-        "Confidence": 53.16746139526367,
+        "Confidence": 33.16746139526367,
         "Instances": [],
         "Parents": [
           {
@@ -13233,7 +13233,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Shoving",
-        "Confidence": 52.261592864990234,
+        "Confidence": 42.261592864990234,
         "Instances": [],
         "Parents": [
           {
@@ -13252,7 +13252,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 54.913230895996094,
+        "Confidence": 34.913230895996094,
         "Instances": [],
         "Parents": [
           {
@@ -13280,7 +13280,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Surprised",
-        "Confidence": 52.37435531616211,
+        "Confidence": 42.37435531616211,
         "Instances": [],
         "Parents": [
           {
@@ -13469,7 +13469,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Haircut",
-        "Confidence": 51.14448165893555,
+        "Confidence": 41.14448165893555,
         "Instances": [],
         "Parents": [
           {
@@ -13510,7 +13510,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 52.02223205566406,
+        "Confidence": 42.02223205566406,
         "Instances": [],
         "Parents": [
           {
@@ -13554,7 +13554,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 52.07141876220703,
+        "Confidence": 22.07141876220703,
         "Instances": [],
         "Parents": [
           {
@@ -13577,7 +13577,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Laughing",
-        "Confidence": 51.34267807006836,
+        "Confidence": 41.34267807006836,
         "Instances": [],
         "Parents": [
           {
@@ -13674,7 +13674,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Pet",
-        "Confidence": 52.38166427612305,
+        "Confidence": 22.38166427612305,
         "Instances": [],
         "Parents": [
           {
@@ -13849,7 +13849,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Canine",
-        "Confidence": 51.7628288269043,
+        "Confidence": 21.7628288269043,
         "Instances": [],
         "Parents": [
           {
@@ -13954,7 +13954,7 @@
               "Left": 0.11457202583551407,
               "Top": 2.1066665794933215e-05
             },
-            "Confidence": 54.869483947753906
+            "Confidence": 34.869483947753906
           }
         ],
         "Parents": [
@@ -14027,7 +14027,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Hairdresser",
-        "Confidence": 53.40086364746094,
+        "Confidence": 33.40086364746094,
         "Instances": [],
         "Parents": [
           {
@@ -14122,7 +14122,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 52.45345687866211,
+        "Confidence": 32.45345687866211,
         "Instances": [],
         "Parents": [
           {
@@ -14204,7 +14204,7 @@
               "Left": 0.5835433006286621,
               "Top": 0.0004251575446687639
             },
-            "Confidence": 50.630123138427734
+            "Confidence": 40.630123138427734
           }
         ],
         "Parents": [],
@@ -14389,7 +14389,7 @@
               "Left": 0.11457202583551407,
               "Top": 2.1066665794933215e-05
             },
-            "Confidence": 54.869483947753906
+            "Confidence": 24.869483947753906
           }
         ],
         "Parents": [
@@ -14481,7 +14481,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 52.41411590576172,
+        "Confidence": 32.41411590576172,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -14500,7 +14500,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Cocker Spaniel",
-        "Confidence": 51.8696403503418,
+        "Confidence": 41.8696403503418,
         "Instances": [],
         "Parents": [
           {
@@ -14648,7 +14648,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "German Shepherd",
-        "Confidence": 50.207191467285156,
+        "Confidence": 30.207191467285156,
         "Instances": [],
         "Parents": [
           {
@@ -14732,7 +14732,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 52.352935791015625,
+        "Confidence": 32.352935791015625,
         "Instances": [],
         "Parents": [
           {
@@ -14776,7 +14776,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Hound",
-        "Confidence": 50.3813591003418,
+        "Confidence": 30.3813591003418,
         "Instances": [],
         "Parents": [
           {
@@ -14807,7 +14807,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Laughing",
-        "Confidence": 52.13371658325195,
+        "Confidence": 42.13371658325195,
         "Instances": [],
         "Parents": [
           {
@@ -14986,7 +14986,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 52.62145233154297,
+        "Confidence": 32.62145233154297,
         "Instances": [],
         "Parents": [
           {
@@ -15064,7 +15064,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 52.97869110107422,
+        "Confidence": 42.97869110107422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15296,7 +15296,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Computer",
-        "Confidence": 50.318538665771484,
+        "Confidence": 10.318538665771484,
         "Instances": [],
         "Parents": [
           {
@@ -15409,7 +15409,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "German Shepherd",
-        "Confidence": 50.19093322753906,
+        "Confidence": 30.19093322753906,
         "Instances": [],
         "Parents": [
           {
@@ -15471,7 +15471,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.35542678833008,
+        "Confidence": 10.35542678833008,
         "Instances": [],
         "Parents": [
           {
@@ -15708,7 +15708,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.34158706665039,
+        "Confidence": 40.34158706665039,
         "Instances": [],
         "Parents": [
           {
@@ -15736,7 +15736,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 54.810028076171875,
+        "Confidence": 34.810028076171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15751,7 +15751,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Smoking",
-        "Confidence": 50.76430130004883,
+        "Confidence": 30.76430130004883,
         "Instances": [],
         "Parents": [
           {
@@ -15938,7 +15938,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Cocker Spaniel",
-        "Confidence": 50.82620620727539,
+        "Confidence": 30.82620620727539,
         "Instances": [],
         "Parents": [
           {
@@ -15973,7 +15973,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Computer",
-        "Confidence": 51.63372802734375,
+        "Confidence": 31.63372802734375,
         "Instances": [],
         "Parents": [
           {
@@ -16095,7 +16095,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Girl",
-        "Confidence": 50.56488037109375,
+        "Confidence": 20.56488037109375,
         "Instances": [
           {
             "BoundingBox": {
@@ -16158,7 +16158,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.2113037109375,
+        "Confidence": 30.2113037109375,
         "Instances": [],
         "Parents": [
           {
@@ -16333,7 +16333,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 50.75985336303711,
+        "Confidence": 40.75985336303711,
         "Instances": [],
         "Parents": [
           {
@@ -16677,7 +16677,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Haircut",
-        "Confidence": 50.72123718261719,
+        "Confidence": 40.72123718261719,
         "Instances": [],
         "Parents": [
           {
@@ -16903,7 +16903,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.40928649902344,
+        "Confidence": 40.40928649902344,
         "Instances": [],
         "Parents": [
           {
@@ -16999,7 +16999,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Wedding Proposal",
-        "Confidence": 51.10221862792969,
+        "Confidence": 41.10221862792969,
         "Instances": [],
         "Parents": [
           {
@@ -17584,7 +17584,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.19670104980469,
+        "Confidence": 20.19670104980469,
         "Instances": [],
         "Parents": [
           {
@@ -17612,7 +17612,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 53.20245361328125,
+        "Confidence": 33.20245361328125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17937,7 +17937,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 53.372825622558594,
+        "Confidence": 43.372825622558594,
         "Instances": [],
         "Parents": [
           {
@@ -18163,7 +18163,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 50.10636901855469,
+        "Confidence": 40.10636901855469,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18256,7 +18256,7 @@
               "Left": 0.10531686246395111,
               "Top": 0.022559814155101776
             },
-            "Confidence": 52.64365005493164
+            "Confidence": 42.64365005493164
           }
         ],
         "Parents": [
@@ -18377,7 +18377,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Dog",
-        "Confidence": 55.2624397277832,
+        "Confidence": 45.2624397277832,
         "Instances": [],
         "Parents": [
           {
@@ -18574,7 +18574,7 @@
               "Left": 0.09968851506710052,
               "Top": 0.0
             },
-            "Confidence": 53.44637680053711
+            "Confidence": 23.44637680053711
           },
           {
             "BoundingBox": {
@@ -18622,7 +18622,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.7205924987793,
+        "Confidence": 40.7205924987793,
         "Instances": [],
         "Parents": [
           {
@@ -18641,7 +18641,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Surprised",
-        "Confidence": 54.884788513183594,
+        "Confidence": 24.884788513183594,
         "Instances": [],
         "Parents": [
           {

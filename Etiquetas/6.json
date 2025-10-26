@@ -69,7 +69,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 54.14685821533203,
+        "Confidence": 24.14685821533203,
         "Instances": [],
         "Parents": [
           {
@@ -91,7 +91,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Arm",
-        "Confidence": 50.03224182128906,
+        "Confidence": 20.03224182128906,
         "Instances": [],
         "Parents": [
           {
@@ -113,7 +113,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 56.192352294921875,
+        "Confidence": 26.192352294921875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -128,7 +128,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Canine",
-        "Confidence": 50.77998352050781,
+        "Confidence": 20.77998352050781,
         "Instances": [],
         "Parents": [
           {
@@ -185,7 +185,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Chair",
-        "Confidence": 50.91423797607422,
+        "Confidence": 20.91423797607422,
         "Instances": [],
         "Parents": [
           {
@@ -223,7 +223,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Doctor",
-        "Confidence": 50.39131546020508,
+        "Confidence": 20.39131546020508,
         "Instances": [],
         "Parents": [
           {
@@ -264,7 +264,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 53.247989654541016,
+        "Confidence": 23.247989654541016,
         "Instances": [],
         "Parents": [
           {
@@ -349,7 +349,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 50.91423797607422,
+        "Confidence": 20.91423797607422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -396,7 +396,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.83790588378906,
+        "Confidence": 41.83790588378906,
         "Instances": [],
         "Parents": [
           {
@@ -418,7 +418,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.79647445678711,
+        "Confidence": 40.79647445678711,
         "Instances": [],
         "Parents": [
           {
@@ -487,7 +487,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 51.83790588378906,
+        "Confidence": 41.83790588378906,
         "Instances": [],
         "Parents": [
           {
@@ -512,7 +512,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 52.63322830200195,
+        "Confidence": 42.63322830200195,
         "Instances": [],
         "Parents": [
           {
@@ -540,7 +540,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Knee",
-        "Confidence": 53.03913879394531,
+        "Confidence": 43.03913879394531,
         "Instances": [],
         "Parents": [
           {
@@ -562,7 +562,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Mace Club",
-        "Confidence": 53.524715423583984,
+        "Confidence": 43.524715423583984,
         "Instances": [
           {
             "BoundingBox": {
@@ -676,7 +676,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 56.91224670410156,
+        "Confidence": 46.91224670410156,
         "Instances": [],
         "Parents": [
           {
@@ -698,7 +698,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 63.4703369140625,
+        "Confidence": 13.4703369140625,
         "Instances": [],
         "Parents": [
           {
@@ -739,7 +739,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 51.726104736328125,
+        "Confidence": 31.726104736328125,
         "Instances": [],
         "Parents": [
           {
@@ -758,7 +758,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.79647445678711,
+        "Confidence": 80.79647445678711,
         "Instances": [],
         "Parents": [
           {
@@ -786,7 +786,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 50.365257263183594,
+        "Confidence": 10.365257263183594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -933,7 +933,7 @@
               "Left": 0.465345561504364,
               "Top": 0.6678051352500916
             },
-            "Confidence": 56.774513244628906
+            "Confidence": 46.774513244628906
           }
         ],
         "Parents": [
@@ -1005,7 +1005,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Camera",
-        "Confidence": 52.8238639831543,
+        "Confidence": 32.8238639831543,
         "Instances": [],
         "Parents": [
           {
@@ -1024,7 +1024,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Canine",
-        "Confidence": 59.181697845458984,
+        "Confidence": 19.181697845458984,
         "Instances": [],
         "Parents": [
           {
@@ -1119,7 +1119,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Dog",
-        "Confidence": 59.01808166503906,
+        "Confidence": 49.01808166503906,
         "Instances": [
           {
             "BoundingBox": {
@@ -1157,7 +1157,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 52.8238639831543,
+        "Confidence": 32.8238639831543,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1194,7 +1194,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 52.60343933105469,
+        "Confidence": 32.60343933105469,
         "Instances": [],
         "Parents": [
           {
@@ -1270,7 +1270,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.746009826660156,
+        "Confidence": 30.746009826660156,
         "Instances": [],
         "Parents": [
           {
@@ -1336,7 +1336,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 54.12070846557617,
+        "Confidence": 34.12070846557617,
         "Instances": [],
         "Parents": [
           {
@@ -1386,7 +1386,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 51.8486442565918,
+        "Confidence": 31.8486442565918,
         "Instances": [],
         "Parents": [
           {
@@ -1512,7 +1512,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 57.78244400024414,
+        "Confidence": 37.78244400024414,
         "Instances": [],
         "Parents": [
           {
@@ -1641,7 +1641,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 53.41337966918945,
+        "Confidence": 33.41337966918945,
         "Instances": [],
         "Parents": [
           {
@@ -1681,7 +1681,7 @@
               "Left": 0.465345561504364,
               "Top": 0.6678051352500916
             },
-            "Confidence": 56.774513244628906
+            "Confidence": 26.774513244628906
           }
         ],
         "Parents": [
@@ -1725,7 +1725,7 @@
               "Left": 0.0,
               "Top": 0.0015786361182108521
             },
-            "Confidence": 56.41313171386719
+            "Confidence": 16.41313171386719
           },
           {
             "BoundingBox": {
@@ -1769,7 +1769,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 55.71452713012695,
+        "Confidence": 35.71452713012695,
         "Instances": [],
         "Parents": [
           {
@@ -1791,7 +1791,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 56.06300735473633,
+        "Confidence": 36.06300735473633,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1806,7 +1806,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Canine",
-        "Confidence": 51.819252014160156,
+        "Confidence": 11.819252014160156,
         "Instances": [],
         "Parents": [
           {
@@ -1882,7 +1882,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Dog",
-        "Confidence": 51.74116134643555,
+        "Confidence": 31.74116134643555,
         "Instances": [],
         "Parents": [
           {
@@ -1910,7 +1910,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Face",
-        "Confidence": 55.70259475708008,
+        "Confidence": 15.70259475708008,
         "Instances": [],
         "Parents": [
           {
@@ -1978,7 +1978,7 @@
               "Left": 0.578231930732727,
               "Top": 0.0031777953263372183
             },
-            "Confidence": 55.95556640625
+            "Confidence": 35.95556640625
           }
         ],
         "Parents": [
@@ -2039,7 +2039,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Head",
-        "Confidence": 55.80570983886719,
+        "Confidence": 25.80570983886719,
         "Instances": [],
         "Parents": [
           {
@@ -2274,7 +2274,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 54.40955352783203,
+        "Confidence": 34.40955352783203,
         "Instances": [],
         "Parents": [
           {
@@ -2296,7 +2296,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 50.16325378417969,
+        "Confidence": 20.16325378417969,
         "Instances": [],
         "Parents": [
           {
@@ -2342,7 +2342,7 @@
               "Left": 0.578231930732727,
               "Top": 0.0031777953263372183
             },
-            "Confidence": 55.95556640625
+            "Confidence": 25.95556640625
           }
         ],
         "Parents": [
@@ -2377,7 +2377,7 @@
               "Left": 0.0,
               "Top": 0.0016574382316321135
             },
-            "Confidence": 55.23616027832031
+            "Confidence": 45.23616027832031
           },
           {
             "BoundingBox": {
@@ -2386,7 +2386,7 @@
               "Left": 0.517946183681488,
               "Top": 0.004482765216380358
             },
-            "Confidence": 52.2533073425293
+            "Confidence": 42.2533073425293
           }
         ],
         "Parents": [
@@ -2421,7 +2421,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 54.44812774658203,
+        "Confidence": 44.44812774658203,
         "Instances": [],
         "Parents": [
           {
@@ -2443,7 +2443,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Baby",
-        "Confidence": 52.84149169921875,
+        "Confidence": 22.84149169921875,
         "Instances": [
           {
             "BoundingBox": {
@@ -2519,7 +2519,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Canine",
-        "Confidence": 50.228153228759766,
+        "Confidence": 10.228153228759766,
         "Instances": [],
         "Parents": [
           {
@@ -2576,7 +2576,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Child",
-        "Confidence": 55.383419036865234,
+        "Confidence": 15.383419036865234,
         "Instances": [
           {
             "BoundingBox": {
@@ -2656,7 +2656,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 50.2596549987793,
+        "Confidence": 30.2596549987793,
         "Instances": [],
         "Parents": [
           {
@@ -2684,7 +2684,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Face",
-        "Confidence": 54.57965850830078,
+        "Confidence": 14.57965850830078,
         "Instances": [],
         "Parents": [
           {
@@ -2804,7 +2804,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Head",
-        "Confidence": 54.76701736450195,
+        "Confidence": 44.76701736450195,
         "Instances": [],
         "Parents": [
           {
@@ -2823,7 +2823,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 52.17281723022461,
+        "Confidence": 42.17281723022461,
         "Instances": [],
         "Parents": [
           {
@@ -2901,7 +2901,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Male",
-        "Confidence": 55.383419036865234,
+        "Confidence": 25.383419036865234,
         "Instances": [
           {
             "BoundingBox": {
@@ -2976,7 +2976,7 @@
               "Left": 0.0,
               "Top": 0.0016574382316321135
             },
-            "Confidence": 55.23616027832031
+            "Confidence": 45.23616027832031
           },
           {
             "BoundingBox": {
@@ -3096,7 +3096,7 @@
               "Left": 0.0,
               "Top": 0.0016574382316321135
             },
-            "Confidence": 55.23616027832031
+            "Confidence": 35.23616027832031
           },
           {
             "BoundingBox": {
@@ -3193,7 +3193,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 54.816287994384766,
+        "Confidence": 44.816287994384766,
         "Instances": [],
         "Parents": [
           {
@@ -3284,7 +3284,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 50.27092742919922,
+        "Confidence": 20.27092742919922,
         "Instances": [],
         "Parents": [
           {
@@ -3419,7 +3419,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Heel",
-        "Confidence": 50.164493560791016,
+        "Confidence": 40.164493560791016,
         "Instances": [],
         "Parents": [
           {
@@ -3629,7 +3629,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 50.94920349121094,
+        "Confidence": 30.94920349121094,
         "Instances": [],
         "Parents": [
           {
@@ -3766,7 +3766,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 54.59480667114258,
+        "Confidence": 44.59480667114258,
         "Instances": [],
         "Parents": [
           {
@@ -3788,7 +3788,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.59480667114258,
+        "Confidence": 34.59480667114258,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3835,7 +3835,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Canine",
-        "Confidence": 52.632652282714844,
+        "Confidence": 12.632652282714844,
         "Instances": [],
         "Parents": [
           {
@@ -3892,7 +3892,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Child",
-        "Confidence": 57.31880569458008,
+        "Confidence": 17.31880569458008,
         "Instances": [
           {
             "BoundingBox": {
@@ -3944,7 +3944,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Dog",
-        "Confidence": 52.632652282714844,
+        "Confidence": 32.632652282714844,
         "Instances": [],
         "Parents": [
           {
@@ -3972,7 +3972,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.807857513427734,
+        "Confidence": 42.807857513427734,
         "Instances": [],
         "Parents": [
           {
@@ -4126,7 +4126,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.21826934814453,
+        "Confidence": 30.21826934814453,
         "Instances": [],
         "Parents": [
           {
@@ -4179,7 +4179,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Male",
-        "Confidence": 59.55790710449219,
+        "Confidence": 39.55790710449219,
         "Instances": [
           {
             "BoundingBox": {
@@ -4302,7 +4302,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Puppy",
-        "Confidence": 52.632652282714844,
+        "Confidence": 42.632652282714844,
         "Instances": [],
         "Parents": [
           {
@@ -4493,7 +4493,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 55.7081184387207,
+        "Confidence": 35.7081184387207,
         "Instances": [],
         "Parents": [
           {
@@ -4515,7 +4515,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 55.7081184387207,
+        "Confidence": 45.7081184387207,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4530,7 +4530,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Canine",
-        "Confidence": 50.881980895996094,
+        "Confidence": 10.881980895996094,
         "Instances": [],
         "Parents": [
           {
@@ -4606,7 +4606,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Dog",
-        "Confidence": 50.881980895996094,
+        "Confidence": 20.881980895996094,
         "Instances": [],
         "Parents": [
           {
@@ -4691,7 +4691,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Heel",
-        "Confidence": 50.15981674194336,
+        "Confidence": 20.15981674194336,
         "Instances": [],
         "Parents": [
           {
@@ -4738,7 +4738,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 53.97132110595703,
+        "Confidence": 43.97132110595703,
         "Instances": [],
         "Parents": [
           {
@@ -4914,7 +4914,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 51.84443664550781,
+        "Confidence": 21.84443664550781,
         "Instances": [],
         "Parents": [
           {
@@ -4936,7 +4936,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Skin",
-        "Confidence": 50.67556381225586,
+        "Confidence": 10.67556381225586,
         "Instances": [],
         "Parents": [
           {
@@ -5026,7 +5026,7 @@
               "Left": 0.5437458157539368,
               "Top": 0.008672446943819523
             },
-            "Confidence": 57.91968536376953
+            "Confidence": 37.91968536376953
           }
         ],
         "Parents": [
@@ -5061,7 +5061,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 54.88165283203125,
+        "Confidence": 34.88165283203125,
         "Instances": [],
         "Parents": [
           {
@@ -5083,7 +5083,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.88165283203125,
+        "Confidence": 34.88165283203125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5262,7 +5262,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Head",
-        "Confidence": 51.6553840637207,
+        "Confidence": 41.6553840637207,
         "Instances": [],
         "Parents": [
           {
@@ -5306,7 +5306,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.9300422668457,
+        "Confidence": 40.9300422668457,
         "Instances": [],
         "Parents": [
           {
@@ -5331,7 +5331,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 54.19342803955078,
+        "Confidence": 44.19342803955078,
         "Instances": [],
         "Parents": [
           {
@@ -5476,7 +5476,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 51.254173278808594,
+        "Confidence": 21.254173278808594,
         "Instances": [],
         "Parents": [
           {
@@ -5525,7 +5525,7 @@
               "Left": 0.5437458157539368,
               "Top": 0.008672446943819523
             },
-            "Confidence": 57.91968536376953
+            "Confidence": 47.91968536376953
           }
         ],
         "Parents": [
@@ -5604,7 +5604,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 55.08903884887695,
+        "Confidence": 35.08903884887695,
         "Instances": [],
         "Parents": [
           {
@@ -5626,7 +5626,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 55.08903884887695,
+        "Confidence": 45.08903884887695,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5735,7 +5735,7 @@
               "Left": 0.5483724474906921,
               "Top": 0.004537124652415514
             },
-            "Confidence": 58.132083892822266
+            "Confidence": 48.132083892822266
           }
         ],
         "Parents": [
@@ -5774,7 +5774,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Head",
-        "Confidence": 50.37482833862305,
+        "Confidence": 40.37482833862305,
         "Instances": [],
         "Parents": [
           {
@@ -5905,7 +5905,7 @@
               "Left": 0.5483724474906921,
               "Top": 0.004537124652415514
             },
-            "Confidence": 58.132083892822266
+            "Confidence": 38.132083892822266
           }
         ],
         "Parents": [],
@@ -5962,7 +5962,7 @@
               "Left": 0.555605411529541,
               "Top": 0.5962623953819275
             },
-            "Confidence": 53.2820930480957
+            "Confidence": 43.2820930480957
           }
         ],
         "Parents": [
@@ -6140,7 +6140,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 54.95734405517578,
+        "Confidence": 34.95734405517578,
         "Instances": [],
         "Parents": [
           {
@@ -6162,7 +6162,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.95734405517578,
+        "Confidence": 14.95734405517578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6359,7 +6359,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Head",
-        "Confidence": 52.121925354003906,
+        "Confidence": 42.121925354003906,
         "Instances": [],
         "Parents": [
           {
@@ -6378,7 +6378,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Heel",
-        "Confidence": 50.53932571411133,
+        "Confidence": 30.53932571411133,
         "Instances": [],
         "Parents": [
           {
@@ -6400,7 +6400,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.54372024536133,
+        "Confidence": 30.54372024536133,
         "Instances": [],
         "Parents": [
           {
@@ -6450,7 +6450,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 56.22990417480469,
+        "Confidence": 46.22990417480469,
         "Instances": [],
         "Parents": [
           {
@@ -6841,7 +6841,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 54.79463195800781,
+        "Confidence": 34.79463195800781,
         "Instances": [],
         "Parents": [
           {
@@ -6863,7 +6863,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.84967041015625,
+        "Confidence": 44.84967041015625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7020,7 +7020,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.156436920166016,
+        "Confidence": 30.156436920166016,
         "Instances": [],
         "Parents": [
           {
@@ -7042,7 +7042,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Head",
-        "Confidence": 53.883872985839844,
+        "Confidence": 23.883872985839844,
         "Instances": [],
         "Parents": [
           {
@@ -7083,7 +7083,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.156436920166016,
+        "Confidence": 30.156436920166016,
         "Instances": [],
         "Parents": [
           {
@@ -7359,7 +7359,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 55.46467590332031,
+        "Confidence": 25.46467590332031,
         "Instances": [],
         "Parents": [
           {
@@ -7380,8 +7380,8 @@
     {
       "Timestamp": 5520,
       "Label": {
-        "Name": "Baby",
-        "Confidence": 75.46062469482422,
+        "Name": "Floor",
+        "Confidence": 35.46062469482422,
         "Instances": [
           {
             "BoundingBox": {
@@ -7447,7 +7447,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 55.57475280761719,
+        "Confidence": 45.57475280761719,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7497,7 +7497,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Child",
-        "Confidence": 51.00871276855469,
+        "Confidence": 11.00871276855469,
         "Instances": [
           {
             "BoundingBox": {
@@ -7549,7 +7549,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Face",
-        "Confidence": 59.19982147216797,
+        "Confidence": 39.19982147216797,
         "Instances": [],
         "Parents": [
           {
@@ -7571,7 +7571,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Female",
-        "Confidence": 58.46638870239258,
+        "Confidence": 38.46638870239258,
         "Instances": [
           {
             "BoundingBox": {
@@ -7660,7 +7660,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 79.47508239746094,
+        "Confidence": 19.47508239746094,
         "Instances": [],
         "Parents": [
           {
@@ -7772,7 +7772,7 @@
               "Left": 0.02393406443297863,
               "Top": 0.0
             },
-            "Confidence": 55.73273849487305
+            "Confidence": 35.73273849487305
           },
           {
             "BoundingBox": {
@@ -7852,7 +7852,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Skin",
-        "Confidence": 50.825225830078125,
+        "Confidence": 20.825225830078125,
         "Instances": [],
         "Parents": [
           {
@@ -7902,7 +7902,7 @@
               "Left": 0.02393406443297863,
               "Top": 0.0
             },
-            "Confidence": 55.73273849487305
+            "Confidence": 45.73273849487305
           }
         ],
         "Parents": [
@@ -7927,7 +7927,7 @@
     {
       "Timestamp": 6000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 52.05547332763672,
         "Instances": [],
         "Parents": [
@@ -8000,7 +8000,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 52.2060661315918,
+        "Confidence": 22.2060661315918,
         "Instances": [],
         "Parents": [
           {
@@ -8022,7 +8022,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 54.35301971435547,
+        "Confidence": 44.35301971435547,
         "Instances": [],
         "Parents": [
           {
@@ -8147,7 +8147,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 56.90910339355469,
+        "Confidence": 36.90910339355469,
         "Instances": [],
         "Parents": [
           {
@@ -8185,7 +8185,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Heel",
-        "Confidence": 52.16450500488281,
+        "Confidence": 32.16450500488281,
         "Instances": [],
         "Parents": [
           {
@@ -8317,8 +8317,8 @@
     {
       "Timestamp": 6000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 51.291263580322266,
+        "Name": "Cat",
+        "Confidence": 41.291263580322266,
         "Instances": [],
         "Parents": [
           {
@@ -8394,7 +8394,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 56.90910339355469,
+        "Confidence": 36.90910339355469,
         "Instances": [],
         "Parents": [
           {
@@ -8416,7 +8416,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Toe",
-        "Confidence": 50.55315017700195,
+        "Confidence": 20.55315017700195,
         "Instances": [],
         "Parents": [
           {
@@ -8437,7 +8437,7 @@
     {
       "Timestamp": 6520,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 60.069278717041016,
         "Instances": [],
         "Parents": [
@@ -8481,7 +8481,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 52.17455291748047,
+        "Confidence": 22.17455291748047,
         "Instances": [],
         "Parents": [
           {
@@ -8503,7 +8503,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Barefoot",
-        "Confidence": 50.98618698120117,
+        "Confidence": 20.98618698120117,
         "Instances": [],
         "Parents": [
           {
@@ -8522,7 +8522,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.097267150878906,
+        "Confidence": 33.097267150878906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8581,7 +8581,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 56.99906539916992,
+        "Confidence": 36.99906539916992,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -8600,7 +8600,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 51.27888870239258,
+        "Confidence": 41.27888870239258,
         "Instances": [],
         "Parents": [
           {
@@ -8628,7 +8628,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 55.001136779785156,
+        "Confidence": 25.001136779785156,
         "Instances": [],
         "Parents": [
           {
@@ -8666,7 +8666,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 70.85303497314453,
+        "Confidence": 10.85303497314453,
         "Instances": [],
         "Parents": [
           {
@@ -8712,8 +8712,8 @@
     {
       "Timestamp": 6520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 52.90642547607422,
+        "Name": "Cat",
+        "Confidence": 42.90642547607422,
         "Instances": [],
         "Parents": [
           {
@@ -8759,7 +8759,7 @@
               "Left": 0.5834589004516602,
               "Top": 0.0
             },
-            "Confidence": 53.552608489990234
+            "Confidence": 33.552608489990234
           }
         ],
         "Parents": [],
@@ -8798,7 +8798,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 55.001136779785156,
+        "Confidence": 35.001136779785156,
         "Instances": [],
         "Parents": [
           {
@@ -8819,7 +8819,7 @@
     {
       "Timestamp": 7000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 93.29676818847656,
         "Instances": [],
         "Parents": [
@@ -8991,8 +8991,8 @@
     {
       "Timestamp": 7000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.907798767089844,
+        "Name": "Cat",
+        "Confidence": 43.907798767089844,
         "Instances": [],
         "Parents": [
           {
@@ -9057,7 +9057,7 @@
     {
       "Timestamp": 7520,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 96.2775650024414,
         "Instances": [],
         "Parents": [
@@ -9164,7 +9164,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 52.67977523803711,
+        "Confidence": 42.67977523803711,
         "Instances": [],
         "Parents": [
           {
@@ -9211,7 +9211,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 78.90921020507812,
+        "Confidence": 38.90921020507812,
         "Instances": [],
         "Parents": [
           {
@@ -9257,8 +9257,8 @@
     {
       "Timestamp": 7520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 55.33027648925781,
+        "Name": "Cat",
+        "Confidence": 45.33027648925781,
         "Instances": [],
         "Parents": [
           {
@@ -9364,7 +9364,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 50.049625396728516,
+        "Confidence": 20.049625396728516,
         "Instances": [],
         "Parents": [
           {
@@ -9382,7 +9382,7 @@
     {
       "Timestamp": 8000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 99.5716323852539,
         "Instances": [],
         "Parents": [
@@ -9411,7 +9411,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Angora",
-        "Confidence": 50.059234619140625,
+        "Confidence": 30.059234619140625,
         "Instances": [],
         "Parents": [
           {
@@ -9517,7 +9517,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 74.34526824951172,
+        "Confidence": 34.34526824951172,
         "Instances": [],
         "Parents": [
           {
@@ -9563,8 +9563,8 @@
     {
       "Timestamp": 8000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.45552444458008,
+        "Name": "Cat",
+        "Confidence": 44.45552444458008,
         "Instances": [],
         "Parents": [
           {
@@ -9610,7 +9610,7 @@
     {
       "Timestamp": 8520,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 99.37895965576172,
         "Instances": [],
         "Parents": [
@@ -9717,7 +9717,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 52.100460052490234,
+        "Confidence": 22.100460052490234,
         "Instances": [],
         "Parents": [
           {
@@ -9745,7 +9745,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 60.84092712402344,
+        "Confidence": 20.84092712402344,
         "Instances": [],
         "Parents": [
           {
@@ -9791,8 +9791,8 @@
     {
       "Timestamp": 8520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.88492965698242,
+        "Name": "Cat",
+        "Confidence": 44.88492965698242,
         "Instances": [],
         "Parents": [
           {
@@ -9853,7 +9853,7 @@
     {
       "Timestamp": 9000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 97.57157135009766,
         "Instances": [],
         "Parents": [
@@ -9882,7 +9882,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Angora",
-        "Confidence": 52.12067794799805,
+        "Confidence": 32.12067794799805,
         "Instances": [],
         "Parents": [
           {
@@ -9925,7 +9925,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.36656188964844,
+        "Confidence": 30.36656188964844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10022,7 +10022,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 59.468528747558594,
+        "Confidence": 49.468528747558594,
         "Instances": [],
         "Parents": [
           {
@@ -10068,8 +10068,8 @@
     {
       "Timestamp": 9000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 55.87674331665039,
+        "Name": "Cat",
+        "Confidence": 45.87674331665039,
         "Instances": [],
         "Parents": [
           {
@@ -10135,7 +10135,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Siamese",
-        "Confidence": 50.15568542480469,
+        "Confidence": 40.15568542480469,
         "Instances": [],
         "Parents": [
           {
@@ -10163,7 +10163,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Snout",
-        "Confidence": 50.53844451904297,
+        "Confidence": 30.53844451904297,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10177,7 +10177,7 @@
     {
       "Timestamp": 9520,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 97.976806640625,
         "Instances": [],
         "Parents": [
@@ -10206,7 +10206,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Angora",
-        "Confidence": 53.9713020324707,
+        "Confidence": 33.9713020324707,
         "Instances": [],
         "Parents": [
           {
@@ -10267,7 +10267,7 @@
               "Left": 0.22914011776447296,
               "Top": 0.009078369475901127
             },
-            "Confidence": 58.76041030883789
+            "Confidence": 28.76041030883789
           }
         ],
         "Parents": [
@@ -10321,7 +10321,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 64.97298431396484,
+        "Confidence": 24.97298431396484,
         "Instances": [],
         "Parents": [
           {
@@ -10367,8 +10367,8 @@
     {
       "Timestamp": 9520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.305335998535156,
+        "Name": "Cat",
+        "Confidence": 44.305335998535156,
         "Instances": [],
         "Parents": [
           {
@@ -10415,7 +10415,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Siamese",
-        "Confidence": 50.8858642578125,
+        "Confidence": 40.8858642578125,
         "Instances": [],
         "Parents": [
           {
@@ -10457,7 +10457,7 @@
     {
       "Timestamp": 10000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 94.509521484375,
         "Instances": [],
         "Parents": [
@@ -10486,7 +10486,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Angora",
-        "Confidence": 53.390262603759766,
+        "Confidence": 43.390262603759766,
         "Instances": [],
         "Parents": [
           {
@@ -10564,7 +10564,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 52.610572814941406,
+        "Confidence": 22.610572814941406,
         "Instances": [],
         "Parents": [
           {
@@ -10638,8 +10638,8 @@
     {
       "Timestamp": 10000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 56.827884674072266,
+        "Name": "Cat",
+        "Confidence": 46.827884674072266,
         "Instances": [],
         "Parents": [
           {
@@ -10714,7 +10714,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Snout",
-        "Confidence": 52.22883987426758,
+        "Confidence": 32.22883987426758,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10728,7 +10728,7 @@
     {
       "Timestamp": 10520,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 88.64055633544922,
         "Instances": [],
         "Parents": [
@@ -10844,7 +10844,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 52.908164978027344,
+        "Confidence": 42.908164978027344,
         "Instances": [],
         "Parents": [
           {
@@ -10872,7 +10872,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Head",
-        "Confidence": 51.933685302734375,
+        "Confidence": 41.933685302734375,
         "Instances": [],
         "Parents": [
           {
@@ -10937,8 +10937,8 @@
     {
       "Timestamp": 10520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 56.623992919921875,
+        "Name": "Cat",
+        "Confidence": 46.623992919921875,
         "Instances": [],
         "Parents": [
           {
@@ -11004,7 +11004,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Siamese",
-        "Confidence": 50.36061096191406,
+        "Confidence": 20.36061096191406,
         "Instances": [],
         "Parents": [
           {
@@ -11032,7 +11032,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Snout",
-        "Confidence": 51.84550857543945,
+        "Confidence": 21.84550857543945,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11046,7 +11046,7 @@
     {
       "Timestamp": 11000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 73.75029754638672,
         "Instances": [],
         "Parents": [
@@ -11113,7 +11113,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Angora",
-        "Confidence": 51.86430358886719,
+        "Confidence": 31.86430358886719,
         "Instances": [],
         "Parents": [
           {
@@ -11191,7 +11191,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 54.40516662597656,
+        "Confidence": 34.40516662597656,
         "Instances": [],
         "Parents": [
           {
@@ -11276,7 +11276,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 62.670719146728516,
+        "Confidence": 22.670719146728516,
         "Instances": [],
         "Parents": [
           {
@@ -11323,7 +11323,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Manx",
-        "Confidence": 56.53336715698242,
+        "Confidence": 36.53336715698242,
         "Instances": [],
         "Parents": [
           {
@@ -11408,7 +11408,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Siamese",
-        "Confidence": 51.004661560058594,
+        "Confidence": 31.004661560058594,
         "Instances": [],
         "Parents": [
           {
@@ -11436,7 +11436,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Snout",
-        "Confidence": 51.62584686279297,
+        "Confidence": 41.62584686279297,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11494,7 +11494,7 @@
     {
       "Timestamp": 11520,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 59.0826301574707,
         "Instances": [],
         "Parents": [
@@ -11552,7 +11552,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Angora",
-        "Confidence": 51.78776550292969,
+        "Confidence": 21.78776550292969,
         "Instances": [],
         "Parents": [
           {
@@ -11683,7 +11683,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 50.944602966308594,
+        "Confidence": 30.944602966308594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11833,8 +11833,8 @@
     {
       "Timestamp": 11520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 56.82283401489258,
+        "Name": "Cat",
+        "Confidence": 46.82283401489258,
         "Instances": [],
         "Parents": [
           {
@@ -11976,7 +11976,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Woman",
-        "Confidence": 56.70068359375,
+        "Confidence": 36.70068359375,
         "Instances": [
           {
             "BoundingBox": {
@@ -12010,7 +12010,7 @@
     {
       "Timestamp": 12000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 57.142879486083984,
         "Instances": [],
         "Parents": [
@@ -12082,7 +12082,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Baby",
-        "Confidence": 57.94211959838867,
+        "Confidence": 27.94211959838867,
         "Instances": [
           {
             "BoundingBox": {
@@ -12155,7 +12155,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 52.74128723144531,
+        "Confidence": 22.74128723144531,
         "Instances": [],
         "Parents": [
           {
@@ -12270,8 +12270,8 @@
     {
       "Timestamp": 12000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.36065673828125,
+        "Name": "Cat",
+        "Confidence": 44.36065673828125,
         "Instances": [],
         "Parents": [
           {
@@ -12381,7 +12381,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 50.614585876464844,
+        "Confidence": 40.614585876464844,
         "Instances": [],
         "Parents": [
           {
@@ -12404,7 +12404,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 50.498512268066406,
+        "Confidence": 40.498512268066406,
         "Instances": [],
         "Parents": [
           {
@@ -12422,8 +12422,8 @@
     {
       "Timestamp": 12520,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 54.077335357666016,
+        "Name": "Cat",
+        "Confidence": 34.077335357666016,
         "Instances": [],
         "Parents": [
           {
@@ -12510,7 +12510,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 55.841182708740234,
+        "Confidence": 35.841182708740234,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -12529,7 +12529,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 51.73173522949219,
+        "Confidence": 21.73173522949219,
         "Instances": [],
         "Parents": [
           {
@@ -12641,8 +12641,8 @@
     {
       "Timestamp": 12520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 56.52529525756836,
+        "Name": "Cat",
+        "Confidence": 46.52529525756836,
         "Instances": [],
         "Parents": [
           {
@@ -12733,7 +12733,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 53.69864273071289,
+        "Confidence": 33.69864273071289,
         "Instances": [],
         "Parents": [
           {
@@ -12773,7 +12773,7 @@
     {
       "Timestamp": 13000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 52.662296295166016,
         "Instances": [],
         "Parents": [
@@ -12817,7 +12817,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.60138702392578,
+        "Confidence": 43.60138702392578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12832,7 +12832,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Boy",
-        "Confidence": 56.786136627197266,
+        "Confidence": 46.786136627197266,
         "Instances": [
           {
             "BoundingBox": {
@@ -12918,7 +12918,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Face",
-        "Confidence": 54.79873275756836,
+        "Confidence": 24.79873275756836,
         "Instances": [],
         "Parents": [
           {
@@ -13053,8 +13053,8 @@
     {
       "Timestamp": 13000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.25352478027344,
+        "Name": "Cat",
+        "Confidence": 43.25352478027344,
         "Instances": [],
         "Parents": [
           {
@@ -13243,7 +13243,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Suede",
-        "Confidence": 51.369388580322266,
+        "Confidence": 31.369388580322266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13302,7 +13302,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.358924865722656,
+        "Confidence": 40.358924865722656,
         "Instances": [],
         "Parents": [
           {
@@ -13324,7 +13324,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Baby",
-        "Confidence": 56.13658142089844,
+        "Confidence": 26.13658142089844,
         "Instances": [
           {
             "BoundingBox": {
@@ -13353,7 +13353,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.5379524230957,
+        "Confidence": 43.5379524230957,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13574,7 +13574,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 52.42997360229492,
+        "Confidence": 32.42997360229492,
         "Instances": [],
         "Parents": [
           {
@@ -13624,7 +13624,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 60.87699508666992,
+        "Confidence": 20.87699508666992,
         "Instances": [],
         "Parents": [
           {
@@ -13757,7 +13757,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 51.053794860839844,
+        "Confidence": 31.053794860839844,
         "Instances": [],
         "Parents": [
           {
@@ -13965,7 +13965,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Arm",
-        "Confidence": 50.25748062133789,
+        "Confidence": 20.25748062133789,
         "Instances": [],
         "Parents": [
           {
@@ -13987,7 +13987,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Bandage",
-        "Confidence": 50.547706604003906,
+        "Confidence": 40.547706604003906,
         "Instances": [],
         "Parents": [
           {
@@ -14030,7 +14030,7 @@
               "Left": 0.6138181686401367,
               "Top": 0.0016913795843720436
             },
-            "Confidence": 58.21651077270508
+            "Confidence": 38.21651077270508
           }
         ],
         "Parents": [
@@ -14097,7 +14097,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Cream",
-        "Confidence": 53.2984733581543,
+        "Confidence": 43.2984733581543,
         "Instances": [],
         "Parents": [
           {
@@ -14123,7 +14123,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 53.2984733581543,
+        "Confidence": 23.2984733581543,
         "Instances": [],
         "Parents": [
           {
@@ -14161,7 +14161,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Face",
-        "Confidence": 56.55425262451172,
+        "Confidence": 46.55425262451172,
         "Instances": [],
         "Parents": [
           {
@@ -14183,7 +14183,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "First Aid",
-        "Confidence": 50.547706604003906,
+        "Confidence": 10.547706604003906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14298,7 +14298,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 51.77493667602539,
+        "Confidence": 31.77493667602539,
         "Instances": [],
         "Parents": [
           {
@@ -14348,7 +14348,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.74211502075195,
+        "Confidence": 22.74211502075195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14363,7 +14363,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 50.30863571166992,
+        "Confidence": 20.30863571166992,
         "Instances": [],
         "Parents": [
           {
@@ -14382,7 +14382,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 56.578033447265625,
+        "Confidence": 46.578033447265625,
         "Instances": [],
         "Parents": [
           {
@@ -14569,7 +14569,7 @@
               "Left": 0.6138181686401367,
               "Top": 0.0016913795843720436
             },
-            "Confidence": 58.21651077270508
+            "Confidence": 48.21651077270508
           }
         ],
         "Parents": [],
@@ -14677,7 +14677,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 50.18052291870117,
+        "Confidence": 40.18052291870117,
         "Instances": [],
         "Parents": [
           {
@@ -14696,7 +14696,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Skin",
-        "Confidence": 53.33610153198242,
+        "Confidence": 43.33610153198242,
         "Instances": [],
         "Parents": [
           {
@@ -14853,7 +14853,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 54.985076904296875,
+        "Confidence": 44.985076904296875,
         "Instances": [],
         "Parents": [
           {
@@ -14875,7 +14875,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Arm",
-        "Confidence": 54.111663818359375,
+        "Confidence": 44.111663818359375,
         "Instances": [],
         "Parents": [
           {
@@ -14897,7 +14897,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Bandage",
-        "Confidence": 51.72193908691406,
+        "Confidence": 31.72193908691406,
         "Instances": [],
         "Parents": [
           {
@@ -15114,7 +15114,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Food",
-        "Confidence": 54.34782028198242,
+        "Confidence": 34.34782028198242,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15148,7 +15148,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 52.890586853027344,
+        "Confidence": 32.890586853027344,
         "Instances": [],
         "Parents": [
           {
@@ -15214,7 +15214,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 52.62674331665039,
+        "Confidence": 22.62674331665039,
         "Instances": [],
         "Parents": [
           {
@@ -15239,7 +15239,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 54.34782028198242,
+        "Confidence": 44.34782028198242,
         "Instances": [],
         "Parents": [
           {
@@ -15435,7 +15435,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Pet",
-        "Confidence": 51.61275100708008,
+        "Confidence": 31.61275100708008,
         "Instances": [],
         "Parents": [
           {
@@ -15454,7 +15454,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 54.399253845214844,
+        "Confidence": 24.399253845214844,
         "Instances": [],
         "Parents": [
           {
@@ -15476,7 +15476,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Sea Life",
-        "Confidence": 50.3257942199707,
+        "Confidence": 10.3257942199707,
         "Instances": [],
         "Parents": [
           {
@@ -15495,7 +15495,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Sea Lion",
-        "Confidence": 50.3257942199707,
+        "Confidence": 10.3257942199707,
         "Instances": [],
         "Parents": [
           {
@@ -15604,8 +15604,8 @@
     {
       "Timestamp": 14520,
       "Label": {
-        "Name": "Sport",
-        "Confidence": 50.35646438598633,
+        "Name": "Floor",
+        "Confidence": 30.35646438598633,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -15734,7 +15734,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 56.772911071777344,
+        "Confidence": 46.772911071777344,
         "Instances": [],
         "Parents": [
           {
@@ -15778,7 +15778,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Baby",
-        "Confidence": 68.19482421875,
+        "Confidence": 38.19482421875,
         "Instances": [
           {
             "BoundingBox": {
@@ -15796,7 +15796,7 @@
               "Left": 0.7873578071594238,
               "Top": 0.001631994266062975
             },
-            "Confidence": 55.02165603637695
+            "Confidence": 35.02165603637695
           },
           {
             "BoundingBox": {
@@ -16033,7 +16033,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Food",
-        "Confidence": 50.54702377319336,
+        "Confidence": 40.54702377319336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16067,7 +16067,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 55.50669860839844,
+        "Confidence": 35.50669860839844,
         "Instances": [],
         "Parents": [
           {
@@ -16157,8 +16157,8 @@
     {
       "Timestamp": 15000,
       "Label": {
-        "Name": "Hosiery",
-        "Confidence": 50.46852493286133,
+        "Name": "Hospital",
+        "Confidence": 10.46852493286133,
         "Instances": [],
         "Parents": [
           {
@@ -16177,7 +16177,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 50.54702377319336,
+        "Confidence": 30.54702377319336,
         "Instances": [],
         "Parents": [
           {
@@ -16202,7 +16202,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 55.07845687866211,
+        "Confidence": 25.07845687866211,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16217,7 +16217,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Injury",
-        "Confidence": 50.02387237548828,
+        "Confidence": 10.02387237548828,
         "Instances": [],
         "Parents": [
           {
@@ -16236,7 +16236,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 54.965728759765625,
+        "Confidence": 24.965728759765625,
         "Instances": [],
         "Parents": [
           {
@@ -16255,7 +16255,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 55.2555046081543,
+        "Confidence": 45.2555046081543,
         "Instances": [],
         "Parents": [
           {
@@ -16283,7 +16283,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 58.69078063964844,
+        "Confidence": 28.69078063964844,
         "Instances": [],
         "Parents": [
           {
@@ -16324,7 +16324,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 58.88589096069336,
+        "Confidence": 48.88589096069336,
         "Instances": [],
         "Parents": [
           {
@@ -16370,7 +16370,7 @@
               "Left": 0.7873578071594238,
               "Top": 0.001631994266062975
             },
-            "Confidence": 55.02165603637695
+            "Confidence": 45.02165603637695
           },
           {
             "BoundingBox": {
@@ -16399,7 +16399,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Pet",
-        "Confidence": 58.476654052734375,
+        "Confidence": 28.476654052734375,
         "Instances": [],
         "Parents": [
           {
@@ -16418,7 +16418,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 56.637908935546875,
+        "Confidence": 26.637908935546875,
         "Instances": [],
         "Parents": [
           {
@@ -16440,7 +16440,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Sea Life",
-        "Confidence": 50.120845794677734,
+        "Confidence": 10.120845794677734,
         "Instances": [],
         "Parents": [
           {
@@ -16459,7 +16459,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Sea Lion",
-        "Confidence": 50.120845794677734,
+        "Confidence": 10.120845794677734,
         "Instances": [],
         "Parents": [
           {
@@ -16506,7 +16506,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 50.48899459838867,
+        "Confidence": 40.48899459838867,
         "Instances": [],
         "Parents": [
           {
@@ -16525,7 +16525,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Skin",
-        "Confidence": 50.232666015625,
+        "Confidence": 40.232666015625,
         "Instances": [],
         "Parents": [
           {
@@ -16590,8 +16590,8 @@
     {
       "Timestamp": 15000,
       "Label": {
-        "Name": "Sport",
-        "Confidence": 50.124629974365234,
+        "Name": "Floor",
+        "Confidence": 30.124629974365234,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -16733,7 +16733,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Arm",
-        "Confidence": 50.92533874511719,
+        "Confidence": 30.92533874511719,
         "Instances": [],
         "Parents": [
           {
@@ -16755,7 +16755,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Baby",
-        "Confidence": 56.62214660644531,
+        "Confidence": 26.62214660644531,
         "Instances": [
           {
             "BoundingBox": {
@@ -16884,7 +16884,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Child",
-        "Confidence": 63.908206939697266,
+        "Confidence": 23.908206939697266,
         "Instances": [
           {
             "BoundingBox": {
@@ -16981,7 +16981,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Doctor",
-        "Confidence": 51.29286575317383,
+        "Confidence": 21.29286575317383,
         "Instances": [],
         "Parents": [
           {
@@ -17000,7 +17000,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 50.40292739868164,
+        "Confidence": 30.40292739868164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17037,7 +17037,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Food",
-        "Confidence": 51.89873123168945,
+        "Confidence": 21.89873123168945,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17112,7 +17112,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 52.71321105957031,
+        "Confidence": 32.71321105957031,
         "Instances": [],
         "Parents": [
           {
@@ -17162,7 +17162,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 51.89873123168945,
+        "Confidence": 31.89873123168945,
         "Instances": [],
         "Parents": [
           {
@@ -17187,7 +17187,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 53.38444137573242,
+        "Confidence": 23.38444137573242,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17202,7 +17202,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 53.27971649169922,
+        "Confidence": 23.27971649169922,
         "Instances": [],
         "Parents": [
           {
@@ -17221,7 +17221,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 72.9507064819336,
+        "Confidence": 32.9507064819336,
         "Instances": [],
         "Parents": [
           {
@@ -17249,7 +17249,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Knee",
-        "Confidence": 54.002220153808594,
+        "Confidence": 34.002220153808594,
         "Instances": [],
         "Parents": [
           {
@@ -17447,7 +17447,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 59.62785339355469,
+        "Confidence": 29.62785339355469,
         "Instances": [],
         "Parents": [
           {
@@ -17516,7 +17516,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Teen",
-        "Confidence": 56.295623779296875,
+        "Confidence": 26.295623779296875,
         "Instances": [
           {
             "BoundingBox": {
@@ -17545,7 +17545,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 51.40351104736328,
+        "Confidence": 11.40351104736328,
         "Instances": [],
         "Parents": [
           {
@@ -17734,7 +17734,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Cream",
-        "Confidence": 52.30582809448242,
+        "Confidence": 32.30582809448242,
         "Instances": [],
         "Parents": [
           {
@@ -17801,7 +17801,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Floor",
-        "Confidence": 51.47565841674805,
+        "Confidence": 31.47565841674805,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17816,7 +17816,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Food",
-        "Confidence": 52.33413314819336,
+        "Confidence": 42.33413314819336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17872,7 +17872,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.30211639404297,
+        "Confidence": 40.30211639404297,
         "Instances": [],
         "Parents": [
           {
@@ -17916,7 +17916,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 54.497779846191406,
+        "Confidence": 24.497779846191406,
         "Instances": [],
         "Parents": [
           {
@@ -17941,7 +17941,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 53.436336517333984,
+        "Confidence": 13.436336517333984,
         "Instances": [],
         "Parents": [
           {
@@ -17991,7 +17991,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.34926223754883,
+        "Confidence": 22.34926223754883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18006,7 +18006,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 52.25253677368164,
+        "Confidence": 22.25253677368164,
         "Instances": [],
         "Parents": [
           {
@@ -18025,7 +18025,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 60.47688674926758,
+        "Confidence": 20.47688674926758,
         "Instances": [],
         "Parents": [
           {
@@ -18053,7 +18053,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Knee",
-        "Confidence": 51.55897903442383,
+        "Confidence": 41.55897903442383,
         "Instances": [],
         "Parents": [
           {
@@ -18166,8 +18166,8 @@
     {
       "Timestamp": 16000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 50.29746627807617,
+        "Name": "Cat",
+        "Confidence": 40.29746627807617,
         "Instances": [],
         "Parents": [
           {
@@ -18331,7 +18331,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.30211639404297,
+        "Confidence": 10.30211639404297,
         "Instances": [],
         "Parents": [
           {
@@ -18413,7 +18413,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 50.59593963623047,
+        "Confidence": 30.59593963623047,
         "Instances": [],
         "Parents": [
           {
@@ -18479,7 +18479,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 52.08821487426758,
+        "Confidence": 42.08821487426758,
         "Instances": [],
         "Parents": [
           {
@@ -18658,7 +18658,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.280277252197266,
+        "Confidence": 40.280277252197266,
         "Instances": [],
         "Parents": [
           {
@@ -18699,7 +18699,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 54.50547409057617,
+        "Confidence": 44.50547409057617,
         "Instances": [],
         "Parents": [
           {
@@ -18749,7 +18749,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 51.329856872558594,
+        "Confidence": 21.329856872558594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18764,7 +18764,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 50.5170783996582,
+        "Confidence": 20.5170783996582,
         "Instances": [],
         "Parents": [
           {
@@ -18783,7 +18783,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 66.65249633789062,
+        "Confidence": 26.65249633789062,
         "Instances": [],
         "Parents": [
           {
@@ -18829,7 +18829,7 @@
               "Left": 0.46527716517448425,
               "Top": 0.00011623382306424901
             },
-            "Confidence": 58.660118103027344
+            "Confidence": 48.660118103027344
           }
         ],
         "Parents": [
@@ -18902,8 +18902,8 @@
     {
       "Timestamp": 16520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 51.98651123046875,
+        "Name": "Cat",
+        "Confidence": 41.98651123046875,
         "Instances": [],
         "Parents": [
           {
@@ -19092,7 +19092,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Suede",
-        "Confidence": 52.17977523803711,
+        "Confidence": 32.17977523803711,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19116,7 +19116,7 @@
               "Left": 0.46527716517448425,
               "Top": 0.00011623382306424901
             },
-            "Confidence": 58.660118103027344
+            "Confidence": 48.660118103027344
           }
         ],
         "Parents": [
@@ -19135,7 +19135,7 @@
     {
       "Timestamp": 17000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 51.408470153808594,
         "Instances": [],
         "Parents": [
@@ -19217,7 +19217,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 52.393348693847656,
+        "Confidence": 12.393348693847656,
         "Instances": [],
         "Parents": [
           {
@@ -19340,7 +19340,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.20771026611328,
+        "Confidence": 32.20771026611328,
         "Instances": [],
         "Parents": [
           {
@@ -19362,7 +19362,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Floor",
-        "Confidence": 54.78563690185547,
+        "Confidence": 24.78563690185547,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19396,7 +19396,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Head",
-        "Confidence": 54.22611999511719,
+        "Confidence": 34.22611999511719,
         "Instances": [],
         "Parents": [
           {
@@ -19495,7 +19495,7 @@
               "Left": 0.0004319217405281961,
               "Top": 0.38577574491500854
             },
-            "Confidence": 50.89134979248047
+            "Confidence": 30.89134979248047
           }
         ],
         "Parents": [
@@ -19552,7 +19552,7 @@
               "Left": 0.0004319217405281961,
               "Top": 0.38577574491500854
             },
-            "Confidence": 50.89134979248047
+            "Confidence": 30.89134979248047
           }
         ],
         "Parents": [
@@ -19577,8 +19577,8 @@
     {
       "Timestamp": 17000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 52.997135162353516,
+        "Name": "Cat",
+        "Confidence": 42.997135162353516,
         "Instances": [],
         "Parents": [
           {
@@ -19633,7 +19633,7 @@
               "Left": 0.0004319217405281961,
               "Top": 0.38577574491500854
             },
-            "Confidence": 50.89134979248047
+            "Confidence": 10.89134979248047
           }
         ],
         "Parents": [],
@@ -19776,7 +19776,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Suede",
-        "Confidence": 52.916168212890625,
+        "Confidence": 12.916168212890625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19819,8 +19819,8 @@
     {
       "Timestamp": 17520,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 52.01856231689453,
+        "Name": "Cat",
+        "Confidence": 32.01856231689453,
         "Instances": [],
         "Parents": [
           {
@@ -19863,7 +19863,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 52.92201614379883,
+        "Confidence": 12.92201614379883,
         "Instances": [],
         "Parents": [
           {
@@ -19885,7 +19885,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Baby",
-        "Confidence": 67.83082580566406,
+        "Confidence": 37.83082580566406,
         "Instances": [
           {
             "BoundingBox": {
@@ -19929,7 +19929,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Boy",
-        "Confidence": 51.32704544067383,
+        "Confidence": 41.32704544067383,
         "Instances": [
           {
             "BoundingBox": {
@@ -19938,7 +19938,7 @@
               "Left": 0.29622918367385864,
               "Top": 0.0006142521160654724
             },
-            "Confidence": 56.14617919921875
+            "Confidence": 26.14617919921875
           }
         ],
         "Parents": [
@@ -20058,7 +20058,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Flooring",
-        "Confidence": 50.649051666259766,
+        "Confidence": 30.649051666259766,
         "Instances": [],
         "Parents": [
           {
@@ -20140,7 +20140,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 57.92580795288086,
+        "Confidence": 47.92580795288086,
         "Instances": [],
         "Parents": [
           {
@@ -20215,8 +20215,8 @@
     {
       "Timestamp": 17520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.50161361694336,
+        "Name": "Cat",
+        "Confidence": 43.50161361694336,
         "Instances": [],
         "Parents": [
           {
@@ -20301,7 +20301,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Photobombing",
-        "Confidence": 50.13010787963867,
+        "Confidence": 40.13010787963867,
         "Instances": [],
         "Parents": [
           {
@@ -20448,7 +20448,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Teen",
-        "Confidence": 51.32704544067383,
+        "Confidence": 41.32704544067383,
         "Instances": [
           {
             "BoundingBox": {
@@ -20457,7 +20457,7 @@
               "Left": 0.29622918367385864,
               "Top": 0.0006142521160654724
             },
-            "Confidence": 56.14617919921875
+            "Confidence": 36.14617919921875
           }
         ],
         "Parents": [
@@ -20476,7 +20476,7 @@
     {
       "Timestamp": 18000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 52.853248596191406,
         "Instances": [],
         "Parents": [
@@ -20505,7 +20505,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 52.793704986572266,
+        "Confidence": 22.793704986572266,
         "Instances": [
           {
             "BoundingBox": {
@@ -20649,7 +20649,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 50.53807830810547,
+        "Confidence": 30.53807830810547,
         "Instances": [],
         "Parents": [
           {
@@ -20677,7 +20677,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Floor",
-        "Confidence": 54.64225387573242,
+        "Confidence": 24.64225387573242,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -20782,8 +20782,8 @@
     {
       "Timestamp": 18000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.76031494140625,
+        "Name": "Cat",
+        "Confidence": 44.76031494140625,
         "Instances": [],
         "Parents": [
           {
@@ -20859,7 +20859,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Photobombing",
-        "Confidence": 50.29036331176758,
+        "Confidence": 20.29036331176758,
         "Instances": [],
         "Parents": [
           {
@@ -20878,7 +20878,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 55.559608459472656,
+        "Confidence": 25.559608459472656,
         "Instances": [],
         "Parents": [
           {
@@ -20972,7 +20972,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Suede",
-        "Confidence": 50.38351821899414,
+        "Confidence": 20.38351821899414,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21023,8 +21023,8 @@
     {
       "Timestamp": 18520,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 52.917015075683594,
+        "Name": "Cat",
+        "Confidence": 42.917015075683594,
         "Instances": [],
         "Parents": [
           {
@@ -21067,7 +21067,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 51.12413787841797,
+        "Confidence": 41.12413787841797,
         "Instances": [],
         "Parents": [
           {
@@ -21239,7 +21239,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 51.369415283203125,
+        "Confidence": 31.369415283203125,
         "Instances": [],
         "Parents": [
           {
@@ -21264,7 +21264,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 59.94551086425781,
+        "Confidence": 29.94551086425781,
         "Instances": [],
         "Parents": [
           {
@@ -21310,8 +21310,8 @@
     {
       "Timestamp": 18520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 55.060672760009766,
+        "Name": "Cat",
+        "Confidence": 45.060672760009766,
         "Instances": [],
         "Parents": [
           {
@@ -21339,7 +21339,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Person",
-        "Confidence": 55.90485382080078,
+        "Confidence": 35.90485382080078,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -21500,7 +21500,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Suede",
-        "Confidence": 50.25199890136719,
+        "Confidence": 20.25199890136719,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21515,7 +21515,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Wedge",
-        "Confidence": 50.105926513671875,
+        "Confidence": 30.105926513671875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21529,7 +21529,7 @@
     {
       "Timestamp": 19000,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 52.8702278137207,
         "Instances": [],
         "Parents": [
@@ -21595,7 +21595,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.169254302978516,
+        "Confidence": 40.169254302978516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21664,7 +21664,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 51.0205078125,
+        "Confidence": 31.0205078125,
         "Instances": [],
         "Parents": [
           {
@@ -21692,7 +21692,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Floor",
-        "Confidence": 54.52980422973633,
+        "Confidence": 44.52980422973633,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21770,7 +21770,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 70.17707061767578,
+        "Confidence": 30.17707061767578,
         "Instances": [],
         "Parents": [
           {
@@ -21816,8 +21816,8 @@
     {
       "Timestamp": 19000,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.75931930541992,
+        "Name": "Cat",
+        "Confidence": 44.75931930541992,
         "Instances": [],
         "Parents": [
           {
@@ -21996,7 +21996,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Suede",
-        "Confidence": 50.237815856933594,
+        "Confidence": 20.237815856933594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22025,7 +22025,7 @@
     {
       "Timestamp": 19200,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 52.91474914550781,
         "Instances": [],
         "Parents": [
@@ -22054,7 +22054,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Adult",
-        "Confidence": 53.57817459106445,
+        "Confidence": 23.57817459106445,
         "Instances": [
           {
             "BoundingBox": {
@@ -22120,7 +22120,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.68498992919922,
+        "Confidence": 30.68498992919922,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22189,7 +22189,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 51.55924606323242,
+        "Confidence": 31.55924606323242,
         "Instances": [],
         "Parents": [
           {
@@ -22280,7 +22280,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 51.00774383544922,
+        "Confidence": 31.00774383544922,
         "Instances": [],
         "Parents": [
           {
@@ -22351,8 +22351,8 @@
     {
       "Timestamp": 19200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 55.106136322021484,
+        "Name": "Cat",
+        "Confidence": 45.106136322021484,
         "Instances": [],
         "Parents": [
           {
@@ -22447,7 +22447,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 55.359642028808594,
+        "Confidence": 45.359642028808594,
         "Instances": [],
         "Parents": [
           {
@@ -22541,7 +22541,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Suede",
-        "Confidence": 50.9985237121582,
+        "Confidence": 30.9985237121582,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22593,7 +22593,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Woman",
-        "Confidence": 53.57817459106445,
+        "Confidence": 43.57817459106445,
         "Instances": [
           {
             "BoundingBox": {
@@ -22627,7 +22627,7 @@
     {
       "Timestamp": 19520,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 52.32759094238281,
         "Instances": [],
         "Parents": [
@@ -22725,7 +22725,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 51.5495719909668,
+        "Confidence": 41.5495719909668,
         "Instances": [],
         "Parents": [
           {
@@ -22753,7 +22753,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Floor",
-        "Confidence": 54.773643493652344,
+        "Confidence": 34.773643493652344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22812,7 +22812,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 66.93353271484375,
+        "Confidence": 26.93353271484375,
         "Instances": [],
         "Parents": [
           {
@@ -22858,8 +22858,8 @@
     {
       "Timestamp": 19520,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.95743942260742,
+        "Name": "Cat",
+        "Confidence": 44.95743942260742,
         "Instances": [],
         "Parents": [
           {
@@ -22887,7 +22887,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Person",
-        "Confidence": 52.948123931884766,
+        "Confidence": 22.948123931884766,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -22944,7 +22944,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 55.17995071411133,
+        "Confidence": 45.17995071411133,
         "Instances": [],
         "Parents": [
           {
@@ -23048,7 +23048,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Suede",
-        "Confidence": 51.16179656982422,
+        "Confidence": 31.16179656982422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23062,7 +23062,7 @@
     {
       "Timestamp": 19720,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 52.24810028076172,
         "Instances": [],
         "Parents": [
@@ -23222,7 +23222,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.479522705078125,
+        "Confidence": 40.479522705078125,
         "Instances": [],
         "Parents": [
           {
@@ -23247,7 +23247,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 60.939395904541016,
+        "Confidence": 20.939395904541016,
         "Instances": [],
         "Parents": [
           {
@@ -23293,8 +23293,8 @@
     {
       "Timestamp": 19720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.82172775268555,
+        "Name": "Cat",
+        "Confidence": 44.82172775268555,
         "Instances": [],
         "Parents": [
           {
@@ -23360,7 +23360,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 55.469207763671875,
+        "Confidence": 25.469207763671875,
         "Instances": [],
         "Parents": [
           {
@@ -23464,7 +23464,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Suede",
-        "Confidence": 51.39961624145508,
+        "Confidence": 41.39961624145508,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23478,7 +23478,7 @@
     {
       "Timestamp": 20200,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 52.3895378112793,
         "Instances": [],
         "Parents": [
@@ -23544,7 +23544,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.174495697021484,
+        "Confidence": 10.174495697021484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23641,7 +23641,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Floor",
-        "Confidence": 54.46448516845703,
+        "Confidence": 34.46448516845703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23675,7 +23675,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.263206481933594,
+        "Confidence": 40.263206481933594,
         "Instances": [],
         "Parents": [
           {
@@ -23700,7 +23700,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 66.8417739868164,
+        "Confidence": 26.8417739868164,
         "Instances": [],
         "Parents": [
           {
@@ -23746,8 +23746,8 @@
     {
       "Timestamp": 20200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.50768280029297,
+        "Name": "Cat",
+        "Confidence": 44.50768280029297,
         "Instances": [],
         "Parents": [
           {
@@ -23823,7 +23823,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 55.16035842895508,
+        "Confidence": 45.16035842895508,
         "Instances": [],
         "Parents": [
           {
@@ -23941,8 +23941,8 @@
     {
       "Timestamp": 20720,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 52.78990936279297,
+        "Name": "Cat",
+        "Confidence": 42.78990936279297,
         "Instances": [],
         "Parents": [
           {
@@ -23985,7 +23985,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.69080352783203,
+        "Confidence": 40.69080352783203,
         "Instances": [],
         "Parents": [
           {
@@ -24007,7 +24007,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.69080352783203,
+        "Confidence": 10.69080352783203,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24176,7 +24176,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.05714416503906,
+        "Confidence": 30.05714416503906,
         "Instances": [],
         "Parents": [
           {
@@ -24201,7 +24201,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 68.860595703125,
+        "Confidence": 28.860595703125,
         "Instances": [],
         "Parents": [
           {
@@ -24247,8 +24247,8 @@
     {
       "Timestamp": 20720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 55.12821578979492,
+        "Name": "Cat",
+        "Confidence": 45.12821578979492,
         "Instances": [],
         "Parents": [
           {
@@ -24333,7 +24333,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Receipt",
-        "Confidence": 50.26988220214844,
+        "Confidence": 20.26988220214844,
         "Instances": [],
         "Parents": [
           {
@@ -24355,7 +24355,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 56.51509094238281,
+        "Confidence": 26.51509094238281,
         "Instances": [],
         "Parents": [
           {
@@ -24389,7 +24389,7 @@
               "Left": 0.5680564045906067,
               "Top": 0.0
             },
-            "Confidence": 56.765018463134766
+            "Confidence": 26.765018463134766
           }
         ],
         "Parents": [
@@ -24459,7 +24459,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Suede",
-        "Confidence": 50.85017013549805,
+        "Confidence": 30.85017013549805,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24473,8 +24473,8 @@
     {
       "Timestamp": 20720,
       "Label": {
-        "Name": "Text",
-        "Confidence": 50.26988220214844,
+        "Name": "Cat",
+        "Confidence": 20.26988220214844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24488,8 +24488,8 @@
     {
       "Timestamp": 21200,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 52.91215133666992,
+        "Name": "Cat",
+        "Confidence": 22.91215133666992,
         "Instances": [],
         "Parents": [
           {
@@ -24532,7 +24532,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 51.81735610961914,
+        "Confidence": 41.81735610961914,
         "Instances": [],
         "Parents": [
           {
@@ -24623,7 +24623,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Document",
-        "Confidence": 50.75822830200195,
+        "Confidence": 30.75822830200195,
         "Instances": [],
         "Parents": [
           {
@@ -24642,7 +24642,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 52.37546920776367,
+        "Confidence": 32.37546920776367,
         "Instances": [],
         "Parents": [
           {
@@ -24670,7 +24670,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Floor",
-        "Confidence": 54.078182220458984,
+        "Confidence": 44.078182220458984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24723,7 +24723,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.663169860839844,
+        "Confidence": 10.663169860839844,
         "Instances": [],
         "Parents": [
           {
@@ -24748,7 +24748,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 66.45602416992188,
+        "Confidence": 26.45602416992188,
         "Instances": [],
         "Parents": [
           {
@@ -24794,8 +24794,8 @@
     {
       "Timestamp": 21200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.855587005615234,
+        "Name": "Cat",
+        "Confidence": 44.855587005615234,
         "Instances": [],
         "Parents": [
           {
@@ -24823,7 +24823,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Pants",
-        "Confidence": 50.575260162353516,
+        "Confidence": 40.575260162353516,
         "Instances": [],
         "Parents": [
           {
@@ -24902,7 +24902,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 58.10044479370117,
+        "Confidence": 48.10044479370117,
         "Instances": [],
         "Parents": [
           {
@@ -25020,8 +25020,8 @@
     {
       "Timestamp": 21200,
       "Label": {
-        "Name": "Text",
-        "Confidence": 50.75822830200195,
+        "Name": "Cat",
+        "Confidence": 20.75822830200195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25035,8 +25035,8 @@
     {
       "Timestamp": 21720,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 52.35411071777344,
+        "Name": "Cat",
+        "Confidence": 22.35411071777344,
         "Instances": [],
         "Parents": [
           {
@@ -25079,7 +25079,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 51.69831466674805,
+        "Confidence": 41.69831466674805,
         "Instances": [],
         "Parents": [
           {
@@ -25101,7 +25101,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.69831466674805,
+        "Confidence": 21.69831466674805,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25239,7 +25239,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Floor",
-        "Confidence": 55.065616607666016,
+        "Confidence": 35.065616607666016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25336,7 +25336,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 60.8744010925293,
+        "Confidence": 20.8744010925293,
         "Instances": [],
         "Parents": [
           {
@@ -25382,8 +25382,8 @@
     {
       "Timestamp": 21720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.989078521728516,
+        "Name": "Cat",
+        "Confidence": 44.989078521728516,
         "Instances": [],
         "Parents": [
           {
@@ -25468,7 +25468,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Photobombing",
-        "Confidence": 50.79054260253906,
+        "Confidence": 40.79054260253906,
         "Instances": [],
         "Parents": [
           {
@@ -25603,7 +25603,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Suede",
-        "Confidence": 52.443416595458984,
+        "Confidence": 42.443416595458984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25617,8 +25617,8 @@
     {
       "Timestamp": 21720,
       "Label": {
-        "Name": "Text",
-        "Confidence": 50.09125900268555,
+        "Name": "Cat",
+        "Confidence": 20.09125900268555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25632,8 +25632,8 @@
     {
       "Timestamp": 22200,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 52.64739227294922,
+        "Name": "Cat",
+        "Confidence": 32.64739227294922,
         "Instances": [],
         "Parents": [
           {
@@ -25676,7 +25676,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 51.20283889770508,
+        "Confidence": 31.20283889770508,
         "Instances": [],
         "Parents": [
           {
@@ -25698,7 +25698,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Baby",
-        "Confidence": 67.33883666992188,
+        "Confidence": 37.33883666992188,
         "Instances": [
           {
             "BoundingBox": {
@@ -25727,7 +25727,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.20283889770508,
+        "Confidence": 41.20283889770508,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25796,7 +25796,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Document",
-        "Confidence": 51.01194381713867,
+        "Confidence": 31.01194381713867,
         "Instances": [],
         "Parents": [
           {
@@ -25943,7 +25943,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 66.92488098144531,
+        "Confidence": 26.92488098144531,
         "Instances": [],
         "Parents": [
           {
@@ -25989,8 +25989,8 @@
     {
       "Timestamp": 22200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.517860412597656,
+        "Name": "Cat",
+        "Confidence": 44.517860412597656,
         "Instances": [],
         "Parents": [
           {
@@ -26018,7 +26018,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Pants",
-        "Confidence": 50.1434211730957,
+        "Confidence": 20.1434211730957,
         "Instances": [],
         "Parents": [
           {
@@ -26085,7 +26085,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Photobombing",
-        "Confidence": 51.12783432006836,
+        "Confidence": 31.12783432006836,
         "Instances": [],
         "Parents": [
           {
@@ -26234,8 +26234,8 @@
     {
       "Timestamp": 22200,
       "Label": {
-        "Name": "Text",
-        "Confidence": 51.01194381713867,
+        "Name": "Cat",
+        "Confidence": 21.01194381713867,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -26249,8 +26249,8 @@
     {
       "Timestamp": 22720,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 52.44295120239258,
+        "Name": "Cat",
+        "Confidence": 42.44295120239258,
         "Instances": [],
         "Parents": [
           {
@@ -26293,7 +26293,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.999969482421875,
+        "Confidence": 40.999969482421875,
         "Instances": [],
         "Parents": [
           {
@@ -26315,7 +26315,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.1110954284668,
+        "Confidence": 41.1110954284668,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -26412,7 +26412,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Face",
-        "Confidence": 57.28215026855469,
+        "Confidence": 37.28215026855469,
         "Instances": [],
         "Parents": [
           {
@@ -26558,8 +26558,8 @@
     {
       "Timestamp": 22720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.58230209350586,
+        "Name": "Cat",
+        "Confidence": 43.58230209350586,
         "Instances": [],
         "Parents": [
           {
@@ -26625,7 +26625,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Photobombing",
-        "Confidence": 50.74504852294922,
+        "Confidence": 30.74504852294922,
         "Instances": [],
         "Parents": [
           {
@@ -26644,7 +26644,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 57.47162628173828,
+        "Confidence": 37.47162628173828,
         "Instances": [],
         "Parents": [
           {
@@ -26748,7 +26748,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Suede",
-        "Confidence": 51.30852508544922,
+        "Confidence": 21.30852508544922,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -26778,7 +26778,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.631900787353516,
+        "Confidence": 30.631900787353516,
         "Instances": [],
         "Parents": [
           {
@@ -26869,7 +26869,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Face",
-        "Confidence": 57.22108840942383,
+        "Confidence": 47.22108840942383,
         "Instances": [],
         "Parents": [
           {
@@ -26944,7 +26944,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 67.86032104492188,
+        "Confidence": 27.86032104492188,
         "Instances": [],
         "Parents": [
           {
@@ -26990,8 +26990,8 @@
     {
       "Timestamp": 23200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 50.99917221069336,
+        "Name": "Cat",
+        "Confidence": 40.99917221069336,
         "Instances": [],
         "Parents": [
           {
@@ -27214,7 +27214,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 53.000205993652344,
+        "Confidence": 33.000205993652344,
         "Instances": [],
         "Parents": [
           {
@@ -27283,7 +27283,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Cat",
-        "Confidence": 58.29405212402344,
+        "Confidence": 38.29405212402344,
         "Instances": [],
         "Parents": [
           {
@@ -27327,7 +27327,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Cream",
-        "Confidence": 50.49665451049805,
+        "Confidence": 40.49665451049805,
         "Instances": [],
         "Parents": [
           {
@@ -27394,7 +27394,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Female",
-        "Confidence": 50.23637390136719,
+        "Confidence": 30.23637390136719,
         "Instances": [],
         "Parents": [
           {
@@ -27413,7 +27413,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Food",
-        "Confidence": 51.84950256347656,
+        "Confidence": 41.84950256347656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -27447,7 +27447,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Hand",
-        "Confidence": 57.54093551635742,
+        "Confidence": 47.54093551635742,
         "Instances": [],
         "Parents": [
           {
@@ -27513,7 +27513,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 50.49665451049805,
+        "Confidence": 30.49665451049805,
         "Instances": [],
         "Parents": [
           {
@@ -27538,7 +27538,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.522865295410156,
+        "Confidence": 20.522865295410156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -27581,7 +27581,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Knee",
-        "Confidence": 50.72358703613281,
+        "Confidence": 30.72358703613281,
         "Instances": [],
         "Parents": [
           {
@@ -27760,7 +27760,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Pet",
-        "Confidence": 58.29405212402344,
+        "Confidence": 48.29405212402344,
         "Instances": [],
         "Parents": [
           {
@@ -27779,7 +27779,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 57.62565994262695,
+        "Confidence": 27.62565994262695,
         "Instances": [],
         "Parents": [
           {
@@ -27847,8 +27847,8 @@
     {
       "Timestamp": 23720,
       "Label": {
-        "Name": "Sport",
-        "Confidence": 50.16478729248047,
+        "Name": "Floor",
+        "Confidence": 30.16478729248047,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -27934,7 +27934,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Animal",
-        "Confidence": 50.38646697998047,
+        "Confidence": 40.38646697998047,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -27949,7 +27949,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 50.72389221191406,
+        "Confidence": 20.72389221191406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -27964,7 +27964,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Arm",
-        "Confidence": 53.587791442871094,
+        "Confidence": 43.587791442871094,
         "Instances": [],
         "Parents": [
           {
@@ -28033,7 +28033,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Bride",
-        "Confidence": 50.6763916015625,
+        "Confidence": 40.6763916015625,
         "Instances": [
           {
             "BoundingBox": {
@@ -28074,7 +28074,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Building",
-        "Confidence": 50.72389221191406,
+        "Confidence": 20.72389221191406,
         "Instances": [],
         "Parents": [
           {
@@ -28093,7 +28093,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Child",
-        "Confidence": 63.56916046142578,
+        "Confidence": 23.56916046142578,
         "Instances": [
           {
             "BoundingBox": {
@@ -28126,7 +28126,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 55.45920181274414,
+        "Confidence": 25.45920181274414,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -28145,7 +28145,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Face",
-        "Confidence": 55.200504302978516,
+        "Confidence": 25.200504302978516,
         "Instances": [],
         "Parents": [
           {
@@ -28185,7 +28185,7 @@
               "Left": 0.002138744108378887,
               "Top": 0.32875508069992065
             },
-            "Confidence": 54.88554763793945
+            "Confidence": 44.88554763793945
           }
         ],
         "Parents": [
@@ -28258,7 +28258,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Game",
-        "Confidence": 54.13505172729492,
+        "Confidence": 24.13505172729492,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28336,7 +28336,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.69122314453125,
+        "Confidence": 20.69122314453125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28351,7 +28351,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Knee",
-        "Confidence": 51.18545150756836,
+        "Confidence": 31.18545150756836,
         "Instances": [],
         "Parents": [
           {
@@ -28468,7 +28468,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Room",
-        "Confidence": 50.43681716918945,
+        "Confidence": 30.43681716918945,
         "Instances": [],
         "Parents": [
           {
@@ -28509,7 +28509,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Sneaker",
-        "Confidence": 54.764129638671875,
+        "Confidence": 24.764129638671875,
         "Instances": [],
         "Parents": [
           {
@@ -28533,8 +28533,8 @@
     {
       "Timestamp": 24200,
       "Label": {
-        "Name": "Sport",
-        "Confidence": 51.65312576293945,
+        "Name": "Floor",
+        "Confidence": 31.65312576293945,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -28553,7 +28553,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Wedding",
-        "Confidence": 50.6763916015625,
+        "Confidence": 30.6763916015625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28634,7 +28634,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Baton",
-        "Confidence": 53.189613342285156,
+        "Confidence": 23.189613342285156,
         "Instances": [
           {
             "BoundingBox": {
@@ -28766,7 +28766,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 50.22594451904297,
+        "Confidence": 20.22594451904297,
         "Instances": [],
         "Parents": [
           {
@@ -28860,7 +28860,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Male",
-        "Confidence": 52.58336639404297,
+        "Confidence": 42.58336639404297,
         "Instances": [
           {
             "BoundingBox": {
@@ -28869,7 +28869,7 @@
               "Left": 0.6078661680221558,
               "Top": 0.28293871879577637
             },
-            "Confidence": 53.72487258911133
+            "Confidence": 33.72487258911133
           }
         ],
         "Parents": [
@@ -28918,7 +28918,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Shuffling Cards",
-        "Confidence": 57.501224517822266,
+        "Confidence": 37.501224517822266,
         "Instances": [],
         "Parents": [
           {
@@ -28949,7 +28949,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Stick",
-        "Confidence": 55.008758544921875,
+        "Confidence": 45.008758544921875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28986,7 +28986,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Baby",
-        "Confidence": 69.49429321289062,
+        "Confidence": 39.49429321289062,
         "Instances": [
           {
             "BoundingBox": {
@@ -29117,7 +29117,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Head",
-        "Confidence": 50.97147750854492,
+        "Confidence": 30.97147750854492,
         "Instances": [],
         "Parents": [
           {
@@ -29154,7 +29154,7 @@
               "Left": 0.4142451286315918,
               "Top": 0.0010668658651411533
             },
-            "Confidence": 58.210628509521484
+            "Confidence": 48.210628509521484
           }
         ],
         "Parents": [],
@@ -29313,7 +29313,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Game",
-        "Confidence": 55.02763748168945,
+        "Confidence": 35.02763748168945,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29369,7 +29369,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.486568450927734,
+        "Confidence": 22.486568450927734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29384,7 +29384,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 52.24839782714844,
+        "Confidence": 22.24839782714844,
         "Instances": [],
         "Parents": [
           {
@@ -29450,8 +29450,8 @@
     {
       "Timestamp": 25720,
       "Label": {
-        "Name": "Text",
-        "Confidence": 50.083953857421875,
+        "Name": "Cat",
+        "Confidence": 20.083953857421875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29560,7 +29560,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 53.83449172973633,
+        "Confidence": 33.83449172973633,
         "Instances": [],
         "Parents": [
           {
@@ -29730,7 +29730,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Flag",
-        "Confidence": 50.51377487182617,
+        "Confidence": 40.51377487182617,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29801,7 +29801,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Hostel",
-        "Confidence": 50.827606201171875,
+        "Confidence": 40.827606201171875,
         "Instances": [],
         "Parents": [
           {
@@ -29848,7 +29848,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.583553314208984,
+        "Confidence": 20.583553314208984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29881,7 +29881,7 @@
               "Left": 0.8815024495124817,
               "Top": 0.09145202487707138
             },
-            "Confidence": 59.10069274902344
+            "Confidence": 29.10069274902344
           }
         ],
         "Parents": [
@@ -29982,8 +29982,8 @@
     {
       "Timestamp": 26200,
       "Label": {
-        "Name": "Sport",
-        "Confidence": 50.14892578125,
+        "Name": "Floor",
+        "Confidence": 30.14892578125,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -30002,7 +30002,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Teen",
-        "Confidence": 58.230323791503906,
+        "Confidence": 48.230323791503906,
         "Instances": [
           {
             "BoundingBox": {
@@ -30107,7 +30107,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Baby",
-        "Confidence": 63.659358978271484,
+        "Confidence": 33.659358978271484,
         "Instances": [
           {
             "BoundingBox": {
@@ -30160,7 +30160,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 51.005470275878906,
+        "Confidence": 31.005470275878906,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -30179,7 +30179,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 50.05376434326172,
+        "Confidence": 20.05376434326172,
         "Instances": [],
         "Parents": [
           {
@@ -30257,7 +30257,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 50.74908447265625,
+        "Confidence": 40.74908447265625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30272,7 +30272,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Gambling",
-        "Confidence": 59.78729248046875,
+        "Confidence": 39.78729248046875,
         "Instances": [],
         "Parents": [
           {
@@ -30347,7 +30347,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 51.921504974365234,
+        "Confidence": 21.921504974365234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30422,7 +30422,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Room",
-        "Confidence": 51.179744720458984,
+        "Confidence": 41.179744720458984,
         "Instances": [],
         "Parents": [
           {
@@ -30440,8 +30440,8 @@
     {
       "Timestamp": 26720,
       "Label": {
-        "Name": "Sport",
-        "Confidence": 50.408267974853516,
+        "Name": "Floor",
+        "Confidence": 30.408267974853516,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -30459,8 +30459,8 @@
     {
       "Timestamp": 26720,
       "Label": {
-        "Name": "Text",
-        "Confidence": 51.80625915527344,
+        "Name": "Cat",
+        "Confidence": 21.80625915527344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30512,7 +30512,7 @@
               "Left": 0.6184797883033752,
               "Top": 0.16605636477470398
             },
-            "Confidence": 56.74344253540039
+            "Confidence": 26.74344253540039
           },
           {
             "BoundingBox": {
@@ -30521,7 +30521,7 @@
               "Left": 0.0963512659072876,
               "Top": 0.0
             },
-            "Confidence": 54.45734786987305
+            "Confidence": 24.45734786987305
           },
           {
             "BoundingBox": {
@@ -30530,7 +30530,7 @@
               "Left": 0.019240451976656914,
               "Top": 0.0011702346382662654
             },
-            "Confidence": 52.876258850097656
+            "Confidence": 22.876258850097656
           }
         ],
         "Parents": [
@@ -30550,7 +30550,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Animal",
-        "Confidence": 51.85474395751953,
+        "Confidence": 21.85474395751953,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30565,7 +30565,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 52.080562591552734,
+        "Confidence": 22.080562591552734,
         "Instances": [],
         "Parents": [
           {
@@ -30587,7 +30587,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Arm",
-        "Confidence": 56.91682434082031,
+        "Confidence": 26.91682434082031,
         "Instances": [],
         "Parents": [
           {
@@ -30609,7 +30609,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Baby",
-        "Confidence": 59.133018493652344,
+        "Confidence": 29.133018493652344,
         "Instances": [
           {
             "BoundingBox": {
@@ -30653,7 +30653,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Boxing",
-        "Confidence": 50.618961334228516,
+        "Confidence": 10.618961334228516,
         "Instances": [],
         "Parents": [
           {
@@ -30695,7 +30695,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Dressing Room",
-        "Confidence": 52.31779098510742,
+        "Confidence": 42.31779098510742,
         "Instances": [],
         "Parents": [
           {
@@ -30739,7 +30739,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 50.44027328491211,
+        "Confidence": 40.44027328491211,
         "Instances": [],
         "Parents": [
           {
@@ -30780,7 +30780,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Head",
-        "Confidence": 58.48603057861328,
+        "Confidence": 48.48603057861328,
         "Instances": [],
         "Parents": [
           {
@@ -30799,7 +30799,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.48884582519531,
+        "Confidence": 30.48884582519531,
         "Instances": [],
         "Parents": [
           {
@@ -30824,7 +30824,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 53.71384048461914,
+        "Confidence": 23.71384048461914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30861,7 +30861,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Lingerie",
-        "Confidence": 50.306827545166016,
+        "Confidence": 30.306827545166016,
         "Instances": [],
         "Parents": [
           {
@@ -30883,7 +30883,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Male",
-        "Confidence": 73.32402801513672,
+        "Confidence": 33.32402801513672,
         "Instances": [
           {
             "BoundingBox": {
@@ -31038,7 +31038,7 @@
               "Left": 0.0963512659072876,
               "Top": 0.0
             },
-            "Confidence": 54.45734786987305
+            "Confidence": 34.45734786987305
           },
           {
             "BoundingBox": {
@@ -31047,7 +31047,7 @@
               "Left": 0.019240451976656914,
               "Top": 0.0011702346382662654
             },
-            "Confidence": 52.876258850097656
+            "Confidence": 32.876258850097656
           }
         ],
         "Parents": [],
@@ -31114,8 +31114,8 @@
     {
       "Timestamp": 27200,
       "Label": {
-        "Name": "Sport",
-        "Confidence": 51.482730865478516,
+        "Name": "Floor",
+        "Confidence": 31.482730865478516,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -31134,7 +31134,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Underwear",
-        "Confidence": 51.11970520019531,
+        "Confidence": 31.11970520019531,
         "Instances": [],
         "Parents": [
           {
@@ -31168,7 +31168,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 53.67302322387695,
+        "Confidence": 23.67302322387695,
         "Instances": [],
         "Parents": [
           {
@@ -31223,7 +31223,7 @@
               "Left": 0.28743746876716614,
               "Top": 0.0022411728277802467
             },
-            "Confidence": 55.14878463745117
+            "Confidence": 45.14878463745117
           }
         ],
         "Parents": [
@@ -31281,7 +31281,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Child",
-        "Confidence": 61.434165954589844,
+        "Confidence": 21.434165954589844,
         "Instances": [
           {
             "BoundingBox": {
@@ -31333,7 +31333,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 53.39472198486328,
+        "Confidence": 43.39472198486328,
         "Instances": [],
         "Parents": [
           {
@@ -31374,7 +31374,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Food",
-        "Confidence": 54.02395248413086,
+        "Confidence": 44.02395248413086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31449,7 +31449,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.486629486083984,
+        "Confidence": 40.486629486083984,
         "Instances": [],
         "Parents": [
           {
@@ -31499,7 +31499,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 52.37898254394531,
+        "Confidence": 22.37898254394531,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31514,7 +31514,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 50.84056091308594,
+        "Confidence": 20.84056091308594,
         "Instances": [],
         "Parents": [
           {
@@ -31533,7 +31533,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 51.47529983520508,
+        "Confidence": 31.47529983520508,
         "Instances": [],
         "Parents": [
           {
@@ -31561,7 +31561,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Knee",
-        "Confidence": 52.302032470703125,
+        "Confidence": 32.302032470703125,
         "Instances": [],
         "Parents": [
           {
@@ -31601,7 +31601,7 @@
               "Left": 0.28743746876716614,
               "Top": 0.0022411728277802467
             },
-            "Confidence": 55.14878463745117
+            "Confidence": 35.14878463745117
           }
         ],
         "Parents": [
@@ -31658,7 +31658,7 @@
               "Left": 0.28743746876716614,
               "Top": 0.0022411728277802467
             },
-            "Confidence": 55.14878463745117
+            "Confidence": 35.14878463745117
           }
         ],
         "Parents": [],
@@ -31770,7 +31770,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Sneaker",
-        "Confidence": 56.35718536376953,
+        "Confidence": 26.35718536376953,
         "Instances": [],
         "Parents": [
           {
@@ -31795,7 +31795,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 51.26023864746094,
+        "Confidence": 31.26023864746094,
         "Instances": [],
         "Parents": [
           {
@@ -31817,7 +31817,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Adult",
-        "Confidence": 59.566524505615234,
+        "Confidence": 49.566524505615234,
         "Instances": [
           {
             "BoundingBox": {
@@ -31835,7 +31835,7 @@
               "Left": 0.20830680429935455,
               "Top": 0.00118535989895463
             },
-            "Confidence": 51.74852752685547
+            "Confidence": 11.74852752685547
           }
         ],
         "Parents": [
@@ -31870,7 +31870,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 53.88246154785156,
+        "Confidence": 23.88246154785156,
         "Instances": [],
         "Parents": [
           {
@@ -31892,7 +31892,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 55.073638916015625,
+        "Confidence": 25.073638916015625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31907,7 +31907,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Boy",
-        "Confidence": 57.2922477722168,
+        "Confidence": 27.2922477722168,
         "Instances": [
           {
             "BoundingBox": {
@@ -31916,7 +31916,7 @@
               "Left": 0.3222961127758026,
               "Top": 0.0004721260047517717
             },
-            "Confidence": 56.552947998046875
+            "Confidence": 36.552947998046875
           }
         ],
         "Parents": [
@@ -32093,7 +32093,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 54.44889831542969,
+        "Confidence": 24.44889831542969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -32154,7 +32154,7 @@
               "Left": 0.3222961127758026,
               "Top": 0.0004721260047517717
             },
-            "Confidence": 56.552947998046875
+            "Confidence": 26.552947998046875
           },
           {
             "BoundingBox": {
@@ -32202,7 +32202,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Man",
-        "Confidence": 55.902652740478516,
+        "Confidence": 35.902652740478516,
         "Instances": [
           {
             "BoundingBox": {
@@ -32220,7 +32220,7 @@
               "Left": 0.20830680429935455,
               "Top": 0.00118535989895463
             },
-            "Confidence": 51.74852752685547
+            "Confidence": 41.74852752685547
           }
         ],
         "Parents": [
@@ -32391,7 +32391,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Teen",
-        "Confidence": 55.36968231201172,
+        "Confidence": 45.36968231201172,
         "Instances": [
           {
             "BoundingBox": {
@@ -32419,7 +32419,7 @@
     {
       "Timestamp": 28720,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 50.689971923828125,
         "Instances": [],
         "Parents": [
@@ -32484,8 +32484,8 @@
     {
       "Timestamp": 28720,
       "Label": {
-        "Name": "Baby",
-        "Confidence": 71.10054016113281,
+        "Name": "Floor",
+        "Confidence": 31.10054016113281,
         "Instances": [
           {
             "BoundingBox": {
@@ -32503,7 +32503,7 @@
               "Left": 0.5976884365081787,
               "Top": 0.0008466720464639366
             },
-            "Confidence": 50.92049789428711
+            "Confidence": 40.92049789428711
           }
         ],
         "Parents": [
@@ -32523,7 +32523,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.32377624511719,
+        "Confidence": 24.32377624511719,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -32623,7 +32623,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Child",
-        "Confidence": 53.085872650146484,
+        "Confidence": 13.085872650146484,
         "Instances": [
           {
             "BoundingBox": {
@@ -32632,7 +32632,7 @@
               "Left": 0.0013446775265038013,
               "Top": 0.00010765075421659276
             },
-            "Confidence": 55.827552795410156
+            "Confidence": 35.827552795410156
           }
         ],
         "Parents": [
@@ -32697,7 +32697,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Floor",
-        "Confidence": 54.407203674316406,
+        "Confidence": 34.407203674316406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -32821,7 +32821,7 @@
               "Left": 0.0013446775265038013,
               "Top": 0.00010765075421659276
             },
-            "Confidence": 55.827552795410156
+            "Confidence": 45.827552795410156
           }
         ],
         "Parents": [
@@ -32859,8 +32859,8 @@
     {
       "Timestamp": 28720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 52.15745544433594,
+        "Name": "Cat",
+        "Confidence": 42.15745544433594,
         "Instances": [],
         "Parents": [
           {
@@ -32963,7 +32963,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 53.388389587402344,
+        "Confidence": 23.388389587402344,
         "Instances": [],
         "Parents": [
           {
@@ -33111,7 +33111,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Toe",
-        "Confidence": 50.91643524169922,
+        "Confidence": 20.91643524169922,
         "Instances": [],
         "Parents": [
           {
@@ -33132,8 +33132,8 @@
     {
       "Timestamp": 29200,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 50.98881912231445,
+        "Name": "Cat",
+        "Confidence": 30.98881912231445,
         "Instances": [],
         "Parents": [
           {
@@ -33198,7 +33198,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.11528778076172,
+        "Confidence": 43.11528778076172,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -33355,7 +33355,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Head",
-        "Confidence": 55.65508270263672,
+        "Confidence": 45.65508270263672,
         "Instances": [],
         "Parents": [
           {
@@ -33399,7 +33399,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 59.33079147338867,
+        "Confidence": 39.33079147338867,
         "Instances": [],
         "Parents": [
           {
@@ -33474,8 +33474,8 @@
     {
       "Timestamp": 29200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.04890060424805,
+        "Name": "Cat",
+        "Confidence": 43.04890060424805,
         "Instances": [],
         "Parents": [
           {
@@ -33551,7 +33551,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 54.32018280029297,
+        "Confidence": 34.32018280029297,
         "Instances": [],
         "Parents": [
           {
@@ -33729,8 +33729,8 @@
     {
       "Timestamp": 29720,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 51.61779022216797,
+        "Name": "Cat",
+        "Confidence": 11.61779022216797,
         "Instances": [],
         "Parents": [
           {
@@ -33795,7 +33795,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.766807556152344,
+        "Confidence": 31.766807556152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -33810,7 +33810,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Boy",
-        "Confidence": 50.03582000732422,
+        "Confidence": 30.03582000732422,
         "Instances": [],
         "Parents": [
           {
@@ -33914,7 +33914,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Floor",
-        "Confidence": 54.84861755371094,
+        "Confidence": 24.84861755371094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -33992,7 +33992,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 62.25206756591797,
+        "Confidence": 22.25206756591797,
         "Instances": [],
         "Parents": [
           {
@@ -34020,7 +34020,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Male",
-        "Confidence": 50.03582000732422,
+        "Confidence": 20.03582000732422,
         "Instances": [],
         "Parents": [
           {
@@ -34057,8 +34057,8 @@
     {
       "Timestamp": 29720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.77560806274414,
+        "Name": "Cat",
+        "Confidence": 43.77560806274414,
         "Instances": [],
         "Parents": [
           {
@@ -34086,7 +34086,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Person",
-        "Confidence": 54.72174835205078,
+        "Confidence": 34.72174835205078,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -34228,7 +34228,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Suede",
-        "Confidence": 51.1024055480957,
+        "Confidence": 21.1024055480957,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -34264,8 +34264,8 @@
     {
       "Timestamp": 30200,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 51.157588958740234,
+        "Name": "Cat",
+        "Confidence": 41.157588958740234,
         "Instances": [],
         "Parents": [
           {
@@ -34330,7 +34330,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.05699157714844,
+        "Confidence": 33.05699157714844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -34474,7 +34474,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Hardwood",
-        "Confidence": 50.277976989746094,
+        "Confidence": 40.277976989746094,
         "Instances": [],
         "Parents": [
           {
@@ -34602,8 +34602,8 @@
     {
       "Timestamp": 30200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.99905014038086,
+        "Name": "Cat",
+        "Confidence": 43.99905014038086,
         "Instances": [],
         "Parents": [
           {
@@ -34631,7 +34631,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Person",
-        "Confidence": 55.54100799560547,
+        "Confidence": 15.54100799560547,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -34788,7 +34788,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Toe",
-        "Confidence": 50.599395751953125,
+        "Confidence": 30.599395751953125,
         "Instances": [],
         "Parents": [
           {
@@ -34824,7 +34824,7 @@
     {
       "Timestamp": 30720,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 51.228702545166016,
         "Instances": [],
         "Parents": [
@@ -34868,7 +34868,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 52.95920944213867,
+        "Confidence": 32.95920944213867,
         "Instances": [],
         "Parents": [
           {
@@ -34981,7 +34981,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Floor",
-        "Confidence": 54.97842025756836,
+        "Confidence": 44.97842025756836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35015,7 +35015,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Head",
-        "Confidence": 50.64158630371094,
+        "Confidence": 40.64158630371094,
         "Instances": [],
         "Parents": [
           {
@@ -35059,7 +35059,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 57.25336456298828,
+        "Confidence": 37.25336456298828,
         "Instances": [],
         "Parents": [
           {
@@ -35124,8 +35124,8 @@
     {
       "Timestamp": 30720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.74899673461914,
+        "Name": "Cat",
+        "Confidence": 43.74899673461914,
         "Instances": [],
         "Parents": [
           {
@@ -35331,7 +35331,7 @@
     {
       "Timestamp": 31200,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 51.827354431152344,
         "Instances": [],
         "Parents": [
@@ -35397,7 +35397,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.272239685058594,
+        "Confidence": 42.272239685058594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35498,7 +35498,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 50.145423889160156,
+        "Confidence": 40.145423889160156,
         "Instances": [],
         "Parents": [
           {
@@ -35560,7 +35560,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Head",
-        "Confidence": 50.20840072631836,
+        "Confidence": 20.20840072631836,
         "Instances": [],
         "Parents": [
           {
@@ -35604,7 +35604,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 58.19511795043945,
+        "Confidence": 38.19511795043945,
         "Instances": [],
         "Parents": [
           {
@@ -35679,8 +35679,8 @@
     {
       "Timestamp": 31200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.12626266479492,
+        "Name": "Cat",
+        "Confidence": 44.12626266479492,
         "Instances": [],
         "Parents": [
           {
@@ -35893,8 +35893,8 @@
     {
       "Timestamp": 31720,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 52.57423400878906,
+        "Name": "Cat",
+        "Confidence": 42.57423400878906,
         "Instances": [],
         "Parents": [
           {
@@ -36047,7 +36047,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 50.99610137939453,
+        "Confidence": 30.99610137939453,
         "Instances": [],
         "Parents": [
           {
@@ -36150,7 +36150,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 51.72610092163086,
+        "Confidence": 41.72610092163086,
         "Instances": [],
         "Parents": [
           {
@@ -36221,8 +36221,8 @@
     {
       "Timestamp": 31720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.58149337768555,
+        "Name": "Cat",
+        "Confidence": 43.58149337768555,
         "Instances": [],
         "Parents": [
           {
@@ -36288,7 +36288,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Photobombing",
-        "Confidence": 50.85919189453125,
+        "Confidence": 30.85919189453125,
         "Instances": [],
         "Parents": [
           {
@@ -36307,7 +36307,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Receipt",
-        "Confidence": 50.25791931152344,
+        "Confidence": 40.25791931152344,
         "Instances": [],
         "Parents": [
           {
@@ -36363,7 +36363,7 @@
               "Left": 0.6117615699768066,
               "Top": 0.0018039989518001676
             },
-            "Confidence": 57.09282302856445
+            "Confidence": 47.09282302856445
           }
         ],
         "Parents": [
@@ -36433,7 +36433,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Suede",
-        "Confidence": 52.84195327758789,
+        "Confidence": 42.84195327758789,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36447,8 +36447,8 @@
     {
       "Timestamp": 31720,
       "Label": {
-        "Name": "Text",
-        "Confidence": 50.25791931152344,
+        "Name": "Cat",
+        "Confidence": 20.25791931152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36462,8 +36462,8 @@
     {
       "Timestamp": 32200,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 53.24687576293945,
+        "Name": "Cat",
+        "Confidence": 13.24687576293945,
         "Instances": [],
         "Parents": [
           {
@@ -36506,7 +36506,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 50.412532806396484,
+        "Confidence": 40.412532806396484,
         "Instances": [],
         "Parents": [
           {
@@ -36644,7 +36644,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.23798370361328,
+        "Confidence": 22.23798370361328,
         "Instances": [],
         "Parents": [
           {
@@ -36719,7 +36719,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.53323745727539,
+        "Confidence": 30.53323745727539,
         "Instances": [],
         "Parents": [
           {
@@ -36790,8 +36790,8 @@
     {
       "Timestamp": 32200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.30464172363281,
+        "Name": "Cat",
+        "Confidence": 43.30464172363281,
         "Instances": [],
         "Parents": [
           {
@@ -36819,7 +36819,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Person",
-        "Confidence": 58.350914001464844,
+        "Confidence": 48.350914001464844,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -36857,7 +36857,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Photobombing",
-        "Confidence": 50.22208786010742,
+        "Confidence": 20.22208786010742,
         "Instances": [],
         "Parents": [
           {
@@ -36876,7 +36876,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Receipt",
-        "Confidence": 50.09370803833008,
+        "Confidence": 20.09370803833008,
         "Instances": [],
         "Parents": [
           {
@@ -36898,7 +36898,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Running Shoe",
-        "Confidence": 56.560768127441406,
+        "Confidence": 46.560768127441406,
         "Instances": [],
         "Parents": [
           {
@@ -37016,8 +37016,8 @@
     {
       "Timestamp": 32200,
       "Label": {
-        "Name": "Text",
-        "Confidence": 50.09370803833008,
+        "Name": "Cat",
+        "Confidence": 20.09370803833008,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37031,8 +37031,8 @@
     {
       "Timestamp": 32720,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 53.407901763916016,
+        "Name": "Cat",
+        "Confidence": 33.407901763916016,
         "Instances": [],
         "Parents": [
           {
@@ -37166,7 +37166,7 @@
       "Timestamp": 32720,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 52.27588653564453,
+        "Confidence": 32.27588653564453,
         "Instances": [],
         "Parents": [
           {
@@ -37269,7 +37269,7 @@
       "Timestamp": 32720,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.20534896850586,
+        "Confidence": 30.20534896850586,
         "Instances": [],
         "Parents": [
           {
@@ -37340,8 +37340,8 @@
     {
       "Timestamp": 32720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 52.77876663208008,
+        "Name": "Cat",
+        "Confidence": 42.77876663208008,
         "Instances": [],
         "Parents": [
           {
@@ -37407,7 +37407,7 @@
       "Timestamp": 32720,
       "Label": {
         "Name": "Photobombing",
-        "Confidence": 50.44961929321289,
+        "Confidence": 30.44961929321289,
         "Instances": [],
         "Parents": [
           {
@@ -37529,7 +37529,7 @@
     {
       "Timestamp": 33200,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 56.062744140625,
         "Instances": [],
         "Parents": [
@@ -37573,7 +37573,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Baby",
-        "Confidence": 67.04159545898438,
+        "Confidence": 37.04159545898438,
         "Instances": [
           {
             "BoundingBox": {
@@ -37602,7 +37602,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.12370300292969,
+        "Confidence": 40.12370300292969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37652,7 +37652,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 59.872867584228516,
+        "Confidence": 29.872867584228516,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -37690,7 +37690,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 53.81035614013672,
+        "Confidence": 33.81035614013672,
         "Instances": [],
         "Parents": [
           {
@@ -37718,7 +37718,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Face",
-        "Confidence": 55.33272171020508,
+        "Confidence": 35.33272171020508,
         "Instances": [],
         "Parents": [
           {
@@ -37740,7 +37740,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 59.812034606933594,
+        "Confidence": 39.812034606933594,
         "Instances": [],
         "Parents": [
           {
@@ -37824,8 +37824,8 @@
     {
       "Timestamp": 33200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.24944305419922,
+        "Name": "Cat",
+        "Confidence": 44.24944305419922,
         "Instances": [],
         "Parents": [
           {
@@ -37935,7 +37935,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 58.267967224121094,
+        "Confidence": 28.267967224121094,
         "Instances": [],
         "Parents": [
           {
@@ -37957,7 +37957,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 59.60832595825195,
+        "Confidence": 19.60832595825195,
         "Instances": [],
         "Parents": [
           {
@@ -37979,7 +37979,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Sneaker",
-        "Confidence": 57.958011627197266,
+        "Confidence": 47.958011627197266,
         "Instances": [],
         "Parents": [
           {
@@ -38003,8 +38003,8 @@
     {
       "Timestamp": 33720,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 50.9953498840332,
+        "Name": "Cat",
+        "Confidence": 40.9953498840332,
         "Instances": [],
         "Parents": [
           {
@@ -38047,7 +38047,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 51.62078857421875,
+        "Confidence": 31.62078857421875,
         "Instances": [],
         "Parents": [
           {
@@ -38068,8 +38068,8 @@
     {
       "Timestamp": 33720,
       "Label": {
-        "Name": "Baby",
-        "Confidence": 77.31414794921875,
+        "Name": "Floor",
+        "Confidence": 37.31414794921875,
         "Instances": [
           {
             "BoundingBox": {
@@ -38098,7 +38098,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.8558464050293,
+        "Confidence": 42.8558464050293,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -38113,7 +38113,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Boy",
-        "Confidence": 54.61259841918945,
+        "Confidence": 24.61259841918945,
         "Instances": [
           {
             "BoundingBox": {
@@ -38189,7 +38189,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Child",
-        "Confidence": 50.58882141113281,
+        "Confidence": 10.58882141113281,
         "Instances": [
           {
             "BoundingBox": {
@@ -38267,7 +38267,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 50.393367767333984,
+        "Confidence": 40.393367767333984,
         "Instances": [],
         "Parents": [
           {
@@ -38389,7 +38389,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Hand",
-        "Confidence": 52.0717887878418,
+        "Confidence": 42.0717887878418,
         "Instances": [],
         "Parents": [
           {
@@ -38411,7 +38411,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.787940979003906,
+        "Confidence": 40.787940979003906,
         "Instances": [],
         "Parents": [
           {
@@ -38455,7 +38455,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 51.7403678894043,
+        "Confidence": 41.7403678894043,
         "Instances": [],
         "Parents": [
           {
@@ -38480,7 +38480,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 50.393367767333984,
+        "Confidence": 30.393367767333984,
         "Instances": [],
         "Parents": [
           {
@@ -38505,7 +38505,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.662044525146484,
+        "Confidence": 20.662044525146484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -38570,7 +38570,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Male",
-        "Confidence": 59.16979217529297,
+        "Confidence": 49.16979217529297,
         "Instances": [
           {
             "BoundingBox": {
@@ -38588,7 +38588,7 @@
               "Left": 0.8506345748901367,
               "Top": 0.00011737823660951108
             },
-            "Confidence": 55.287139892578125
+            "Confidence": 35.287139892578125
           }
         ],
         "Parents": [
@@ -38626,8 +38626,8 @@
     {
       "Timestamp": 33720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 52.343746185302734,
+        "Name": "Cat",
+        "Confidence": 42.343746185302734,
         "Instances": [],
         "Parents": [
           {
@@ -38721,7 +38721,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 55.243656158447266,
+        "Confidence": 25.243656158447266,
         "Instances": [],
         "Parents": [
           {
@@ -38743,7 +38743,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Sea Life",
-        "Confidence": 50.99509048461914,
+        "Confidence": 10.99509048461914,
         "Instances": [],
         "Parents": [
           {
@@ -38762,7 +38762,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Sea Lion",
-        "Confidence": 50.99509048461914,
+        "Confidence": 10.99509048461914,
         "Instances": [],
         "Parents": [
           {
@@ -38787,7 +38787,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 54.44499206542969,
+        "Confidence": 24.44499206542969,
         "Instances": [],
         "Parents": [
           {
@@ -38809,7 +38809,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Shorts",
-        "Confidence": 51.740718841552734,
+        "Confidence": 31.740718841552734,
         "Instances": [],
         "Parents": [
           {
@@ -38828,7 +38828,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.787940979003906,
+        "Confidence": 40.787940979003906,
         "Instances": [],
         "Parents": [
           {
@@ -38856,7 +38856,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Sneaker",
-        "Confidence": 53.01640701293945,
+        "Confidence": 33.01640701293945,
         "Instances": [],
         "Parents": [
           {
@@ -38903,7 +38903,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Veterinarian",
-        "Confidence": 50.87379837036133,
+        "Confidence": 40.87379837036133,
         "Instances": [],
         "Parents": [
           {
@@ -38924,7 +38924,7 @@
     {
       "Timestamp": 34200,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 50.41650390625,
         "Instances": [],
         "Parents": [
@@ -39012,7 +39012,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 53.1658935546875,
+        "Confidence": 33.1658935546875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -39045,7 +39045,7 @@
               "Left": 0.28720006346702576,
               "Top": 0.0028501320630311966
             },
-            "Confidence": 50.97861862182617
+            "Confidence": 20.97861862182617
           }
         ],
         "Parents": [
@@ -39103,7 +39103,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Child",
-        "Confidence": 53.00682067871094,
+        "Confidence": 13.00682067871094,
         "Instances": [
           {
             "BoundingBox": {
@@ -39164,7 +39164,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Doctor",
-        "Confidence": 56.22489547729492,
+        "Confidence": 46.22489547729492,
         "Instances": [],
         "Parents": [
           {
@@ -39211,7 +39211,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Face",
-        "Confidence": 53.11127853393555,
+        "Confidence": 43.11127853393555,
         "Instances": [],
         "Parents": [
           {
@@ -39318,7 +39318,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 61.96430969238281,
+        "Confidence": 21.96430969238281,
         "Instances": [],
         "Parents": [
           {
@@ -39364,7 +39364,7 @@
               "Left": 0.28720006346702576,
               "Top": 0.0028501320630311966
             },
-            "Confidence": 50.97861862182617
+            "Confidence": 20.97861862182617
           }
         ],
         "Parents": [
@@ -39402,8 +39402,8 @@
     {
       "Timestamp": 34200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 53.104854583740234,
+        "Name": "Cat",
+        "Confidence": 43.104854583740234,
         "Instances": [],
         "Parents": [
           {
@@ -39488,7 +39488,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 50.987701416015625,
+        "Confidence": 40.987701416015625,
         "Instances": [],
         "Parents": [
           {
@@ -39510,7 +39510,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 50.93354415893555,
+        "Confidence": 20.93354415893555,
         "Instances": [],
         "Parents": [
           {
@@ -39551,7 +39551,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Veterinarian",
-        "Confidence": 53.854183197021484,
+        "Confidence": 43.854183197021484,
         "Instances": [],
         "Parents": [
           {
@@ -39573,7 +39573,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Adult",
-        "Confidence": 52.1796875,
+        "Confidence": 42.1796875,
         "Instances": [
           {
             "BoundingBox": {
@@ -39743,7 +39743,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 58.67320251464844,
+        "Confidence": 48.67320251464844,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -39762,7 +39762,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Doctor",
-        "Confidence": 54.08298110961914,
+        "Confidence": 34.08298110961914,
         "Instances": [],
         "Parents": [
           {
@@ -39831,7 +39831,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Footwear",
-        "Confidence": 58.64278793334961,
+        "Confidence": 28.64278793334961,
         "Instances": [],
         "Parents": [
           {
@@ -39850,7 +39850,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.90433120727539,
+        "Confidence": 31.90433120727539,
         "Instances": [],
         "Parents": [
           {
@@ -39944,7 +39944,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Knee",
-        "Confidence": 51.485965728759766,
+        "Confidence": 31.485965728759766,
         "Instances": [],
         "Parents": [
           {
@@ -40023,7 +40023,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Man",
-        "Confidence": 50.18452453613281,
+        "Confidence": 40.18452453613281,
         "Instances": [
           {
             "BoundingBox": {
@@ -40057,8 +40057,8 @@
     {
       "Timestamp": 34720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 52.882164001464844,
+        "Name": "Cat",
+        "Confidence": 42.882164001464844,
         "Instances": [],
         "Parents": [
           {
@@ -40143,7 +40143,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 53.51514434814453,
+        "Confidence": 43.51514434814453,
         "Instances": [],
         "Parents": [
           {
@@ -40165,7 +40165,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Shoe",
-        "Confidence": 58.17279815673828,
+        "Confidence": 38.17279815673828,
         "Instances": [],
         "Parents": [
           {
@@ -40187,7 +40187,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Skin",
-        "Confidence": 52.41337585449219,
+        "Confidence": 32.41337585449219,
         "Instances": [],
         "Parents": [
           {
@@ -40345,7 +40345,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 55.078853607177734,
+        "Confidence": 35.078853607177734,
         "Instances": [],
         "Parents": [
           {
@@ -40367,7 +40367,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 57.2822151184082,
+        "Confidence": 47.2822151184082,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -40432,7 +40432,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Canine",
-        "Confidence": 72.52068328857422,
+        "Confidence": 12.52068328857422,
         "Instances": [],
         "Parents": [
           {
@@ -40489,7 +40489,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Child",
-        "Confidence": 57.62662887573242,
+        "Confidence": 17.62662887573242,
         "Instances": [
           {
             "BoundingBox": {
@@ -40598,7 +40598,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.86956787109375,
+        "Confidence": 42.86956787109375,
         "Instances": [],
         "Parents": [
           {
@@ -40654,7 +40654,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.72187042236328,
+        "Confidence": 30.72187042236328,
         "Instances": [],
         "Parents": [
           {
@@ -40720,7 +40720,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.63666534423828,
+        "Confidence": 20.63666534423828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -40821,7 +40821,7 @@
               "Left": 0.6347490549087524,
               "Top": 0.16517354547977448
             },
-            "Confidence": 53.5666389465332
+            "Confidence": 33.5666389465332
           }
         ],
         "Parents": [
@@ -40894,8 +40894,8 @@
     {
       "Timestamp": 35200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 50.779239654541016,
+        "Name": "Cat",
+        "Confidence": 40.779239654541016,
         "Instances": [],
         "Parents": [
           {
@@ -41023,7 +41023,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 55.2061767578125,
+        "Confidence": 45.2061767578125,
         "Instances": [],
         "Parents": [
           {
@@ -41086,7 +41086,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Skin",
-        "Confidence": 58.074703216552734,
+        "Confidence": 38.074703216552734,
         "Instances": [],
         "Parents": [
           {
@@ -41170,7 +41170,7 @@
               "Left": 0.6347490549087524,
               "Top": 0.16517354547977448
             },
-            "Confidence": 53.5666389465332
+            "Confidence": 43.5666389465332
           }
         ],
         "Parents": [
@@ -41190,7 +41190,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 52.11102294921875,
+        "Confidence": 32.11102294921875,
         "Instances": [],
         "Parents": [
           {
@@ -41212,7 +41212,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Ultrasound",
-        "Confidence": 50.17667007446289,
+        "Confidence": 10.17667007446289,
         "Instances": [],
         "Parents": [
           {
@@ -41240,7 +41240,7 @@
               "Left": 0.21483787894248962,
               "Top": 0.007420883048325777
             },
-            "Confidence": 53.08988571166992
+            "Confidence": 33.08988571166992
           }
         ],
         "Parents": [
@@ -41330,7 +41330,7 @@
               "Left": 0.7191146016120911,
               "Top": 0.0
             },
-            "Confidence": 57.68977355957031
+            "Confidence": 47.68977355957031
           },
           {
             "BoundingBox": {
@@ -41339,7 +41339,7 @@
               "Left": 0.0,
               "Top": 0.10783103853464127
             },
-            "Confidence": 51.37260437011719
+            "Confidence": 31.37260437011719
           }
         ],
         "Parents": [
@@ -41362,7 +41362,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Canine",
-        "Confidence": 51.90637969970703,
+        "Confidence": 11.90637969970703,
         "Instances": [],
         "Parents": [
           {
@@ -41409,7 +41409,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Child",
-        "Confidence": 77.9184341430664,
+        "Confidence": 37.9184341430664,
         "Instances": [
           {
             "BoundingBox": {
@@ -41470,7 +41470,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Dog",
-        "Confidence": 51.72167205810547,
+        "Confidence": 31.72167205810547,
         "Instances": [],
         "Parents": [
           {
@@ -41498,7 +41498,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Face",
-        "Confidence": 57.906429290771484,
+        "Confidence": 37.906429290771484,
         "Instances": [],
         "Parents": [
           {
@@ -41558,7 +41558,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "High Heel",
-        "Confidence": 50.856956481933594,
+        "Confidence": 20.856956481933594,
         "Instances": [],
         "Parents": [
           {
@@ -41583,7 +41583,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Injury",
-        "Confidence": 50.1207275390625,
+        "Confidence": 10.1207275390625,
         "Instances": [],
         "Parents": [
           {
@@ -41602,7 +41602,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 54.400150299072266,
+        "Confidence": 24.400150299072266,
         "Instances": [],
         "Parents": [
           {
@@ -41670,7 +41670,7 @@
               "Left": 0.7191146016120911,
               "Top": 0.0
             },
-            "Confidence": 57.68977355957031
+            "Confidence": 47.68977355957031
           },
           {
             "BoundingBox": {
@@ -41763,7 +41763,7 @@
               "Left": 0.0,
               "Top": 0.10783103853464127
             },
-            "Confidence": 51.37260437011719
+            "Confidence": 31.37260437011719
           }
         ],
         "Parents": [],
@@ -41827,7 +41827,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 53.44501876831055,
+        "Confidence": 43.44501876831055,
         "Instances": [],
         "Parents": [
           {
@@ -41944,7 +41944,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Thigh",
-        "Confidence": 51.13569641113281,
+        "Confidence": 31.13569641113281,
         "Instances": [],
         "Parents": [
           {
@@ -41995,7 +41995,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Animal",
-        "Confidence": 58.414039611816406,
+        "Confidence": 48.414039611816406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -42010,7 +42010,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Ankle",
-        "Confidence": 52.1783561706543,
+        "Confidence": 22.1783561706543,
         "Instances": [],
         "Parents": [
           {
@@ -42032,7 +42032,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 54.4236946105957,
+        "Confidence": 24.4236946105957,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -42088,7 +42088,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Canine",
-        "Confidence": 50.474281311035156,
+        "Confidence": 20.474281311035156,
         "Instances": [],
         "Parents": [
           {
@@ -42110,7 +42110,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Cat",
-        "Confidence": 56.723880767822266,
+        "Confidence": 26.723880767822266,
         "Instances": [],
         "Parents": [
           {
@@ -42135,7 +42135,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Child",
-        "Confidence": 74.84085845947266,
+        "Confidence": 34.84085845947266,
         "Instances": [
           {
             "BoundingBox": {
@@ -42187,7 +42187,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Dog",
-        "Confidence": 50.104862213134766,
+        "Confidence": 10.104862213134766,
         "Instances": [],
         "Parents": [
           {
@@ -42348,7 +42348,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 58.001705169677734,
+        "Confidence": 28.001705169677734,
         "Instances": [],
         "Parents": [
           {
@@ -42433,7 +42433,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Sandal",
-        "Confidence": 55.28457260131836,
+        "Confidence": 25.28457260131836,
         "Instances": [],
         "Parents": [
           {
@@ -42550,7 +42550,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 51.63146209716797,
+        "Confidence": 41.63146209716797,
         "Instances": [],
         "Parents": [
           {
@@ -42682,7 +42682,7 @@
       "Timestamp": 36720,
       "Label": {
         "Name": "Canine",
-        "Confidence": 50.02342987060547,
+        "Confidence": 10.02342987060547,
         "Instances": [],
         "Parents": [
           {
@@ -42854,7 +42854,7 @@
       "Timestamp": 36720,
       "Label": {
         "Name": "Kitten",
-        "Confidence": 57.070159912109375,
+        "Confidence": 47.070159912109375,
         "Instances": [],
         "Parents": [
           {
@@ -43018,8 +43018,8 @@
     {
       "Timestamp": 37200,
       "Label": {
-        "Name": "Abyssinian",
-        "Confidence": 50.94470977783203,
+        "Name": "Cat",
+        "Confidence": 40.94470977783203,
         "Instances": [],
         "Parents": [
           {
@@ -43065,7 +43065,7 @@
               "Left": 0.1350826472043991,
               "Top": 0.0013866233639419079
             },
-            "Confidence": 56.8317756652832
+            "Confidence": 46.8317756652832
           }
         ],
         "Parents": [
@@ -43100,7 +43100,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Box",
-        "Confidence": 55.605838775634766,
+        "Confidence": 45.605838775634766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43178,7 +43178,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 50.265933990478516,
+        "Confidence": 20.265933990478516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43366,7 +43366,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Package",
-        "Confidence": 55.605838775634766,
+        "Confidence": 35.605838775634766,
         "Instances": [
           {
             "BoundingBox": {
@@ -43413,7 +43413,7 @@
               "Left": 0.1350826472043991,
               "Top": 0.0013866233639419079
             },
-            "Confidence": 56.8317756652832
+            "Confidence": 46.8317756652832
           }
         ],
         "Parents": [],
@@ -43452,7 +43452,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 53.119510650634766,
+        "Confidence": 23.119510650634766,
         "Instances": [],
         "Parents": [
           {
@@ -43512,7 +43512,7 @@
               "Left": 0.1350826472043991,
               "Top": 0.0013866233639419079
             },
-            "Confidence": 56.8317756652832
+            "Confidence": 36.8317756652832
           }
         ],
         "Parents": [
@@ -43537,7 +43537,7 @@
     {
       "Timestamp": 37720,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 52.00678634643555,
         "Instances": [],
         "Parents": [
@@ -43581,7 +43581,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Bird",
-        "Confidence": 52.27017593383789,
+        "Confidence": 22.27017593383789,
         "Instances": [],
         "Parents": [
           {
@@ -43600,7 +43600,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Canine",
-        "Confidence": 52.72612762451172,
+        "Confidence": 12.72612762451172,
         "Instances": [],
         "Parents": [
           {
@@ -43657,7 +43657,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Claw",
-        "Confidence": 51.76137161254883,
+        "Confidence": 41.76137161254883,
         "Instances": [],
         "Parents": [
           {
@@ -43682,7 +43682,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Computer Hardware",
-        "Confidence": 52.414764404296875,
+        "Confidence": 22.414764404296875,
         "Instances": [],
         "Parents": [
           {
@@ -43704,7 +43704,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Dog",
-        "Confidence": 52.01667785644531,
+        "Confidence": 32.01667785644531,
         "Instances": [],
         "Parents": [
           {
@@ -43760,7 +43760,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 55.343421936035156,
+        "Confidence": 25.343421936035156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43797,7 +43797,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Hardware",
-        "Confidence": 55.340309143066406,
+        "Confidence": 25.340309143066406,
         "Instances": [],
         "Parents": [
           {
@@ -43857,7 +43857,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 53.17853927612305,
+        "Confidence": 23.17853927612305,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43872,7 +43872,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 53.055843353271484,
+        "Confidence": 23.055843353271484,
         "Instances": [],
         "Parents": [
           {
@@ -43956,8 +43956,8 @@
     {
       "Timestamp": 37720,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 55.26252365112305,
+        "Name": "Cat",
+        "Confidence": 45.26252365112305,
         "Instances": [],
         "Parents": [
           {
@@ -43985,7 +43985,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Mouse",
-        "Confidence": 52.414764404296875,
+        "Confidence": 42.414764404296875,
         "Instances": [],
         "Parents": [
           {
@@ -44010,7 +44010,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Parrot",
-        "Confidence": 51.04829788208008,
+        "Confidence": 31.04829788208008,
         "Instances": [],
         "Parents": [
           {
@@ -44085,7 +44085,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Potted Plant",
-        "Confidence": 51.73865509033203,
+        "Confidence": 41.73865509033203,
         "Instances": [],
         "Parents": [
           {
@@ -44180,7 +44180,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 53.46754837036133,
+        "Confidence": 43.46754837036133,
         "Instances": [],
         "Parents": [
           {
@@ -44198,7 +44198,7 @@
     {
       "Timestamp": 38200,
       "Label": {
-        "Name": "Abyssinian",
+        "Name": "Cat",
         "Confidence": 50.886756896972656,
         "Instances": [],
         "Parents": [
@@ -44271,7 +44271,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Balloon",
-        "Confidence": 50.870399475097656,
+        "Confidence": 40.870399475097656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -44286,7 +44286,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Batman",
-        "Confidence": 50.94904327392578,
+        "Confidence": 10.94904327392578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -44301,7 +44301,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Beak",
-        "Confidence": 53.06098556518555,
+        "Confidence": 43.06098556518555,
         "Instances": [],
         "Parents": [
           {
@@ -44323,7 +44323,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Bird",
-        "Confidence": 53.315284729003906,
+        "Confidence": 33.315284729003906,
         "Instances": [],
         "Parents": [
           {
@@ -44370,7 +44370,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.3576774597168,
+        "Confidence": 20.3576774597168,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -44385,7 +44385,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Canine",
-        "Confidence": 54.2510986328125,
+        "Confidence": 14.2510986328125,
         "Instances": [],
         "Parents": [
           {
@@ -44467,7 +44467,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Claw",
-        "Confidence": 52.92361068725586,
+        "Confidence": 32.92361068725586,
         "Instances": [],
         "Parents": [
           {
@@ -44514,7 +44514,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Egyptian Cat",
-        "Confidence": 51.535160064697266,
+        "Confidence": 31.535160064697266,
         "Instances": [],
         "Parents": [
           {
@@ -44557,7 +44557,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Face",
-        "Confidence": 55.79169464111328,
+        "Confidence": 35.79169464111328,
         "Instances": [],
         "Parents": [
           {
@@ -44579,7 +44579,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Hardware",
-        "Confidence": 55.02986526489258,
+        "Confidence": 45.02986526489258,
         "Instances": [],
         "Parents": [
           {
@@ -44617,7 +44617,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Hook",
-        "Confidence": 52.92361068725586,
+        "Confidence": 32.92361068725586,
         "Instances": [],
         "Parents": [
           {
@@ -44749,8 +44749,8 @@
     {
       "Timestamp": 38200,
       "Label": {
-        "Name": "Manx",
-        "Confidence": 54.05837631225586,
+        "Name": "Cat",
+        "Confidence": 44.05837631225586,
         "Instances": [],
         "Parents": [
           {
@@ -44778,7 +44778,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Mouse",
-        "Confidence": 54.62567901611328,
+        "Confidence": 24.62567901611328,
         "Instances": [],
         "Parents": [
           {
@@ -44803,7 +44803,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Mouth",
-        "Confidence": 50.0291862487793,
+        "Confidence": 30.0291862487793,
         "Instances": [],
         "Parents": [
           {
@@ -44848,7 +44848,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 50.42274475097656,
+        "Confidence": 20.42274475097656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -44943,7 +44943,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Raccoon",
-        "Confidence": 51.882904052734375,
+        "Confidence": 21.882904052734375,
         "Instances": [],
         "Parents": [
           {
@@ -44965,7 +44965,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Rodent",
-        "Confidence": 51.50414276123047,
+        "Confidence": 21.50414276123047,
         "Instances": [],
         "Parents": [
           {
@@ -44987,7 +44987,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 50.1851692199707,
+        "Confidence": 20.1851692199707,
         "Instances": [],
         "Parents": [
           {
@@ -45010,7 +45010,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Snout",
-        "Confidence": 51.1136589050293,
+        "Confidence": 31.1136589050293,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -45025,7 +45025,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Storm",
-        "Confidence": 50.42274475097656,
+        "Confidence": 20.42274475097656,
         "Instances": [],
         "Parents": [
           {
@@ -45072,7 +45072,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Vulture",
-        "Confidence": 50.73224639892578,
+        "Confidence": 30.73224639892578,
         "Instances": [],
         "Parents": [
           {
@@ -45094,7 +45094,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Wildlife",
-        "Confidence": 54.13827896118164,
+        "Confidence": 34.13827896118164,
         "Instances": [],
         "Parents": [
           {

@@ -115,7 +115,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Truck",
-        "Confidence": 53.5916748046875,
+        "Confidence": 33.5916748046875,
         "Instances": [
           {
             "BoundingBox": {
@@ -236,7 +236,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 53.79963302612305,
+        "Confidence": 23.79963302612305,
         "Instances": [],
         "Parents": [
           {
@@ -418,7 +418,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 50.370548248291016,
+        "Confidence": 20.370548248291016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -467,7 +467,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Truck",
-        "Confidence": 53.33644485473633,
+        "Confidence": 33.33644485473633,
         "Instances": [],
         "Parents": [
           {
@@ -532,7 +532,7 @@
               "Left": 0.27765512466430664,
               "Top": 0.04275352507829666
             },
-            "Confidence": 51.00600814819336
+            "Confidence": 21.00600814819336
           }
         ],
         "Parents": [
@@ -581,7 +581,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 55.930076599121094,
+        "Confidence": 35.930076599121094,
         "Instances": [],
         "Parents": [
           {
@@ -830,7 +830,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 50.62916564941406,
+        "Confidence": 20.62916564941406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -874,7 +874,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 50.91497802734375,
+        "Confidence": 20.91497802734375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -904,7 +904,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Truck",
-        "Confidence": 50.036502838134766,
+        "Confidence": 40.036502838134766,
         "Instances": [],
         "Parents": [
           {
@@ -960,7 +960,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Building Flooding",
-        "Confidence": 50.049869537353516,
+        "Confidence": 30.049869537353516,
         "Instances": [],
         "Parents": [
           {
@@ -1075,7 +1075,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 50.313941955566406,
+        "Confidence": 20.313941955566406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1119,7 +1119,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 50.547672271728516,
+        "Confidence": 30.547672271728516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1377,7 +1377,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Car",
-        "Confidence": 54.966888427734375,
+        "Confidence": 14.966888427734375,
         "Instances": [
           {
             "BoundingBox": {
@@ -1386,7 +1386,7 @@
               "Left": 0.2872042655944824,
               "Top": 0.03722068667411804
             },
-            "Confidence": 54.30836486816406
+            "Confidence": 34.30836486816406
           }
         ],
         "Parents": [
@@ -1473,7 +1473,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 50.030494689941406,
+        "Confidence": 20.030494689941406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1517,7 +1517,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 50.727447509765625,
+        "Confidence": 30.727447509765625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1651,7 +1651,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Face",
-        "Confidence": 59.9365119934082,
+        "Confidence": 29.9365119934082,
         "Instances": [],
         "Parents": [
           {
@@ -1692,7 +1692,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Head",
-        "Confidence": 59.99079132080078,
+        "Confidence": 29.99079132080078,
         "Instances": [],
         "Parents": [
           {
@@ -1711,7 +1711,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 51.424381256103516,
+        "Confidence": 41.424381256103516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1726,7 +1726,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 50.1673698425293,
+        "Confidence": 30.1673698425293,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1872,7 +1872,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 54.640316009521484,
+        "Confidence": 44.640316009521484,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1906,7 +1906,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.30888748168945,
+        "Confidence": 22.30888748168945,
         "Instances": [],
         "Parents": [
           {
@@ -1951,7 +1951,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 52.21955108642578,
+        "Confidence": 42.21955108642578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1985,7 +1985,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.22483825683594,
+        "Confidence": 10.22483825683594,
         "Instances": [],
         "Parents": [
           {
@@ -2259,7 +2259,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 51.954925537109375,
+        "Confidence": 41.954925537109375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2391,7 +2391,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 51.99324417114258,
+        "Confidence": 41.99324417114258,
         "Instances": [],
         "Parents": [
           {
@@ -2410,7 +2410,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 54.070186614990234,
+        "Confidence": 24.070186614990234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2483,7 +2483,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 52.82948303222656,
+        "Confidence": 42.82948303222656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2588,7 +2588,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Face",
-        "Confidence": 54.41579818725586,
+        "Confidence": 34.41579818725586,
         "Instances": [],
         "Parents": [
           {
@@ -2739,7 +2739,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 51.731353759765625,
+        "Confidence": 31.731353759765625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2812,7 +2812,7 @@
               "Left": 0.29818642139434814,
               "Top": 0.03540418669581413
             },
-            "Confidence": 54.91982650756836
+            "Confidence": 34.91982650756836
           }
         ],
         "Parents": [
@@ -2839,7 +2839,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 51.190006256103516,
+        "Confidence": 41.190006256103516,
         "Instances": [],
         "Parents": [
           {
@@ -2858,7 +2858,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 50.28480911254883,
+        "Confidence": 30.28480911254883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3028,7 +3028,7 @@
               "Left": 0.29914218187332153,
               "Top": 0.032637957483530045
             },
-            "Confidence": 51.40194320678711
+            "Confidence": 41.40194320678711
           }
         ],
         "Parents": [
@@ -3077,7 +3077,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 51.175506591796875,
+        "Confidence": 41.175506591796875,
         "Instances": [],
         "Parents": [
           {
@@ -3115,7 +3115,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.08958435058594,
+        "Confidence": 45.08958435058594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3197,7 +3197,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 52.40570831298828,
+        "Confidence": 22.40570831298828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3297,7 +3297,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Face",
-        "Confidence": 59.47620391845703,
+        "Confidence": 49.47620391845703,
         "Instances": [],
         "Parents": [
           {
@@ -3357,7 +3357,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.412593841552734,
+        "Confidence": 45.412593841552734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3372,7 +3372,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.45226287841797,
+        "Confidence": 40.45226287841797,
         "Instances": [],
         "Parents": [
           {
@@ -3439,7 +3439,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 52.521942138671875,
+        "Confidence": 32.521942138671875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3630,7 +3630,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 53.025882720947266,
+        "Confidence": 43.025882720947266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3780,7 +3780,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Motorcycle",
-        "Confidence": 59.41575241088867,
+        "Confidence": 49.41575241088867,
         "Instances": [
           {
             "BoundingBox": {
@@ -3885,7 +3885,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 52.66144561767578,
+        "Confidence": 22.66144561767578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3958,7 +3958,7 @@
               "Left": 0.30275020003318787,
               "Top": 0.03741554170846939
             },
-            "Confidence": 52.56163024902344
+            "Confidence": 42.56163024902344
           }
         ],
         "Parents": [
@@ -4007,7 +4007,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 50.823516845703125,
+        "Confidence": 40.823516845703125,
         "Instances": [],
         "Parents": [
           {
@@ -4045,7 +4045,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 53.10147476196289,
+        "Confidence": 43.10147476196289,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4060,7 +4060,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 51.69916915893555,
+        "Confidence": 41.69916915893555,
         "Instances": [],
         "Parents": [
           {
@@ -4191,7 +4191,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Adult",
-        "Confidence": 51.6365852355957,
+        "Confidence": 31.6365852355957,
         "Instances": [
           {
             "BoundingBox": {
@@ -4220,7 +4220,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.15471267700195,
+        "Confidence": 31.15471267700195,
         "Instances": [],
         "Parents": [
           {
@@ -4484,7 +4484,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 51.678688049316406,
+        "Confidence": 31.678688049316406,
         "Instances": [],
         "Parents": [
           {
@@ -4518,7 +4518,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.75001525878906,
+        "Confidence": 25.75001525878906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4533,7 +4533,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Person",
-        "Confidence": 56.052696228027344,
+        "Confidence": 26.052696228027344,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4552,7 +4552,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 52.53028869628906,
+        "Confidence": 32.53028869628906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4642,7 +4642,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Face",
-        "Confidence": 55.60340118408203,
+        "Confidence": 25.60340118408203,
         "Instances": [],
         "Parents": [
           {
@@ -4664,7 +4664,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 50.508338928222656,
+        "Confidence": 20.508338928222656,
         "Instances": [],
         "Parents": [
           {
@@ -4749,7 +4749,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 51.121646881103516,
+        "Confidence": 21.121646881103516,
         "Instances": [],
         "Parents": [
           {
@@ -4871,7 +4871,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.180538177490234,
+        "Confidence": 42.180538177490234,
         "Instances": [],
         "Parents": [
           {
@@ -4897,7 +4897,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 51.50982666015625,
+        "Confidence": 31.50982666015625,
         "Instances": [],
         "Parents": [
           {
@@ -4946,7 +4946,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.963844299316406,
+        "Confidence": 30.963844299316406,
         "Instances": [],
         "Parents": [
           {
@@ -5004,7 +5004,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 50.092708587646484,
+        "Confidence": 40.092708587646484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5100,7 +5100,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Car",
-        "Confidence": 55.87739181518555,
+        "Confidence": 25.87739181518555,
         "Instances": [
           {
             "BoundingBox": {
@@ -5211,7 +5211,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 52.50189971923828,
+        "Confidence": 22.50189971923828,
         "Instances": [],
         "Parents": [
           {
@@ -5333,7 +5333,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.00324249267578,
+        "Confidence": 20.00324249267578,
         "Instances": [],
         "Parents": [
           {
@@ -5359,7 +5359,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 52.509952545166016,
+        "Confidence": 42.509952545166016,
         "Instances": [],
         "Parents": [
           {
@@ -5501,7 +5501,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 53.98881530761719,
+        "Confidence": 43.98881530761719,
         "Instances": [],
         "Parents": [
           {
@@ -5594,7 +5594,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 59.26351547241211,
+        "Confidence": 29.26351547241211,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5681,7 +5681,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 52.12987518310547,
+        "Confidence": 42.12987518310547,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5696,7 +5696,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 53.79995346069336,
+        "Confidence": 33.79995346069336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5794,7 +5794,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.724788665771484,
+        "Confidence": 42.724788665771484,
         "Instances": [],
         "Parents": [
           {
@@ -5854,7 +5854,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.22591781616211,
+        "Confidence": 25.22591781616211,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5927,7 +5927,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 51.34478759765625,
+        "Confidence": 41.34478759765625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5991,7 +5991,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Building Flooding",
-        "Confidence": 51.29778289794922,
+        "Confidence": 31.29778289794922,
         "Instances": [],
         "Parents": [
           {
@@ -6046,7 +6046,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 51.69795227050781,
+        "Confidence": 41.69795227050781,
         "Instances": [],
         "Parents": [
           {
@@ -6065,7 +6065,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 53.22129440307617,
+        "Confidence": 43.22129440307617,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6080,7 +6080,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.89825439453125,
+        "Confidence": 35.89825439453125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6188,7 +6188,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Building Flooding",
-        "Confidence": 50.044578552246094,
+        "Confidence": 20.044578552246094,
         "Instances": [],
         "Parents": [
           {
@@ -6233,7 +6233,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Face",
-        "Confidence": 59.78041076660156,
+        "Confidence": 49.78041076660156,
         "Instances": [],
         "Parents": [
           {
@@ -6255,7 +6255,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 52.250587463378906,
+        "Confidence": 22.250587463378906,
         "Instances": [],
         "Parents": [
           {
@@ -6293,7 +6293,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 51.287757873535156,
+        "Confidence": 21.287757873535156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6352,7 +6352,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 52.06144332885742,
+        "Confidence": 42.06144332885742,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6435,7 +6435,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.99896240234375,
+        "Confidence": 32.99896240234375,
         "Instances": [
           {
             "BoundingBox": {
@@ -6444,7 +6444,7 @@
               "Left": 0.30250588059425354,
               "Top": 0.03473970293998718
             },
-            "Confidence": 53.15373611450195
+            "Confidence": 23.15373611450195
           }
         ],
         "Parents": [
@@ -6531,7 +6531,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 52.593746185302734,
+        "Confidence": 22.593746185302734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6605,7 +6605,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 58.81160354614258,
+        "Confidence": 38.81160354614258,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6801,7 +6801,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 50.67058563232422,
+        "Confidence": 30.67058563232422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6906,7 +6906,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 53.026336669921875,
+        "Confidence": 43.026336669921875,
         "Instances": [],
         "Parents": [
           {
@@ -6986,7 +6986,7 @@
               "Left": 0.7340475916862488,
               "Top": 0.0002215135027654469
             },
-            "Confidence": 57.54038619995117
+            "Confidence": 27.54038619995117
           }
         ],
         "Parents": [],
@@ -7006,7 +7006,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 50.296546936035156,
+        "Confidence": 40.296546936035156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7021,7 +7021,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 56.937747955322266,
+        "Confidence": 46.937747955322266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7036,7 +7036,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 56.937747955322266,
+        "Confidence": 36.937747955322266,
         "Instances": [],
         "Parents": [
           {
@@ -7070,7 +7070,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Building Flooding",
-        "Confidence": 50.37972640991211,
+        "Confidence": 30.37972640991211,
         "Instances": [],
         "Parents": [
           {
@@ -7111,7 +7111,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 53.078495025634766,
+        "Confidence": 33.078495025634766,
         "Instances": [],
         "Parents": [
           {
@@ -7149,7 +7149,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 51.7429313659668,
+        "Confidence": 11.7429313659668,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7164,7 +7164,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 50.06236267089844,
+        "Confidence": 30.06236267089844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7247,7 +7247,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 58.64046859741211,
+        "Confidence": 38.64046859741211,
         "Instances": [],
         "Parents": [
           {
@@ -7281,7 +7281,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.64338302612305,
+        "Confidence": 12.64338302612305,
         "Instances": [],
         "Parents": [
           {
@@ -7356,7 +7356,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 51.309547424316406,
+        "Confidence": 21.309547424316406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7524,7 +7524,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 51.674560546875,
+        "Confidence": 31.674560546875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7577,7 +7577,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 51.253047943115234,
+        "Confidence": 41.253047943115234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7607,7 +7607,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.33945846557617,
+        "Confidence": 32.33945846557617,
         "Instances": [],
         "Parents": [
           {
@@ -7656,7 +7656,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 51.97691345214844,
+        "Confidence": 41.97691345214844,
         "Instances": [],
         "Parents": [
           {
@@ -7675,7 +7675,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 50.25963592529297,
+        "Confidence": 40.25963592529297,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7690,7 +7690,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.32829284667969,
+        "Confidence": 35.32829284667969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7705,7 +7705,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Package",
-        "Confidence": 51.79248046875,
+        "Confidence": 21.79248046875,
         "Instances": [
           {
             "BoundingBox": {
@@ -7772,7 +7772,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 51.278865814208984,
+        "Confidence": 41.278865814208984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7787,7 +7787,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 55.90737533569336,
+        "Confidence": 35.90737533569336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7802,7 +7802,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 55.90737533569336,
+        "Confidence": 45.90737533569336,
         "Instances": [],
         "Parents": [
           {
@@ -7858,7 +7858,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 53.17565155029297,
+        "Confidence": 33.17565155029297,
         "Instances": [],
         "Parents": [
           {
@@ -7896,7 +7896,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 50.92823028564453,
+        "Confidence": 40.92823028564453,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7940,7 +7940,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 51.93574905395508,
+        "Confidence": 41.93574905395508,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8004,7 +8004,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Face",
-        "Confidence": 55.64433288574219,
+        "Confidence": 25.64433288574219,
         "Instances": [],
         "Parents": [
           {
@@ -8132,7 +8132,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 58.50410079956055,
+        "Confidence": 28.50410079956055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8147,7 +8147,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Truck",
-        "Confidence": 52.209415435791016,
+        "Confidence": 32.209415435791016,
         "Instances": [
           {
             "BoundingBox": {
@@ -8447,7 +8447,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Package",
-        "Confidence": 57.51028060913086,
+        "Confidence": 37.51028060913086,
         "Instances": [
           {
             "BoundingBox": {
@@ -8544,7 +8544,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Truck",
-        "Confidence": 50.92158889770508,
+        "Confidence": 20.92158889770508,
         "Instances": [],
         "Parents": [
           {
@@ -8609,7 +8609,7 @@
               "Left": 0.3139585554599762,
               "Top": 0.21071457862854004
             },
-            "Confidence": 54.755645751953125
+            "Confidence": 24.755645751953125
           }
         ],
         "Parents": [
@@ -8636,7 +8636,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 53.38710021972656,
+        "Confidence": 33.38710021972656,
         "Instances": [],
         "Parents": [
           {
@@ -8830,7 +8830,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 51.052490234375,
+        "Confidence": 31.052490234375,
         "Instances": [],
         "Parents": [
           {
@@ -8849,7 +8849,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 50.66447067260742,
+        "Confidence": 30.66447067260742,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9100,7 +9100,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 52.576541900634766,
+        "Confidence": 42.576541900634766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9130,7 +9130,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Truck",
-        "Confidence": 52.40748596191406,
+        "Confidence": 12.40748596191406,
         "Instances": [],
         "Parents": [
           {
@@ -9464,7 +9464,7 @@
               "Left": 0.6752528548240662,
               "Top": 0.0002950477646663785
             },
-            "Confidence": 55.6781120300293
+            "Confidence": 35.6781120300293
           }
         ],
         "Parents": [],
@@ -9514,7 +9514,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Truck",
-        "Confidence": 51.07170486450195,
+        "Confidence": 41.07170486450195,
         "Instances": [],
         "Parents": [
           {
@@ -9570,7 +9570,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.956748962402344,
+        "Confidence": 30.956748962402344,
         "Instances": [],
         "Parents": [
           {
@@ -9615,7 +9615,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.27135467529297,
+        "Confidence": 40.27135467529297,
         "Instances": [],
         "Parents": [
           {
@@ -9659,7 +9659,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 51.1442985534668,
+        "Confidence": 31.1442985534668,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9674,7 +9674,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.373355865478516,
+        "Confidence": 30.373355865478516,
         "Instances": [],
         "Parents": [
           {
@@ -9756,7 +9756,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Storm",
-        "Confidence": 50.27135467529297,
+        "Confidence": 40.27135467529297,
         "Instances": [],
         "Parents": [
           {
@@ -9859,7 +9859,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.91676330566406,
+        "Confidence": 43.91676330566406,
         "Instances": [],
         "Parents": [
           {
@@ -9904,7 +9904,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.2054557800293,
+        "Confidence": 40.2054557800293,
         "Instances": [],
         "Parents": [
           {
@@ -9961,7 +9961,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.2054557800293,
+        "Confidence": 10.2054557800293,
         "Instances": [],
         "Parents": [
           {
@@ -9980,7 +9980,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 50.568782806396484,
+        "Confidence": 30.568782806396484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9995,7 +9995,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.56848907470703,
+        "Confidence": 10.56848907470703,
         "Instances": [],
         "Parents": [
           {
@@ -10068,7 +10068,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Storm",
-        "Confidence": 50.2054557800293,
+        "Confidence": 30.2054557800293,
         "Instances": [],
         "Parents": [
           {
@@ -10350,7 +10350,7 @@
       "Timestamp": 24520,
       "Label": {
         "Name": "Car",
-        "Confidence": 54.47508239746094,
+        "Confidence": 24.47508239746094,
         "Instances": [],
         "Parents": [
           {
@@ -10538,7 +10538,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Car",
-        "Confidence": 55.128196716308594,
+        "Confidence": 45.128196716308594,
         "Instances": [],
         "Parents": [
           {
@@ -10564,7 +10564,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 51.51971435546875,
+        "Confidence": 21.51971435546875,
         "Instances": [],
         "Parents": [
           {
@@ -10583,7 +10583,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 50.88882064819336,
+        "Confidence": 40.88882064819336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10598,7 +10598,7 @@
       "Timestamp": 25000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.29658889770508,
+        "Confidence": 10.29658889770508,
         "Instances": [],
         "Parents": [
           {
@@ -10748,7 +10748,7 @@
       "Timestamp": 25520,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 51.532962799072266,
+        "Confidence": 31.532962799072266,
         "Instances": [],
         "Parents": [
           {
@@ -10845,7 +10845,7 @@
       "Timestamp": 25520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 53.017234802246094,
+        "Confidence": 33.017234802246094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10860,7 +10860,7 @@
       "Timestamp": 25520,
       "Label": {
         "Name": "Storm",
-        "Confidence": 51.532962799072266,
+        "Confidence": 41.532962799072266,
         "Instances": [],
         "Parents": [
           {
@@ -10931,7 +10931,7 @@
       "Timestamp": 26000,
       "Label": {
         "Name": "Flood",
-        "Confidence": 54.75172805786133,
+        "Confidence": 34.75172805786133,
         "Instances": [],
         "Parents": [
           {
@@ -10950,7 +10950,7 @@
       "Timestamp": 26000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.20814514160156,
+        "Confidence": 20.20814514160156,
         "Instances": [],
         "Parents": [
           {
@@ -10975,7 +10975,7 @@
       "Timestamp": 26000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.20814514160156,
+        "Confidence": 10.20814514160156,
         "Instances": [],
         "Parents": [
           {
@@ -10994,7 +10994,7 @@
       "Timestamp": 26000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 58.194252014160156,
+        "Confidence": 38.194252014160156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11062,7 +11062,7 @@
       "Timestamp": 26000,
       "Label": {
         "Name": "Storm",
-        "Confidence": 50.20814514160156,
+        "Confidence": 40.20814514160156,
         "Instances": [],
         "Parents": [
           {
@@ -11133,7 +11133,7 @@
       "Timestamp": 26520,
       "Label": {
         "Name": "Flood",
-        "Confidence": 56.34130859375,
+        "Confidence": 46.34130859375,
         "Instances": [],
         "Parents": [
           {
@@ -11262,7 +11262,7 @@
       "Timestamp": 26520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 58.520408630371094,
+        "Confidence": 28.520408630371094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11454,7 +11454,7 @@
       "Timestamp": 27000,
       "Label": {
         "Name": "Hurricane",
-        "Confidence": 50.36909103393555,
+        "Confidence": 30.36909103393555,
         "Instances": [],
         "Parents": [
           {
@@ -11479,7 +11479,7 @@
       "Timestamp": 27000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.36909103393555,
+        "Confidence": 40.36909103393555,
         "Instances": [],
         "Parents": [
           {

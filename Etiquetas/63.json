@@ -391,7 +391,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 52.103214263916016,
+        "Confidence": 42.103214263916016,
         "Instances": [],
         "Parents": [
           {
@@ -413,7 +413,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Car",
-        "Confidence": 56.49250793457031,
+        "Confidence": 26.49250793457031,
         "Instances": [],
         "Parents": [
           {
@@ -439,7 +439,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 53.09299087524414,
+        "Confidence": 23.09299087524414,
         "Instances": [],
         "Parents": [
           {
@@ -665,7 +665,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 58.983787536621094,
+        "Confidence": 38.983787536621094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -752,7 +752,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 51.574337005615234,
+        "Confidence": 41.574337005615234,
         "Instances": [],
         "Parents": [
           {
@@ -814,7 +814,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 51.066009521484375,
+        "Confidence": 21.066009521484375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -848,7 +848,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Windshield",
-        "Confidence": 51.78874969482422,
+        "Confidence": 11.78874969482422,
         "Instances": [],
         "Parents": [
           {
@@ -1159,7 +1159,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.59492874145508,
+        "Confidence": 21.59492874145508,
         "Instances": [],
         "Parents": [
           {
@@ -1277,7 +1277,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 53.55317306518555,
+        "Confidence": 13.55317306518555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1354,7 +1354,7 @@
               "Left": 0.11386941373348236,
               "Top": 0.40174931287765503
             },
-            "Confidence": 52.34729766845703
+            "Confidence": 42.34729766845703
           }
         ],
         "Parents": [
@@ -1688,7 +1688,7 @@
               "Left": 0.11386941373348236,
               "Top": 0.40174931287765503
             },
-            "Confidence": 52.34729766845703
+            "Confidence": 12.34729766845703
           }
         ],
         "Parents": [],
@@ -1708,7 +1708,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Phone",
-        "Confidence": 52.30742645263672,
+        "Confidence": 42.30742645263672,
         "Instances": [],
         "Parents": [
           {
@@ -1727,7 +1727,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 53.509185791015625,
+        "Confidence": 23.509185791015625,
         "Instances": [],
         "Parents": [
           {
@@ -1789,7 +1789,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 53.85496520996094,
+        "Confidence": 43.85496520996094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1823,7 +1823,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Windshield",
-        "Confidence": 51.56351852416992,
+        "Confidence": 41.56351852416992,
         "Instances": [],
         "Parents": [
           {
@@ -2105,7 +2105,7 @@
               "Left": 0.09218651801347733,
               "Top": 0.06959910690784454
             },
-            "Confidence": 55.0638427734375
+            "Confidence": 15.0638427734375
           }
         ],
         "Parents": [
@@ -2183,7 +2183,7 @@
               "Left": 0.08097122609615326,
               "Top": 0.07563464343547821
             },
-            "Confidence": 58.528812408447266
+            "Confidence": 38.528812408447266
           },
           {
             "BoundingBox": {
@@ -2201,7 +2201,7 @@
               "Left": 0.13712817430496216,
               "Top": 0.13153736293315887
             },
-            "Confidence": 54.32952117919922
+            "Confidence": 44.32952117919922
           }
         ],
         "Parents": [],
@@ -2265,7 +2265,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Tin",
-        "Confidence": 51.70614242553711,
+        "Confidence": 41.70614242553711,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2280,7 +2280,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Tornado",
-        "Confidence": 50.493499755859375,
+        "Confidence": 30.493499755859375,
         "Instances": [],
         "Parents": [
           {
@@ -2320,7 +2320,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 51.9827995300293,
+        "Confidence": 41.9827995300293,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2363,7 +2363,7 @@
               "Left": 0.7194388508796692,
               "Top": 0.2831994295120239
             },
-            "Confidence": 52.948673248291016
+            "Confidence": 42.948673248291016
           }
         ],
         "Parents": [
@@ -2496,7 +2496,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Gun",
-        "Confidence": 52.91630935668945,
+        "Confidence": 22.91630935668945,
         "Instances": [],
         "Parents": [
           {
@@ -2534,7 +2534,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Laser",
-        "Confidence": 50.1278190612793,
+        "Confidence": 20.1278190612793,
         "Instances": [],
         "Parents": [
           {
@@ -2575,7 +2575,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Light",
-        "Confidence": 50.750450134277344,
+        "Confidence": 40.750450134277344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2599,7 +2599,7 @@
               "Left": 0.7194388508796692,
               "Top": 0.2831994295120239
             },
-            "Confidence": 52.948673248291016
+            "Confidence": 22.948673248291016
           }
         ],
         "Parents": [
@@ -2619,7 +2619,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Man",
-        "Confidence": 56.6236686706543,
+        "Confidence": 46.6236686706543,
         "Instances": [
           {
             "BoundingBox": {
@@ -2673,7 +2673,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 56.66127014160156,
+        "Confidence": 36.66127014160156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2697,7 +2697,7 @@
               "Left": 0.7194388508796692,
               "Top": 0.2831994295120239
             },
-            "Confidence": 52.948673248291016
+            "Confidence": 22.948673248291016
           }
         ],
         "Parents": [],
@@ -2717,7 +2717,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 50.5781135559082,
+        "Confidence": 40.5781135559082,
         "Instances": [],
         "Parents": [
           {
@@ -2773,7 +2773,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 52.49465560913086,
+        "Confidence": 32.49465560913086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2853,7 +2853,7 @@
               "Left": 0.15241242945194244,
               "Top": 0.2990378439426422
             },
-            "Confidence": 54.597145080566406
+            "Confidence": 44.597145080566406
           },
           {
             "BoundingBox": {
@@ -2882,7 +2882,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Car",
-        "Confidence": 55.02283477783203,
+        "Confidence": 35.02283477783203,
         "Instances": [],
         "Parents": [
           {
@@ -2908,7 +2908,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Driving",
-        "Confidence": 55.39632034301758,
+        "Confidence": 35.39632034301758,
         "Instances": [],
         "Parents": [
           {
@@ -2973,7 +2973,7 @@
               "Left": 0.16955822706222534,
               "Top": 0.2819073796272278
             },
-            "Confidence": 56.91562271118164
+            "Confidence": 26.91562271118164
           },
           {
             "BoundingBox": {
@@ -3020,7 +3020,7 @@
               "Left": 0.22850219905376434,
               "Top": 0.2778041958808899
             },
-            "Confidence": 58.798728942871094
+            "Confidence": 48.798728942871094
           },
           {
             "BoundingBox": {
@@ -3029,7 +3029,7 @@
               "Left": 0.16955822706222534,
               "Top": 0.2819073796272278
             },
-            "Confidence": 56.91562271118164
+            "Confidence": 36.91562271118164
           },
           {
             "BoundingBox": {
@@ -3047,7 +3047,7 @@
               "Left": 0.0802759975194931,
               "Top": 0.31430622935295105
             },
-            "Confidence": 50.86259841918945
+            "Confidence": 40.86259841918945
           }
         ],
         "Parents": [
@@ -3097,7 +3097,7 @@
               "Left": 0.22850219905376434,
               "Top": 0.2778041958808899
             },
-            "Confidence": 58.798728942871094
+            "Confidence": 38.798728942871094
           },
           {
             "BoundingBox": {
@@ -3106,7 +3106,7 @@
               "Left": 0.16955822706222534,
               "Top": 0.2819073796272278
             },
-            "Confidence": 56.91562271118164
+            "Confidence": 26.91562271118164
           },
           {
             "BoundingBox": {
@@ -3124,7 +3124,7 @@
               "Left": 0.0802759975194931,
               "Top": 0.31430622935295105
             },
-            "Confidence": 50.86259841918945
+            "Confidence": 40.86259841918945
           }
         ],
         "Parents": [],
@@ -3144,7 +3144,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Riot",
-        "Confidence": 56.30082321166992,
+        "Confidence": 36.30082321166992,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3174,7 +3174,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Traffic Jam",
-        "Confidence": 50.12614822387695,
+        "Confidence": 20.12614822387695,
         "Instances": [],
         "Parents": [
           {
@@ -3318,7 +3318,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.231346130371094,
+        "Confidence": 13.231346130371094,
         "Instances": [],
         "Parents": [
           {
@@ -3837,7 +3837,7 @@
               "Left": 0.005979747977107763,
               "Top": 0.1013011485338211
             },
-            "Confidence": 59.33363342285156
+            "Confidence": 39.33363342285156
           },
           {
             "BoundingBox": {
@@ -3855,7 +3855,7 @@
               "Left": 0.0005724685033783317,
               "Top": 0.7013710737228394
             },
-            "Confidence": 54.87141418457031
+            "Confidence": 24.87141418457031
           },
           {
             "BoundingBox": {
@@ -3864,7 +3864,7 @@
               "Left": 0.6629629135131836,
               "Top": 0.16378147900104523
             },
-            "Confidence": 52.14826965332031
+            "Confidence": 42.14826965332031
           }
         ],
         "Parents": [
@@ -3910,7 +3910,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 50.59849166870117,
+        "Confidence": 30.59849166870117,
         "Instances": [],
         "Parents": [
           {
@@ -3960,7 +3960,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 50.50310134887695,
+        "Confidence": 40.50310134887695,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3975,7 +3975,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Face",
-        "Confidence": 57.50658416748047,
+        "Confidence": 37.50658416748047,
         "Instances": [],
         "Parents": [
           {
@@ -3997,7 +3997,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Female",
-        "Confidence": 52.35081481933594,
+        "Confidence": 32.35081481933594,
         "Instances": [
           {
             "BoundingBox": {
@@ -4072,7 +4072,7 @@
               "Left": 0.005979747977107763,
               "Top": 0.1013011485338211
             },
-            "Confidence": 59.33363342285156
+            "Confidence": 19.33363342285156
           },
           {
             "BoundingBox": {
@@ -4090,7 +4090,7 @@
               "Left": 0.0005724685033783317,
               "Top": 0.7013710737228394
             },
-            "Confidence": 54.87141418457031
+            "Confidence": 44.87141418457031
           },
           {
             "BoundingBox": {
@@ -4155,7 +4155,7 @@
               "Left": 0.0005724685033783317,
               "Top": 0.7013710737228394
             },
-            "Confidence": 54.87141418457031
+            "Confidence": 24.87141418457031
           },
           {
             "BoundingBox": {
@@ -4244,7 +4244,7 @@
               "Left": 0.0005724685033783317,
               "Top": 0.7013710737228394
             },
-            "Confidence": 54.87141418457031
+            "Confidence": 24.87141418457031
           },
           {
             "BoundingBox": {
@@ -4253,7 +4253,7 @@
               "Left": 0.6629629135131836,
               "Top": 0.16378147900104523
             },
-            "Confidence": 52.14826965332031
+            "Confidence": 42.14826965332031
           }
         ],
         "Parents": [],
@@ -4288,7 +4288,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 50.169532775878906,
+        "Confidence": 20.169532775878906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4322,7 +4322,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 52.35081481933594,
+        "Confidence": 42.35081481933594,
         "Instances": [
           {
             "BoundingBox": {
@@ -4431,7 +4431,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.38520050048828,
+        "Confidence": 23.38520050048828,
         "Instances": [],
         "Parents": [
           {
@@ -4482,7 +4482,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 52.938785552978516,
+        "Confidence": 32.938785552978516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4552,7 +4552,7 @@
               "Left": 0.5072909593582153,
               "Top": 0.4084036350250244
             },
-            "Confidence": 53.42219924926758
+            "Confidence": 43.42219924926758
           },
           {
             "BoundingBox": {
@@ -4561,7 +4561,7 @@
               "Left": 0.5079796314239502,
               "Top": 0.5782255530357361
             },
-            "Confidence": 52.4594841003418
+            "Confidence": 42.4594841003418
           }
         ],
         "Parents": [
@@ -4626,7 +4626,7 @@
               "Left": 0.5079796314239502,
               "Top": 0.5782255530357361
             },
-            "Confidence": 52.4594841003418
+            "Confidence": 32.4594841003418
           }
         ],
         "Parents": [
@@ -4652,7 +4652,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Mobile Phone",
-        "Confidence": 52.586936950683594,
+        "Confidence": 32.586936950683594,
         "Instances": [],
         "Parents": [
           {
@@ -4714,7 +4714,7 @@
               "Left": 0.5072909593582153,
               "Top": 0.4084036350250244
             },
-            "Confidence": 53.42219924926758
+            "Confidence": 23.42219924926758
           },
           {
             "BoundingBox": {
@@ -4743,7 +4743,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Phone",
-        "Confidence": 52.713321685791016,
+        "Confidence": 42.713321685791016,
         "Instances": [],
         "Parents": [
           {
@@ -4762,7 +4762,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Sports Car",
-        "Confidence": 51.35498809814453,
+        "Confidence": 41.35498809814453,
         "Instances": [],
         "Parents": [
           {
@@ -4830,7 +4830,7 @@
               "Left": 0.001964789116755128,
               "Top": 0.4494585394859314
             },
-            "Confidence": 54.39219665527344
+            "Confidence": 24.39219665527344
           }
         ],
         "Parents": [
@@ -4969,7 +4969,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Male",
-        "Confidence": 59.56230163574219,
+        "Confidence": 39.56230163574219,
         "Instances": [
           {
             "BoundingBox": {
@@ -4978,7 +4978,7 @@
               "Left": 0.001964789116755128,
               "Top": 0.4494585394859314
             },
-            "Confidence": 54.39219665527344
+            "Confidence": 34.39219665527344
           }
         ],
         "Parents": [
@@ -5007,7 +5007,7 @@
               "Left": 0.001964789116755128,
               "Top": 0.4494585394859314
             },
-            "Confidence": 54.39219665527344
+            "Confidence": 44.39219665527344
           }
         ],
         "Parents": [
@@ -5097,7 +5097,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 57.39137649536133,
+        "Confidence": 47.39137649536133,
         "Instances": [],
         "Parents": [
           {
@@ -5116,7 +5116,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Night",
-        "Confidence": 54.66089630126953,
+        "Confidence": 44.66089630126953,
         "Instances": [],
         "Parents": [
           {
@@ -5138,7 +5138,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 57.39137649536133,
+        "Confidence": 37.39137649536133,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5269,7 +5269,7 @@
               "Left": 0.39152756333351135,
               "Top": 0.40970954298973083
             },
-            "Confidence": 58.91743469238281
+            "Confidence": 48.91743469238281
           },
           {
             "BoundingBox": {
@@ -5287,7 +5287,7 @@
               "Left": 0.6224081516265869,
               "Top": 0.2720381021499634
             },
-            "Confidence": 50.56107711791992
+            "Confidence": 40.56107711791992
           }
         ],
         "Parents": [
@@ -5307,7 +5307,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.24234390258789,
+        "Confidence": 31.24234390258789,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5388,7 +5388,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "GPS",
-        "Confidence": 52.170230865478516,
+        "Confidence": 42.170230865478516,
         "Instances": [],
         "Parents": [
           {
@@ -5407,7 +5407,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.24234390258789,
+        "Confidence": 41.24234390258789,
         "Instances": [],
         "Parents": [
           {
@@ -5448,7 +5448,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 51.24234390258789,
+        "Confidence": 31.24234390258789,
         "Instances": [],
         "Parents": [
           {
@@ -5482,7 +5482,7 @@
               "Left": 0.39152756333351135,
               "Top": 0.40970954298973083
             },
-            "Confidence": 58.91743469238281
+            "Confidence": 18.91743469238281
           },
           {
             "BoundingBox": {
@@ -5491,7 +5491,7 @@
               "Left": 0.0,
               "Top": 0.6047788262367249
             },
-            "Confidence": 55.77583312988281
+            "Confidence": 25.77583312988281
           },
           {
             "BoundingBox": {
@@ -5608,7 +5608,7 @@
               "Left": 0.39152756333351135,
               "Top": 0.40970954298973083
             },
-            "Confidence": 58.91743469238281
+            "Confidence": 48.91743469238281
           },
           {
             "BoundingBox": {
@@ -5617,7 +5617,7 @@
               "Left": 0.2326996624469757,
               "Top": 0.41298094391822815
             },
-            "Confidence": 56.724666595458984
+            "Confidence": 26.724666595458984
           },
           {
             "BoundingBox": {
@@ -5635,7 +5635,7 @@
               "Left": 0.6224081516265869,
               "Top": 0.2720381021499634
             },
-            "Confidence": 50.56107711791992
+            "Confidence": 40.56107711791992
           }
         ],
         "Parents": [],
@@ -5760,7 +5760,7 @@
               "Left": 0.24372661113739014,
               "Top": 0.2992914915084839
             },
-            "Confidence": 58.2236213684082
+            "Confidence": 48.2236213684082
           },
           {
             "BoundingBox": {
@@ -5769,7 +5769,7 @@
               "Left": 0.4225252866744995,
               "Top": 0.0007214737124741077
             },
-            "Confidence": 56.75442123413086
+            "Confidence": 46.75442123413086
           },
           {
             "BoundingBox": {
@@ -5798,7 +5798,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Astronomy",
-        "Confidence": 54.90719985961914,
+        "Confidence": 44.90719985961914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5897,7 +5897,7 @@
               "Left": 0.24372661113739014,
               "Top": 0.2992914915084839
             },
-            "Confidence": 58.2236213684082
+            "Confidence": 28.2236213684082
           }
         ],
         "Parents": [
@@ -5982,7 +5982,7 @@
               "Left": 0.4225252866744995,
               "Top": 0.0007214737124741077
             },
-            "Confidence": 56.75442123413086
+            "Confidence": 46.75442123413086
           },
           {
             "BoundingBox": {
@@ -6038,7 +6038,7 @@
               "Left": 0.13425149023532867,
               "Top": 0.41652965545654297
             },
-            "Confidence": 52.30283737182617
+            "Confidence": 42.30283737182617
           }
         ],
         "Parents": [
@@ -6157,7 +6157,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Night",
-        "Confidence": 54.90719985961914,
+        "Confidence": 34.90719985961914,
         "Instances": [],
         "Parents": [
           {
@@ -6230,7 +6230,7 @@
               "Left": 0.24372661113739014,
               "Top": 0.2992914915084839
             },
-            "Confidence": 58.2236213684082
+            "Confidence": 38.2236213684082
           },
           {
             "BoundingBox": {
@@ -6248,7 +6248,7 @@
               "Left": 0.13425149023532867,
               "Top": 0.41652965545654297
             },
-            "Confidence": 52.30283737182617
+            "Confidence": 22.30283737182617
           }
         ],
         "Parents": [],
@@ -6426,7 +6426,7 @@
               "Left": 0.7278769016265869,
               "Top": 0.06735529750585556
             },
-            "Confidence": 57.587890625
+            "Confidence": 17.587890625
           },
           {
             "BoundingBox": {
@@ -6455,7 +6455,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Animal",
-        "Confidence": 54.315364837646484,
+        "Confidence": 34.315364837646484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6639,7 +6639,7 @@
               "Left": 0.49105000495910645,
               "Top": 0.6098648905754089
             },
-            "Confidence": 52.74944305419922
+            "Confidence": 42.74944305419922
           }
         ],
         "Parents": [
@@ -6696,7 +6696,7 @@
               "Left": 0.49105000495910645,
               "Top": 0.6098648905754089
             },
-            "Confidence": 52.74944305419922
+            "Confidence": 12.74944305419922
           }
         ],
         "Parents": [
@@ -6731,7 +6731,7 @@
               "Left": 0.610037088394165,
               "Top": 0.37555307149887085
             },
-            "Confidence": 58.76425552368164
+            "Confidence": 28.76425552368164
           }
         ],
         "Parents": [
@@ -6758,7 +6758,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 50.018516540527344,
+        "Confidence": 20.018516540527344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6809,7 +6809,7 @@
               "Left": 0.7278769016265869,
               "Top": 0.06735529750585556
             },
-            "Confidence": 57.587890625
+            "Confidence": 47.587890625
           },
           {
             "BoundingBox": {
@@ -6818,7 +6818,7 @@
               "Left": 0.49105000495910645,
               "Top": 0.6098648905754089
             },
-            "Confidence": 52.74944305419922
+            "Confidence": 22.74944305419922
           }
         ],
         "Parents": [],
@@ -6872,7 +6872,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Texting",
-        "Confidence": 54.82312774658203,
+        "Confidence": 24.82312774658203,
         "Instances": [],
         "Parents": [
           {
@@ -7011,7 +7011,7 @@
               "Left": 0.4319484233856201,
               "Top": 0.8101598024368286
             },
-            "Confidence": 59.404296875
+            "Confidence": 49.404296875
           },
           {
             "BoundingBox": {
@@ -7155,7 +7155,7 @@
               "Left": 0.007997565902769566,
               "Top": 0.6940031051635742
             },
-            "Confidence": 55.741310119628906
+            "Confidence": 45.741310119628906
           }
         ],
         "Parents": [
@@ -7395,7 +7395,7 @@
               "Left": 0.007997565902769566,
               "Top": 0.6940031051635742
             },
-            "Confidence": 55.741310119628906
+            "Confidence": 35.741310119628906
           }
         ],
         "Parents": [],
@@ -7434,7 +7434,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Road",
-        "Confidence": 54.68436050415039,
+        "Confidence": 24.68436050415039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7489,7 +7489,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Text",
-        "Confidence": 51.21674728393555,
+        "Confidence": 21.21674728393555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7588,7 +7588,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Windshield",
-        "Confidence": 50.3913688659668,
+        "Confidence": 10.3913688659668,
         "Instances": [],
         "Parents": [
           {
@@ -7631,7 +7631,7 @@
               "Left": 0.4319484233856201,
               "Top": 0.8101598024368286
             },
-            "Confidence": 59.404296875
+            "Confidence": 29.404296875
           },
           {
             "BoundingBox": {
@@ -7684,7 +7684,7 @@
               "Left": 0.4577721953392029,
               "Top": 0.08887729048728943
             },
-            "Confidence": 56.260597229003906
+            "Confidence": 36.260597229003906
           }
         ],
         "Parents": [
@@ -7792,7 +7792,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Female",
-        "Confidence": 52.512821197509766,
+        "Confidence": 42.512821197509766,
         "Instances": [
           {
             "BoundingBox": {
@@ -7801,7 +7801,7 @@
               "Left": 0.4577721953392029,
               "Top": 0.08887729048728943
             },
-            "Confidence": 56.260597229003906
+            "Confidence": 16.260597229003906
           }
         ],
         "Parents": [
@@ -7821,7 +7821,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "GPS",
-        "Confidence": 51.835060119628906,
+        "Confidence": 21.835060119628906,
         "Instances": [],
         "Parents": [
           {
@@ -7981,7 +7981,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 52.508941650390625,
+        "Confidence": 42.508941650390625,
         "Instances": [],
         "Parents": [
           {
@@ -8131,7 +8131,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 51.60129165649414,
+        "Confidence": 31.60129165649414,
         "Instances": [],
         "Parents": [
           {
@@ -8205,7 +8205,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.300472259521484,
+        "Confidence": 21.300472259521484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8220,7 +8220,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Windshield",
-        "Confidence": 50.18134689331055,
+        "Confidence": 30.18134689331055,
         "Instances": [],
         "Parents": [
           {
@@ -8254,7 +8254,7 @@
               "Left": 0.4577721953392029,
               "Top": 0.08887729048728943
             },
-            "Confidence": 56.260597229003906
+            "Confidence": 26.260597229003906
           }
         ],
         "Parents": [
@@ -8340,7 +8340,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.16775131225586,
+        "Confidence": 23.16775131225586,
         "Instances": [],
         "Parents": [
           {
@@ -8366,7 +8366,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 50.941917419433594,
+        "Confidence": 30.941917419433594,
         "Instances": [],
         "Parents": [
           {
@@ -8554,7 +8554,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Mobile Phone",
-        "Confidence": 52.61009216308594,
+        "Confidence": 42.61009216308594,
         "Instances": [],
         "Parents": [
           {
@@ -8580,7 +8580,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 55.89670181274414,
+        "Confidence": 25.89670181274414,
         "Instances": [],
         "Parents": [
           {
@@ -8632,7 +8632,7 @@
               "Left": 0.04083740711212158,
               "Top": 0.7856439352035522
             },
-            "Confidence": 52.506744384765625
+            "Confidence": 12.506744384765625
           }
         ],
         "Parents": [],
@@ -8671,7 +8671,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Snow",
-        "Confidence": 55.17130661010742,
+        "Confidence": 45.17130661010742,
         "Instances": [],
         "Parents": [
           {
@@ -8794,7 +8794,7 @@
               "Left": 0.0,
               "Top": 0.0011766147799789906
             },
-            "Confidence": 53.126861572265625
+            "Confidence": 33.126861572265625
           },
           {
             "BoundingBox": {
@@ -8823,7 +8823,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 52.472633361816406,
+        "Confidence": 22.472633361816406,
         "Instances": [],
         "Parents": [
           {
@@ -8845,7 +8845,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.697349548339844,
+        "Confidence": 42.697349548339844,
         "Instances": [],
         "Parents": [
           {
@@ -8998,7 +8998,7 @@
               "Left": 0.0,
               "Top": 0.0011766147799789906
             },
-            "Confidence": 53.126861572265625
+            "Confidence": 43.126861572265625
           }
         ],
         "Parents": [
@@ -9045,7 +9045,7 @@
               "Left": 0.0,
               "Top": 0.0011766147799789906
             },
-            "Confidence": 53.126861572265625
+            "Confidence": 43.126861572265625
           }
         ],
         "Parents": [
@@ -9071,7 +9071,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Mobile Phone",
-        "Confidence": 56.05430603027344,
+        "Confidence": 36.05430603027344,
         "Instances": [],
         "Parents": [
           {
@@ -9097,7 +9097,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.132633209228516,
+        "Confidence": 41.132633209228516,
         "Instances": [],
         "Parents": [
           {
@@ -9149,7 +9149,7 @@
               "Left": 0.41790837049484253,
               "Top": 0.0008712482522241771
             },
-            "Confidence": 58.29330062866211
+            "Confidence": 28.29330062866211
           },
           {
             "BoundingBox": {
@@ -9230,7 +9230,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 51.48902130126953,
+        "Confidence": 31.48902130126953,
         "Instances": [],
         "Parents": [
           {
@@ -9295,7 +9295,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 53.11296081542969,
+        "Confidence": 43.11296081542969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9329,7 +9329,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Windshield",
-        "Confidence": 51.57671356201172,
+        "Confidence": 31.57671356201172,
         "Instances": [],
         "Parents": [
           {
@@ -9432,7 +9432,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.012908935546875,
+        "Confidence": 43.012908935546875,
         "Instances": [],
         "Parents": [
           {
@@ -9458,7 +9458,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 51.320098876953125,
+        "Confidence": 21.320098876953125,
         "Instances": [],
         "Parents": [
           {
@@ -9542,7 +9542,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 51.62945556640625,
+        "Confidence": 41.62945556640625,
         "Instances": [],
         "Parents": [
           {
@@ -9620,7 +9620,7 @@
               "Left": 0.41197019815444946,
               "Top": 0.8186115622520447
             },
-            "Confidence": 54.88655090332031
+            "Confidence": 24.88655090332031
           }
         ],
         "Parents": [
@@ -9672,7 +9672,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 52.7874755859375,
+        "Confidence": 42.7874755859375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9753,7 +9753,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Road",
-        "Confidence": 51.319313049316406,
+        "Confidence": 41.319313049316406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9783,7 +9783,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.78171920776367,
+        "Confidence": 40.78171920776367,
         "Instances": [],
         "Parents": [
           {
@@ -9873,7 +9873,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 51.206382751464844,
+        "Confidence": 41.206382751464844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10130,7 +10130,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 50.622013092041016,
+        "Confidence": 30.622013092041016,
         "Instances": [],
         "Parents": [
           {
@@ -10332,7 +10332,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 52.40576171875,
+        "Confidence": 22.40576171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10545,7 +10545,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 52.70243453979492,
+        "Confidence": 32.70243453979492,
         "Instances": [],
         "Parents": [
           {
@@ -10610,7 +10610,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "GPS",
-        "Confidence": 51.53491973876953,
+        "Confidence": 41.53491973876953,
         "Instances": [],
         "Parents": [
           {
@@ -10648,7 +10648,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Light",
-        "Confidence": 50.25166320800781,
+        "Confidence": 40.25166320800781,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10681,7 +10681,7 @@
               "Left": 0.03453398123383522,
               "Top": 0.7021347284317017
             },
-            "Confidence": 57.958675384521484
+            "Confidence": 37.958675384521484
           }
         ],
         "Parents": [
@@ -10719,7 +10719,7 @@
               "Left": 0.03453398123383522,
               "Top": 0.7021347284317017
             },
-            "Confidence": 57.958675384521484
+            "Confidence": 37.958675384521484
           }
         ],
         "Parents": [
@@ -10789,7 +10789,7 @@
               "Left": 0.03453398123383522,
               "Top": 0.7021347284317017
             },
-            "Confidence": 57.958675384521484
+            "Confidence": 47.958675384521484
           }
         ],
         "Parents": [],
@@ -10963,7 +10963,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.839237213134766,
+        "Confidence": 33.839237213134766,
         "Instances": [],
         "Parents": [
           {
@@ -11167,7 +11167,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 51.29164505004883,
+        "Confidence": 21.29164505004883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11441,7 +11441,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 54.06258010864258,
+        "Confidence": 34.06258010864258,
         "Instances": [],
         "Parents": [
           {
@@ -11466,7 +11466,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Car Mirror",
-        "Confidence": 51.85240936279297,
+        "Confidence": 31.85240936279297,
         "Instances": [],
         "Parents": [
           {
@@ -11845,7 +11845,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 52.123924255371094,
+        "Confidence": 42.123924255371094,
         "Instances": [],
         "Parents": [
           {
@@ -11974,7 +11974,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Aerial View",
-        "Confidence": 50.81165313720703,
+        "Confidence": 30.81165313720703,
         "Instances": [],
         "Parents": [
           {
@@ -11993,7 +11993,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 54.70775604248047,
+        "Confidence": 34.70775604248047,
         "Instances": [],
         "Parents": [
           {
@@ -12015,7 +12015,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Airport",
-        "Confidence": 51.67319869995117,
+        "Confidence": 21.67319869995117,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12287,7 +12287,7 @@
               "Left": 0.7124538421630859,
               "Top": 0.08838342130184174
             },
-            "Confidence": 57.8406982421875
+            "Confidence": 27.8406982421875
           },
           {
             "BoundingBox": {
@@ -12409,7 +12409,7 @@
               "Left": 0.7124538421630859,
               "Top": 0.08838342130184174
             },
-            "Confidence": 57.8406982421875
+            "Confidence": 27.8406982421875
           },
           {
             "BoundingBox": {
@@ -12501,7 +12501,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 51.7651252746582,
+        "Confidence": 31.7651252746582,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12516,7 +12516,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 51.43001937866211,
+        "Confidence": 31.43001937866211,
         "Instances": [],
         "Parents": [
           {
@@ -12656,7 +12656,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Water",
-        "Confidence": 52.677215576171875,
+        "Confidence": 32.677215576171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12671,7 +12671,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Weather",
-        "Confidence": 50.87152862548828,
+        "Confidence": 30.87152862548828,
         "Instances": [],
         "Parents": [
           {
@@ -12753,7 +12753,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 58.39377212524414,
+        "Confidence": 28.39377212524414,
         "Instances": [
           {
             "BoundingBox": {
@@ -12771,7 +12771,7 @@
               "Left": 0.7146511077880859,
               "Top": 0.11667833477258682
             },
-            "Confidence": 50.231201171875
+            "Confidence": 20.231201171875
           }
         ],
         "Parents": [
@@ -12839,7 +12839,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Driving",
-        "Confidence": 57.08974838256836,
+        "Confidence": 47.08974838256836,
         "Instances": [],
         "Parents": [
           {
@@ -12879,7 +12879,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Female",
-        "Confidence": 55.47263717651367,
+        "Confidence": 15.47263717651367,
         "Instances": [
           {
             "BoundingBox": {
@@ -12908,7 +12908,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Flare",
-        "Confidence": 50.43309783935547,
+        "Confidence": 20.43309783935547,
         "Instances": [],
         "Parents": [
           {
@@ -12965,7 +12965,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 50.72795867919922,
+        "Confidence": 20.72795867919922,
         "Instances": [],
         "Parents": [
           {
@@ -13039,7 +13039,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Machine",
-        "Confidence": 57.93107986450195,
+        "Confidence": 17.93107986450195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13152,7 +13152,7 @@
               "Left": 0.0,
               "Top": 0.7932049632072449
             },
-            "Confidence": 54.24776077270508
+            "Confidence": 44.24776077270508
           },
           {
             "BoundingBox": {
@@ -13215,7 +13215,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 51.820255279541016,
+        "Confidence": 31.820255279541016,
         "Instances": [],
         "Parents": [
           {
@@ -13259,7 +13259,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 53.410884857177734,
+        "Confidence": 43.410884857177734,
         "Instances": [],
         "Parents": [
           {
@@ -13284,7 +13284,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Traffic Light",
-        "Confidence": 51.299285888671875,
+        "Confidence": 11.299285888671875,
         "Instances": [],
         "Parents": [
           {
@@ -13367,7 +13367,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Weather",
-        "Confidence": 51.856563568115234,
+        "Confidence": 31.856563568115234,
         "Instances": [],
         "Parents": [
           {
@@ -13414,7 +13414,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 55.47263717651367,
+        "Confidence": 45.47263717651367,
         "Instances": [
           {
             "BoundingBox": {
@@ -13423,7 +13423,7 @@
               "Left": 0.7146511077880859,
               "Top": 0.11667833477258682
             },
-            "Confidence": 50.231201171875
+            "Confidence": 30.231201171875
           }
         ],
         "Parents": [
@@ -13487,7 +13487,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 51.04801940917969,
+        "Confidence": 31.04801940917969,
         "Instances": [],
         "Parents": [
           {
@@ -13550,7 +13550,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 50.3922119140625,
+        "Confidence": 40.3922119140625,
         "Instances": [],
         "Parents": [
           {
@@ -13603,7 +13603,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Driving",
-        "Confidence": 57.584754943847656,
+        "Confidence": 37.584754943847656,
         "Instances": [],
         "Parents": [
           {
@@ -13628,7 +13628,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 55.63398361206055,
+        "Confidence": 25.63398361206055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13710,7 +13710,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 53.2388801574707,
+        "Confidence": 43.2388801574707,
         "Instances": [],
         "Parents": [
           {
@@ -13793,7 +13793,7 @@
               "Left": 0.6732925772666931,
               "Top": 0.1513126641511917
             },
-            "Confidence": 55.81596374511719
+            "Confidence": 35.81596374511719
           }
         ],
         "Parents": [
@@ -13813,7 +13813,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Man",
-        "Confidence": 52.19226837158203,
+        "Confidence": 32.19226837158203,
         "Instances": [
           {
             "BoundingBox": {
@@ -13822,7 +13822,7 @@
               "Left": 0.6732925772666931,
               "Top": 0.1513126641511917
             },
-            "Confidence": 55.81596374511719
+            "Confidence": 35.81596374511719
           }
         ],
         "Parents": [
@@ -13927,7 +13927,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Package",
-        "Confidence": 53.8321418762207,
+        "Confidence": 43.8321418762207,
         "Instances": [
           {
             "BoundingBox": {
@@ -14072,7 +14072,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 52.61264419555664,
+        "Confidence": 32.61264419555664,
         "Instances": [],
         "Parents": [
           {
@@ -14119,7 +14119,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Traffic Jam",
-        "Confidence": 52.907474517822266,
+        "Confidence": 42.907474517822266,
         "Instances": [],
         "Parents": [
           {
@@ -14178,7 +14178,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.17334747314453,
+        "Confidence": 31.17334747314453,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14470,7 +14470,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Head",
-        "Confidence": 50.351829528808594,
+        "Confidence": 40.351829528808594,
         "Instances": [],
         "Parents": [
           {
@@ -14533,7 +14533,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Light",
-        "Confidence": 58.59512710571289,
+        "Confidence": 48.59512710571289,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14548,7 +14548,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Lighting",
-        "Confidence": 55.150123596191406,
+        "Confidence": 45.150123596191406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14631,7 +14631,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 50.720970153808594,
+        "Confidence": 20.720970153808594,
         "Instances": [],
         "Parents": [
           {
@@ -14833,7 +14833,7 @@
               "Left": 0.8726282715797424,
               "Top": 0.5237759947776794
             },
-            "Confidence": 56.038482666015625
+            "Confidence": 36.038482666015625
           }
         ],
         "Parents": [
@@ -14853,7 +14853,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Aerial View",
-        "Confidence": 52.98941421508789,
+        "Confidence": 12.98941421508789,
         "Instances": [],
         "Parents": [
           {
@@ -14894,7 +14894,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Car",
-        "Confidence": 57.11708068847656,
+        "Confidence": 37.11708068847656,
         "Instances": [],
         "Parents": [
           {
@@ -14976,7 +14976,7 @@
               "Left": 0.8726282715797424,
               "Top": 0.5237759947776794
             },
-            "Confidence": 56.038482666015625
+            "Confidence": 26.038482666015625
           }
         ],
         "Parents": [
@@ -15037,7 +15037,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Light",
-        "Confidence": 58.673458099365234,
+        "Confidence": 38.673458099365234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15116,7 +15116,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 57.90708923339844,
+        "Confidence": 37.90708923339844,
         "Instances": [],
         "Parents": [
           {
@@ -15168,7 +15168,7 @@
               "Left": 0.8726282715797424,
               "Top": 0.5237759947776794
             },
-            "Confidence": 56.038482666015625
+            "Confidence": 26.038482666015625
           }
         ],
         "Parents": [],
@@ -15203,7 +15203,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Sea",
-        "Confidence": 55.490478515625,
+        "Confidence": 25.490478515625,
         "Instances": [],
         "Parents": [
           {
@@ -15269,7 +15269,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.72369384765625,
+        "Confidence": 30.72369384765625,
         "Instances": [],
         "Parents": [
           {
@@ -15347,7 +15347,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Water",
-        "Confidence": 55.490478515625,
+        "Confidence": 45.490478515625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15442,7 +15442,7 @@
               "Left": 0.08119183778762817,
               "Top": 0.8661338090896606
             },
-            "Confidence": 50.30006790161133
+            "Confidence": 40.30006790161133
           }
         ],
         "Parents": [
@@ -15606,7 +15606,7 @@
               "Left": 0.6724927425384521,
               "Top": 0.3067757189273834
             },
-            "Confidence": 53.596336364746094
+            "Confidence": 43.596336364746094
           }
         ],
         "Parents": [
@@ -15626,7 +15626,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Flare",
-        "Confidence": 57.67204284667969,
+        "Confidence": 17.67204284667969,
         "Instances": [],
         "Parents": [
           {
@@ -15664,7 +15664,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 54.15830612182617,
+        "Confidence": 44.15830612182617,
         "Instances": [],
         "Parents": [
           {
@@ -15686,7 +15686,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Laser",
-        "Confidence": 50.92356491088867,
+        "Confidence": 20.92356491088867,
         "Instances": [],
         "Parents": [
           {
@@ -15924,7 +15924,7 @@
               "Left": 0.6724927425384521,
               "Top": 0.3067757189273834
             },
-            "Confidence": 53.596336364746094
+            "Confidence": 43.596336364746094
           },
           {
             "BoundingBox": {
@@ -15933,7 +15933,7 @@
               "Left": 0.08119183778762817,
               "Top": 0.8661338090896606
             },
-            "Confidence": 50.30006790161133
+            "Confidence": 30.30006790161133
           }
         ],
         "Parents": [],
@@ -15953,7 +15953,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Road",
-        "Confidence": 54.13823318481445,
+        "Confidence": 34.13823318481445,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15997,7 +15997,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Snow",
-        "Confidence": 50.01950454711914,
+        "Confidence": 30.01950454711914,
         "Instances": [],
         "Parents": [
           {
@@ -16053,7 +16053,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 54.07185745239258,
+        "Confidence": 44.07185745239258,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16087,7 +16087,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.44287872314453,
+        "Confidence": 21.44287872314453,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16142,7 +16142,7 @@
               "Left": 0.6724927425384521,
               "Top": 0.3067757189273834
             },
-            "Confidence": 53.596336364746094
+            "Confidence": 43.596336364746094
           }
         ],
         "Parents": [
@@ -16187,7 +16187,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 50.63835525512695,
+        "Confidence": 40.63835525512695,
         "Instances": [],
         "Parents": [
           {
@@ -16209,7 +16209,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 53.573726654052734,
+        "Confidence": 33.573726654052734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16314,7 +16314,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Night",
-        "Confidence": 52.27513885498047,
+        "Confidence": 32.27513885498047,
         "Instances": [],
         "Parents": [
           {
@@ -16351,7 +16351,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Person",
-        "Confidence": 58.58237838745117,
+        "Confidence": 28.58237838745117,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -16520,7 +16520,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.3805046081543,
+        "Confidence": 40.3805046081543,
         "Instances": [],
         "Parents": [
           {
@@ -16606,7 +16606,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 52.45636749267578,
+        "Confidence": 32.45636749267578,
         "Instances": [],
         "Parents": [
           {
@@ -16628,7 +16628,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Light",
-        "Confidence": 56.09402847290039,
+        "Confidence": 36.09402847290039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16877,7 +16877,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Snow",
-        "Confidence": 51.00334548950195,
+        "Confidence": 41.00334548950195,
         "Instances": [],
         "Parents": [
           {
@@ -16899,7 +16899,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Sport",
-        "Confidence": 52.86472702026367,
+        "Confidence": 42.86472702026367,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -16918,7 +16918,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 53.150203704833984,
+        "Confidence": 23.150203704833984,
         "Instances": [],
         "Parents": [
           {
@@ -16986,7 +16986,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.01910400390625,
+        "Confidence": 40.01910400390625,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -17090,7 +17090,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.78352355957031,
+        "Confidence": 21.78352355957031,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17156,7 +17156,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Car Mirror",
-        "Confidence": 50.37730407714844,
+        "Confidence": 30.37730407714844,
         "Instances": [],
         "Parents": [
           {
@@ -17209,7 +17209,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 51.7809944152832,
+        "Confidence": 21.7809944152832,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17317,7 +17317,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Machine",
-        "Confidence": 50.62783432006836,
+        "Confidence": 30.62783432006836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17332,7 +17332,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Male",
-        "Confidence": 57.699623107910156,
+        "Confidence": 47.699623107910156,
         "Instances": [
           {
             "BoundingBox": {
@@ -17359,7 +17359,7 @@
               "Left": 0.1469404548406601,
               "Top": 0.2881444990634918
             },
-            "Confidence": 55.92600631713867
+            "Confidence": 35.92600631713867
           }
         ],
         "Parents": [
@@ -17513,7 +17513,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Sport",
-        "Confidence": 50.615020751953125,
+        "Confidence": 30.615020751953125,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -17648,7 +17648,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Car",
-        "Confidence": 54.94357681274414,
+        "Confidence": 44.94357681274414,
         "Instances": [],
         "Parents": [
           {
@@ -17699,7 +17699,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Driving",
-        "Confidence": 50.45072555541992,
+        "Confidence": 40.45072555541992,
         "Instances": [],
         "Parents": [
           {
@@ -17765,7 +17765,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 54.3033332824707,
+        "Confidence": 44.3033332824707,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17824,7 +17824,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 54.129676818847656,
+        "Confidence": 14.129676818847656,
         "Instances": [],
         "Parents": [
           {
@@ -17877,7 +17877,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Adult",
-        "Confidence": 56.547279357910156,
+        "Confidence": 36.547279357910156,
         "Instances": [
           {
             "BoundingBox": {
@@ -18024,7 +18024,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Storm",
-        "Confidence": 50.48785400390625,
+        "Confidence": 20.48785400390625,
         "Instances": [],
         "Parents": [
           {
@@ -18065,7 +18065,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 57.5268669128418,
+        "Confidence": 47.5268669128418,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18123,7 +18123,7 @@
               "Left": 0.2774023413658142,
               "Top": 0.15430310368537903
             },
-            "Confidence": 56.513221740722656
+            "Confidence": 36.513221740722656
           },
           {
             "BoundingBox": {
@@ -18132,7 +18132,7 @@
               "Left": 0.18447089195251465,
               "Top": 0.10348080098628998
             },
-            "Confidence": 56.46666717529297
+            "Confidence": 46.46666717529297
           },
           {
             "BoundingBox": {
@@ -18218,7 +18218,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Male",
-        "Confidence": 55.74396896362305,
+        "Confidence": 15.74396896362305,
         "Instances": [
           {
             "BoundingBox": {
@@ -18227,7 +18227,7 @@
               "Left": 0.2774023413658142,
               "Top": 0.15430310368537903
             },
-            "Confidence": 56.513221740722656
+            "Confidence": 46.513221740722656
           },
           {
             "BoundingBox": {
@@ -18265,7 +18265,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Man",
-        "Confidence": 55.74396896362305,
+        "Confidence": 45.74396896362305,
         "Instances": [
           {
             "BoundingBox": {
@@ -18292,7 +18292,7 @@
               "Left": 0.3539186418056488,
               "Top": 0.3451046049594879
             },
-            "Confidence": 56.14874267578125
+            "Confidence": 46.14874267578125
           }
         ],
         "Parents": [
@@ -18361,7 +18361,7 @@
               "Left": 0.2774023413658142,
               "Top": 0.15430310368537903
             },
-            "Confidence": 56.513221740722656
+            "Confidence": 26.513221740722656
           },
           {
             "BoundingBox": {
@@ -18370,7 +18370,7 @@
               "Left": 0.18447089195251465,
               "Top": 0.10348080098628998
             },
-            "Confidence": 56.46666717529297
+            "Confidence": 46.46666717529297
           },
           {
             "BoundingBox": {
@@ -18399,7 +18399,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Road",
-        "Confidence": 52.886268615722656,
+        "Confidence": 22.886268615722656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18436,7 +18436,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Storm",
-        "Confidence": 52.101436614990234,
+        "Confidence": 12.101436614990234,
         "Instances": [],
         "Parents": [
           {
@@ -18458,7 +18458,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Street",
-        "Confidence": 52.87548065185547,
+        "Confidence": 32.87548065185547,
         "Instances": [],
         "Parents": [
           {
@@ -18580,7 +18580,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.75344467163086,
+        "Confidence": 40.75344467163086,
         "Instances": [],
         "Parents": [
           {
@@ -18606,7 +18606,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Chasing",
-        "Confidence": 52.921897888183594,
+        "Confidence": 22.921897888183594,
         "Instances": [],
         "Parents": [
           {
@@ -18934,7 +18934,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Terminal",
-        "Confidence": 53.009727478027344,
+        "Confidence": 33.009727478027344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18949,7 +18949,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Tornado",
-        "Confidence": 50.46480178833008,
+        "Confidence": 40.46480178833008,
         "Instances": [],
         "Parents": [
           {
@@ -19045,7 +19045,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.022701263427734,
+        "Confidence": 31.022701263427734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19123,7 +19123,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Bus Stop",
-        "Confidence": 53.40556716918945,
+        "Confidence": 33.40556716918945,
         "Instances": [],
         "Parents": [
           {
@@ -19217,7 +19217,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Male",
-        "Confidence": 54.80052185058594,
+        "Confidence": 24.80052185058594,
         "Instances": [
           {
             "BoundingBox": {
@@ -19246,7 +19246,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Man",
-        "Confidence": 54.80052185058594,
+        "Confidence": 34.80052185058594,
         "Instances": [
           {
             "BoundingBox": {
@@ -19400,7 +19400,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Road",
-        "Confidence": 52.123382568359375,
+        "Confidence": 22.123382568359375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19524,7 +19524,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Train Station",
-        "Confidence": 50.5145149230957,
+        "Confidence": 20.5145149230957,
         "Instances": [],
         "Parents": [
           {
@@ -19570,7 +19570,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.031593322753906,
+        "Confidence": 32.031593322753906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19604,7 +19604,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Winter",
-        "Confidence": 53.4282112121582,
+        "Confidence": 43.4282112121582,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19638,7 +19638,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Chasing",
-        "Confidence": 51.288612365722656,
+        "Confidence": 41.288612365722656,
         "Instances": [],
         "Parents": [
           {
@@ -19657,7 +19657,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "City",
-        "Confidence": 54.000762939453125,
+        "Confidence": 34.000762939453125,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -19729,7 +19729,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Railway",
-        "Confidence": 50.57997131347656,
+        "Confidence": 40.57997131347656,
         "Instances": [],
         "Parents": [
           {
@@ -19755,7 +19755,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 52.367950439453125,
+        "Confidence": 22.367950439453125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -20056,7 +20056,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Person",
-        "Confidence": 55.81624221801758,
+        "Confidence": 25.81624221801758,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -20075,7 +20075,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Railway",
-        "Confidence": 52.34531784057617,
+        "Confidence": 32.34531784057617,
         "Instances": [],
         "Parents": [
           {
@@ -20153,7 +20153,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Storm",
-        "Confidence": 50.72014617919922,
+        "Confidence": 20.72014617919922,
         "Instances": [],
         "Parents": [
           {
@@ -20286,7 +20286,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 56.58432388305664,
+        "Confidence": 46.58432388305664,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -20329,7 +20329,7 @@
               "Left": 0.0025346744805574417,
               "Top": 0.5621089935302734
             },
-            "Confidence": 59.49846649169922
+            "Confidence": 29.49846649169922
           },
           {
             "BoundingBox": {
@@ -20390,7 +20390,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Bus Stop",
-        "Confidence": 54.61525344848633,
+        "Confidence": 34.61525344848633,
         "Instances": [],
         "Parents": [
           {
@@ -20473,7 +20473,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Male",
-        "Confidence": 51.85075759887695,
+        "Confidence": 31.85075759887695,
         "Instances": [
           {
             "BoundingBox": {
@@ -20520,7 +20520,7 @@
               "Left": 0.0025346744805574417,
               "Top": 0.5621089935302734
             },
-            "Confidence": 59.49846649169922
+            "Confidence": 19.49846649169922
           },
           {
             "BoundingBox": {
@@ -20705,7 +20705,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Storm",
-        "Confidence": 52.675201416015625,
+        "Confidence": 42.675201416015625,
         "Instances": [],
         "Parents": [
           {
@@ -20752,7 +20752,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Terminal",
-        "Confidence": 52.93566131591797,
+        "Confidence": 42.93566131591797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -20823,7 +20823,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 54.89318084716797,
+        "Confidence": 34.89318084716797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -20853,7 +20853,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 54.89318084716797,
+        "Confidence": 44.89318084716797,
         "Instances": [],
         "Parents": [
           {
@@ -21272,7 +21272,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.855560302734375,
+        "Confidence": 42.855560302734375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21306,7 +21306,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Bus Stop",
-        "Confidence": 54.175201416015625,
+        "Confidence": 14.175201416015625,
         "Instances": [],
         "Parents": [
           {
@@ -21325,7 +21325,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Car",
-        "Confidence": 54.87632369995117,
+        "Confidence": 24.87632369995117,
         "Instances": [],
         "Parents": [
           {
@@ -21351,7 +21351,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Chasing",
-        "Confidence": 50.146934509277344,
+        "Confidence": 20.146934509277344,
         "Instances": [],
         "Parents": [
           {
@@ -21411,7 +21411,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Nature",
-        "Confidence": 58.51063537597656,
+        "Confidence": 48.51063537597656,
         "Instances": [],
         "Parents": [
           {
@@ -21445,7 +21445,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Person",
-        "Confidence": 59.7199821472168,
+        "Confidence": 49.7199821472168,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -21516,7 +21516,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Street",
-        "Confidence": 51.43944549560547,
+        "Confidence": 41.43944549560547,
         "Instances": [],
         "Parents": [
           {
@@ -21556,7 +21556,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.43944549560547,
+        "Confidence": 41.43944549560547,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21628,7 +21628,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Bus Stop",
-        "Confidence": 51.61563491821289,
+        "Confidence": 31.61563491821289,
         "Instances": [],
         "Parents": [
           {
@@ -21647,7 +21647,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.23756790161133,
+        "Confidence": 43.23756790161133,
         "Instances": [],
         "Parents": [
           {
@@ -21698,7 +21698,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "City",
-        "Confidence": 51.25299835205078,
+        "Confidence": 11.25299835205078,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -21717,7 +21717,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Driving",
-        "Confidence": 51.7580451965332,
+        "Confidence": 41.7580451965332,
         "Instances": [],
         "Parents": [
           {
@@ -21802,7 +21802,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 50.56011199951172,
+        "Confidence": 40.56011199951172,
         "Instances": [],
         "Parents": [
           {
@@ -21839,7 +21839,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Lighting",
-        "Confidence": 51.160797119140625,
+        "Confidence": 41.160797119140625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21955,7 +21955,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Night",
-        "Confidence": 52.596553802490234,
+        "Confidence": 42.596553802490234,
         "Instances": [],
         "Parents": [
           {
@@ -22010,7 +22010,7 @@
               "Left": 0.2808009386062622,
               "Top": 0.2199200838804245
             },
-            "Confidence": 59.282081604003906
+            "Confidence": 39.282081604003906
           }
         ],
         "Parents": [],
@@ -22030,7 +22030,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Road",
-        "Confidence": 51.6500358581543,
+        "Confidence": 41.6500358581543,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22290,7 +22290,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Light",
-        "Confidence": 50.604225158691406,
+        "Confidence": 30.604225158691406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22369,7 +22369,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Nature",
-        "Confidence": 54.4241943359375,
+        "Confidence": 34.4241943359375,
         "Instances": [],
         "Parents": [
           {
@@ -22388,7 +22388,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 57.31710433959961,
+        "Confidence": 27.31710433959961,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22504,7 +22504,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 51.649620056152344,
+        "Confidence": 21.649620056152344,
         "Instances": [],
         "Parents": [
           {
@@ -22620,7 +22620,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Female",
-        "Confidence": 59.81074523925781,
+        "Confidence": 49.81074523925781,
         "Instances": [
           {
             "BoundingBox": {
@@ -22668,7 +22668,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Head",
-        "Confidence": 57.24142074584961,
+        "Confidence": 47.24142074584961,
         "Instances": [],
         "Parents": [
           {
@@ -22687,7 +22687,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 59.4002571105957,
+        "Confidence": 39.4002571105957,
         "Instances": [],
         "Parents": [
           {
@@ -22768,7 +22768,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Man",
-        "Confidence": 52.32307434082031,
+        "Confidence": 42.32307434082031,
         "Instances": [
           {
             "BoundingBox": {
@@ -22803,7 +22803,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Moon",
-        "Confidence": 51.83747482299805,
+        "Confidence": 21.83747482299805,
         "Instances": [],
         "Parents": [
           {
@@ -22983,7 +22983,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Smoke",
-        "Confidence": 50.07864761352539,
+        "Confidence": 20.07864761352539,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22998,7 +22998,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Snow",
-        "Confidence": 53.43981170654297,
+        "Confidence": 43.43981170654297,
         "Instances": [],
         "Parents": [
           {
@@ -23020,7 +23020,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Storm",
-        "Confidence": 51.13468933105469,
+        "Confidence": 41.13468933105469,
         "Instances": [],
         "Parents": [
           {
@@ -23076,7 +23076,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "War",
-        "Confidence": 50.38984298706055,
+        "Confidence": 40.38984298706055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23091,7 +23091,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Water",
-        "Confidence": 53.5185661315918,
+        "Confidence": 43.5185661315918,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23106,7 +23106,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Weather",
-        "Confidence": 51.481529235839844,
+        "Confidence": 21.481529235839844,
         "Instances": [],
         "Parents": [
           {
@@ -23128,7 +23128,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Woman",
-        "Confidence": 59.81074523925781,
+        "Confidence": 29.81074523925781,
         "Instances": [
           {
             "BoundingBox": {
@@ -23182,7 +23182,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 51.260169982910156,
+        "Confidence": 41.260169982910156,
         "Instances": [],
         "Parents": [
           {
@@ -23223,7 +23223,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Car",
-        "Confidence": 58.00718688964844,
+        "Confidence": 48.00718688964844,
         "Instances": [],
         "Parents": [
           {
@@ -23274,7 +23274,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Car Mirror",
-        "Confidence": 50.63499450683594,
+        "Confidence": 20.63499450683594,
         "Instances": [],
         "Parents": [
           {
@@ -23358,7 +23358,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Lighting",
-        "Confidence": 56.428287506103516,
+        "Confidence": 26.428287506103516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23553,7 +23553,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Sport",
-        "Confidence": 50.193145751953125,
+        "Confidence": 30.193145751953125,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -23594,7 +23594,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.202369689941406,
+        "Confidence": 20.202369689941406,
         "Instances": [],
         "Parents": [
           {
@@ -23653,7 +23653,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "War",
-        "Confidence": 51.7322998046875,
+        "Confidence": 21.7322998046875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23668,7 +23668,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Water",
-        "Confidence": 53.39434051513672,
+        "Confidence": 43.39434051513672,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23683,7 +23683,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Weather",
-        "Confidence": 51.86886215209961,
+        "Confidence": 21.86886215209961,
         "Instances": [],
         "Parents": [
           {
@@ -23727,7 +23727,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Bus Stop",
-        "Confidence": 50.701541900634766,
+        "Confidence": 40.701541900634766,
         "Instances": [],
         "Parents": [
           {
@@ -23831,7 +23831,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 53.035240173339844,
+        "Confidence": 43.035240173339844,
         "Instances": [],
         "Parents": [
           {
@@ -23940,7 +23940,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Night",
-        "Confidence": 53.85613250732422,
+        "Confidence": 33.85613250732422,
         "Instances": [],
         "Parents": [
           {
@@ -23977,7 +23977,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Pollution",
-        "Confidence": 50.365047454833984,
+        "Confidence": 40.365047454833984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24060,7 +24060,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Snow",
-        "Confidence": 59.97781753540039,
+        "Confidence": 49.97781753540039,
         "Instances": [],
         "Parents": [
           {
@@ -24082,7 +24082,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Spaceship",
-        "Confidence": 50.41689682006836,
+        "Confidence": 40.41689682006836,
         "Instances": [],
         "Parents": [
           {
@@ -24154,7 +24154,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Thunderstorm",
-        "Confidence": 51.70001983642578,
+        "Confidence": 21.70001983642578,
         "Instances": [],
         "Parents": [
           {
@@ -24179,7 +24179,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Tornado",
-        "Confidence": 53.73685836791992,
+        "Confidence": 43.73685836791992,
         "Instances": [],
         "Parents": [
           {
@@ -24238,7 +24238,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "War",
-        "Confidence": 50.501365661621094,
+        "Confidence": 30.501365661621094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24453,7 +24453,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Flare",
-        "Confidence": 52.590576171875,
+        "Confidence": 32.590576171875,
         "Instances": [],
         "Parents": [
           {
@@ -24472,7 +24472,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 50.24335479736328,
+        "Confidence": 30.24335479736328,
         "Instances": [],
         "Parents": [
           {
@@ -24494,7 +24494,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Light",
-        "Confidence": 52.590576171875,
+        "Confidence": 42.590576171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24651,7 +24651,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Weather",
-        "Confidence": 56.81446838378906,
+        "Confidence": 26.81446838378906,
         "Instances": [],
         "Parents": [
           {
@@ -24717,7 +24717,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Blizzard",
-        "Confidence": 53.037532806396484,
+        "Confidence": 43.037532806396484,
         "Instances": [],
         "Parents": [
           {
@@ -24767,7 +24767,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.40748596191406,
+        "Confidence": 42.40748596191406,
         "Instances": [],
         "Parents": [
           {
@@ -24793,7 +24793,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 50.24766540527344,
+        "Confidence": 30.24766540527344,
         "Instances": [],
         "Parents": [
           {
@@ -24818,7 +24818,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Flare",
-        "Confidence": 53.50419616699219,
+        "Confidence": 43.50419616699219,
         "Instances": [],
         "Parents": [
           {
@@ -25089,7 +25089,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Car",
-        "Confidence": 59.9647216796875,
+        "Confidence": 29.9647216796875,
         "Instances": [],
         "Parents": [
           {
@@ -25115,7 +25115,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 52.89131546020508,
+        "Confidence": 32.89131546020508,
         "Instances": [],
         "Parents": [
           {
@@ -25184,7 +25184,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 55.6738166809082,
+        "Confidence": 15.6738166809082,
         "Instances": [],
         "Parents": [
           {
@@ -25265,7 +25265,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Man",
-        "Confidence": 52.71541213989258,
+        "Confidence": 32.71541213989258,
         "Instances": [
           {
             "BoundingBox": {
@@ -25319,7 +25319,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Night",
-        "Confidence": 51.47737121582031,
+        "Confidence": 41.47737121582031,
         "Instances": [],
         "Parents": [
           {
@@ -25385,7 +25385,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Road",
-        "Confidence": 50.500850677490234,
+        "Confidence": 20.500850677490234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25400,7 +25400,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Snow",
-        "Confidence": 52.35557174682617,
+        "Confidence": 32.35557174682617,
         "Instances": [],
         "Parents": [
           {
@@ -25567,7 +25567,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.3433837890625,
+        "Confidence": 30.3433837890625,
         "Instances": [],
         "Parents": [
           {
@@ -25631,7 +25631,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Driving",
-        "Confidence": 53.745033264160156,
+        "Confidence": 23.745033264160156,
         "Instances": [],
         "Parents": [
           {
@@ -25675,7 +25675,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 59.22703170776367,
+        "Confidence": 49.22703170776367,
         "Instances": [],
         "Parents": [
           {
@@ -25727,7 +25727,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Male",
-        "Confidence": 58.35834503173828,
+        "Confidence": 48.35834503173828,
         "Instances": [
           {
             "BoundingBox": {
@@ -25736,7 +25736,7 @@
               "Left": 0.05608740076422691,
               "Top": 0.30105891823768616
             },
-            "Confidence": 58.01548767089844
+            "Confidence": 48.01548767089844
           }
         ],
         "Parents": [
@@ -25756,7 +25756,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Man",
-        "Confidence": 58.35834503173828,
+        "Confidence": 38.35834503173828,
         "Instances": [
           {
             "BoundingBox": {
@@ -25765,7 +25765,7 @@
               "Left": 0.05608740076422691,
               "Top": 0.30105891823768616
             },
-            "Confidence": 58.01548767089844
+            "Confidence": 48.01548767089844
           }
         ],
         "Parents": [
@@ -25838,7 +25838,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Night",
-        "Confidence": 54.08845138549805,
+        "Confidence": 14.08845138549805,
         "Instances": [],
         "Parents": [
           {
@@ -26055,7 +26055,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Head",
-        "Confidence": 55.15701675415039,
+        "Confidence": 35.15701675415039,
         "Instances": [],
         "Parents": [
           {
@@ -26575,7 +26575,7 @@
               "Left": 0.002948855282738805,
               "Top": 0.38134312629699707
             },
-            "Confidence": 55.91153335571289
+            "Confidence": 15.91153335571289
           }
         ],
         "Parents": [
@@ -26595,7 +26595,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Car",
-        "Confidence": 55.39360809326172,
+        "Confidence": 35.39360809326172,
         "Instances": [],
         "Parents": [
           {
@@ -26621,7 +26621,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 50.974178314208984,
+        "Confidence": 40.974178314208984,
         "Instances": [],
         "Parents": [
           {
@@ -26712,7 +26712,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 50.50015640258789,
+        "Confidence": 20.50015640258789,
         "Instances": [],
         "Parents": [
           {
@@ -26782,7 +26782,7 @@
               "Left": 0.002948855282738805,
               "Top": 0.38134312629699707
             },
-            "Confidence": 55.91153335571289
+            "Confidence": 45.91153335571289
           }
         ],
         "Parents": [
@@ -26820,7 +26820,7 @@
               "Left": 0.002948855282738805,
               "Top": 0.38134312629699707
             },
-            "Confidence": 55.91153335571289
+            "Confidence": 45.91153335571289
           }
         ],
         "Parents": [
@@ -27111,7 +27111,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Car - Exterior",
-        "Confidence": 54.93095779418945,
+        "Confidence": 34.93095779418945,
         "Instances": [],
         "Parents": [
           {
@@ -27136,7 +27136,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Car Mirror",
-        "Confidence": 50.6229133605957,
+        "Confidence": 30.6229133605957,
         "Instances": [],
         "Parents": [
           {
@@ -27256,7 +27256,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 51.83439636230469,
+        "Confidence": 41.83439636230469,
         "Instances": [],
         "Parents": [
           {
@@ -27300,7 +27300,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Light",
-        "Confidence": 57.59696578979492,
+        "Confidence": 37.59696578979492,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -27357,7 +27357,7 @@
               "Left": 0.05105073004961014,
               "Top": 0.7600916028022766
             },
-            "Confidence": 59.78694534301758
+            "Confidence": 29.78694534301758
           }
         ],
         "Parents": [
@@ -27500,7 +27500,7 @@
               "Left": 0.05105073004961014,
               "Top": 0.7600916028022766
             },
-            "Confidence": 59.78694534301758
+            "Confidence": 29.78694534301758
           }
         ],
         "Parents": [],
@@ -27535,7 +27535,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Taking Cover",
-        "Confidence": 50.429866790771484,
+        "Confidence": 40.429866790771484,
         "Instances": [],
         "Parents": [
           {
@@ -27554,7 +27554,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Traffic Jam",
-        "Confidence": 50.593326568603516,
+        "Confidence": 40.593326568603516,
         "Instances": [],
         "Parents": [
           {
@@ -27648,7 +27648,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Adult",
-        "Confidence": 59.09450912475586,
+        "Confidence": 49.09450912475586,
         "Instances": [
           {
             "BoundingBox": {
@@ -27657,7 +27657,7 @@
               "Left": 0.7123426198959351,
               "Top": 0.15600979328155518
             },
-            "Confidence": 53.081417083740234
+            "Confidence": 43.081417083740234
           }
         ],
         "Parents": [
@@ -27715,7 +27715,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Baseball (Ball)",
-        "Confidence": 51.95866394042969,
+        "Confidence": 41.95866394042969,
         "Instances": [
           {
             "BoundingBox": {
@@ -27826,7 +27826,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Female",
-        "Confidence": 54.40834045410156,
+        "Confidence": 14.40834045410156,
         "Instances": [
           {
             "BoundingBox": {
@@ -27870,7 +27870,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Flare",
-        "Confidence": 53.92713165283203,
+        "Confidence": 33.92713165283203,
         "Instances": [],
         "Parents": [
           {
@@ -27911,7 +27911,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Light",
-        "Confidence": 54.13386154174805,
+        "Confidence": 44.13386154174805,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -27989,7 +27989,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Road",
-        "Confidence": 52.437381744384766,
+        "Confidence": 32.437381744384766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28023,7 +28023,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Traffic Jam",
-        "Confidence": 51.22175216674805,
+        "Confidence": 31.22175216674805,
         "Instances": [],
         "Parents": [
           {
@@ -28363,7 +28363,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 53.179386138916016,
+        "Confidence": 33.179386138916016,
         "Instances": [],
         "Parents": [
           {
@@ -28385,7 +28385,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Light",
-        "Confidence": 52.37006378173828,
+        "Confidence": 42.37006378173828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -28492,7 +28492,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Mobile Phone",
-        "Confidence": 54.582000732421875,
+        "Confidence": 44.582000732421875,
         "Instances": [],
         "Parents": [
           {
@@ -28518,7 +28518,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.56608963012695,
+        "Confidence": 40.56608963012695,
         "Instances": [],
         "Parents": [
           {
@@ -28624,7 +28624,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Storm",
-        "Confidence": 50.17221450805664,
+        "Confidence": 30.17221450805664,
         "Instances": [],
         "Parents": [
           {
@@ -28939,7 +28939,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 53.492027282714844,
+        "Confidence": 23.492027282714844,
         "Instances": [],
         "Parents": [
           {
@@ -29157,7 +29157,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Road",
-        "Confidence": 53.519615173339844,
+        "Confidence": 23.519615173339844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29209,7 +29209,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Takeoff",
-        "Confidence": 50.39810562133789,
+        "Confidence": 20.39810562133789,
         "Instances": [],
         "Parents": [
           {
@@ -29551,7 +29551,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 51.649166107177734,
+        "Confidence": 11.649166107177734,
         "Instances": [],
         "Parents": [
           {
@@ -29573,7 +29573,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Light",
-        "Confidence": 50.92719650268555,
+        "Confidence": 20.92719650268555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -29955,7 +29955,7 @@
               "Left": 0.001657325541600585,
               "Top": 0.3544805943965912
             },
-            "Confidence": 52.650978088378906
+            "Confidence": 22.650978088378906
           }
         ],
         "Parents": [
@@ -30008,7 +30008,7 @@
               "Left": 0.1386544555425644,
               "Top": 0.0
             },
-            "Confidence": 55.318729400634766
+            "Confidence": 45.318729400634766
           }
         ],
         "Parents": [
@@ -30135,7 +30135,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 55.23060607910156,
+        "Confidence": 35.23060607910156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30196,7 +30196,7 @@
               "Left": 0.1386544555425644,
               "Top": 0.0
             },
-            "Confidence": 55.318729400634766
+            "Confidence": 45.318729400634766
           }
         ],
         "Parents": [
@@ -30234,7 +30234,7 @@
               "Left": 0.3691908121109009,
               "Top": 0.009986686520278454
             },
-            "Confidence": 57.6540412902832
+            "Confidence": 37.6540412902832
           },
           {
             "BoundingBox": {
@@ -30313,7 +30313,7 @@
               "Left": 0.3691908121109009,
               "Top": 0.009986686520278454
             },
-            "Confidence": 57.6540412902832
+            "Confidence": 47.6540412902832
           },
           {
             "BoundingBox": {
@@ -30322,7 +30322,7 @@
               "Left": 0.1386544555425644,
               "Top": 0.0
             },
-            "Confidence": 55.318729400634766
+            "Confidence": 35.318729400634766
           }
         ],
         "Parents": [],
@@ -30901,7 +30901,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.56576919555664,
+        "Confidence": 30.56576919555664,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30975,7 +30975,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "GPS",
-        "Confidence": 52.960758209228516,
+        "Confidence": 22.960758209228516,
         "Instances": [],
         "Parents": [
           {
@@ -30994,7 +30994,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.56576919555664,
+        "Confidence": 20.56576919555664,
         "Instances": [],
         "Parents": [
           {
@@ -31016,7 +31016,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Head",
-        "Confidence": 58.22792053222656,
+        "Confidence": 48.22792053222656,
         "Instances": [],
         "Parents": [
           {
@@ -31035,7 +31035,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.56576919555664,
+        "Confidence": 40.56576919555664,
         "Instances": [],
         "Parents": [
           {
@@ -31075,7 +31075,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 50.18155288696289,
+        "Confidence": 40.18155288696289,
         "Instances": [],
         "Parents": [
           {
@@ -31478,7 +31478,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.57726287841797,
+        "Confidence": 41.57726287841797,
         "Instances": [],
         "Parents": [
           {
@@ -31544,7 +31544,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 52.77253341674805,
+        "Confidence": 32.77253341674805,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31843,7 +31843,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.34287643432617,
+        "Confidence": 31.34287643432617,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31858,7 +31858,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Car",
-        "Confidence": 58.13286590576172,
+        "Confidence": 38.13286590576172,
         "Instances": [
           {
             "BoundingBox": {
@@ -31953,7 +31953,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "GPS",
-        "Confidence": 53.77835464477539,
+        "Confidence": 33.77835464477539,
         "Instances": [],
         "Parents": [
           {
@@ -32337,7 +32337,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.80511474609375,
+        "Confidence": 40.80511474609375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -32352,7 +32352,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.763946533203125,
+        "Confidence": 32.763946533203125,
         "Instances": [],
         "Parents": [
           {
@@ -32378,7 +32378,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Computer Hardware",
-        "Confidence": 51.20133972167969,
+        "Confidence": 31.20133972167969,
         "Instances": [],
         "Parents": [
           {
@@ -32400,7 +32400,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 53.13434600830078,
+        "Confidence": 33.13434600830078,
         "Instances": [],
         "Parents": [
           {
@@ -32478,7 +32478,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.80511474609375,
+        "Confidence": 30.80511474609375,
         "Instances": [],
         "Parents": [
           {
@@ -32519,7 +32519,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Head",
-        "Confidence": 52.732078552246094,
+        "Confidence": 32.732078552246094,
         "Instances": [],
         "Parents": [
           {
@@ -32538,7 +32538,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.80511474609375,
+        "Confidence": 40.80511474609375,
         "Instances": [],
         "Parents": [
           {
@@ -32578,7 +32578,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 51.123085021972656,
+        "Confidence": 11.123085021972656,
         "Instances": [],
         "Parents": [
           {
@@ -32803,7 +32803,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Screen",
-        "Confidence": 51.99315643310547,
+        "Confidence": 11.99315643310547,
         "Instances": [],
         "Parents": [
           {
@@ -32929,7 +32929,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.48722457885742,
+        "Confidence": 31.48722457885742,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -33048,7 +33048,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.48722457885742,
+        "Confidence": 31.48722457885742,
         "Instances": [],
         "Parents": [
           {
@@ -33367,7 +33367,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.15941619873047,
+        "Confidence": 41.15941619873047,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -33408,7 +33408,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 53.8657112121582,
+        "Confidence": 23.8657112121582,
         "Instances": [],
         "Parents": [
           {
@@ -33467,7 +33467,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "GPS",
-        "Confidence": 53.7586669921875,
+        "Confidence": 43.7586669921875,
         "Instances": [],
         "Parents": [
           {
@@ -33486,7 +33486,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.15941619873047,
+        "Confidence": 41.15941619873047,
         "Instances": [],
         "Parents": [
           {
@@ -34036,7 +34036,7 @@
       "Timestamp": 32720,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 53.00758743286133,
+        "Confidence": 43.00758743286133,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -34520,7 +34520,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 53.38978958129883,
+        "Confidence": 13.38978958129883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -34841,7 +34841,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.954227447509766,
+        "Confidence": 20.954227447509766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -34856,7 +34856,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.918540954589844,
+        "Confidence": 41.918540954589844,
         "Instances": [],
         "Parents": [
           {
@@ -35001,7 +35001,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.954227447509766,
+        "Confidence": 20.954227447509766,
         "Instances": [],
         "Parents": [
           {
@@ -35041,7 +35041,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 53.27933120727539,
+        "Confidence": 33.27933120727539,
         "Instances": [],
         "Parents": [
           {
@@ -35394,7 +35394,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 52.075443267822266,
+        "Confidence": 32.075443267822266,
         "Instances": [],
         "Parents": [
           {
@@ -35491,7 +35491,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 52.075443267822266,
+        "Confidence": 32.075443267822266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35564,7 +35564,7 @@
               "Left": 0.6484336853027344,
               "Top": 0.00032350540277548134
             },
-            "Confidence": 52.544212341308594
+            "Confidence": 32.544212341308594
           }
         ],
         "Parents": [
@@ -35708,7 +35708,7 @@
               "Left": 0.6484336853027344,
               "Top": 0.00032350540277548134
             },
-            "Confidence": 52.544212341308594
+            "Confidence": 42.544212341308594
           }
         ],
         "Parents": [],
@@ -35862,7 +35862,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.439170837402344,
+        "Confidence": 20.439170837402344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35877,7 +35877,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Car",
-        "Confidence": 56.23456573486328,
+        "Confidence": 36.23456573486328,
         "Instances": [
           {
             "BoundingBox": {
@@ -36099,7 +36099,7 @@
               "Left": 0.5562180876731873,
               "Top": 0.00360387796536088
             },
-            "Confidence": 52.443359375
+            "Confidence": 32.443359375
           }
         ],
         "Parents": [
@@ -36155,7 +36155,7 @@
               "Left": 0.5562180876731873,
               "Top": 0.00360387796536088
             },
-            "Confidence": 52.443359375
+            "Confidence": 42.443359375
           }
         ],
         "Parents": [
@@ -36454,7 +36454,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Gravestone",
-        "Confidence": 50.62179946899414,
+        "Confidence": 30.62179946899414,
         "Instances": [],
         "Parents": [
           {
@@ -36496,7 +36496,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 53.28142547607422,
+        "Confidence": 23.28142547607422,
         "Instances": [],
         "Parents": [
           {
@@ -36545,7 +36545,7 @@
               "Left": 0.011981843970716,
               "Top": 0.379860520362854
             },
-            "Confidence": 56.15693283081055
+            "Confidence": 36.15693283081055
           }
         ],
         "Parents": [
@@ -36592,7 +36592,7 @@
               "Left": 0.011981843970716,
               "Top": 0.379860520362854
             },
-            "Confidence": 56.15693283081055
+            "Confidence": 46.15693283081055
           }
         ],
         "Parents": [
@@ -36710,7 +36710,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Texting",
-        "Confidence": 55.728538513183594,
+        "Confidence": 45.728538513183594,
         "Instances": [],
         "Parents": [
           {
@@ -36885,7 +36885,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Cinema",
-        "Confidence": 50.53816223144531,
+        "Confidence": 40.53816223144531,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37003,7 +37003,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 51.74330520629883,
+        "Confidence": 41.74330520629883,
         "Instances": [],
         "Parents": [
           {
@@ -37162,7 +37162,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Mobile Phone",
-        "Confidence": 52.125709533691406,
+        "Confidence": 12.125709533691406,
         "Instances": [],
         "Parents": [
           {
@@ -37207,7 +37207,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Outdoors",
-        "Confidence": 55.27215576171875,
+        "Confidence": 35.27215576171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37279,7 +37279,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Sport",
-        "Confidence": 51.23921203613281,
+        "Confidence": 41.23921203613281,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -37414,7 +37414,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 53.6337890625,
+        "Confidence": 43.6337890625,
         "Instances": [],
         "Parents": [
           {
@@ -37436,7 +37436,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Cinema",
-        "Confidence": 52.143524169921875,
+        "Confidence": 32.143524169921875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37495,7 +37495,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 59.76577377319336,
+        "Confidence": 29.76577377319336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37544,7 +37544,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Lighting",
-        "Confidence": 53.67494583129883,
+        "Confidence": 33.67494583129883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37641,7 +37641,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Mobile Phone",
-        "Confidence": 55.584251403808594,
+        "Confidence": 35.584251403808594,
         "Instances": [],
         "Parents": [
           {
@@ -37667,7 +37667,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Nature",
-        "Confidence": 57.657474517822266,
+        "Confidence": 27.657474517822266,
         "Instances": [],
         "Parents": [
           {
@@ -37792,7 +37792,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Street",
-        "Confidence": 50.014060974121094,
+        "Confidence": 20.014060974121094,
         "Instances": [],
         "Parents": [
           {
@@ -37836,7 +37836,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Texting",
-        "Confidence": 51.455074310302734,
+        "Confidence": 21.455074310302734,
         "Instances": [],
         "Parents": [
           {
@@ -37876,7 +37876,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Urban",
-        "Confidence": 50.55377197265625,
+        "Confidence": 20.55377197265625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -38065,7 +38065,7 @@
       "Timestamp": 36720,
       "Label": {
         "Name": "Head",
-        "Confidence": 50.97483444213867,
+        "Confidence": 40.97483444213867,
         "Instances": [],
         "Parents": [
           {
@@ -38084,7 +38084,7 @@
       "Timestamp": 36720,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 53.998111724853516,
+        "Confidence": 33.998111724853516,
         "Instances": [],
         "Parents": [
           {
@@ -38136,7 +38136,7 @@
               "Left": 0.32458874583244324,
               "Top": 0.0018974781269207597
             },
-            "Confidence": 57.50129318237305
+            "Confidence": 17.50129318237305
           }
         ],
         "Parents": [
@@ -38519,7 +38519,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Duel",
-        "Confidence": 50.915016174316406,
+        "Confidence": 20.915016174316406,
         "Instances": [],
         "Parents": [
           {
@@ -38553,7 +38553,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.18357467651367,
+        "Confidence": 40.18357467651367,
         "Instances": [],
         "Parents": [
           {
@@ -38613,7 +38613,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.18357467651367,
+        "Confidence": 20.18357467651367,
         "Instances": [],
         "Parents": [
           {
@@ -38671,7 +38671,7 @@
               "Left": 0.7066415548324585,
               "Top": 0.00016085624520201236
             },
-            "Confidence": 54.86233901977539
+            "Confidence": 44.86233901977539
           }
         ],
         "Parents": [
@@ -38799,7 +38799,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Pc",
-        "Confidence": 51.0068473815918,
+        "Confidence": 21.0068473815918,
         "Instances": [],
         "Parents": [
           {
@@ -38848,7 +38848,7 @@
               "Left": 0.27736279368400574,
               "Top": 0.1823224425315857
             },
-            "Confidence": 51.69917297363281
+            "Confidence": 41.69917297363281
           }
         ],
         "Parents": [],
@@ -38906,7 +38906,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Tablet Computer",
-        "Confidence": 53.526546478271484,
+        "Confidence": 23.526546478271484,
         "Instances": [],
         "Parents": [
           {
@@ -38928,7 +38928,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Texting",
-        "Confidence": 59.42243194580078,
+        "Confidence": 49.42243194580078,
         "Instances": [],
         "Parents": [
           {
@@ -39084,7 +39084,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 50.96457290649414,
+        "Confidence": 30.96457290649414,
         "Instances": [],
         "Parents": [
           {
@@ -39162,7 +39162,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Head",
-        "Confidence": 58.929256439208984,
+        "Confidence": 48.929256439208984,
         "Instances": [],
         "Parents": [
           {
@@ -39181,7 +39181,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 50.97124481201172,
+        "Confidence": 20.97124481201172,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -39196,7 +39196,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Laptop",
-        "Confidence": 51.68740463256836,
+        "Confidence": 21.68740463256836,
         "Instances": [],
         "Parents": [
           {
@@ -39257,7 +39257,7 @@
               "Left": 0.0010283468291163445,
               "Top": 0.005838585086166859
             },
-            "Confidence": 51.765106201171875
+            "Confidence": 41.765106201171875
           }
         ],
         "Parents": [
@@ -39365,7 +39365,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Monitor",
-        "Confidence": 50.30613708496094,
+        "Confidence": 20.30613708496094,
         "Instances": [],
         "Parents": [
           {
@@ -39403,7 +39403,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Pc",
-        "Confidence": 51.68740463256836,
+        "Confidence": 11.68740463256836,
         "Instances": [],
         "Parents": [
           {
@@ -39443,7 +39443,7 @@
               "Left": 0.41332051157951355,
               "Top": 0.008888253942131996
             },
-            "Confidence": 59.72272872924805
+            "Confidence": 19.72272872924805
           },
           {
             "BoundingBox": {
@@ -39452,7 +39452,7 @@
               "Left": 0.0022544104140251875,
               "Top": 0.07798280566930771
             },
-            "Confidence": 57.31427764892578
+            "Confidence": 37.31427764892578
           },
           {
             "BoundingBox": {
@@ -39470,7 +39470,7 @@
               "Left": 0.0010283468291163445,
               "Top": 0.005838585086166859
             },
-            "Confidence": 51.765106201171875
+            "Confidence": 11.765106201171875
           }
         ],
         "Parents": [],
@@ -39528,7 +39528,7 @@
       "Timestamp": 37720,
       "Label": {
         "Name": "Tablet Computer",
-        "Confidence": 54.51947021484375,
+        "Confidence": 34.51947021484375,
         "Instances": [],
         "Parents": [
           {
@@ -40111,7 +40111,7 @@
       "Timestamp": 38720,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.697410583496094,
+        "Confidence": 31.697410583496094,
         "Instances": [],
         "Parents": [
           {
@@ -40133,7 +40133,7 @@
       "Timestamp": 38720,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 51.697410583496094,
+        "Confidence": 11.697410583496094,
         "Instances": [],
         "Parents": [
           {
@@ -40514,7 +40514,7 @@
       "Timestamp": 39200,
       "Label": {
         "Name": "Aircraft",
-        "Confidence": 50.840816497802734,
+        "Confidence": 20.840816497802734,
         "Instances": [],
         "Parents": [
           {
@@ -40591,7 +40591,7 @@
       "Timestamp": 39200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.36756134033203,
+        "Confidence": 10.36756134033203,
         "Instances": [],
         "Parents": [
           {
@@ -40632,7 +40632,7 @@
       "Timestamp": 39200,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.36756134033203,
+        "Confidence": 20.36756134033203,
         "Instances": [],
         "Parents": [
           {
@@ -40657,7 +40657,7 @@
       "Timestamp": 39200,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 51.52945327758789,
+        "Confidence": 41.52945327758789,
         "Instances": [],
         "Parents": [
           {
@@ -40993,7 +40993,7 @@
               "Left": 0.3660973012447357,
               "Top": 0.20116546750068665
             },
-            "Confidence": 59.63758850097656
+            "Confidence": 39.63758850097656
           }
         ],
         "Parents": [
@@ -41013,7 +41013,7 @@
       "Timestamp": 39720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.63698959350586,
+        "Confidence": 31.63698959350586,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -41053,7 +41053,7 @@
       "Timestamp": 39720,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 55.64849853515625,
+        "Confidence": 45.64849853515625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -41068,7 +41068,7 @@
       "Timestamp": 39720,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.63698959350586,
+        "Confidence": 41.63698959350586,
         "Instances": [],
         "Parents": [
           {
@@ -41109,7 +41109,7 @@
       "Timestamp": 39720,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 51.63698959350586,
+        "Confidence": 21.63698959350586,
         "Instances": [],
         "Parents": [
           {
@@ -41134,7 +41134,7 @@
       "Timestamp": 39720,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 51.75103759765625,
+        "Confidence": 31.75103759765625,
         "Instances": [],
         "Parents": [
           {
@@ -41289,7 +41289,7 @@
       "Timestamp": 39720,
       "Label": {
         "Name": "Mobile Phone",
-        "Confidence": 55.238162994384766,
+        "Confidence": 25.238162994384766,
         "Instances": [],
         "Parents": [
           {
@@ -41420,7 +41420,7 @@
       "Timestamp": 39720,
       "Label": {
         "Name": "Texting",
-        "Confidence": 50.08489227294922,
+        "Confidence": 40.08489227294922,
         "Instances": [],
         "Parents": [
           {
@@ -41460,7 +41460,7 @@
       "Timestamp": 39720,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 52.29909896850586,
+        "Confidence": 32.29909896850586,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -41532,7 +41532,7 @@
       "Timestamp": 40200,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.385284423828125,
+        "Confidence": 42.385284423828125,
         "Instances": [],
         "Parents": [
           {
@@ -41652,7 +41652,7 @@
       "Timestamp": 40200,
       "Label": {
         "Name": "Flare",
-        "Confidence": 51.16477584838867,
+        "Confidence": 41.16477584838867,
         "Instances": [],
         "Parents": [
           {
@@ -41690,7 +41690,7 @@
       "Timestamp": 40200,
       "Label": {
         "Name": "License Plate",
-        "Confidence": 56.10036087036133,
+        "Confidence": 36.10036087036133,
         "Instances": [],
         "Parents": [
           {
@@ -42216,7 +42216,7 @@
       "Timestamp": 40720,
       "Label": {
         "Name": "Light",
-        "Confidence": 51.550601959228516,
+        "Confidence": 41.550601959228516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -42507,7 +42507,7 @@
       "Timestamp": 40720,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 56.31285858154297,
+        "Confidence": 36.31285858154297,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -42599,7 +42599,7 @@
       "Timestamp": 41200,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.37503433227539,
+        "Confidence": 41.37503433227539,
         "Instances": [],
         "Parents": [
           {
@@ -42924,7 +42924,7 @@
       "Timestamp": 41200,
       "Label": {
         "Name": "Road",
-        "Confidence": 55.06226348876953,
+        "Confidence": 35.06226348876953,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43061,7 +43061,7 @@
       "Timestamp": 41720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.238182067871094,
+        "Confidence": 30.238182067871094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43102,7 +43102,7 @@
       "Timestamp": 41720,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 52.09382629394531,
+        "Confidence": 42.09382629394531,
         "Instances": [],
         "Parents": [
           {
@@ -43221,7 +43221,7 @@
       "Timestamp": 41720,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.238182067871094,
+        "Confidence": 30.238182067871094,
         "Instances": [],
         "Parents": [
           {
@@ -43301,7 +43301,7 @@
               "Left": 0.7468591332435608,
               "Top": 0.0025025939103215933
             },
-            "Confidence": 51.69359588623047
+            "Confidence": 31.69359588623047
           }
         ],
         "Parents": [
@@ -43339,7 +43339,7 @@
               "Left": 0.7468591332435608,
               "Top": 0.0025025939103215933
             },
-            "Confidence": 51.69359588623047
+            "Confidence": 31.69359588623047
           }
         ],
         "Parents": [
@@ -43418,7 +43418,7 @@
               "Left": 0.7468591332435608,
               "Top": 0.0025025939103215933
             },
-            "Confidence": 51.69359588623047
+            "Confidence": 41.69359588623047
           }
         ],
         "Parents": [],
@@ -43457,7 +43457,7 @@
       "Timestamp": 41720,
       "Label": {
         "Name": "Road",
-        "Confidence": 51.82625961303711,
+        "Confidence": 21.82625961303711,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43644,7 +43644,7 @@
       "Timestamp": 42200,
       "Label": {
         "Name": "GPS",
-        "Confidence": 50.51762771606445,
+        "Confidence": 30.51762771606445,
         "Instances": [],
         "Parents": [
           {
@@ -43682,7 +43682,7 @@
       "Timestamp": 42200,
       "Label": {
         "Name": "Light",
-        "Confidence": 51.10322189331055,
+        "Confidence": 31.10322189331055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43832,7 +43832,7 @@
               "Left": 0.7315309643745422,
               "Top": 0.003278007498010993
             },
-            "Confidence": 51.899112701416016
+            "Confidence": 21.899112701416016
           }
         ],
         "Parents": [],
@@ -43977,7 +43977,7 @@
       "Timestamp": 42720,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.85245895385742,
+        "Confidence": 20.85245895385742,
         "Instances": [],
         "Parents": [
           {
@@ -44043,7 +44043,7 @@
       "Timestamp": 42720,
       "Label": {
         "Name": "Face",
-        "Confidence": 51.65799331665039,
+        "Confidence": 41.65799331665039,
         "Instances": [],
         "Parents": [
           {
@@ -44451,7 +44451,7 @@
       "Timestamp": 43200,
       "Label": {
         "Name": "Headlight",
-        "Confidence": 51.25311279296875,
+        "Confidence": 21.25311279296875,
         "Instances": [],
         "Parents": [
           {
@@ -44657,7 +44657,7 @@
       "Timestamp": 43200,
       "Label": {
         "Name": "Sea",
-        "Confidence": 52.98255920410156,
+        "Confidence": 32.98255920410156,
         "Instances": [],
         "Parents": [
           {
@@ -44739,7 +44739,7 @@
       "Timestamp": 43200,
       "Label": {
         "Name": "Water",
-        "Confidence": 53.0406608581543,
+        "Confidence": 23.0406608581543,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -44836,7 +44836,7 @@
       "Timestamp": 43720,
       "Label": {
         "Name": "Person",
-        "Confidence": 58.963748931884766,
+        "Confidence": 48.963748931884766,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -44870,7 +44870,7 @@
       "Timestamp": 43720,
       "Label": {
         "Name": "Snow",
-        "Confidence": 51.18296813964844,
+        "Confidence": 31.18296813964844,
         "Instances": [],
         "Parents": [
           {
@@ -44973,7 +44973,7 @@
       "Timestamp": 43720,
       "Label": {
         "Name": "Weather",
-        "Confidence": 50.4288330078125,
+        "Confidence": 40.4288330078125,
         "Instances": [],
         "Parents": [
           {
@@ -45022,7 +45022,7 @@
               "Left": 0.007191766053438187,
               "Top": 0.004057693295180798
             },
-            "Confidence": 55.207435607910156
+            "Confidence": 45.207435607910156
           }
         ],
         "Parents": [
@@ -45203,7 +45203,7 @@
               "Left": 0.007191766053438187,
               "Top": 0.004057693295180798
             },
-            "Confidence": 55.207435607910156
+            "Confidence": 45.207435607910156
           }
         ],
         "Parents": [],

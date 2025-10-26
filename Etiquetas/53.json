@@ -394,7 +394,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Sea",
-        "Confidence": 53.060508728027344,
+        "Confidence": 23.060508728027344,
         "Instances": [],
         "Parents": [
           {
@@ -485,7 +485,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 55.423362731933594,
+        "Confidence": 35.423362731933594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -583,7 +583,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Building",
-        "Confidence": 59.13875961303711,
+        "Confidence": 49.13875961303711,
         "Instances": [],
         "Parents": [
           {
@@ -602,7 +602,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.432403564453125,
+        "Confidence": 11.432403564453125,
         "Instances": [],
         "Parents": [
           {
@@ -672,7 +672,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 50.25492477416992,
+        "Confidence": 40.25492477416992,
         "Instances": [],
         "Parents": [
           {
@@ -694,7 +694,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 55.057918548583984,
+        "Confidence": 45.057918548583984,
         "Instances": [],
         "Parents": [
           {
@@ -829,7 +829,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Sea",
-        "Confidence": 51.102481842041016,
+        "Confidence": 31.102481842041016,
         "Instances": [],
         "Parents": [
           {
@@ -883,7 +883,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 52.017730712890625,
+        "Confidence": 32.017730712890625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -898,7 +898,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 55.58333206176758,
+        "Confidence": 25.58333206176758,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -928,7 +928,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 55.58333206176758,
+        "Confidence": 15.58333206176758,
         "Instances": [],
         "Parents": [
           {
@@ -1126,7 +1126,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Fire",
-        "Confidence": 50.251136779785156,
+        "Confidence": 20.251136779785156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1160,7 +1160,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 51.07756805419922,
+        "Confidence": 31.07756805419922,
         "Instances": [],
         "Parents": [
           {
@@ -1194,7 +1194,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.7409553527832,
+        "Confidence": 10.7409553527832,
         "Instances": [],
         "Parents": [
           {
@@ -1330,7 +1330,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 52.631858825683594,
+        "Confidence": 42.631858825683594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1345,7 +1345,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 55.513389587402344,
+        "Confidence": 45.513389587402344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1494,7 +1494,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.60503387451172,
+        "Confidence": 31.60503387451172,
         "Instances": [],
         "Parents": [
           {
@@ -1564,7 +1564,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 50.925357818603516,
+        "Confidence": 30.925357818603516,
         "Instances": [],
         "Parents": [
           {
@@ -1639,7 +1639,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 51.60503387451172,
+        "Confidence": 31.60503387451172,
         "Instances": [],
         "Parents": [
           {
@@ -1721,7 +1721,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Sea",
-        "Confidence": 51.52397537231445,
+        "Confidence": 31.52397537231445,
         "Instances": [],
         "Parents": [
           {
@@ -1750,7 +1750,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Street",
-        "Confidence": 55.19186782836914,
+        "Confidence": 35.19186782836914,
         "Instances": [],
         "Parents": [
           {
@@ -1775,7 +1775,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 52.41445541381836,
+        "Confidence": 32.41445541381836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1790,7 +1790,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 56.10962677001953,
+        "Confidence": 36.10962677001953,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1820,7 +1820,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 56.10962677001953,
+        "Confidence": 26.10962677001953,
         "Instances": [],
         "Parents": [
           {
@@ -1839,7 +1839,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.680084228515625,
+        "Confidence": 21.680084228515625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1949,7 +1949,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.91365432739258,
+        "Confidence": 30.91365432739258,
         "Instances": [],
         "Parents": [
           {
@@ -2041,7 +2041,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 57.32488250732422,
+        "Confidence": 47.32488250732422,
         "Instances": [],
         "Parents": [
           {
@@ -2060,7 +2060,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.731712341308594,
+        "Confidence": 20.731712341308594,
         "Instances": [],
         "Parents": [
           {
@@ -2116,7 +2116,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.91365432739258,
+        "Confidence": 40.91365432739258,
         "Instances": [],
         "Parents": [
           {
@@ -2183,7 +2183,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 50.751953125,
+        "Confidence": 30.751953125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2213,7 +2213,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 50.82561492919922,
+        "Confidence": 30.82561492919922,
         "Instances": [],
         "Parents": [
           {
@@ -2267,7 +2267,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 52.54306411743164,
+        "Confidence": 22.54306411743164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2282,7 +2282,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 55.22917175292969,
+        "Confidence": 25.22917175292969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2312,7 +2312,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 55.22917175292969,
+        "Confidence": 35.22917175292969,
         "Instances": [],
         "Parents": [
           {
@@ -2331,7 +2331,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.667240142822266,
+        "Confidence": 21.667240142822266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2365,7 +2365,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Alley",
-        "Confidence": 52.20056915283203,
+        "Confidence": 42.20056915283203,
         "Instances": [],
         "Parents": [
           {
@@ -2431,7 +2431,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.2890739440918,
+        "Confidence": 40.2890739440918,
         "Instances": [],
         "Parents": [
           {
@@ -2523,7 +2523,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 57.041748046875,
+        "Confidence": 47.041748046875,
         "Instances": [],
         "Parents": [
           {
@@ -2542,7 +2542,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Night",
-        "Confidence": 51.115882873535156,
+        "Confidence": 21.115882873535156,
         "Instances": [],
         "Parents": [
           {
@@ -2564,7 +2564,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.88948059082031,
+        "Confidence": 30.88948059082031,
         "Instances": [],
         "Parents": [
           {
@@ -2665,7 +2665,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 51.28995895385742,
+        "Confidence": 31.28995895385742,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2695,7 +2695,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Street",
-        "Confidence": 56.3941764831543,
+        "Confidence": 26.3941764831543,
         "Instances": [],
         "Parents": [
           {
@@ -2784,7 +2784,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.13066482543945,
+        "Confidence": 41.13066482543945,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2954,7 +2954,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 51.88163757324219,
+        "Confidence": 31.88163757324219,
         "Instances": [],
         "Parents": [
           {
@@ -2995,7 +2995,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.325279235839844,
+        "Confidence": 20.325279235839844,
         "Instances": [],
         "Parents": [
           {
@@ -3148,7 +3148,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Street",
-        "Confidence": 55.16370391845703,
+        "Confidence": 35.16370391845703,
         "Instances": [],
         "Parents": [
           {
@@ -3188,7 +3188,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 54.84861755371094,
+        "Confidence": 24.84861755371094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3237,7 +3237,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.28525161743164,
+        "Confidence": 20.28525161743164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3439,7 +3439,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 53.708587646484375,
+        "Confidence": 13.708587646484375,
         "Instances": [],
         "Parents": [
           {
@@ -3458,7 +3458,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.42977523803711,
+        "Confidence": 30.42977523803711,
         "Instances": [],
         "Parents": [
           {
@@ -3614,7 +3614,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 55.611907958984375,
+        "Confidence": 35.611907958984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3644,7 +3644,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 55.611907958984375,
+        "Confidence": 15.611907958984375,
         "Instances": [],
         "Parents": [
           {
@@ -3682,7 +3682,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Alley",
-        "Confidence": 50.08279800415039,
+        "Confidence": 20.08279800415039,
         "Instances": [],
         "Parents": [
           {
@@ -3884,7 +3884,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.27956771850586,
+        "Confidence": 20.27956771850586,
         "Instances": [],
         "Parents": [
           {
@@ -4000,7 +4000,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Street",
-        "Confidence": 53.89403533935547,
+        "Confidence": 23.89403533935547,
         "Instances": [],
         "Parents": [
           {
@@ -4025,7 +4025,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 51.97835922241211,
+        "Confidence": 41.97835922241211,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4040,7 +4040,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 55.11837387084961,
+        "Confidence": 35.11837387084961,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4108,7 +4108,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Alley",
-        "Confidence": 50.763511657714844,
+        "Confidence": 30.763511657714844,
         "Instances": [],
         "Parents": [
           {
@@ -4193,7 +4193,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.29231643676758,
+        "Confidence": 40.29231643676758,
         "Instances": [],
         "Parents": [
           {
@@ -4263,7 +4263,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 51.17841720581055,
+        "Confidence": 31.17841720581055,
         "Instances": [],
         "Parents": [
           {
@@ -4300,7 +4300,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 53.875736236572266,
+        "Confidence": 43.875736236572266,
         "Instances": [],
         "Parents": [
           {
@@ -4319,7 +4319,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.02665710449219,
+        "Confidence": 20.02665710449219,
         "Instances": [],
         "Parents": [
           {
@@ -4685,7 +4685,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 52.15973663330078,
+        "Confidence": 42.15973663330078,
         "Instances": [],
         "Parents": [
           {
@@ -4860,7 +4860,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 52.0369758605957,
+        "Confidence": 42.0369758605957,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5008,7 +5008,7 @@
               "Left": 0.1008460596203804,
               "Top": 0.1779322475194931
             },
-            "Confidence": 51.486961364746094
+            "Confidence": 21.486961364746094
           }
         ],
         "Parents": [
@@ -5072,7 +5072,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 52.05345153808594,
+        "Confidence": 32.05345153808594,
         "Instances": [],
         "Parents": [
           {
@@ -5113,7 +5113,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Night",
-        "Confidence": 50.879844665527344,
+        "Confidence": 10.879844665527344,
         "Instances": [],
         "Parents": [
           {
@@ -5135,7 +5135,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.80147171020508,
+        "Confidence": 40.80147171020508,
         "Instances": [],
         "Parents": [
           {
@@ -5207,7 +5207,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Rain",
-        "Confidence": 50.46617889404297,
+        "Confidence": 30.46617889404297,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5237,7 +5237,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Street",
-        "Confidence": 56.25529098510742,
+        "Confidence": 26.25529098510742,
         "Instances": [],
         "Parents": [
           {
@@ -5277,7 +5277,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 53.7673225402832,
+        "Confidence": 33.7673225402832,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5692,7 +5692,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Rain",
-        "Confidence": 50.753902435302734,
+        "Confidence": 20.753902435302734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5776,7 +5776,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 52.27666473388672,
+        "Confidence": 42.27666473388672,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5821,7 +5821,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.84485626220703,
+        "Confidence": 23.84485626220703,
         "Instances": [],
         "Parents": [
           {
@@ -6029,7 +6029,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 51.48518753051758,
+        "Confidence": 31.48518753051758,
         "Instances": [],
         "Parents": [
           {
@@ -6051,7 +6051,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Metropolis",
-        "Confidence": 50.25850296020508,
+        "Confidence": 20.25850296020508,
         "Instances": [],
         "Parents": [
           {
@@ -6073,7 +6073,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 57.33930969238281,
+        "Confidence": 47.33930969238281,
         "Instances": [],
         "Parents": [
           {
@@ -6274,7 +6274,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Street",
-        "Confidence": 56.376712799072266,
+        "Confidence": 46.376712799072266,
         "Instances": [],
         "Parents": [
           {
@@ -6314,7 +6314,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 55.43792724609375,
+        "Confidence": 35.43792724609375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6520,7 +6520,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 51.066402435302734,
+        "Confidence": 31.066402435302734,
         "Instances": [],
         "Parents": [
           {
@@ -6542,7 +6542,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Fire",
-        "Confidence": 50.368404388427734,
+        "Confidence": 40.368404388427734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6557,7 +6557,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 52.962650299072266,
+        "Confidence": 42.962650299072266,
         "Instances": [],
         "Parents": [
           {
@@ -6576,7 +6576,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.33005905151367,
+        "Confidence": 40.33005905151367,
         "Instances": [],
         "Parents": [
           {
@@ -6610,7 +6610,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.21989440917969,
+        "Confidence": 40.21989440917969,
         "Instances": [],
         "Parents": [
           {
@@ -6692,7 +6692,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Street",
-        "Confidence": 53.38922882080078,
+        "Confidence": 33.38922882080078,
         "Instances": [],
         "Parents": [
           {
@@ -6717,7 +6717,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 51.35933303833008,
+        "Confidence": 41.35933303833008,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6762,7 +6762,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 57.343170166015625,
+        "Confidence": 27.343170166015625,
         "Instances": [],
         "Parents": [
           {
@@ -6914,7 +6914,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Fire",
-        "Confidence": 50.713539123535156,
+        "Confidence": 20.713539123535156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6929,7 +6929,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 53.17987060546875,
+        "Confidence": 33.17987060546875,
         "Instances": [],
         "Parents": [
           {
@@ -7250,7 +7250,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.11832809448242,
+        "Confidence": 43.11832809448242,
         "Instances": [],
         "Parents": [
           {
@@ -7320,7 +7320,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Fire",
-        "Confidence": 52.17997741699219,
+        "Confidence": 42.17997741699219,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7335,7 +7335,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.14965057373047,
+        "Confidence": 31.14965057373047,
         "Instances": [],
         "Parents": [
           {
@@ -7369,7 +7369,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.33032989501953,
+        "Confidence": 40.33032989501953,
         "Instances": [],
         "Parents": [
           {
@@ -7467,7 +7467,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 51.265071868896484,
+        "Confidence": 41.265071868896484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7512,7 +7512,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 58.62723922729492,
+        "Confidence": 28.62723922729492,
         "Instances": [],
         "Parents": [
           {
@@ -7584,7 +7584,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.06342315673828,
+        "Confidence": 11.06342315673828,
         "Instances": [],
         "Parents": [
           {
@@ -7691,7 +7691,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.58454132080078,
+        "Confidence": 40.58454132080078,
         "Instances": [],
         "Parents": [
           {
@@ -7798,7 +7798,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Street",
-        "Confidence": 52.5805778503418,
+        "Confidence": 12.5805778503418,
         "Instances": [],
         "Parents": [
           {
@@ -7838,7 +7838,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 56.62942886352539,
+        "Confidence": 46.62942886352539,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7955,7 +7955,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.20257568359375,
+        "Confidence": 20.20257568359375,
         "Instances": [],
         "Parents": [
           {
@@ -8074,7 +8074,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.20257568359375,
+        "Confidence": 30.20257568359375,
         "Instances": [],
         "Parents": [
           {
@@ -8132,7 +8132,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Riot",
-        "Confidence": 50.233551025390625,
+        "Confidence": 10.233551025390625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8162,7 +8162,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 50.61677551269531,
+        "Confidence": 30.61677551269531,
         "Instances": [],
         "Parents": [
           {
@@ -8191,7 +8191,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Street",
-        "Confidence": 50.788414001464844,
+        "Confidence": 40.788414001464844,
         "Instances": [],
         "Parents": [
           {
@@ -8216,7 +8216,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 50.62013626098633,
+        "Confidence": 40.62013626098633,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8367,7 +8367,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.086612701416016,
+        "Confidence": 31.086612701416016,
         "Instances": [],
         "Parents": [
           {
@@ -8412,7 +8412,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Cityscape",
-        "Confidence": 50.9471321105957,
+        "Confidence": 10.9471321105957,
         "Instances": [],
         "Parents": [
           {
@@ -8437,7 +8437,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Fire",
-        "Confidence": 54.936832427978516,
+        "Confidence": 24.936832427978516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8534,7 +8534,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Riot",
-        "Confidence": 50.68342971801758,
+        "Confidence": 10.68342971801758,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8564,7 +8564,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Street",
-        "Confidence": 50.30705261230469,
+        "Confidence": 30.30705261230469,
         "Instances": [],
         "Parents": [
           {
@@ -8604,7 +8604,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 57.43750762939453,
+        "Confidence": 37.43750762939453,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8634,7 +8634,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 57.43750762939453,
+        "Confidence": 47.43750762939453,
         "Instances": [],
         "Parents": [
           {
@@ -8696,7 +8696,7 @@
               "Left": 0.1024157777428627,
               "Top": 0.16668754816055298
             },
-            "Confidence": 52.246646881103516
+            "Confidence": 42.246646881103516
           }
         ],
         "Parents": [
@@ -8786,7 +8786,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 50.432579040527344,
+        "Confidence": 20.432579040527344,
         "Instances": [],
         "Parents": [
           {
@@ -8913,7 +8913,7 @@
               "Left": 0.45552194118499756,
               "Top": 0.9763354063034058
             },
-            "Confidence": 58.94357681274414
+            "Confidence": 48.94357681274414
           }
         ],
         "Parents": [],
@@ -8933,7 +8933,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Riot",
-        "Confidence": 50.45289993286133,
+        "Confidence": 20.45289993286133,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8963,7 +8963,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 50.70368576049805,
+        "Confidence": 30.70368576049805,
         "Instances": [],
         "Parents": [
           {
@@ -9062,7 +9062,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 59.332672119140625,
+        "Confidence": 39.332672119140625,
         "Instances": [],
         "Parents": [
           {
@@ -9081,7 +9081,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.70368576049805,
+        "Confidence": 20.70368576049805,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9159,7 +9159,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.090572357177734,
+        "Confidence": 42.090572357177734,
         "Instances": [],
         "Parents": [
           {
@@ -9229,7 +9229,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Fire",
-        "Confidence": 54.358455657958984,
+        "Confidence": 44.358455657958984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9276,7 +9276,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.341373443603516,
+        "Confidence": 40.341373443603516,
         "Instances": [],
         "Parents": [
           {
@@ -9416,7 +9416,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Sea",
-        "Confidence": 50.158599853515625,
+        "Confidence": 40.158599853515625,
         "Instances": [],
         "Parents": [
           {
@@ -9534,7 +9534,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.158599853515625,
+        "Confidence": 20.158599853515625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9612,7 +9612,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.72039794921875,
+        "Confidence": 22.72039794921875,
         "Instances": [],
         "Parents": [
           {
@@ -9719,7 +9719,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.90727996826172,
+        "Confidence": 11.90727996826172,
         "Instances": [],
         "Parents": [
           {
@@ -9845,7 +9845,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 50.36042404174805,
+        "Confidence": 40.36042404174805,
         "Instances": [],
         "Parents": [
           {
@@ -9899,7 +9899,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 51.7748908996582,
+        "Confidence": 41.7748908996582,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10050,7 +10050,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.97898864746094,
+        "Confidence": 11.97898864746094,
         "Instances": [],
         "Parents": [
           {
@@ -10142,7 +10142,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.64459991455078,
+        "Confidence": 30.64459991455078,
         "Instances": [],
         "Parents": [
           {
@@ -10161,7 +10161,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.230499267578125,
+        "Confidence": 20.230499267578125,
         "Instances": [],
         "Parents": [
           {
@@ -10224,7 +10224,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Person",
-        "Confidence": 57.17194366455078,
+        "Confidence": 37.17194366455078,
         "Instances": [
           {
             "BoundingBox": {
@@ -10268,7 +10268,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Sea",
-        "Confidence": 50.15628433227539,
+        "Confidence": 30.15628433227539,
         "Instances": [],
         "Parents": [
           {
@@ -10297,7 +10297,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 50.14194869995117,
+        "Confidence": 30.14194869995117,
         "Instances": [],
         "Parents": [
           {
@@ -10408,7 +10408,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.15628433227539,
+        "Confidence": 40.15628433227539,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10501,7 +10501,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.989803314208984,
+        "Confidence": 40.989803314208984,
         "Instances": [],
         "Parents": [
           {
@@ -10690,7 +10690,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 50.989803314208984,
+        "Confidence": 10.989803314208984,
         "Instances": [],
         "Parents": [
           {
@@ -10854,7 +10854,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 57.05024337768555,
+        "Confidence": 37.05024337768555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10884,7 +10884,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 57.05024337768555,
+        "Confidence": 47.05024337768555,
         "Instances": [],
         "Parents": [
           {
@@ -10903,7 +10903,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.317203521728516,
+        "Confidence": 40.317203521728516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10981,7 +10981,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Car",
-        "Confidence": 50.717079162597656,
+        "Confidence": 30.717079162597656,
         "Instances": [],
         "Parents": [
           {
@@ -11073,7 +11073,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Fire",
-        "Confidence": 50.88713455200195,
+        "Confidence": 30.88713455200195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11088,7 +11088,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.92734146118164,
+        "Confidence": 30.92734146118164,
         "Instances": [],
         "Parents": [
           {
@@ -11265,7 +11265,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Street",
-        "Confidence": 51.92877960205078,
+        "Confidence": 31.92877960205078,
         "Instances": [],
         "Parents": [
           {
@@ -11290,7 +11290,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 51.46561050415039,
+        "Confidence": 41.46561050415039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11305,7 +11305,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 57.15732955932617,
+        "Confidence": 47.15732955932617,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11335,7 +11335,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 57.15732955932617,
+        "Confidence": 37.15732955932617,
         "Instances": [],
         "Parents": [
           {
@@ -11354,7 +11354,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.35207748413086,
+        "Confidence": 40.35207748413086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11441,7 +11441,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.13358688354492,
+        "Confidence": 41.13358688354492,
         "Instances": [],
         "Parents": [
           {
@@ -11486,7 +11486,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Cityscape",
-        "Confidence": 54.790008544921875,
+        "Confidence": 14.790008544921875,
         "Instances": [],
         "Parents": [
           {
@@ -11548,7 +11548,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 50.85482406616211,
+        "Confidence": 30.85482406616211,
         "Instances": [],
         "Parents": [
           {
@@ -11714,7 +11714,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Street",
-        "Confidence": 51.66300964355469,
+        "Confidence": 41.66300964355469,
         "Instances": [],
         "Parents": [
           {
@@ -11739,7 +11739,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 51.372276306152344,
+        "Confidence": 31.372276306152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11958,7 +11958,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Fire",
-        "Confidence": 50.021766662597656,
+        "Confidence": 30.021766662597656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11973,7 +11973,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.10883331298828,
+        "Confidence": 31.10883331298828,
         "Instances": [],
         "Parents": [
           {
@@ -12108,7 +12108,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 50.34284973144531,
+        "Confidence": 30.34284973144531,
         "Instances": [],
         "Parents": [
           {
@@ -12130,7 +12130,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Street",
-        "Confidence": 51.481285095214844,
+        "Confidence": 21.481285095214844,
         "Instances": [],
         "Parents": [
           {
@@ -12291,7 +12291,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.26642608642578,
+        "Confidence": 42.26642608642578,
         "Instances": [],
         "Parents": [
           {
@@ -12436,7 +12436,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 51.93335723876953,
+        "Confidence": 21.93335723876953,
         "Instances": [],
         "Parents": [
           {
@@ -12509,7 +12509,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Street",
-        "Confidence": 52.29590606689453,
+        "Confidence": 22.29590606689453,
         "Instances": [],
         "Parents": [
           {
@@ -12651,7 +12651,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Car",
-        "Confidence": 55.09364318847656,
+        "Confidence": 35.09364318847656,
         "Instances": [
           {
             "BoundingBox": {
@@ -12660,7 +12660,7 @@
               "Left": 0.3960537016391754,
               "Top": 0.9674236178398132
             },
-            "Confidence": 56.17566680908203
+            "Confidence": 26.17566680908203
           }
         ],
         "Parents": [
@@ -12706,7 +12706,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Cityscape",
-        "Confidence": 56.05841827392578,
+        "Confidence": 26.05841827392578,
         "Instances": [],
         "Parents": [
           {
@@ -12800,7 +12800,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.83504104614258,
+        "Confidence": 21.83504104614258,
         "Instances": [],
         "Parents": [
           {
@@ -12834,7 +12834,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 52.42911911010742,
+        "Confidence": 42.42911911010742,
         "Instances": [],
         "Parents": [
           {
@@ -12945,7 +12945,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Street",
-        "Confidence": 51.150360107421875,
+        "Confidence": 11.150360107421875,
         "Instances": [],
         "Parents": [
           {
@@ -13034,7 +13034,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.282318115234375,
+        "Confidence": 31.282318115234375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13112,7 +13112,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.064476013183594,
+        "Confidence": 43.064476013183594,
         "Instances": [],
         "Parents": [
           {
@@ -13182,7 +13182,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 50.15640640258789,
+        "Confidence": 20.15640640258789,
         "Instances": [],
         "Parents": [
           {
@@ -13204,7 +13204,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Fire",
-        "Confidence": 50.872379302978516,
+        "Confidence": 30.872379302978516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13412,7 +13412,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 51.10053634643555,
+        "Confidence": 41.10053634643555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13554,7 +13554,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.024105072021484,
+        "Confidence": 43.024105072021484,
         "Instances": [],
         "Parents": [
           {
@@ -13646,7 +13646,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Fire",
-        "Confidence": 50.865074157714844,
+        "Confidence": 10.865074157714844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13661,7 +13661,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 51.43224334716797,
+        "Confidence": 31.43224334716797,
         "Instances": [],
         "Parents": [
           {
@@ -13724,7 +13724,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Person",
-        "Confidence": 54.294063568115234,
+        "Confidence": 14.294063568115234,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -13876,7 +13876,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.102230072021484,
+        "Confidence": 20.102230072021484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13999,7 +13999,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Cityscape",
-        "Confidence": 56.96318817138672,
+        "Confidence": 26.96318817138672,
         "Instances": [],
         "Parents": [
           {
@@ -14310,7 +14310,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.53253936767578,
+        "Confidence": 43.53253936767578,
         "Instances": [],
         "Parents": [
           {
@@ -14380,7 +14380,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Downtown",
-        "Confidence": 50.796302795410156,
+        "Confidence": 20.796302795410156,
         "Instances": [],
         "Parents": [
           {
@@ -14402,7 +14402,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Motorcycle",
-        "Confidence": 55.37834548950195,
+        "Confidence": 45.37834548950195,
         "Instances": [
           {
             "BoundingBox": {
@@ -14449,7 +14449,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 53.44666290283203,
+        "Confidence": 43.44666290283203,
         "Instances": [],
         "Parents": [
           {
@@ -14531,7 +14531,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Street",
-        "Confidence": 50.73634338378906,
+        "Confidence": 40.73634338378906,
         "Instances": [],
         "Parents": [
           {
@@ -14556,7 +14556,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 52.21430206298828,
+        "Confidence": 32.21430206298828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14692,7 +14692,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.25197219848633,
+        "Confidence": 43.25197219848633,
         "Instances": [],
         "Parents": [
           {
@@ -14762,7 +14762,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Fire",
-        "Confidence": 50.37074279785156,
+        "Confidence": 20.37074279785156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14824,7 +14824,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 53.24123764038086,
+        "Confidence": 43.24123764038086,
         "Instances": [],
         "Parents": [
           {
@@ -14897,7 +14897,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Street",
-        "Confidence": 50.48487091064453,
+        "Confidence": 40.48487091064453,
         "Instances": [],
         "Parents": [
           {
@@ -15175,7 +15175,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 54.02235412597656,
+        "Confidence": 34.02235412597656,
         "Instances": [],
         "Parents": [
           {
@@ -15204,7 +15204,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Person",
-        "Confidence": 52.7345085144043,
+        "Confidence": 42.7345085144043,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -15238,7 +15238,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Street",
-        "Confidence": 50.3832893371582,
+        "Confidence": 30.3832893371582,
         "Instances": [],
         "Parents": [
           {
@@ -15263,7 +15263,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 51.35121536254883,
+        "Confidence": 21.35121536254883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15380,7 +15380,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.38164520263672,
+        "Confidence": 43.38164520263672,
         "Instances": [],
         "Parents": [
           {
@@ -15491,7 +15491,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 51.02524185180664,
+        "Confidence": 41.02524185180664,
         "Instances": [],
         "Parents": [
           {
@@ -15658,7 +15658,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Street",
-        "Confidence": 51.40692901611328,
+        "Confidence": 21.40692901611328,
         "Instances": [],
         "Parents": [
           {
@@ -15992,7 +15992,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 53.01569366455078,
+        "Confidence": 43.01569366455078,
         "Instances": [],
         "Parents": [
           {
@@ -16292,7 +16292,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.73594665527344,
+        "Confidence": 42.73594665527344,
         "Instances": [],
         "Parents": [
           {
@@ -16403,7 +16403,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.142303466796875,
+        "Confidence": 30.142303466796875,
         "Instances": [],
         "Parents": [
           {
@@ -16437,7 +16437,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 52.73594665527344,
+        "Confidence": 22.73594665527344,
         "Instances": [],
         "Parents": [
           {
@@ -16466,7 +16466,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Person",
-        "Confidence": 57.14382553100586,
+        "Confidence": 47.14382553100586,
         "Instances": [
           {
             "BoundingBox": {
@@ -16510,7 +16510,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 52.12906265258789,
+        "Confidence": 32.12906265258789,
         "Instances": [],
         "Parents": [
           {
@@ -16539,7 +16539,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Snow",
-        "Confidence": 50.92171096801758,
+        "Confidence": 20.92171096801758,
         "Instances": [],
         "Parents": [
           {
@@ -16561,7 +16561,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Street",
-        "Confidence": 51.678260803222656,
+        "Confidence": 31.678260803222656,
         "Instances": [],
         "Parents": [
           {
@@ -16586,7 +16586,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 50.753658294677734,
+        "Confidence": 20.753658294677734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16717,7 +16717,7 @@
               "Left": 0.10169562697410583,
               "Top": 0.1579873114824295
             },
-            "Confidence": 52.686588287353516
+            "Confidence": 22.686588287353516
           }
         ],
         "Parents": [
@@ -16737,7 +16737,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.251895904541016,
+        "Confidence": 43.251895904541016,
         "Instances": [],
         "Parents": [
           {
@@ -16782,7 +16782,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Cityscape",
-        "Confidence": 57.040802001953125,
+        "Confidence": 27.040802001953125,
         "Instances": [],
         "Parents": [
           {
@@ -16945,7 +16945,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Sea",
-        "Confidence": 51.909873962402344,
+        "Confidence": 41.909873962402344,
         "Instances": [],
         "Parents": [
           {
@@ -16974,7 +16974,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 50.238197326660156,
+        "Confidence": 40.238197326660156,
         "Instances": [],
         "Parents": [
           {
@@ -17021,7 +17021,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 51.39038848876953,
+        "Confidence": 41.39038848876953,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17085,7 +17085,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Water",
-        "Confidence": 51.909873962402344,
+        "Confidence": 21.909873962402344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17279,7 +17279,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 52.915409088134766,
+        "Confidence": 22.915409088134766,
         "Instances": [],
         "Parents": [
           {
@@ -17371,7 +17371,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Person",
-        "Confidence": 50.78946304321289,
+        "Confidence": 40.78946304321289,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -17459,7 +17459,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 52.024009704589844,
+        "Confidence": 42.024009704589844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17523,7 +17523,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Water",
-        "Confidence": 52.81171417236328,
+        "Confidence": 42.81171417236328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17587,7 +17587,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Building",
-        "Confidence": 58.342227935791016,
+        "Confidence": 38.342227935791016,
         "Instances": [],
         "Parents": [
           {
@@ -17691,7 +17691,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Nature",
-        "Confidence": 52.52840042114258,
+        "Confidence": 32.52840042114258,
         "Instances": [],
         "Parents": [
           {
@@ -17875,7 +17875,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Snow",
-        "Confidence": 51.808204650878906,
+        "Confidence": 21.808204650878906,
         "Instances": [],
         "Parents": [
           {
@@ -17897,7 +17897,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Street",
-        "Confidence": 50.43553161621094,
+        "Confidence": 20.43553161621094,
         "Instances": [],
         "Parents": [
           {
@@ -17922,7 +17922,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Suburb",
-        "Confidence": 52.15229034423828,
+        "Confidence": 42.15229034423828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17986,7 +17986,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Water",
-        "Confidence": 52.51036834716797,
+        "Confidence": 32.51036834716797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18020,7 +18020,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 57.24553680419922,
+        "Confidence": 47.24553680419922,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18035,7 +18035,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Box",
-        "Confidence": 51.286346435546875,
+        "Confidence": 41.286346435546875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18050,7 +18050,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Building",
-        "Confidence": 57.24553680419922,
+        "Confidence": 47.24553680419922,
         "Instances": [
           {
             "BoundingBox": {
@@ -18059,7 +18059,7 @@
               "Left": 0.5687857866287231,
               "Top": 0.0028458405286073685
             },
-            "Confidence": 52.415283203125
+            "Confidence": 32.415283203125
           }
         ],
         "Parents": [
@@ -18124,7 +18124,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Cityscape",
-        "Confidence": 53.42042541503906,
+        "Confidence": 33.42042541503906,
         "Instances": [],
         "Parents": [
           {
@@ -18164,7 +18164,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Nature",
-        "Confidence": 52.94023895263672,
+        "Confidence": 32.94023895263672,
         "Instances": [],
         "Parents": [
           {
@@ -18217,7 +18217,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 53.75605773925781,
+        "Confidence": 23.75605773925781,
         "Instances": [],
         "Parents": [
           {
@@ -18290,7 +18290,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Sea",
-        "Confidence": 52.785125732421875,
+        "Confidence": 42.785125732421875,
         "Instances": [],
         "Parents": [
           {
@@ -18319,7 +18319,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Snow",
-        "Confidence": 51.43915939331055,
+        "Confidence": 31.43915939331055,
         "Instances": [],
         "Parents": [
           {
@@ -18684,7 +18684,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Sea",
-        "Confidence": 51.262962341308594,
+        "Confidence": 31.262962341308594,
         "Instances": [],
         "Parents": [
           {
@@ -18880,7 +18880,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Box",
-        "Confidence": 50.017730712890625,
+        "Confidence": 40.017730712890625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19035,7 +19035,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.556427001953125,
+        "Confidence": 40.556427001953125,
         "Instances": [],
         "Parents": [
           {
@@ -19078,7 +19078,7 @@
               "Left": 0.4290544092655182,
               "Top": 0.24351389706134796
             },
-            "Confidence": 50.48572540283203
+            "Confidence": 40.48572540283203
           }
         ],
         "Parents": [
@@ -19098,7 +19098,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Parking Lot",
-        "Confidence": 53.09117126464844,
+        "Confidence": 23.09117126464844,
         "Instances": [],
         "Parents": [
           {
@@ -19286,7 +19286,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Water",
-        "Confidence": 50.027793884277344,
+        "Confidence": 30.027793884277344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],

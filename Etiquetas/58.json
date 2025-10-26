@@ -54,7 +54,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Alcohol",
-        "Confidence": 59.467987060546875,
+        "Confidence": 19.467987060546875,
         "Instances": [],
         "Parents": [
           {
@@ -214,7 +214,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Cream",
-        "Confidence": 51.199947357177734,
+        "Confidence": 41.199947357177734,
         "Instances": [],
         "Parents": [
           {
@@ -269,7 +269,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 51.199947357177734,
+        "Confidence": 41.199947357177734,
         "Instances": [],
         "Parents": [
           {
@@ -325,7 +325,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Dining Table",
-        "Confidence": 58.38848114013672,
+        "Confidence": 38.38848114013672,
         "Instances": [],
         "Parents": [
           {
@@ -391,7 +391,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Drinking Alcohol",
-        "Confidence": 56.646263122558594,
+        "Confidence": 46.646263122558594,
         "Instances": [],
         "Parents": [
           {
@@ -507,7 +507,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 58.38848114013672,
+        "Confidence": 48.38848114013672,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -745,7 +745,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Restaurant",
-        "Confidence": 54.76028823852539,
+        "Confidence": 34.76028823852539,
         "Instances": [],
         "Parents": [
           {
@@ -783,7 +783,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Table",
-        "Confidence": 58.38848114013672,
+        "Confidence": 28.38848114013672,
         "Instances": [],
         "Parents": [
           {
@@ -802,7 +802,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Tabletop",
-        "Confidence": 52.30898666381836,
+        "Confidence": 32.30898666381836,
         "Instances": [],
         "Parents": [
           {
@@ -917,7 +917,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Alcohol",
-        "Confidence": 54.659698486328125,
+        "Confidence": 34.659698486328125,
         "Instances": [],
         "Parents": [
           {
@@ -985,7 +985,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Bread",
-        "Confidence": 50.0989875793457,
+        "Confidence": 20.0989875793457,
         "Instances": [],
         "Parents": [
           {
@@ -1064,7 +1064,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Cafeteria",
-        "Confidence": 54.658077239990234,
+        "Confidence": 44.658077239990234,
         "Instances": [],
         "Parents": [
           {
@@ -1086,7 +1086,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Coffee",
-        "Confidence": 54.46550369262695,
+        "Confidence": 34.46550369262695,
         "Instances": [],
         "Parents": [
           {
@@ -1216,7 +1216,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Diner",
-        "Confidence": 50.258453369140625,
+        "Confidence": 40.258453369140625,
         "Instances": [],
         "Parents": [
           {
@@ -1366,7 +1366,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.431541442871094,
+        "Confidence": 32.431541442871094,
         "Instances": [],
         "Parents": [
           {
@@ -1491,7 +1491,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 54.30598068237305,
+        "Confidence": 24.30598068237305,
         "Instances": [],
         "Parents": [
           {
@@ -1614,7 +1614,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Milk",
-        "Confidence": 52.420101165771484,
+        "Confidence": 42.420101165771484,
         "Instances": [],
         "Parents": [
           {
@@ -1698,7 +1698,7 @@
               "Left": 0.052201807498931885,
               "Top": 0.6697253584861755
             },
-            "Confidence": 53.39472961425781
+            "Confidence": 33.39472961425781
           }
         ],
         "Parents": [],
@@ -1752,7 +1752,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Saucer",
-        "Confidence": 50.887516021728516,
+        "Confidence": 30.887516021728516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1827,7 +1827,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Accessories",
-        "Confidence": 51.03828430175781,
+        "Confidence": 41.03828430175781,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1939,7 +1939,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Bread",
-        "Confidence": 52.576839447021484,
+        "Confidence": 32.576839447021484,
         "Instances": [],
         "Parents": [
           {
@@ -1958,7 +1958,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Breakfast",
-        "Confidence": 58.95914077758789,
+        "Confidence": 38.95914077758789,
         "Instances": [],
         "Parents": [
           {
@@ -1996,7 +1996,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Cafe",
-        "Confidence": 55.50342559814453,
+        "Confidence": 35.50342559814453,
         "Instances": [],
         "Parents": [
           {
@@ -2100,7 +2100,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Coffee Cup",
-        "Confidence": 59.044212341308594,
+        "Confidence": 29.044212341308594,
         "Instances": [],
         "Parents": [
           {
@@ -2122,7 +2122,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Coffee Table",
-        "Confidence": 50.84727478027344,
+        "Confidence": 30.84727478027344,
         "Instances": [],
         "Parents": [
           {
@@ -2144,7 +2144,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.670501708984375,
+        "Confidence": 43.670501708984375,
         "Instances": [],
         "Parents": [
           {
@@ -2242,7 +2242,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 55.32793045043945,
+        "Confidence": 35.32793045043945,
         "Instances": [],
         "Parents": [
           {
@@ -2261,7 +2261,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Diner",
-        "Confidence": 55.02724075317383,
+        "Confidence": 45.02724075317383,
         "Instances": [],
         "Parents": [
           {
@@ -2345,7 +2345,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Dinner",
-        "Confidence": 52.52491760253906,
+        "Confidence": 12.52491760253906,
         "Instances": [],
         "Parents": [
           {
@@ -2449,7 +2449,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Face",
-        "Confidence": 51.74061965942383,
+        "Confidence": 21.74061965942383,
         "Instances": [],
         "Parents": [
           {
@@ -2471,7 +2471,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Fondue",
-        "Confidence": 50.68532180786133,
+        "Confidence": 30.68532180786133,
         "Instances": [],
         "Parents": [
           {
@@ -2511,7 +2511,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Food Court",
-        "Confidence": 55.80350112915039,
+        "Confidence": 35.80350112915039,
         "Instances": [],
         "Parents": [
           {
@@ -2629,7 +2629,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Icing",
-        "Confidence": 50.662052154541016,
+        "Confidence": 30.662052154541016,
         "Instances": [],
         "Parents": [
           {
@@ -2669,7 +2669,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Juice",
-        "Confidence": 50.02360916137695,
+        "Confidence": 30.02360916137695,
         "Instances": [],
         "Parents": [
           {
@@ -2707,7 +2707,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Lunch",
-        "Confidence": 53.82272720336914,
+        "Confidence": 43.82272720336914,
         "Instances": [],
         "Parents": [
           {
@@ -2812,7 +2812,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Milk",
-        "Confidence": 53.24518966674805,
+        "Confidence": 33.24518966674805,
         "Instances": [],
         "Parents": [
           {
@@ -2953,7 +2953,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Pottery",
-        "Confidence": 55.793277740478516,
+        "Confidence": 35.793277740478516,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3006,7 +3006,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Saucer",
-        "Confidence": 55.96728515625,
+        "Confidence": 35.96728515625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3081,7 +3081,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Whipped Cream",
-        "Confidence": 50.10281753540039,
+        "Confidence": 40.10281753540039,
         "Instances": [],
         "Parents": [
           {
@@ -3284,7 +3284,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Brunch",
-        "Confidence": 50.9227409362793,
+        "Confidence": 40.9227409362793,
         "Instances": [],
         "Parents": [
           {
@@ -3467,7 +3467,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Coffee Table",
-        "Confidence": 54.328163146972656,
+        "Confidence": 34.328163146972656,
         "Instances": [],
         "Parents": [
           {
@@ -3489,7 +3489,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Cookware",
-        "Confidence": 51.142425537109375,
+        "Confidence": 11.142425537109375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3800,7 +3800,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.55166244506836,
+        "Confidence": 42.55166244506836,
         "Instances": [],
         "Parents": [
           {
@@ -3822,7 +3822,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Fondue",
-        "Confidence": 51.31438064575195,
+        "Confidence": 31.31438064575195,
         "Instances": [],
         "Parents": [
           {
@@ -3862,7 +3862,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Food Court",
-        "Confidence": 56.24240493774414,
+        "Confidence": 46.24240493774414,
         "Instances": [],
         "Parents": [
           {
@@ -3921,7 +3921,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Glass",
-        "Confidence": 52.41453552246094,
+        "Confidence": 42.41453552246094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3936,7 +3936,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Glasses",
-        "Confidence": 52.604522705078125,
+        "Confidence": 32.604522705078125,
         "Instances": [],
         "Parents": [
           {
@@ -3974,7 +3974,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 52.461402893066406,
+        "Confidence": 12.461402893066406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3989,7 +3989,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 55.066429138183594,
+        "Confidence": 25.066429138183594,
         "Instances": [],
         "Parents": [
           {
@@ -4014,7 +4014,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Icing",
-        "Confidence": 53.167354583740234,
+        "Confidence": 13.167354583740234,
         "Instances": [],
         "Parents": [
           {
@@ -4073,7 +4073,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Kitchen",
-        "Confidence": 51.04698181152344,
+        "Confidence": 41.04698181152344,
         "Instances": [],
         "Parents": [
           {
@@ -4092,7 +4092,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Linen",
-        "Confidence": 52.461402893066406,
+        "Confidence": 22.461402893066406,
         "Instances": [],
         "Parents": [
           {
@@ -4111,7 +4111,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Living Room",
-        "Confidence": 52.70685958862305,
+        "Confidence": 32.70685958862305,
         "Instances": [],
         "Parents": [
           {
@@ -4247,7 +4247,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Milk",
-        "Confidence": 53.61076736450195,
+        "Confidence": 23.61076736450195,
         "Instances": [],
         "Parents": [
           {
@@ -4266,7 +4266,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Pancake",
-        "Confidence": 50.12097930908203,
+        "Confidence": 30.12097930908203,
         "Instances": [],
         "Parents": [
           {
@@ -4326,7 +4326,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Phone",
-        "Confidence": 52.71773147583008,
+        "Confidence": 12.71773147583008,
         "Instances": [],
         "Parents": [
           {
@@ -4364,7 +4364,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Plant",
-        "Confidence": 51.48801803588867,
+        "Confidence": 21.48801803588867,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4406,7 +4406,7 @@
               "Left": 0.4601539671421051,
               "Top": 0.4916204512119293
             },
-            "Confidence": 58.330177307128906
+            "Confidence": 38.330177307128906
           }
         ],
         "Parents": [],
@@ -4422,7 +4422,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Platter",
-        "Confidence": 50.9299430847168,
+        "Confidence": 10.9299430847168,
         "Instances": [],
         "Parents": [
           {
@@ -4488,7 +4488,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Pot",
-        "Confidence": 51.142425537109375,
+        "Confidence": 31.142425537109375,
         "Instances": [],
         "Parents": [
           {
@@ -4575,7 +4575,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Soup Bowl",
-        "Confidence": 50.83948516845703,
+        "Confidence": 30.83948516845703,
         "Instances": [],
         "Parents": [
           {
@@ -4613,7 +4613,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Stew",
-        "Confidence": 52.06044006347656,
+        "Confidence": 42.06044006347656,
         "Instances": [],
         "Parents": [
           {
@@ -4676,7 +4676,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Tablecloth",
-        "Confidence": 51.106849670410156,
+        "Confidence": 11.106849670410156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4732,7 +4732,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Teapot",
-        "Confidence": 51.142425537109375,
+        "Confidence": 41.142425537109375,
         "Instances": [],
         "Parents": [
           {
@@ -4757,7 +4757,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Whipped Cream",
-        "Confidence": 50.46870422363281,
+        "Confidence": 40.46870422363281,
         "Instances": [],
         "Parents": [
           {
@@ -4816,7 +4816,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 50.353397369384766,
+        "Confidence": 30.353397369384766,
         "Instances": [],
         "Parents": [
           {
@@ -4850,7 +4850,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Arm",
-        "Confidence": 50.05805206298828,
+        "Confidence": 40.05805206298828,
         "Instances": [],
         "Parents": [
           {
@@ -4872,7 +4872,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Art",
-        "Confidence": 57.97532653808594,
+        "Confidence": 27.97532653808594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4934,7 +4934,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Blouse",
-        "Confidence": 50.834716796875,
+        "Confidence": 30.834716796875,
         "Instances": [],
         "Parents": [
           {
@@ -5021,7 +5021,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Brunch",
-        "Confidence": 52.79804992675781,
+        "Confidence": 32.79804992675781,
         "Instances": [],
         "Parents": [
           {
@@ -5059,7 +5059,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Cabinet",
-        "Confidence": 50.178131103515625,
+        "Confidence": 20.178131103515625,
         "Instances": [],
         "Parents": [
           {
@@ -5078,7 +5078,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Cafe",
-        "Confidence": 55.83810806274414,
+        "Confidence": 15.83810806274414,
         "Instances": [],
         "Parents": [
           {
@@ -5100,7 +5100,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Cafeteria",
-        "Confidence": 58.86365509033203,
+        "Confidence": 38.86365509033203,
         "Instances": [],
         "Parents": [
           {
@@ -5144,7 +5144,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 50.55609130859375,
+        "Confidence": 10.55609130859375,
         "Instances": [],
         "Parents": [
           {
@@ -5163,7 +5163,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 51.798683166503906,
+        "Confidence": 41.798683166503906,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -5245,7 +5245,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 55.597808837890625,
+        "Confidence": 25.597808837890625,
         "Instances": [],
         "Parents": [
           {
@@ -5343,7 +5343,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 56.78388977050781,
+        "Confidence": 46.78388977050781,
         "Instances": [],
         "Parents": [
           {
@@ -5491,7 +5491,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Drinking",
-        "Confidence": 51.99361038208008,
+        "Confidence": 31.99361038208008,
         "Instances": [],
         "Parents": [
           {
@@ -5550,7 +5550,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Face",
-        "Confidence": 54.97834777832031,
+        "Confidence": 44.97834777832031,
         "Instances": [],
         "Parents": [
           {
@@ -5681,7 +5681,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Glass",
-        "Confidence": 52.59979248046875,
+        "Confidence": 32.59979248046875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5696,7 +5696,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Glasses",
-        "Confidence": 51.88664245605469,
+        "Confidence": 41.88664245605469,
         "Instances": [],
         "Parents": [
           {
@@ -5749,7 +5749,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 56.78388977050781,
+        "Confidence": 46.78388977050781,
         "Instances": [],
         "Parents": [
           {
@@ -5833,7 +5833,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Ketchup",
-        "Confidence": 51.24120330810547,
+        "Confidence": 31.24120330810547,
         "Instances": [],
         "Parents": [
           {
@@ -5852,7 +5852,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Kitchen",
-        "Confidence": 50.164546966552734,
+        "Confidence": 40.164546966552734,
         "Instances": [],
         "Parents": [
           {
@@ -5871,7 +5871,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Linen",
-        "Confidence": 51.706241607666016,
+        "Confidence": 21.706241607666016,
         "Instances": [],
         "Parents": [
           {
@@ -5921,7 +5921,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Lunch",
-        "Confidence": 55.571537017822266,
+        "Confidence": 35.571537017822266,
         "Instances": [],
         "Parents": [
           {
@@ -5981,7 +5981,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Pancake",
-        "Confidence": 50.05673599243164,
+        "Confidence": 20.05673599243164,
         "Instances": [],
         "Parents": [
           {
@@ -6032,7 +6032,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Phone",
-        "Confidence": 52.434654235839844,
+        "Confidence": 42.434654235839844,
         "Instances": [],
         "Parents": [
           {
@@ -6156,7 +6156,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Potted Plant",
-        "Confidence": 51.412879943847656,
+        "Confidence": 31.412879943847656,
         "Instances": [],
         "Parents": [
           {
@@ -6228,7 +6228,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Saucer",
-        "Confidence": 55.47011947631836,
+        "Confidence": 35.47011947631836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6243,7 +6243,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Soup Bowl",
-        "Confidence": 50.12512969970703,
+        "Confidence": 20.12512969970703,
         "Instances": [],
         "Parents": [
           {
@@ -6306,7 +6306,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "T-Shirt",
-        "Confidence": 51.798683166503906,
+        "Confidence": 41.798683166503906,
         "Instances": [],
         "Parents": [
           {
@@ -6381,7 +6381,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Tea",
-        "Confidence": 50.122528076171875,
+        "Confidence": 40.122528076171875,
         "Instances": [],
         "Parents": [
           {
@@ -6425,7 +6425,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Accessories",
-        "Confidence": 51.61201095581055,
+        "Confidence": 41.61201095581055,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6555,7 +6555,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Bread",
-        "Confidence": 51.385040283203125,
+        "Confidence": 31.385040283203125,
         "Instances": [],
         "Parents": [
           {
@@ -6593,7 +6593,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Brunch",
-        "Confidence": 52.503170013427734,
+        "Confidence": 32.503170013427734,
         "Instances": [],
         "Parents": [
           {
@@ -6653,7 +6653,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Cafeteria",
-        "Confidence": 57.811805725097656,
+        "Confidence": 47.811805725097656,
         "Instances": [],
         "Parents": [
           {
@@ -6675,7 +6675,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Cake",
-        "Confidence": 50.36699676513672,
+        "Confidence": 30.36699676513672,
         "Instances": [],
         "Parents": [
           {
@@ -6697,7 +6697,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 52.243988037109375,
+        "Confidence": 42.243988037109375,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6757,7 +6757,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Coffee Table",
-        "Confidence": 53.11814498901367,
+        "Confidence": 33.11814498901367,
         "Instances": [],
         "Parents": [
           {
@@ -6779,7 +6779,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Couch",
-        "Confidence": 54.23832702636719,
+        "Confidence": 34.23832702636719,
         "Instances": [],
         "Parents": [
           {
@@ -6980,7 +6980,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Dinner",
-        "Confidence": 51.70349884033203,
+        "Confidence": 41.70349884033203,
         "Instances": [],
         "Parents": [
           {
@@ -7025,7 +7025,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Drinking",
-        "Confidence": 54.062110900878906,
+        "Confidence": 44.062110900878906,
         "Instances": [],
         "Parents": [
           {
@@ -7069,7 +7069,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 51.450130462646484,
+        "Confidence": 21.450130462646484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7084,7 +7084,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Face",
-        "Confidence": 53.2674674987793,
+        "Confidence": 43.2674674987793,
         "Instances": [],
         "Parents": [
           {
@@ -7190,7 +7190,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Glass",
-        "Confidence": 50.078983306884766,
+        "Confidence": 20.078983306884766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7205,7 +7205,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Glasses",
-        "Confidence": 51.61201095581055,
+        "Confidence": 31.61201095581055,
         "Instances": [],
         "Parents": [
           {
@@ -7243,7 +7243,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 55.58329772949219,
+        "Confidence": 35.58329772949219,
         "Instances": [],
         "Parents": [
           {
@@ -7399,7 +7399,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Milk",
-        "Confidence": 52.49419403076172,
+        "Confidence": 22.49419403076172,
         "Instances": [],
         "Parents": [
           {
@@ -7469,7 +7469,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Phone",
-        "Confidence": 51.450130462646484,
+        "Confidence": 31.450130462646484,
         "Instances": [],
         "Parents": [
           {
@@ -7515,7 +7515,7 @@
               "Left": 0.23494909703731537,
               "Top": 0.5222415328025818
             },
-            "Confidence": 50.980167388916016
+            "Confidence": 40.980167388916016
           }
         ],
         "Parents": [],
@@ -7531,7 +7531,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Porcelain",
-        "Confidence": 56.00238800048828,
+        "Confidence": 26.00238800048828,
         "Instances": [],
         "Parents": [
           {
@@ -7640,7 +7640,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Stew",
-        "Confidence": 50.39105987548828,
+        "Confidence": 20.39105987548828,
         "Instances": [],
         "Parents": [
           {
@@ -7837,7 +7837,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Bread",
-        "Confidence": 50.77294158935547,
+        "Confidence": 40.77294158935547,
         "Instances": [],
         "Parents": [
           {
@@ -7875,7 +7875,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Brunch",
-        "Confidence": 52.56269836425781,
+        "Confidence": 32.56269836425781,
         "Instances": [],
         "Parents": [
           {
@@ -7913,7 +7913,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Cafe",
-        "Confidence": 55.197845458984375,
+        "Confidence": 45.197845458984375,
         "Instances": [],
         "Parents": [
           {
@@ -7935,7 +7935,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Cafeteria",
-        "Confidence": 57.269962310791016,
+        "Confidence": 37.269962310791016,
         "Instances": [],
         "Parents": [
           {
@@ -7979,7 +7979,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 50.029754638671875,
+        "Confidence": 30.029754638671875,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -8080,7 +8080,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Cream",
-        "Confidence": 54.265045166015625,
+        "Confidence": 34.265045166015625,
         "Instances": [],
         "Parents": [
           {
@@ -8159,7 +8159,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 54.265045166015625,
+        "Confidence": 34.265045166015625,
         "Instances": [],
         "Parents": [
           {
@@ -8262,7 +8262,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Dinner",
-        "Confidence": 51.086585998535156,
+        "Confidence": 31.086585998535156,
         "Instances": [],
         "Parents": [
           {
@@ -8351,7 +8351,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 50.17094802856445,
+        "Confidence": 10.17094802856445,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8366,7 +8366,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Face",
-        "Confidence": 53.90685272216797,
+        "Confidence": 33.90685272216797,
         "Instances": [],
         "Parents": [
           {
@@ -8403,7 +8403,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Food Court",
-        "Confidence": 54.35737991333008,
+        "Confidence": 44.35737991333008,
         "Instances": [],
         "Parents": [
           {
@@ -8506,7 +8506,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Icing",
-        "Confidence": 50.70370101928711,
+        "Confidence": 10.70370101928711,
         "Instances": [],
         "Parents": [
           {
@@ -8546,7 +8546,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Living Room",
-        "Confidence": 51.006248474121094,
+        "Confidence": 31.006248474121094,
         "Instances": [],
         "Parents": [
           {
@@ -8577,7 +8577,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Lunch",
-        "Confidence": 53.31405258178711,
+        "Confidence": 33.31405258178711,
         "Instances": [],
         "Parents": [
           {
@@ -8617,7 +8617,7 @@
               "Left": 0.12486356496810913,
               "Top": 0.0023950766772031784
             },
-            "Confidence": 52.600318908691406
+            "Confidence": 32.600318908691406
           }
         ],
         "Parents": [
@@ -8728,7 +8728,7 @@
               "Left": 0.12486356496810913,
               "Top": 0.0023950766772031784
             },
-            "Confidence": 52.600318908691406
+            "Confidence": 42.600318908691406
           }
         ],
         "Parents": [],
@@ -8794,7 +8794,7 @@
               "Left": 0.46299800276756287,
               "Top": 0.49135324358940125
             },
-            "Confidence": 55.478126525878906
+            "Confidence": 45.478126525878906
           }
         ],
         "Parents": [],
@@ -8832,7 +8832,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Pottery",
-        "Confidence": 53.55421447753906,
+        "Confidence": 33.55421447753906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8885,7 +8885,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Saucer",
-        "Confidence": 55.87157440185547,
+        "Confidence": 15.87157440185547,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8919,7 +8919,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "T-Shirt",
-        "Confidence": 50.025543212890625,
+        "Confidence": 40.025543212890625,
         "Instances": [],
         "Parents": [
           {
@@ -8979,7 +8979,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Tea",
-        "Confidence": 50.49685287475586,
+        "Confidence": 20.49685287475586,
         "Instances": [],
         "Parents": [
           {
@@ -9104,7 +9104,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.08098220825195,
+        "Confidence": 10.08098220825195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9134,7 +9134,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Bread",
-        "Confidence": 50.84086227416992,
+        "Confidence": 30.84086227416992,
         "Instances": [],
         "Parents": [
           {
@@ -9172,7 +9172,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Brunch",
-        "Confidence": 53.79082489013672,
+        "Confidence": 43.79082489013672,
         "Instances": [],
         "Parents": [
           {
@@ -9232,7 +9232,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Cafeteria",
-        "Confidence": 57.739383697509766,
+        "Confidence": 37.739383697509766,
         "Instances": [],
         "Parents": [
           {
@@ -9314,7 +9314,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Coffee Table",
-        "Confidence": 52.97627639770508,
+        "Confidence": 32.97627639770508,
         "Instances": [],
         "Parents": [
           {
@@ -9537,7 +9537,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Dinner",
-        "Confidence": 51.659637451171875,
+        "Confidence": 31.659637451171875,
         "Instances": [],
         "Parents": [
           {
@@ -9582,7 +9582,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Drinking",
-        "Confidence": 54.31804656982422,
+        "Confidence": 24.31804656982422,
         "Instances": [],
         "Parents": [
           {
@@ -9626,7 +9626,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 51.192325592041016,
+        "Confidence": 21.192325592041016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9672,7 +9672,7 @@
               "Left": 0.0004909521667286754,
               "Top": 0.000561027554795146
             },
-            "Confidence": 59.912784576416016
+            "Confidence": 29.912784576416016
           }
         ],
         "Parents": [
@@ -9938,7 +9938,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Lunch",
-        "Confidence": 53.766597747802734,
+        "Confidence": 23.766597747802734,
         "Instances": [],
         "Parents": [
           {
@@ -10043,7 +10043,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Milk",
-        "Confidence": 52.355186462402344,
+        "Confidence": 22.355186462402344,
         "Instances": [],
         "Parents": [
           {
@@ -10100,7 +10100,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Phone",
-        "Confidence": 51.192325592041016,
+        "Confidence": 21.192325592041016,
         "Instances": [],
         "Parents": [
           {
@@ -10128,7 +10128,7 @@
               "Left": 0.46223142743110657,
               "Top": 0.4923951327800751
             },
-            "Confidence": 58.2602424621582
+            "Confidence": 38.2602424621582
           },
           {
             "BoundingBox": {
@@ -10146,7 +10146,7 @@
               "Left": 0.05416775867342949,
               "Top": 0.6719903945922852
             },
-            "Confidence": 53.165489196777344
+            "Confidence": 23.165489196777344
           }
         ],
         "Parents": [],
@@ -10162,7 +10162,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Porcelain",
-        "Confidence": 56.170352935791016,
+        "Confidence": 46.170352935791016,
         "Instances": [],
         "Parents": [
           {
@@ -10184,7 +10184,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Pottery",
-        "Confidence": 56.170352935791016,
+        "Confidence": 46.170352935791016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10237,7 +10237,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Saucer",
-        "Confidence": 57.850799560546875,
+        "Confidence": 27.850799560546875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10271,7 +10271,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Stain",
-        "Confidence": 50.05244827270508,
+        "Confidence": 10.05244827270508,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10286,7 +10286,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "T-Shirt",
-        "Confidence": 50.60239791870117,
+        "Confidence": 40.60239791870117,
         "Instances": [],
         "Parents": [
           {
@@ -10446,7 +10446,7 @@
               "Left": 0.11981794238090515,
               "Top": 0.00037975312443450093
             },
-            "Confidence": 58.47378921508789
+            "Confidence": 48.47378921508789
           }
         ],
         "Parents": [
@@ -10481,7 +10481,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Art",
-        "Confidence": 58.754241943359375,
+        "Confidence": 38.754241943359375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10515,7 +10515,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Blouse",
-        "Confidence": 50.00235366821289,
+        "Confidence": 30.00235366821289,
         "Instances": [],
         "Parents": [
           {
@@ -10534,7 +10534,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.54265594482422,
+        "Confidence": 20.54265594482422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10549,7 +10549,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Bowl",
-        "Confidence": 58.54680633544922,
+        "Confidence": 28.54680633544922,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10564,7 +10564,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Bread",
-        "Confidence": 51.28882598876953,
+        "Confidence": 31.28882598876953,
         "Instances": [],
         "Parents": [
           {
@@ -10583,7 +10583,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Breakfast",
-        "Confidence": 57.7884407043457,
+        "Confidence": 47.7884407043457,
         "Instances": [],
         "Parents": [
           {
@@ -10640,7 +10640,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Cafe",
-        "Confidence": 56.61041259765625,
+        "Confidence": 36.61041259765625,
         "Instances": [],
         "Parents": [
           {
@@ -10662,7 +10662,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Cafeteria",
-        "Confidence": 57.98866271972656,
+        "Confidence": 47.98866271972656,
         "Instances": [],
         "Parents": [
           {
@@ -10684,7 +10684,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Chocolate",
-        "Confidence": 50.257728576660156,
+        "Confidence": 40.257728576660156,
         "Instances": [],
         "Parents": [
           {
@@ -10766,7 +10766,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Coffee Table",
-        "Confidence": 53.44110870361328,
+        "Confidence": 23.44110870361328,
         "Instances": [],
         "Parents": [
           {
@@ -10788,7 +10788,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.89521026611328,
+        "Confidence": 23.89521026611328,
         "Instances": [],
         "Parents": [
           {
@@ -10807,7 +10807,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Cream",
-        "Confidence": 54.60911178588867,
+        "Confidence": 34.60911178588867,
         "Instances": [],
         "Parents": [
           {
@@ -10989,7 +10989,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Dinner",
-        "Confidence": 52.08488845825195,
+        "Confidence": 32.08488845825195,
         "Instances": [],
         "Parents": [
           {
@@ -11034,7 +11034,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Drinking",
-        "Confidence": 51.97603225708008,
+        "Confidence": 31.97603225708008,
         "Instances": [],
         "Parents": [
           {
@@ -11228,7 +11228,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Food Court",
-        "Confidence": 54.86902618408203,
+        "Confidence": 44.86902618408203,
         "Instances": [],
         "Parents": [
           {
@@ -11253,7 +11253,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Fork",
-        "Confidence": 57.79138946533203,
+        "Confidence": 37.79138946533203,
         "Instances": [],
         "Parents": [
           {
@@ -11287,7 +11287,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Glass",
-        "Confidence": 50.1571044921875,
+        "Confidence": 20.1571044921875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11321,7 +11321,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.480770111083984,
+        "Confidence": 30.480770111083984,
         "Instances": [],
         "Parents": [
           {
@@ -11458,7 +11458,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 51.3691291809082,
+        "Confidence": 21.3691291809082,
         "Instances": [],
         "Parents": [
           {
@@ -11524,7 +11524,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Living Room",
-        "Confidence": 52.246673583984375,
+        "Confidence": 32.246673583984375,
         "Instances": [],
         "Parents": [
           {
@@ -11595,7 +11595,7 @@
               "Left": 0.11981794238090515,
               "Top": 0.00037975312443450093
             },
-            "Confidence": 58.47378921508789
+            "Confidence": 38.47378921508789
           }
         ],
         "Parents": [
@@ -11633,7 +11633,7 @@
               "Left": 0.11981794238090515,
               "Top": 0.00037975312443450093
             },
-            "Confidence": 58.47378921508789
+            "Confidence": 38.47378921508789
           }
         ],
         "Parents": [
@@ -11778,7 +11778,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Plate",
-        "Confidence": 59.77165985107422,
+        "Confidence": 49.77165985107422,
         "Instances": [
           {
             "BoundingBox": {
@@ -11803,7 +11803,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Poached Egg",
-        "Confidence": 50.80879211425781,
+        "Confidence": 10.80879211425781,
         "Instances": [],
         "Parents": [
           {
@@ -11847,7 +11847,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Pottery",
-        "Confidence": 58.754241943359375,
+        "Confidence": 48.754241943359375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12275,7 +12275,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Cafe",
-        "Confidence": 57.28779220581055,
+        "Confidence": 47.28779220581055,
         "Instances": [],
         "Parents": [
           {
@@ -12297,7 +12297,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Cafeteria",
-        "Confidence": 58.325782775878906,
+        "Confidence": 48.325782775878906,
         "Instances": [],
         "Parents": [
           {
@@ -12360,7 +12360,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Chocolate",
-        "Confidence": 50.22438430786133,
+        "Confidence": 40.22438430786133,
         "Instances": [],
         "Parents": [
           {
@@ -12445,7 +12445,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.77117919921875,
+        "Confidence": 43.77117919921875,
         "Instances": [],
         "Parents": [
           {
@@ -12464,7 +12464,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Cream",
-        "Confidence": 54.5101318359375,
+        "Confidence": 24.5101318359375,
         "Instances": [],
         "Parents": [
           {
@@ -12691,7 +12691,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Eating",
-        "Confidence": 56.135372161865234,
+        "Confidence": 36.135372161865234,
         "Instances": [],
         "Parents": [
           {
@@ -12713,7 +12713,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Egg",
-        "Confidence": 50.482181549072266,
+        "Confidence": 30.482181549072266,
         "Instances": [],
         "Parents": [
           {
@@ -12822,7 +12822,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Fondue",
-        "Confidence": 52.27570724487305,
+        "Confidence": 42.27570724487305,
         "Instances": [],
         "Parents": [
           {
@@ -12862,7 +12862,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Food Court",
-        "Confidence": 54.22230529785156,
+        "Confidence": 44.22230529785156,
         "Instances": [],
         "Parents": [
           {
@@ -12887,7 +12887,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Fork",
-        "Confidence": 59.3726692199707,
+        "Confidence": 29.3726692199707,
         "Instances": [],
         "Parents": [
           {
@@ -12940,7 +12940,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.391971588134766,
+        "Confidence": 41.391971588134766,
         "Instances": [],
         "Parents": [
           {
@@ -13155,7 +13155,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Lunch",
-        "Confidence": 52.74348831176758,
+        "Confidence": 22.74348831176758,
         "Instances": [],
         "Parents": [
           {
@@ -13327,7 +13327,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Plate",
-        "Confidence": 55.06922912597656,
+        "Confidence": 15.06922912597656,
         "Instances": [
           {
             "BoundingBox": {
@@ -13473,7 +13473,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Soup Bowl",
-        "Confidence": 50.036468505859375,
+        "Confidence": 20.036468505859375,
         "Instances": [],
         "Parents": [
           {
@@ -13501,7 +13501,7 @@
               "Left": 0.6595454812049866,
               "Top": 0.5218826532363892
             },
-            "Confidence": 53.26946258544922
+            "Confidence": 33.26946258544922
           }
         ],
         "Parents": [
@@ -13712,7 +13712,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Birthday Cake",
-        "Confidence": 51.34204864501953,
+        "Confidence": 21.34204864501953,
         "Instances": [],
         "Parents": [
           {
@@ -13740,7 +13740,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Blouse",
-        "Confidence": 50.36577224731445,
+        "Confidence": 30.36577224731445,
         "Instances": [],
         "Parents": [
           {
@@ -13759,7 +13759,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.320762634277344,
+        "Confidence": 11.320762634277344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13789,7 +13789,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Bread",
-        "Confidence": 50.66722106933594,
+        "Confidence": 20.66722106933594,
         "Instances": [],
         "Parents": [
           {
@@ -13827,7 +13827,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Brunch",
-        "Confidence": 55.05071258544922,
+        "Confidence": 35.05071258544922,
         "Instances": [],
         "Parents": [
           {
@@ -13969,7 +13969,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 50.36577224731445,
+        "Confidence": 30.36577224731445,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -14029,7 +14029,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Coffee Table",
-        "Confidence": 55.30934524536133,
+        "Confidence": 35.30934524536133,
         "Instances": [],
         "Parents": [
           {
@@ -14051,7 +14051,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Cookware",
-        "Confidence": 50.762359619140625,
+        "Confidence": 20.762359619140625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14066,7 +14066,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Couch",
-        "Confidence": 53.699462890625,
+        "Confidence": 33.699462890625,
         "Instances": [],
         "Parents": [
           {
@@ -14085,7 +14085,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Cream",
-        "Confidence": 54.952964782714844,
+        "Confidence": 14.952964782714844,
         "Instances": [],
         "Parents": [
           {
@@ -14164,7 +14164,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 54.952964782714844,
+        "Confidence": 14.952964782714844,
         "Instances": [],
         "Parents": [
           {
@@ -14183,7 +14183,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Diner",
-        "Confidence": 55.29888153076172,
+        "Confidence": 45.29888153076172,
         "Instances": [],
         "Parents": [
           {
@@ -14267,7 +14267,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Dinner",
-        "Confidence": 53.012306213378906,
+        "Confidence": 23.012306213378906,
         "Instances": [],
         "Parents": [
           {
@@ -14290,7 +14290,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Dip",
-        "Confidence": 50.43582534790039,
+        "Confidence": 40.43582534790039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14368,7 +14368,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 51.78338623046875,
+        "Confidence": 21.78338623046875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14383,7 +14383,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Espresso",
-        "Confidence": 50.195255279541016,
+        "Confidence": 40.195255279541016,
         "Instances": [],
         "Parents": [
           {
@@ -14462,7 +14462,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Finger",
-        "Confidence": 51.320762634277344,
+        "Confidence": 41.320762634277344,
         "Instances": [],
         "Parents": [
           {
@@ -14527,7 +14527,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Food Court",
-        "Confidence": 54.9257926940918,
+        "Confidence": 44.9257926940918,
         "Instances": [],
         "Parents": [
           {
@@ -14605,7 +14605,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 51.320762634277344,
+        "Confidence": 21.320762634277344,
         "Instances": [],
         "Parents": [
           {
@@ -14749,7 +14749,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Kitchen",
-        "Confidence": 50.373191833496094,
+        "Confidence": 10.373191833496094,
         "Instances": [],
         "Parents": [
           {
@@ -14796,7 +14796,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Living Room",
-        "Confidence": 54.03013229370117,
+        "Confidence": 44.03013229370117,
         "Instances": [],
         "Parents": [
           {
@@ -14969,7 +14969,7 @@
               "Left": 0.0008269974496215582,
               "Top": 4.348754828242818e-06
             },
-            "Confidence": 57.72465896606445
+            "Confidence": 27.72465896606445
           }
         ],
         "Parents": [],
@@ -14989,7 +14989,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Phone",
-        "Confidence": 51.78338623046875,
+        "Confidence": 21.78338623046875,
         "Instances": [],
         "Parents": [
           {
@@ -15008,7 +15008,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Plastic Wrap",
-        "Confidence": 50.15357208251953,
+        "Confidence": 40.15357208251953,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15057,7 +15057,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Poached Egg",
-        "Confidence": 50.478519439697266,
+        "Confidence": 40.478519439697266,
         "Instances": [],
         "Parents": [
           {
@@ -15101,7 +15101,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Pot",
-        "Confidence": 50.762359619140625,
+        "Confidence": 30.762359619140625,
         "Instances": [],
         "Parents": [
           {
@@ -15320,7 +15320,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Tea",
-        "Confidence": 51.867435455322266,
+        "Confidence": 31.867435455322266,
         "Instances": [],
         "Parents": [
           {
@@ -15373,7 +15373,7 @@
               "Left": 0.0008269974496215582,
               "Top": 4.348754828242818e-06
             },
-            "Confidence": 57.72465896606445
+            "Confidence": 37.72465896606445
           }
         ],
         "Parents": [
@@ -15583,7 +15583,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.66307830810547,
+        "Confidence": 30.66307830810547,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15752,7 +15752,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Cake",
-        "Confidence": 50.92157745361328,
+        "Confidence": 40.92157745361328,
         "Instances": [],
         "Parents": [
           {
@@ -15863,7 +15863,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Coffee Table",
-        "Confidence": 55.1301383972168,
+        "Confidence": 35.1301383972168,
         "Instances": [],
         "Parents": [
           {
@@ -15885,7 +15885,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Cookware",
-        "Confidence": 50.27128219604492,
+        "Confidence": 40.27128219604492,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16092,7 +16092,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Dinner",
-        "Confidence": 53.013484954833984,
+        "Confidence": 23.013484954833984,
         "Instances": [],
         "Parents": [
           {
@@ -16152,7 +16152,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Eating",
-        "Confidence": 53.95176696777344,
+        "Confidence": 33.95176696777344,
         "Instances": [],
         "Parents": [
           {
@@ -16174,7 +16174,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Egg",
-        "Confidence": 50.46189498901367,
+        "Confidence": 30.46189498901367,
         "Instances": [],
         "Parents": [
           {
@@ -16293,7 +16293,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Fondue",
-        "Confidence": 52.22848892211914,
+        "Confidence": 32.22848892211914,
         "Instances": [],
         "Parents": [
           {
@@ -16333,7 +16333,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Food Court",
-        "Confidence": 54.8913688659668,
+        "Confidence": 24.8913688659668,
         "Instances": [],
         "Parents": [
           {
@@ -16452,7 +16452,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 54.47159957885742,
+        "Confidence": 44.47159957885742,
         "Instances": [],
         "Parents": [
           {
@@ -16517,7 +16517,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 50.575347900390625,
+        "Confidence": 40.575347900390625,
         "Instances": [],
         "Parents": [
           {
@@ -16595,7 +16595,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Lunch",
-        "Confidence": 52.960025787353516,
+        "Confidence": 32.960025787353516,
         "Instances": [],
         "Parents": [
           {
@@ -16766,7 +16766,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Phone",
-        "Confidence": 51.520286560058594,
+        "Confidence": 31.520286560058594,
         "Instances": [],
         "Parents": [
           {
@@ -16800,7 +16800,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Plate",
-        "Confidence": 51.463523864746094,
+        "Confidence": 31.463523864746094,
         "Instances": [
           {
             "BoundingBox": {
@@ -16994,7 +16994,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Stew",
-        "Confidence": 51.02572250366211,
+        "Confidence": 41.02572250366211,
         "Instances": [],
         "Parents": [
           {
@@ -17170,7 +17170,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Accessories",
-        "Confidence": 51.773414611816406,
+        "Confidence": 41.773414611816406,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -17367,7 +17367,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Brunch",
-        "Confidence": 53.432899475097656,
+        "Confidence": 23.432899475097656,
         "Instances": [],
         "Parents": [
           {
@@ -17424,7 +17424,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Cafe",
-        "Confidence": 56.400413513183594,
+        "Confidence": 36.400413513183594,
         "Instances": [],
         "Parents": [
           {
@@ -17468,7 +17468,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Cake",
-        "Confidence": 51.81918716430664,
+        "Confidence": 41.81918716430664,
         "Instances": [],
         "Parents": [
           {
@@ -17490,7 +17490,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Chair",
-        "Confidence": 51.70568084716797,
+        "Confidence": 41.70568084716797,
         "Instances": [],
         "Parents": [
           {
@@ -17569,7 +17569,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Coffee Table",
-        "Confidence": 56.128456115722656,
+        "Confidence": 46.128456115722656,
         "Instances": [],
         "Parents": [
           {
@@ -17591,7 +17591,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Computer Hardware",
-        "Confidence": 50.453582763671875,
+        "Confidence": 10.453582763671875,
         "Instances": [],
         "Parents": [
           {
@@ -17613,7 +17613,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Cookware",
-        "Confidence": 50.04877471923828,
+        "Confidence": 40.04877471923828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17726,7 +17726,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 54.3143424987793,
+        "Confidence": 44.3143424987793,
         "Instances": [],
         "Parents": [
           {
@@ -17745,7 +17745,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Diner",
-        "Confidence": 55.762413024902344,
+        "Confidence": 15.762413024902344,
         "Instances": [],
         "Parents": [
           {
@@ -17911,7 +17911,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 52.418514251708984,
+        "Confidence": 42.418514251708984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17995,7 +17995,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Fondue",
-        "Confidence": 51.96537399291992,
+        "Confidence": 31.96537399291992,
         "Instances": [],
         "Parents": [
           {
@@ -18035,7 +18035,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Food Court",
-        "Confidence": 54.429664611816406,
+        "Confidence": 14.429664611816406,
         "Instances": [],
         "Parents": [
           {
@@ -18128,7 +18128,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Hardware",
-        "Confidence": 50.453582763671875,
+        "Confidence": 30.453582763671875,
         "Instances": [],
         "Parents": [
           {
@@ -18166,7 +18166,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 54.3143424987793,
+        "Confidence": 34.3143424987793,
         "Instances": [],
         "Parents": [
           {
@@ -18191,7 +18191,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Icing",
-        "Confidence": 53.59739685058594,
+        "Confidence": 33.59739685058594,
         "Instances": [],
         "Parents": [
           {
@@ -18250,7 +18250,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Juice",
-        "Confidence": 50.39199447631836,
+        "Confidence": 40.39199447631836,
         "Instances": [],
         "Parents": [
           {
@@ -18269,7 +18269,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Kitchen",
-        "Confidence": 50.49858474731445,
+        "Confidence": 20.49858474731445,
         "Instances": [],
         "Parents": [
           {
@@ -18316,7 +18316,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Living Room",
-        "Confidence": 54.88576889038086,
+        "Confidence": 34.88576889038086,
         "Instances": [],
         "Parents": [
           {
@@ -18347,7 +18347,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Lunch",
-        "Confidence": 53.52876281738281,
+        "Confidence": 33.52876281738281,
         "Instances": [],
         "Parents": [
           {
@@ -18471,7 +18471,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Monitor",
-        "Confidence": 50.453582763671875,
+        "Confidence": 30.453582763671875,
         "Instances": [],
         "Parents": [
           {
@@ -18557,7 +18557,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Photography",
-        "Confidence": 50.097801208496094,
+        "Confidence": 30.097801208496094,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -18591,7 +18591,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Plate",
-        "Confidence": 57.053672790527344,
+        "Confidence": 47.053672790527344,
         "Instances": [
           {
             "BoundingBox": {
@@ -18797,7 +18797,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Screen",
-        "Confidence": 50.453582763671875,
+        "Confidence": 30.453582763671875,
         "Instances": [],
         "Parents": [
           {
@@ -18816,7 +18816,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Soup Bowl",
-        "Confidence": 51.50390625,
+        "Confidence": 31.50390625,
         "Instances": [],
         "Parents": [
           {
@@ -18970,7 +18970,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Tea",
-        "Confidence": 51.65667724609375,
+        "Confidence": 41.65667724609375,
         "Instances": [],
         "Parents": [
           {
@@ -18989,7 +18989,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Teapot",
-        "Confidence": 50.04877471923828,
+        "Confidence": 40.04877471923828,
         "Instances": [],
         "Parents": [
           {
@@ -19014,7 +19014,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 51.41193771362305,
+        "Confidence": 41.41193771362305,
         "Instances": [],
         "Parents": [
           {

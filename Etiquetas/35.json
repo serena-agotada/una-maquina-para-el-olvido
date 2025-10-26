@@ -560,7 +560,7 @@
               "Left": 0.6645318269729614,
               "Top": 0.5580087304115295
             },
-            "Confidence": 55.57896423339844
+            "Confidence": 25.57896423339844
           }
         ],
         "Parents": [
@@ -833,7 +833,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Phone",
-        "Confidence": 57.72917556762695,
+        "Confidence": 47.72917556762695,
         "Instances": [],
         "Parents": [
           {
@@ -911,7 +911,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 50.62884521484375,
+        "Confidence": 40.62884521484375,
         "Instances": [],
         "Parents": [
           {
@@ -1185,7 +1185,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 53.7842903137207,
+        "Confidence": 23.7842903137207,
         "Instances": [],
         "Parents": [
           {
@@ -1204,7 +1204,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 53.50619125366211,
+        "Confidence": 33.50619125366211,
         "Instances": [],
         "Parents": [
           {
@@ -1816,7 +1816,7 @@
               "Left": 0.12137667089700699,
               "Top": 0.17495690286159515
             },
-            "Confidence": 51.12672424316406
+            "Confidence": 41.12672424316406
           }
         ],
         "Parents": [
@@ -1877,7 +1877,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 51.69540023803711,
+        "Confidence": 31.69540023803711,
         "Instances": [],
         "Parents": [
           {
@@ -1936,7 +1936,7 @@
               "Left": 0.12137667089700699,
               "Top": 0.17495690286159515
             },
-            "Confidence": 51.12672424316406
+            "Confidence": 41.12672424316406
           }
         ],
         "Parents": [
@@ -1956,7 +1956,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 54.99400329589844,
+        "Confidence": 44.99400329589844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1990,7 +1990,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 55.216224670410156,
+        "Confidence": 35.216224670410156,
         "Instances": [],
         "Parents": [
           {
@@ -2389,7 +2389,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Party",
-        "Confidence": 54.99400329589844,
+        "Confidence": 24.99400329589844,
         "Instances": [],
         "Parents": [
           {
@@ -2508,7 +2508,7 @@
               "Left": 0.12137667089700699,
               "Top": 0.17495690286159515
             },
-            "Confidence": 51.12672424316406
+            "Confidence": 11.12672424316406
           }
         ],
         "Parents": [],
@@ -2528,7 +2528,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Phone",
-        "Confidence": 54.57365798950195,
+        "Confidence": 24.57365798950195,
         "Instances": [],
         "Parents": [
           {
@@ -2628,7 +2628,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 50.000484466552734,
+        "Confidence": 40.000484466552734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2661,7 +2661,7 @@
               "Left": 0.12137667089700699,
               "Top": 0.17495690286159515
             },
-            "Confidence": 51.12672424316406
+            "Confidence": 41.12672424316406
           }
         ],
         "Parents": [
@@ -2887,7 +2887,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 53.91633987426758,
+        "Confidence": 33.91633987426758,
         "Instances": [],
         "Parents": [
           {
@@ -2992,7 +2992,7 @@
               "Left": 0.6348081827163696,
               "Top": 0.6338776350021362
             },
-            "Confidence": 59.220306396484375
+            "Confidence": 49.220306396484375
           }
         ],
         "Parents": [
@@ -3057,7 +3057,7 @@
               "Left": 0.6348081827163696,
               "Top": 0.6338776350021362
             },
-            "Confidence": 59.220306396484375
+            "Confidence": 49.220306396484375
           }
         ],
         "Parents": [
@@ -3152,7 +3152,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.748878479003906,
+        "Confidence": 24.748878479003906,
         "Instances": [],
         "Parents": [
           {
@@ -3235,7 +3235,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Party",
-        "Confidence": 54.273624420166016,
+        "Confidence": 24.273624420166016,
         "Instances": [],
         "Parents": [
           {
@@ -3522,7 +3522,7 @@
               "Left": 0.42243534326553345,
               "Top": 0.4730823040008545
             },
-            "Confidence": 54.710166931152344
+            "Confidence": 34.710166931152344
           },
           {
             "BoundingBox": {
@@ -3679,7 +3679,7 @@
               "Left": 0.42243534326553345,
               "Top": 0.4730823040008545
             },
-            "Confidence": 54.710166931152344
+            "Confidence": 34.710166931152344
           }
         ],
         "Parents": [
@@ -3699,7 +3699,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.74848556518555,
+        "Confidence": 22.74848556518555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3982,7 +3982,7 @@
               "Left": 0.7066473960876465,
               "Top": 0.645716667175293
             },
-            "Confidence": 53.73060607910156
+            "Confidence": 23.73060607910156
           }
         ],
         "Parents": [
@@ -4281,7 +4281,7 @@
               "Left": 0.7066473960876465,
               "Top": 0.645716667175293
             },
-            "Confidence": 53.73060607910156
+            "Confidence": 23.73060607910156
           }
         ],
         "Parents": [],
@@ -4416,7 +4416,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 55.83828353881836,
+        "Confidence": 35.83828353881836,
         "Instances": [
           {
             "BoundingBox": {
@@ -4583,7 +4583,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Electrical Device",
-        "Confidence": 53.22361755371094,
+        "Confidence": 43.22361755371094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4764,7 +4764,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Keyboard",
-        "Confidence": 50.56987380981445,
+        "Confidence": 40.56987380981445,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4898,7 +4898,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Microphone",
-        "Confidence": 53.22361755371094,
+        "Confidence": 23.22361755371094,
         "Instances": [
           {
             "BoundingBox": {
@@ -5172,7 +5172,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Piano",
-        "Confidence": 50.56987380981445,
+        "Confidence": 30.56987380981445,
         "Instances": [],
         "Parents": [
           {
@@ -5194,7 +5194,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 54.37312316894531,
+        "Confidence": 34.37312316894531,
         "Instances": [],
         "Parents": [
           {
@@ -5219,7 +5219,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Singing",
-        "Confidence": 55.4466438293457,
+        "Confidence": 35.4466438293457,
         "Instances": [],
         "Parents": [
           {
@@ -5394,7 +5394,7 @@
               "Left": 0.26975277066230774,
               "Top": 0.2746339440345764
             },
-            "Confidence": 51.81559371948242
+            "Confidence": 21.81559371948242
           }
         ],
         "Parents": [
@@ -5535,7 +5535,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 52.323280334472656,
+        "Confidence": 22.323280334472656,
         "Instances": [],
         "Parents": [
           {
@@ -5591,7 +5591,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Female",
-        "Confidence": 51.58078384399414,
+        "Confidence": 21.58078384399414,
         "Instances": [],
         "Parents": [
           {
@@ -5610,7 +5610,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.72447204589844,
+        "Confidence": 42.72447204589844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5849,7 +5849,7 @@
               "Left": 0.24388852715492249,
               "Top": 0.2752678394317627
             },
-            "Confidence": 52.510589599609375
+            "Confidence": 32.510589599609375
           },
           {
             "BoundingBox": {
@@ -5914,7 +5914,7 @@
               "Left": 0.24388852715492249,
               "Top": 0.2752678394317627
             },
-            "Confidence": 52.510589599609375
+            "Confidence": 42.510589599609375
           },
           {
             "BoundingBox": {
@@ -5967,7 +5967,7 @@
               "Left": 0.08511503040790558,
               "Top": 0.23056037724018097
             },
-            "Confidence": 52.75419235229492
+            "Confidence": 42.75419235229492
           }
         ],
         "Parents": [
@@ -6038,7 +6038,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 55.18992614746094,
+        "Confidence": 25.18992614746094,
         "Instances": [],
         "Parents": [
           {
@@ -6121,7 +6121,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Party",
-        "Confidence": 52.72447204589844,
+        "Confidence": 22.72447204589844,
         "Instances": [],
         "Parents": [
           {
@@ -6213,7 +6213,7 @@
               "Left": 0.24388852715492249,
               "Top": 0.2752678394317627
             },
-            "Confidence": 52.510589599609375
+            "Confidence": 32.510589599609375
           },
           {
             "BoundingBox": {
@@ -6222,7 +6222,7 @@
               "Left": 0.26975277066230774,
               "Top": 0.2746339440345764
             },
-            "Confidence": 51.81559371948242
+            "Confidence": 31.81559371948242
           }
         ],
         "Parents": [],
@@ -6261,7 +6261,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Pianist",
-        "Confidence": 51.87420654296875,
+        "Confidence": 11.87420654296875,
         "Instances": [],
         "Parents": [
           {
@@ -6327,7 +6327,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 53.45884704589844,
+        "Confidence": 43.45884704589844,
         "Instances": [],
         "Parents": [
           {
@@ -6408,7 +6408,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Stage",
-        "Confidence": 52.19367218017578,
+        "Confidence": 32.19367218017578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6438,7 +6438,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 51.58078384399414,
+        "Confidence": 21.58078384399414,
         "Instances": [],
         "Parents": [
           {
@@ -6546,7 +6546,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.1710319519043,
+        "Confidence": 22.1710319519043,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6690,7 +6690,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.13544845581055,
+        "Confidence": 32.13544845581055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6724,7 +6724,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 57.02207565307617,
+        "Confidence": 47.02207565307617,
         "Instances": [],
         "Parents": [
           {
@@ -6743,7 +6743,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 54.502220153808594,
+        "Confidence": 14.502220153808594,
         "Instances": [],
         "Parents": [
           {
@@ -6784,7 +6784,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 52.1710319519043,
+        "Confidence": 42.1710319519043,
         "Instances": [],
         "Parents": [
           {
@@ -6806,7 +6806,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Head",
-        "Confidence": 53.01000213623047,
+        "Confidence": 33.01000213623047,
         "Instances": [],
         "Parents": [
           {
@@ -6825,7 +6825,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 52.1710319519043,
+        "Confidence": 32.1710319519043,
         "Instances": [],
         "Parents": [
           {
@@ -6850,7 +6850,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Keyboard",
-        "Confidence": 50.28571319580078,
+        "Confidence": 30.28571319580078,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6920,7 +6920,7 @@
               "Left": 0.8511424660682678,
               "Top": 0.7309944033622742
             },
-            "Confidence": 50.7247314453125
+            "Confidence": 20.7247314453125
           }
         ],
         "Parents": [
@@ -7046,7 +7046,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 53.318763732910156,
+        "Confidence": 33.318763732910156,
         "Instances": [],
         "Parents": [
           {
@@ -7230,7 +7230,7 @@
               "Left": 0.007304572965949774,
               "Top": 0.6161322593688965
             },
-            "Confidence": 51.005245208740234
+            "Confidence": 41.005245208740234
           },
           {
             "BoundingBox": {
@@ -7259,7 +7259,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Pianist",
-        "Confidence": 50.28571319580078,
+        "Confidence": 30.28571319580078,
         "Instances": [],
         "Parents": [
           {
@@ -7303,7 +7303,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Piano",
-        "Confidence": 50.28571319580078,
+        "Confidence": 40.28571319580078,
         "Instances": [],
         "Parents": [
           {
@@ -7384,7 +7384,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 52.09458923339844,
+        "Confidence": 32.09458923339844,
         "Instances": [],
         "Parents": [
           {
@@ -7463,7 +7463,7 @@
               "Left": 0.007304572965949774,
               "Top": 0.6161322593688965
             },
-            "Confidence": 51.005245208740234
+            "Confidence": 21.005245208740234
           }
         ],
         "Parents": [
@@ -7857,7 +7857,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Keyboard",
-        "Confidence": 51.16353988647461,
+        "Confidence": 41.16353988647461,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8027,7 +8027,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Microphone",
-        "Confidence": 53.442047119140625,
+        "Confidence": 33.442047119140625,
         "Instances": [],
         "Parents": [
           {
@@ -8318,7 +8318,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Piano",
-        "Confidence": 51.16353988647461,
+        "Confidence": 41.16353988647461,
         "Instances": [],
         "Parents": [
           {
@@ -8399,7 +8399,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 53.177303314208984,
+        "Confidence": 13.177303314208984,
         "Instances": [],
         "Parents": [
           {
@@ -8421,7 +8421,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Stage",
-        "Confidence": 51.05152130126953,
+        "Confidence": 31.05152130126953,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8667,7 +8667,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.45333480834961,
+        "Confidence": 32.45333480834961,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9328,7 +9328,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 51.9796257019043,
+        "Confidence": 31.9796257019043,
         "Instances": [],
         "Parents": [
           {
@@ -9428,7 +9428,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Stage",
-        "Confidence": 50.25840377807617,
+        "Confidence": 20.25840377807617,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9532,7 +9532,7 @@
               "Left": 0.00014146430476102978,
               "Top": 0.5481570363044739
             },
-            "Confidence": 58.04601287841797
+            "Confidence": 38.04601287841797
           },
           {
             "BoundingBox": {
@@ -9541,7 +9541,7 @@
               "Left": 0.7450014352798462,
               "Top": 0.7580896019935608
             },
-            "Confidence": 56.90684509277344
+            "Confidence": 26.90684509277344
           }
         ],
         "Parents": [
@@ -9817,7 +9817,7 @@
               "Left": 0.7450014352798462,
               "Top": 0.7580896019935608
             },
-            "Confidence": 56.90684509277344
+            "Confidence": 36.90684509277344
           }
         ],
         "Parents": [
@@ -9882,7 +9882,7 @@
               "Left": 0.7450014352798462,
               "Top": 0.7580896019935608
             },
-            "Confidence": 56.90684509277344
+            "Confidence": 46.90684509277344
           }
         ],
         "Parents": [
@@ -9908,7 +9908,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Microphone",
-        "Confidence": 55.1412467956543,
+        "Confidence": 25.1412467956543,
         "Instances": [
           {
             "BoundingBox": {
@@ -10126,7 +10126,7 @@
               "Left": 0.7450014352798462,
               "Top": 0.7580896019935608
             },
-            "Confidence": 56.90684509277344
+            "Confidence": 26.90684509277344
           }
         ],
         "Parents": [],
@@ -10205,7 +10205,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 53.52708053588867,
+        "Confidence": 43.52708053588867,
         "Instances": [],
         "Parents": [
           {
@@ -10735,7 +10735,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 55.80985641479492,
+        "Confidence": 25.80985641479492,
         "Instances": [],
         "Parents": [
           {
@@ -10998,7 +10998,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 51.27653884887695,
+        "Confidence": 31.27653884887695,
         "Instances": [],
         "Parents": [
           {
@@ -11203,7 +11203,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 50.91077423095703,
+        "Confidence": 30.91077423095703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11839,7 +11839,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Piano",
-        "Confidence": 50.65081787109375,
+        "Confidence": 20.65081787109375,
         "Instances": [],
         "Parents": [
           {
@@ -12350,7 +12350,7 @@
               "Left": 0.001762025523930788,
               "Top": 0.6527734398841858
             },
-            "Confidence": 52.0360107421875
+            "Confidence": 22.0360107421875
           }
         ],
         "Parents": [
@@ -12575,7 +12575,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Party",
-        "Confidence": 52.186092376708984,
+        "Confidence": 42.186092376708984,
         "Instances": [],
         "Parents": [
           {
@@ -12685,7 +12685,7 @@
               "Left": 0.001762025523930788,
               "Top": 0.6527734398841858
             },
-            "Confidence": 52.0360107421875
+            "Confidence": 12.0360107421875
           }
         ],
         "Parents": [],
@@ -12724,7 +12724,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.724266052246094,
+        "Confidence": 22.724266052246094,
         "Instances": [],
         "Parents": [
           {
@@ -13485,7 +13485,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Party",
-        "Confidence": 51.867958068847656,
+        "Confidence": 21.867958068847656,
         "Instances": [],
         "Parents": [
           {
@@ -13632,7 +13632,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Sea Life",
-        "Confidence": 57.18309020996094,
+        "Confidence": 17.18309020996094,
         "Instances": [],
         "Parents": [
           {
@@ -13651,7 +13651,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Shark",
-        "Confidence": 55.062744140625,
+        "Confidence": 25.062744140625,
         "Instances": [
           {
             "BoundingBox": {
@@ -13849,7 +13849,7 @@
               "Left": 0.41870376467704773,
               "Top": 0.4744838774204254
             },
-            "Confidence": 54.943077087402344
+            "Confidence": 44.943077087402344
           }
         ],
         "Parents": [
@@ -13963,7 +13963,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 50.41181564331055,
+        "Confidence": 40.41181564331055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14016,7 +14016,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 58.102264404296875,
+        "Confidence": 48.102264404296875,
         "Instances": [],
         "Parents": [
           {
@@ -14223,7 +14223,7 @@
               "Left": 0.41870376467704773,
               "Top": 0.4744838774204254
             },
-            "Confidence": 54.943077087402344
+            "Confidence": 14.943077087402344
           }
         ],
         "Parents": [
@@ -14267,7 +14267,7 @@
               "Left": 1.8947795297208359e-06,
               "Top": 0.4278012812137604
             },
-            "Confidence": 56.37372589111328
+            "Confidence": 46.37372589111328
           }
         ],
         "Parents": [
@@ -14550,7 +14550,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.77729034423828,
+        "Confidence": 22.77729034423828,
         "Instances": [],
         "Parents": [
           {
@@ -14609,7 +14609,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.02366638183594,
+        "Confidence": 41.02366638183594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14923,7 +14923,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 53.369110107421875,
+        "Confidence": 43.369110107421875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15344,7 +15344,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.369110107421875,
+        "Confidence": 33.369110107421875,
         "Instances": [],
         "Parents": [
           {
@@ -15463,7 +15463,7 @@
               "Left": 0.2975958287715912,
               "Top": 0.7201207280158997
             },
-            "Confidence": 53.7426872253418
+            "Confidence": 33.7426872253418
           }
         ],
         "Parents": [],
@@ -15598,7 +15598,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 54.445255279541016,
+        "Confidence": 24.445255279541016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16122,7 +16122,7 @@
               "Left": 0.498617947101593,
               "Top": 0.760928213596344
             },
-            "Confidence": 56.638526916503906
+            "Confidence": 36.638526916503906
           }
         ],
         "Parents": [
@@ -16518,7 +16518,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 53.37019729614258,
+        "Confidence": 43.37019729614258,
         "Instances": [],
         "Parents": [
           {
@@ -16540,7 +16540,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 55.77361297607422,
+        "Confidence": 35.77361297607422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16626,7 +16626,7 @@
               "Left": 0.3058185279369354,
               "Top": 0.3375096321105957
             },
-            "Confidence": 59.380733489990234
+            "Confidence": 49.380733489990234
           }
         ],
         "Parents": [
@@ -16796,7 +16796,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Head",
-        "Confidence": 54.941429138183594,
+        "Confidence": 44.941429138183594,
         "Instances": [],
         "Parents": [
           {
@@ -16870,7 +16870,7 @@
               "Left": 0.3058185279369354,
               "Top": 0.3375096321105957
             },
-            "Confidence": 59.380733489990234
+            "Confidence": 29.380733489990234
           }
         ],
         "Parents": [
@@ -16926,7 +16926,7 @@
               "Left": 0.3058185279369354,
               "Top": 0.3375096321105957
             },
-            "Confidence": 59.380733489990234
+            "Confidence": 39.380733489990234
           }
         ],
         "Parents": [
@@ -17095,7 +17095,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 51.757999420166016,
+        "Confidence": 31.757999420166016,
         "Instances": [],
         "Parents": [
           {
@@ -17245,7 +17245,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.997161865234375,
+        "Confidence": 12.997161865234375,
         "Instances": [],
         "Parents": [
           {
@@ -17304,7 +17304,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 57.94781494140625,
+        "Confidence": 17.94781494140625,
         "Instances": [],
         "Parents": [
           {
@@ -17540,7 +17540,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 53.29163360595703,
+        "Confidence": 33.29163360595703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17735,7 +17735,7 @@
               "Left": 0.3878336548805237,
               "Top": 0.7894225120544434
             },
-            "Confidence": 50.95757293701172
+            "Confidence": 10.95757293701172
           }
         ],
         "Parents": [
@@ -17987,7 +17987,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.29163360595703,
+        "Confidence": 33.29163360595703,
         "Instances": [],
         "Parents": [
           {
@@ -18106,7 +18106,7 @@
               "Left": 0.3878336548805237,
               "Top": 0.7894225120544434
             },
-            "Confidence": 50.95757293701172
+            "Confidence": 30.95757293701172
           }
         ],
         "Parents": [],
@@ -18226,7 +18226,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.30681228637695,
+        "Confidence": 42.30681228637695,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18339,7 +18339,7 @@
               "Left": 0.6232893466949463,
               "Top": 0.8638618588447571
             },
-            "Confidence": 57.970375061035156
+            "Confidence": 47.970375061035156
           },
           {
             "BoundingBox": {
@@ -18424,7 +18424,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Face",
-        "Confidence": 52.783607482910156,
+        "Confidence": 42.783607482910156,
         "Instances": [],
         "Parents": [
           {
@@ -18922,7 +18922,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.21235656738281,
+        "Confidence": 43.21235656738281,
         "Instances": [],
         "Parents": [
           {
@@ -19177,7 +19177,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.82838821411133,
+        "Confidence": 31.82838821411133,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19201,7 +19201,7 @@
               "Left": 0.39498838782310486,
               "Top": 0.3086806833744049
             },
-            "Confidence": 57.44900131225586
+            "Confidence": 37.44900131225586
           }
         ],
         "Parents": [
@@ -19401,7 +19401,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Group Performance",
-        "Confidence": 58.12364959716797,
+        "Confidence": 48.12364959716797,
         "Instances": [],
         "Parents": [
           {
@@ -19788,7 +19788,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Party",
-        "Confidence": 50.70005416870117,
+        "Confidence": 30.70005416870117,
         "Instances": [],
         "Parents": [
           {
@@ -20252,7 +20252,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 54.70720672607422,
+        "Confidence": 34.70720672607422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -20286,7 +20286,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 54.935028076171875,
+        "Confidence": 34.935028076171875,
         "Instances": [],
         "Parents": [
           {
@@ -20643,7 +20643,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 51.640193939208984,
+        "Confidence": 31.640193939208984,
         "Instances": [],
         "Parents": [
           {
@@ -20845,7 +20845,7 @@
               "Left": 0.0459720641374588,
               "Top": 0.5638347268104553
             },
-            "Confidence": 56.83354187011719
+            "Confidence": 46.83354187011719
           }
         ],
         "Parents": [],
@@ -21158,7 +21158,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 55.86540222167969,
+        "Confidence": 35.86540222167969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21211,7 +21211,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 52.831520080566406,
+        "Confidence": 22.831520080566406,
         "Instances": [],
         "Parents": [
           {
@@ -21569,7 +21569,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Party",
-        "Confidence": 55.86540222167969,
+        "Confidence": 45.86540222167969,
         "Instances": [],
         "Parents": [
           {
@@ -21809,7 +21809,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 53.1903076171875,
+        "Confidence": 23.1903076171875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22036,7 +22036,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.32470703125,
+        "Confidence": 12.32470703125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22070,7 +22070,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 55.07098388671875,
+        "Confidence": 15.07098388671875,
         "Instances": [],
         "Parents": [
           {
@@ -22089,7 +22089,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 53.15693283081055,
+        "Confidence": 23.15693283081055,
         "Instances": [],
         "Parents": [
           {
@@ -22420,7 +22420,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Party",
-        "Confidence": 52.32470703125,
+        "Confidence": 32.32470703125,
         "Instances": [],
         "Parents": [
           {
@@ -22604,7 +22604,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 50.22236251831055,
+        "Confidence": 40.22236251831055,
         "Instances": [],
         "Parents": [
           {
@@ -22626,7 +22626,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Stage",
-        "Confidence": 50.16476058959961,
+        "Confidence": 20.16476058959961,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22641,7 +22641,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.21668243408203,
+        "Confidence": 41.21668243408203,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22656,7 +22656,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Wedding Proposal",
-        "Confidence": 52.54096221923828,
+        "Confidence": 22.54096221923828,
         "Instances": [],
         "Parents": [
           {
@@ -22868,7 +22868,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 56.60374069213867,
+        "Confidence": 26.60374069213867,
         "Instances": [],
         "Parents": [
           {
@@ -22887,7 +22887,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 53.77922058105469,
+        "Confidence": 43.77922058105469,
         "Instances": [],
         "Parents": [
           {
@@ -22969,7 +22969,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 52.07913589477539,
+        "Confidence": 22.07913589477539,
         "Instances": [],
         "Parents": [
           {
@@ -23347,7 +23347,7 @@
               "Left": 0.8008075952529907,
               "Top": 0.31224551796913147
             },
-            "Confidence": 57.03765869140625
+            "Confidence": 37.03765869140625
           }
         ],
         "Parents": [],
@@ -23386,7 +23386,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 50.30903244018555,
+        "Confidence": 30.30903244018555,
         "Instances": [],
         "Parents": [
           {
@@ -23411,7 +23411,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 53.19340515136719,
+        "Confidence": 23.19340515136719,
         "Instances": [],
         "Parents": [
           {
@@ -23464,7 +23464,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 50.11166763305664,
+        "Confidence": 30.11166763305664,
         "Instances": [],
         "Parents": [
           {
@@ -23486,7 +23486,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Stage",
-        "Confidence": 50.98712158203125,
+        "Confidence": 20.98712158203125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23870,7 +23870,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 54.923118591308594,
+        "Confidence": 44.923118591308594,
         "Instances": [],
         "Parents": [
           {
@@ -24100,7 +24100,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.0540657043457,
+        "Confidence": 24.0540657043457,
         "Instances": [],
         "Parents": [
           {
@@ -24202,7 +24202,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Party",
-        "Confidence": 51.017086029052734,
+        "Confidence": 11.017086029052734,
         "Instances": [],
         "Parents": [
           {
@@ -24360,7 +24360,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.58369064331055,
+        "Confidence": 42.58369064331055,
         "Instances": [],
         "Parents": [
           {
@@ -24385,7 +24385,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.1627197265625,
+        "Confidence": 40.1627197265625,
         "Instances": [],
         "Parents": [
           {
@@ -24438,7 +24438,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 50.9504280090332,
+        "Confidence": 10.9504280090332,
         "Instances": [],
         "Parents": [
           {
@@ -24460,7 +24460,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Stage",
-        "Confidence": 52.07363510131836,
+        "Confidence": 42.07363510131836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24677,7 +24677,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.004356384277344,
+        "Confidence": 32.004356384277344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24770,7 +24770,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Female",
-        "Confidence": 59.78305435180664,
+        "Confidence": 29.78305435180664,
         "Instances": [
           {
             "BoundingBox": {
@@ -24799,7 +24799,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 50.16004943847656,
+        "Confidence": 20.16004943847656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24852,7 +24852,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 56.63119888305664,
+        "Confidence": 36.63119888305664,
         "Instances": [],
         "Parents": [
           {
@@ -25041,7 +25041,7 @@
               "Left": 0.10898742079734802,
               "Top": 0.4151207208633423
             },
-            "Confidence": 56.6537971496582
+            "Confidence": 16.6537971496582
           }
         ],
         "Parents": [
@@ -25210,7 +25210,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.72610092163086,
+        "Confidence": 44.72610092163086,
         "Instances": [],
         "Parents": [
           {
@@ -25293,7 +25293,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Party",
-        "Confidence": 50.16004943847656,
+        "Confidence": 20.16004943847656,
         "Instances": [],
         "Parents": [
           {
@@ -25394,7 +25394,7 @@
               "Left": 0.024422401562333107,
               "Top": 0.5709822177886963
             },
-            "Confidence": 57.7072868347168
+            "Confidence": 37.7072868347168
           },
           {
             "BoundingBox": {
@@ -25668,7 +25668,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Bride",
-        "Confidence": 50.97122573852539,
+        "Confidence": 40.97122573852539,
         "Instances": [
           {
             "BoundingBox": {
@@ -25812,7 +25812,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 51.150665283203125,
+        "Confidence": 31.150665283203125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25947,7 +25947,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Holding Hands",
-        "Confidence": 50.34930419921875,
+        "Confidence": 30.34930419921875,
         "Instances": [],
         "Parents": [
           {
@@ -26809,7 +26809,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 52.532501220703125,
+        "Confidence": 22.532501220703125,
         "Instances": [],
         "Parents": [
           {
@@ -26831,7 +26831,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Head",
-        "Confidence": 59.34437942504883,
+        "Confidence": 39.34437942504883,
         "Instances": [],
         "Parents": [
           {
@@ -27108,7 +27108,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.0881233215332,
+        "Confidence": 44.0881233215332,
         "Instances": [],
         "Parents": [
           {
@@ -27322,7 +27322,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 50.97608184814453,
+        "Confidence": 30.97608184814453,
         "Instances": [],
         "Parents": [
           {
@@ -27347,7 +27347,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.653167724609375,
+        "Confidence": 40.653167724609375,
         "Instances": [],
         "Parents": [
           {
@@ -28138,7 +28138,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.720455169677734,
+        "Confidence": 20.720455169677734,
         "Instances": [],
         "Parents": [
           {
@@ -28762,7 +28762,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 52.74430465698242,
+        "Confidence": 42.74430465698242,
         "Instances": [],
         "Parents": [
           {
@@ -29350,7 +29350,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 52.06674575805664,
+        "Confidence": 32.06674575805664,
         "Instances": [],
         "Parents": [
           {
@@ -29369,7 +29369,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 51.105491638183594,
+        "Confidence": 41.105491638183594,
         "Instances": [],
         "Parents": [
           {
@@ -29557,7 +29557,7 @@
               "Left": 0.16644033789634705,
               "Top": 0.38880622386932373
             },
-            "Confidence": 59.741336822509766
+            "Confidence": 39.741336822509766
           }
         ],
         "Parents": [
@@ -29599,7 +29599,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.23959732055664,
+        "Confidence": 44.23959732055664,
         "Instances": [],
         "Parents": [
           {
@@ -29889,7 +29889,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 51.245487213134766,
+        "Confidence": 31.245487213134766,
         "Instances": [],
         "Parents": [
           {
@@ -29926,7 +29926,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.522186279296875,
+        "Confidence": 41.522186279296875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -30039,7 +30039,7 @@
               "Left": 0.7883819341659546,
               "Top": 0.48305705189704895
             },
-            "Confidence": 59.45867919921875
+            "Confidence": 49.45867919921875
           }
         ],
         "Parents": [
@@ -30250,7 +30250,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 52.21187973022461,
+        "Confidence": 22.21187973022461,
         "Instances": [],
         "Parents": [
           {
@@ -30269,7 +30269,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 51.28914260864258,
+        "Confidence": 41.28914260864258,
         "Instances": [],
         "Parents": [
           {
@@ -30375,7 +30375,7 @@
               "Left": 0.7883819341659546,
               "Top": 0.48305705189704895
             },
-            "Confidence": 59.45867919921875
+            "Confidence": 39.45867919921875
           }
         ],
         "Parents": [
@@ -30818,7 +30818,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 52.771080017089844,
+        "Confidence": 42.771080017089844,
         "Instances": [],
         "Parents": [
           {
@@ -30840,7 +30840,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Sport",
-        "Confidence": 58.039222717285156,
+        "Confidence": 28.039222717285156,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -30874,7 +30874,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.86880111694336,
+        "Confidence": 21.86880111694336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31070,7 +31070,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 50.15679931640625,
+        "Confidence": 20.15679931640625,
         "Instances": [],
         "Parents": [
           {
@@ -31160,7 +31160,7 @@
               "Left": 0.13911378383636475,
               "Top": 0.6074830293655396
             },
-            "Confidence": 50.08637237548828
+            "Confidence": 40.08637237548828
           }
         ],
         "Parents": [
@@ -31218,7 +31218,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 52.66040802001953,
+        "Confidence": 22.66040802001953,
         "Instances": [],
         "Parents": [
           {
@@ -31371,7 +31371,7 @@
               "Left": 0.020696697756648064,
               "Top": 0.3909118175506592
             },
-            "Confidence": 55.2203254699707
+            "Confidence": 25.2203254699707
           }
         ],
         "Parents": [
@@ -31613,7 +31613,7 @@
               "Left": 0.13911378383636475,
               "Top": 0.6074830293655396
             },
-            "Confidence": 50.08637237548828
+            "Confidence": 20.08637237548828
           }
         ],
         "Parents": [],
@@ -31652,7 +31652,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.75211715698242,
+        "Confidence": 42.75211715698242,
         "Instances": [],
         "Parents": [
           {
@@ -31733,7 +31733,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Stage",
-        "Confidence": 51.904178619384766,
+        "Confidence": 21.904178619384766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -31870,7 +31870,7 @@
               "Left": 0.6213560104370117,
               "Top": 0.3440851867198944
             },
-            "Confidence": 54.12452697753906
+            "Confidence": 34.12452697753906
           }
         ],
         "Parents": [
@@ -31972,7 +31972,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Face",
-        "Confidence": 50.40202331542969,
+        "Confidence": 30.40202331542969,
         "Instances": [],
         "Parents": [
           {
@@ -32012,7 +32012,7 @@
               "Left": 0.6213560104370117,
               "Top": 0.3440851867198944
             },
-            "Confidence": 54.12452697753906
+            "Confidence": 14.12452697753906
           }
         ],
         "Parents": [
@@ -32051,7 +32051,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 53.66751480102539,
+        "Confidence": 43.66751480102539,
         "Instances": [],
         "Parents": [
           {
@@ -32327,7 +32327,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.16169357299805,
+        "Confidence": 34.16169357299805,
         "Instances": [],
         "Parents": [
           {
@@ -32474,7 +32474,7 @@
               "Left": 0.08337531238794327,
               "Top": 0.3881027102470398
             },
-            "Confidence": 58.29191970825195
+            "Confidence": 48.29191970825195
           },
           {
             "BoundingBox": {
@@ -32522,7 +32522,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.85636901855469,
+        "Confidence": 42.85636901855469,
         "Instances": [],
         "Parents": [
           {
@@ -32581,7 +32581,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 54.247459411621094,
+        "Confidence": 24.247459411621094,
         "Instances": [],
         "Parents": [
           {
@@ -32651,7 +32651,7 @@
               "Left": 0.6213560104370117,
               "Top": 0.3440851867198944
             },
-            "Confidence": 54.12452697753906
+            "Confidence": 24.12452697753906
           }
         ],
         "Parents": [
@@ -32731,7 +32731,7 @@
               "Left": 0.36562442779541016,
               "Top": 0.8458171486854553
             },
-            "Confidence": 55.4560546875
+            "Confidence": 45.4560546875
           }
         ],
         "Parents": [
@@ -32792,7 +32792,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 51.2724609375,
+        "Confidence": 41.2724609375,
         "Instances": [],
         "Parents": [
           {
@@ -32881,7 +32881,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 52.98923873901367,
+        "Confidence": 22.98923873901367,
         "Instances": [],
         "Parents": [
           {
@@ -32900,7 +32900,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 52.6974983215332,
+        "Confidence": 32.6974983215332,
         "Instances": [],
         "Parents": [
           {
@@ -33068,7 +33068,7 @@
               "Left": 0.36562442779541016,
               "Top": 0.8458171486854553
             },
-            "Confidence": 55.4560546875
+            "Confidence": 45.4560546875
           }
         ],
         "Parents": [
@@ -33177,7 +33177,7 @@
               "Left": 0.11976004391908646,
               "Top": 0.37932851910591125
             },
-            "Confidence": 52.85841751098633
+            "Confidence": 42.85841751098633
           }
         ],
         "Parents": [
@@ -33414,7 +33414,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.3697624206543,
+        "Confidence": 22.3697624206543,
         "Instances": [],
         "Parents": [
           {
@@ -33473,7 +33473,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 54.36005783081055,
+        "Confidence": 34.36005783081055,
         "Instances": [],
         "Parents": [
           {
@@ -33651,7 +33651,7 @@
               "Left": 0.5554269552230835,
               "Top": 0.5485827922821045
             },
-            "Confidence": 57.83388137817383
+            "Confidence": 37.83388137817383
           }
         ],
         "Parents": [
@@ -33712,7 +33712,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 51.76593017578125,
+        "Confidence": 21.76593017578125,
         "Instances": [],
         "Parents": [
           {
@@ -33851,7 +33851,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 52.85887145996094,
+        "Confidence": 22.85887145996094,
         "Instances": [],
         "Parents": [
           {
@@ -33911,7 +33911,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 52.71524429321289,
+        "Confidence": 32.71524429321289,
         "Instances": [],
         "Parents": [
           {
@@ -34173,7 +34173,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.64667510986328,
+        "Confidence": 24.64667510986328,
         "Instances": [],
         "Parents": [
           {
@@ -34383,7 +34383,7 @@
               "Left": 0.5554269552230835,
               "Top": 0.5485827922821045
             },
-            "Confidence": 57.83388137817383
+            "Confidence": 47.83388137817383
           }
         ],
         "Parents": [],
@@ -34422,7 +34422,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.526519775390625,
+        "Confidence": 32.526519775390625,
         "Instances": [],
         "Parents": [
           {
@@ -34829,7 +34829,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 54.70287322998047,
+        "Confidence": 14.70287322998047,
         "Instances": [],
         "Parents": [
           {
@@ -34889,7 +34889,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Keyboard",
-        "Confidence": 50.23378372192383,
+        "Confidence": 40.23378372192383,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -34923,7 +34923,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Lighting",
-        "Confidence": 51.08621597290039,
+        "Confidence": 31.08621597290039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -35455,7 +35455,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.84775161743164,
+        "Confidence": 21.84775161743164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36249,7 +36249,7 @@
               "Left": 0.7945826649665833,
               "Top": 0.2817506194114685
             },
-            "Confidence": 51.519989013671875
+            "Confidence": 41.519989013671875
           },
           {
             "BoundingBox": {
@@ -36258,7 +36258,7 @@
               "Left": 0.0005222427425906062,
               "Top": 0.8739727139472961
             },
-            "Confidence": 51.29483413696289
+            "Confidence": 31.29483413696289
           }
         ],
         "Parents": [],
@@ -36297,7 +36297,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 51.318965911865234,
+        "Confidence": 31.318965911865234,
         "Instances": [],
         "Parents": [
           {
@@ -36397,7 +36397,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Stage",
-        "Confidence": 51.459224700927734,
+        "Confidence": 31.459224700927734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -36543,7 +36543,7 @@
               "Left": 0.32708540558815,
               "Top": 0.6104779839515686
             },
-            "Confidence": 52.19255828857422
+            "Confidence": 32.19255828857422
           },
           {
             "BoundingBox": {
@@ -36646,7 +36646,7 @@
               "Left": 0.32708540558815,
               "Top": 0.6104779839515686
             },
-            "Confidence": 52.19255828857422
+            "Confidence": 42.19255828857422
           },
           {
             "BoundingBox": {
@@ -36754,7 +36754,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Hardware",
-        "Confidence": 54.43116760253906,
+        "Confidence": 44.43116760253906,
         "Instances": [],
         "Parents": [
           {
@@ -36792,7 +36792,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Keyboard",
-        "Confidence": 50.59546661376953,
+        "Confidence": 30.59546661376953,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37223,7 +37223,7 @@
               "Left": 0.6151414513587952,
               "Top": 0.3084760308265686
             },
-            "Confidence": 50.00962448120117
+            "Confidence": 20.00962448120117
           }
         ],
         "Parents": [],
@@ -37262,7 +37262,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Pianist",
-        "Confidence": 50.59546661376953,
+        "Confidence": 40.59546661376953,
         "Instances": [],
         "Parents": [
           {
@@ -37306,7 +37306,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Piano",
-        "Confidence": 50.59546661376953,
+        "Confidence": 40.59546661376953,
         "Instances": [],
         "Parents": [
           {
@@ -37328,7 +37328,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 51.42677307128906,
+        "Confidence": 41.42677307128906,
         "Instances": [],
         "Parents": [
           {
@@ -37353,7 +37353,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.58757400512695,
+        "Confidence": 40.58757400512695,
         "Instances": [],
         "Parents": [
           {
@@ -37428,7 +37428,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Stage",
-        "Confidence": 51.07052993774414,
+        "Confidence": 21.07052993774414,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37680,7 +37680,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 54.900394439697266,
+        "Confidence": 34.900394439697266,
         "Instances": [],
         "Parents": [
           {
@@ -37759,7 +37759,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Keyboard",
-        "Confidence": 50.17643737792969,
+        "Confidence": 40.17643737792969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -37971,7 +37971,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.44488525390625,
+        "Confidence": 44.44488525390625,
         "Instances": [],
         "Parents": [
           {
@@ -38201,7 +38201,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Piano",
-        "Confidence": 50.17643737792969,
+        "Confidence": 30.17643737792969,
         "Instances": [],
         "Parents": [
           {
@@ -38323,7 +38323,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Stage",
-        "Confidence": 51.176475524902344,
+        "Confidence": 21.176475524902344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -38338,7 +38338,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.21139907836914,
+        "Confidence": 32.21139907836914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -38597,7 +38597,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 53.894264221191406,
+        "Confidence": 43.894264221191406,
         "Instances": [],
         "Parents": [
           {
@@ -38909,7 +38909,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 53.53322219848633,
+        "Confidence": 33.53322219848633,
         "Instances": [],
         "Parents": [
           {
@@ -39237,7 +39237,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.354774475097656,
+        "Confidence": 22.354774475097656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -40351,7 +40351,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Fun",
-        "Confidence": 50.780269622802734,
+        "Confidence": 20.780269622802734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -40385,7 +40385,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 53.35622787475586,
+        "Confidence": 23.35622787475586,
         "Instances": [],
         "Parents": [
           {
@@ -40679,7 +40679,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.09987258911133,
+        "Confidence": 34.09987258911133,
         "Instances": [],
         "Parents": [
           {
@@ -40872,7 +40872,7 @@
               "Left": 0.09112082421779633,
               "Top": 0.8805606961250305
             },
-            "Confidence": 54.210655212402344
+            "Confidence": 24.210655212402344
           }
         ],
         "Parents": [],
@@ -40911,7 +40911,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.52168273925781,
+        "Confidence": 42.52168273925781,
         "Instances": [],
         "Parents": [
           {
@@ -41011,7 +41011,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Stage",
-        "Confidence": 50.57789611816406,
+        "Confidence": 30.57789611816406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -41319,7 +41319,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 52.688880920410156,
+        "Confidence": 22.688880920410156,
         "Instances": [],
         "Parents": [
           {
@@ -41443,7 +41443,7 @@
               "Left": 0.10071147233247757,
               "Top": 0.3594520390033722
             },
-            "Confidence": 56.387550354003906
+            "Confidence": 46.387550354003906
           }
         ],
         "Parents": [
@@ -41508,7 +41508,7 @@
               "Left": 0.10071147233247757,
               "Top": 0.3594520390033722
             },
-            "Confidence": 56.387550354003906
+            "Confidence": 16.387550354003906
           }
         ],
         "Parents": [
@@ -41923,7 +41923,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 55.33302688598633,
+        "Confidence": 35.33302688598633,
         "Instances": [],
         "Parents": [
           {
@@ -41975,7 +41975,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Wedding Proposal",
-        "Confidence": 50.20679473876953,
+        "Confidence": 40.20679473876953,
         "Instances": [],
         "Parents": [
           {
@@ -42249,7 +42249,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Fun",
-        "Confidence": 54.37590408325195,
+        "Confidence": 24.37590408325195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -42302,7 +42302,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 52.92435836791992,
+        "Confidence": 32.92435836791992,
         "Instances": [],
         "Parents": [
           {
@@ -42381,7 +42381,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Lighting",
-        "Confidence": 50.63567352294922,
+        "Confidence": 30.63567352294922,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -42459,7 +42459,7 @@
               "Left": 0.07916185259819031,
               "Top": 0.3826555609703064
             },
-            "Confidence": 57.56203079223633
+            "Confidence": 47.56203079223633
           }
         ],
         "Parents": [
@@ -42533,7 +42533,7 @@
               "Left": 0.27985551953315735,
               "Top": 0.4684191942214966
             },
-            "Confidence": 58.707435607910156
+            "Confidence": 38.707435607910156
           },
           {
             "BoundingBox": {
@@ -42628,7 +42628,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 55.73836135864258,
+        "Confidence": 35.73836135864258,
         "Instances": [],
         "Parents": [
           {
@@ -42840,7 +42840,7 @@
               "Left": 0.27985551953315735,
               "Top": 0.4684191942214966
             },
-            "Confidence": 58.707435607910156
+            "Confidence": 28.707435607910156
           },
           {
             "BoundingBox": {
@@ -42888,7 +42888,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 54.626220703125,
+        "Confidence": 34.626220703125,
         "Instances": [],
         "Parents": [
           {
@@ -42984,7 +42984,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Urban",
-        "Confidence": 55.70716094970703,
+        "Confidence": 45.70716094970703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43278,7 +43278,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Fun",
-        "Confidence": 53.725399017333984,
+        "Confidence": 43.725399017333984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -43331,7 +43331,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 52.99845886230469,
+        "Confidence": 42.99845886230469,
         "Instances": [],
         "Parents": [
           {
@@ -43687,7 +43687,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.725399017333984,
+        "Confidence": 33.725399017333984,
         "Instances": [],
         "Parents": [
           {
@@ -43941,7 +43941,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Urban",
-        "Confidence": 56.09109878540039,
+        "Confidence": 36.09109878540039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -44305,7 +44305,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 53.6380729675293,
+        "Confidence": 13.6380729675293,
         "Instances": [],
         "Parents": [
           {
@@ -44324,7 +44324,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 53.050811767578125,
+        "Confidence": 23.050811767578125,
         "Instances": [],
         "Parents": [
           {
@@ -44655,7 +44655,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Party",
-        "Confidence": 51.940670013427734,
+        "Confidence": 41.940670013427734,
         "Instances": [],
         "Parents": [
           {
@@ -45094,7 +45094,7 @@
               "Left": 0.10720371454954147,
               "Top": 0.0035917090717703104
             },
-            "Confidence": 51.18122863769531
+            "Confidence": 21.18122863769531
           }
         ],
         "Parents": [
@@ -45322,7 +45322,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Fun",
-        "Confidence": 51.986724853515625,
+        "Confidence": 41.986724853515625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -45495,7 +45495,7 @@
               "Left": 0.10720371454954147,
               "Top": 0.0035917090717703104
             },
-            "Confidence": 51.18122863769531
+            "Confidence": 31.18122863769531
           }
         ],
         "Parents": [
@@ -45551,7 +45551,7 @@
               "Left": 0.16101191937923431,
               "Top": 0.007268867455422878
             },
-            "Confidence": 56.22296142578125
+            "Confidence": 46.22296142578125
           },
           {
             "BoundingBox": {
@@ -45560,7 +45560,7 @@
               "Left": 0.10720371454954147,
               "Top": 0.0035917090717703104
             },
-            "Confidence": 51.18122863769531
+            "Confidence": 21.18122863769531
           }
         ],
         "Parents": [
@@ -45684,7 +45684,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Party",
-        "Confidence": 51.986724853515625,
+        "Confidence": 41.986724853515625,
         "Instances": [],
         "Parents": [
           {
@@ -45803,7 +45803,7 @@
               "Left": 0.16101191937923431,
               "Top": 0.007268867455422878
             },
-            "Confidence": 56.22296142578125
+            "Confidence": 26.22296142578125
           },
           {
             "BoundingBox": {
@@ -45832,7 +45832,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 56.261966705322266,
+        "Confidence": 46.261966705322266,
         "Instances": [],
         "Parents": [
           {
@@ -45891,7 +45891,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Slapping",
-        "Confidence": 56.10533905029297,
+        "Confidence": 46.10533905029297,
         "Instances": [],
         "Parents": [
           {
@@ -45910,7 +45910,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 52.732513427734375,
+        "Confidence": 12.732513427734375,
         "Instances": [],
         "Parents": [
           {
@@ -45932,7 +45932,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Stage",
-        "Confidence": 51.11875915527344,
+        "Confidence": 31.11875915527344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -46131,7 +46131,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.012229919433594,
+        "Confidence": 42.012229919433594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -46211,7 +46211,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Club",
-        "Confidence": 50.800289154052734,
+        "Confidence": 20.800289154052734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -46364,7 +46364,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Group Performance",
-        "Confidence": 56.03619384765625,
+        "Confidence": 46.03619384765625,
         "Instances": [],
         "Parents": [
           {
@@ -46443,7 +46443,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Lighting",
-        "Confidence": 55.26123046875,
+        "Confidence": 25.26123046875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -46603,7 +46603,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Music",
-        "Confidence": 59.5308952331543,
+        "Confidence": 39.5308952331543,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -46618,7 +46618,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 52.27140426635742,
+        "Confidence": 22.27140426635742,
         "Instances": [],
         "Parents": [
           {
@@ -46655,7 +46655,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 59.5308952331543,
+        "Confidence": 29.5308952331543,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -46850,7 +46850,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 56.78884506225586,
+        "Confidence": 46.78884506225586,
         "Instances": [],
         "Parents": [
           {
@@ -46909,7 +46909,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Slapping",
-        "Confidence": 53.309814453125,
+        "Confidence": 33.309814453125,
         "Instances": [],
         "Parents": [
           {
@@ -47116,7 +47116,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Club",
-        "Confidence": 51.3725700378418,
+        "Confidence": 21.3725700378418,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -47287,7 +47287,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Group Performance",
-        "Confidence": 54.68116760253906,
+        "Confidence": 44.68116760253906,
         "Instances": [],
         "Parents": [
           {
@@ -47492,7 +47492,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 53.34641647338867,
+        "Confidence": 33.34641647338867,
         "Instances": [],
         "Parents": [
           {
@@ -47575,7 +47575,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Night Club",
-        "Confidence": 50.4688835144043,
+        "Confidence": 30.4688835144043,
         "Instances": [],
         "Parents": [
           {
@@ -47594,7 +47594,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.4830436706543,
+        "Confidence": 33.4830436706543,
         "Instances": [],
         "Parents": [
           {
@@ -47758,7 +47758,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Singing",
-        "Confidence": 53.845703125,
+        "Confidence": 23.845703125,
         "Instances": [],
         "Parents": [
           {
@@ -48002,7 +48002,7 @@
               "Left": 0.0006430309731513262,
               "Top": 0.40594756603240967
             },
-            "Confidence": 56.88880157470703
+            "Confidence": 46.88880157470703
           }
         ],
         "Parents": [
@@ -48191,7 +48191,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.15985870361328,
+        "Confidence": 32.15985870361328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -48206,7 +48206,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Group Performance",
-        "Confidence": 52.34221267700195,
+        "Confidence": 42.34221267700195,
         "Instances": [],
         "Parents": [
           {
@@ -48244,7 +48244,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 52.55347442626953,
+        "Confidence": 42.55347442626953,
         "Instances": [],
         "Parents": [
           {
@@ -48378,7 +48378,7 @@
               "Left": 0.0006430309731513262,
               "Top": 0.40594756603240967
             },
-            "Confidence": 56.88880157470703
+            "Confidence": 36.88880157470703
           }
         ],
         "Parents": [
@@ -48471,7 +48471,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Musician",
-        "Confidence": 56.24960708618164,
+        "Confidence": 46.24960708618164,
         "Instances": [],
         "Parents": [
           {
@@ -48639,7 +48639,7 @@
               "Left": 0.0006430309731513262,
               "Top": 0.40594756603240967
             },
-            "Confidence": 56.88880157470703
+            "Confidence": 16.88880157470703
           }
         ],
         "Parents": [],
@@ -48718,7 +48718,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 52.16614532470703,
+        "Confidence": 42.16614532470703,
         "Instances": [],
         "Parents": [
           {
@@ -49054,7 +49054,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Group Performance",
-        "Confidence": 53.594791412353516,
+        "Confidence": 43.594791412353516,
         "Instances": [],
         "Parents": [
           {
@@ -49216,7 +49216,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Music",
-        "Confidence": 56.96262741088867,
+        "Confidence": 46.96262741088867,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -49433,7 +49433,7 @@
               "Left": 0.28894615173339844,
               "Top": 0.7989597320556641
             },
-            "Confidence": 58.33818817138672
+            "Confidence": 48.33818817138672
           }
         ],
         "Parents": [],
@@ -49512,7 +49512,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 52.34968566894531,
+        "Confidence": 42.34968566894531,
         "Instances": [],
         "Parents": [
           {
@@ -49650,7 +49650,7 @@
               "Left": 0.1978973150253296,
               "Top": 0.5705153942108154
             },
-            "Confidence": 50.812294006347656
+            "Confidence": 10.812294006347656
           }
         ],
         "Parents": [
@@ -49941,7 +49941,7 @@
               "Left": 0.1978973150253296,
               "Top": 0.5705153942108154
             },
-            "Confidence": 50.812294006347656
+            "Confidence": 10.812294006347656
           }
         ],
         "Parents": [
@@ -50006,7 +50006,7 @@
               "Left": 0.1978973150253296,
               "Top": 0.5705153942108154
             },
-            "Confidence": 50.812294006347656
+            "Confidence": 20.812294006347656
           }
         ],
         "Parents": [
@@ -50047,7 +50047,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 52.675621032714844,
+        "Confidence": 32.675621032714844,
         "Instances": [],
         "Parents": [
           {
@@ -50084,7 +50084,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 54.653446197509766,
+        "Confidence": 34.653446197509766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -50641,7 +50641,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Kissing",
-        "Confidence": 51.475921630859375,
+        "Confidence": 31.475921630859375,
         "Instances": [],
         "Parents": [
           {
@@ -50771,7 +50771,7 @@
               "Left": 0.23327328264713287,
               "Top": 0.5425392985343933
             },
-            "Confidence": 57.150943756103516
+            "Confidence": 47.150943756103516
           },
           {
             "BoundingBox": {
@@ -50825,7 +50825,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Performer",
-        "Confidence": 54.78450012207031,
+        "Confidence": 44.78450012207031,
         "Instances": [],
         "Parents": [
           {
@@ -50898,7 +50898,7 @@
               "Left": 0.23327328264713287,
               "Top": 0.5425392985343933
             },
-            "Confidence": 57.150943756103516
+            "Confidence": 27.150943756103516
           },
           {
             "BoundingBox": {
@@ -50927,7 +50927,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 52.4228401184082,
+        "Confidence": 42.4228401184082,
         "Instances": [],
         "Parents": [
           {
@@ -50952,7 +50952,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 52.200111389160156,
+        "Confidence": 22.200111389160156,
         "Instances": [],
         "Parents": [
           {
@@ -50971,7 +50971,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Slapping",
-        "Confidence": 51.797645568847656,
+        "Confidence": 41.797645568847656,
         "Instances": [],
         "Parents": [
           {
@@ -51106,7 +51106,7 @@
               "Left": 0.8903375864028931,
               "Top": 0.7922737002372742
             },
-            "Confidence": 56.58620071411133
+            "Confidence": 46.58620071411133
           },
           {
             "BoundingBox": {
@@ -51285,7 +51285,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Group Performance",
-        "Confidence": 52.88646697998047,
+        "Confidence": 32.88646697998047,
         "Instances": [],
         "Parents": [
           {
@@ -51418,7 +51418,7 @@
               "Left": 0.8903375864028931,
               "Top": 0.7922737002372742
             },
-            "Confidence": 56.58620071411133
+            "Confidence": 36.58620071411133
           },
           {
             "BoundingBox": {
@@ -51510,7 +51510,7 @@
               "Left": 0.48957687616348267,
               "Top": 0.7955710887908936
             },
-            "Confidence": 56.39796447753906
+            "Confidence": 46.39796447753906
           }
         ],
         "Parents": [
@@ -51551,7 +51551,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 50.02876663208008,
+        "Confidence": 40.02876663208008,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -51566,7 +51566,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Musician",
-        "Confidence": 50.02876663208008,
+        "Confidence": 30.02876663208008,
         "Instances": [],
         "Parents": [
           {
@@ -51616,7 +51616,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Performer",
-        "Confidence": 55.140419006347656,
+        "Confidence": 35.140419006347656,
         "Instances": [],
         "Parents": [
           {
@@ -51707,7 +51707,7 @@
               "Left": 0.8903375864028931,
               "Top": 0.7922737002372742
             },
-            "Confidence": 56.58620071411133
+            "Confidence": 36.58620071411133
           },
           {
             "BoundingBox": {
@@ -51716,7 +51716,7 @@
               "Left": 0.48957687616348267,
               "Top": 0.7955710887908936
             },
-            "Confidence": 56.39796447753906
+            "Confidence": 26.39796447753906
           }
         ],
         "Parents": [],
@@ -51761,7 +51761,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Slapping",
-        "Confidence": 52.14919662475586,
+        "Confidence": 42.14919662475586,
         "Instances": [],
         "Parents": [
           {
@@ -51953,7 +51953,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.99293899536133,
+        "Confidence": 40.99293899536133,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -51968,7 +51968,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Club",
-        "Confidence": 50.7625846862793,
+        "Confidence": 40.7625846862793,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -52401,7 +52401,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Music",
-        "Confidence": 56.563255310058594,
+        "Confidence": 46.563255310058594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -52416,7 +52416,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 52.67068862915039,
+        "Confidence": 22.67068862915039,
         "Instances": [],
         "Parents": [
           {
@@ -52499,7 +52499,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Party",
-        "Confidence": 52.911190032958984,
+        "Confidence": 22.911190032958984,
         "Instances": [],
         "Parents": [
           {
@@ -52672,7 +52672,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 55.644622802734375,
+        "Confidence": 15.644622802734375,
         "Instances": [],
         "Parents": [
           {
@@ -52738,7 +52738,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Sport",
-        "Confidence": 51.3906364440918,
+        "Confidence": 11.3906364440918,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -52802,7 +52802,7 @@
               "Left": 0.11717817187309265,
               "Top": 1.1558532605704386e-05
             },
-            "Confidence": 50.02397155761719
+            "Confidence": 20.02397155761719
           }
         ],
         "Parents": [
@@ -52957,7 +52957,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.74146270751953,
+        "Confidence": 30.74146270751953,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -52972,7 +52972,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Club",
-        "Confidence": 51.34143829345703,
+        "Confidence": 31.34143829345703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -53085,7 +53085,7 @@
               "Left": 0.1772596538066864,
               "Top": 0.0008121490245684981
             },
-            "Confidence": 59.448486328125
+            "Confidence": 39.448486328125
           }
         ],
         "Parents": [
@@ -53369,7 +53369,7 @@
               "Left": 0.46959179639816284,
               "Top": 0.0026229287032037973
             },
-            "Confidence": 50.701881408691406
+            "Confidence": 30.701881408691406
           }
         ],
         "Parents": [
@@ -53496,7 +53496,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Music",
-        "Confidence": 57.8262825012207,
+        "Confidence": 37.8262825012207,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -53563,7 +53563,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Musician",
-        "Confidence": 57.8262825012207,
+        "Confidence": 47.8262825012207,
         "Instances": [],
         "Parents": [
           {
@@ -53713,7 +53713,7 @@
               "Left": 0.1772596538066864,
               "Top": 0.0008121490245684981
             },
-            "Confidence": 59.448486328125
+            "Confidence": 49.448486328125
           },
           {
             "BoundingBox": {
@@ -53742,7 +53742,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Playing Basketball",
-        "Confidence": 51.751243591308594,
+        "Confidence": 31.751243591308594,
         "Instances": [],
         "Parents": [
           {
@@ -53767,7 +53767,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 55.19380187988281,
+        "Confidence": 35.19380187988281,
         "Instances": [],
         "Parents": [
           {
@@ -53852,7 +53852,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Sport",
-        "Confidence": 51.84695816040039,
+        "Confidence": 41.84695816040039,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -54022,7 +54022,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Basketball",
-        "Confidence": 50.120941162109375,
+        "Confidence": 40.120941162109375,
         "Instances": [],
         "Parents": [
           {
@@ -54226,7 +54226,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 54.73159408569336,
+        "Confidence": 34.73159408569336,
         "Instances": [],
         "Parents": [
           {
@@ -54245,7 +54245,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 52.910888671875,
+        "Confidence": 22.910888671875,
         "Instances": [],
         "Parents": [
           {
@@ -54598,7 +54598,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Party",
-        "Confidence": 54.966312408447266,
+        "Confidence": 34.966312408447266,
         "Instances": [],
         "Parents": [
           {
@@ -54737,7 +54737,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Playing Basketball",
-        "Confidence": 50.120941162109375,
+        "Confidence": 20.120941162109375,
         "Instances": [],
         "Parents": [
           {
@@ -54762,7 +54762,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Rock Concert",
-        "Confidence": 54.1380500793457,
+        "Confidence": 34.1380500793457,
         "Instances": [],
         "Parents": [
           {
@@ -54787,7 +54787,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 53.31759262084961,
+        "Confidence": 23.31759262084961,
         "Instances": [],
         "Parents": [
           {
@@ -54840,7 +54840,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Slapping",
-        "Confidence": 50.5605354309082,
+        "Confidence": 40.5605354309082,
         "Instances": [],
         "Parents": [
           {
@@ -54859,7 +54859,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Solo Performance",
-        "Confidence": 57.2447624206543,
+        "Confidence": 27.2447624206543,
         "Instances": [],
         "Parents": [
           {
@@ -54881,7 +54881,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Sport",
-        "Confidence": 50.30997848510742,
+        "Confidence": 40.30997848510742,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -54900,7 +54900,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Stage",
-        "Confidence": 50.9616813659668,
+        "Confidence": 30.9616813659668,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -54915,7 +54915,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Wedding Proposal",
-        "Confidence": 52.6823616027832,
+        "Confidence": 32.6823616027832,
         "Instances": [],
         "Parents": [
           {
@@ -55071,7 +55071,7 @@
               "Left": 0.0013657495146617293,
               "Top": 0.25797975063323975
             },
-            "Confidence": 53.100860595703125
+            "Confidence": 13.100860595703125
           }
         ],
         "Parents": [
@@ -55250,7 +55250,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 53.79338836669922,
+        "Confidence": 43.79338836669922,
         "Instances": [],
         "Parents": [
           {
@@ -55269,7 +55269,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 52.40638732910156,
+        "Confidence": 42.40638732910156,
         "Instances": [],
         "Parents": [
           {
@@ -55539,7 +55539,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 55.14146041870117,
+        "Confidence": 35.14146041870117,
         "Instances": [],
         "Parents": [
           {
@@ -55786,7 +55786,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 54.382083892822266,
+        "Confidence": 44.382083892822266,
         "Instances": [],
         "Parents": [
           {
@@ -55839,7 +55839,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Slapping",
-        "Confidence": 51.732521057128906,
+        "Confidence": 31.732521057128906,
         "Instances": [],
         "Parents": [
           {
@@ -55895,7 +55895,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.47652816772461,
+        "Confidence": 32.47652816772461,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -56203,7 +56203,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Fun",
-        "Confidence": 51.07084655761719,
+        "Confidence": 41.07084655761719,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -56256,7 +56256,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Guitarist",
-        "Confidence": 54.084964752197266,
+        "Confidence": 34.084964752197266,
         "Instances": [],
         "Parents": [
           {
@@ -56445,7 +56445,7 @@
               "Left": 0.7108879089355469,
               "Top": 0.47145751118659973
             },
-            "Confidence": 58.564632415771484
+            "Confidence": 48.564632415771484
           }
         ],
         "Parents": [
@@ -56588,7 +56588,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Percussion",
-        "Confidence": 50.41666030883789,
+        "Confidence": 40.41666030883789,
         "Instances": [],
         "Parents": [
           {
@@ -56781,7 +56781,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Stage",
-        "Confidence": 52.19155502319336,
+        "Confidence": 42.19155502319336,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -56911,7 +56911,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Club",
-        "Confidence": 53.880409240722656,
+        "Confidence": 33.880409240722656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -56989,7 +56989,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Electrical Device",
-        "Confidence": 50.33943176269531,
+        "Confidence": 40.33943176269531,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -57004,7 +57004,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Face",
-        "Confidence": 55.2013053894043,
+        "Confidence": 45.2013053894043,
         "Instances": [],
         "Parents": [
           {
@@ -57060,7 +57060,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Guitar",
-        "Confidence": 53.510765075683594,
+        "Confidence": 23.510765075683594,
         "Instances": [],
         "Parents": [
           {
@@ -57294,7 +57294,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Microphone",
-        "Confidence": 50.33943176269531,
+        "Confidence": 40.33943176269531,
         "Instances": [],
         "Parents": [
           {
@@ -57328,7 +57328,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.55680847167969,
+        "Confidence": 34.55680847167969,
         "Instances": [],
         "Parents": [
           {
@@ -57449,7 +57449,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Party",
-        "Confidence": 52.99507141113281,
+        "Confidence": 42.99507141113281,
         "Instances": [],
         "Parents": [
           {
@@ -57596,7 +57596,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Singing",
-        "Confidence": 51.184654235839844,
+        "Confidence": 31.184654235839844,
         "Instances": [],
         "Parents": [
           {
@@ -57652,7 +57652,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Stage",
-        "Confidence": 50.301143646240234,
+        "Confidence": 30.301143646240234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -57745,7 +57745,7 @@
               "Left": 0.801831066608429,
               "Top": 0.7900679707527161
             },
-            "Confidence": 58.821739196777344
+            "Confidence": 48.821739196777344
           },
           {
             "BoundingBox": {
@@ -57792,7 +57792,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Club",
-        "Confidence": 53.493045806884766,
+        "Confidence": 33.493045806884766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -57963,7 +57963,7 @@
               "Left": 0.7207791805267334,
               "Top": 0.17657162249088287
             },
-            "Confidence": 53.33684539794922
+            "Confidence": 43.33684539794922
           }
         ],
         "Parents": [
@@ -58151,7 +58151,7 @@
               "Left": 0.801831066608429,
               "Top": 0.7900679707527161
             },
-            "Confidence": 58.821739196777344
+            "Confidence": 38.821739196777344
           },
           {
             "BoundingBox": {
@@ -58251,7 +58251,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Music",
-        "Confidence": 58.19193649291992,
+        "Confidence": 38.19193649291992,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -58266,7 +58266,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Music Band",
-        "Confidence": 54.35456085205078,
+        "Confidence": 44.35456085205078,
         "Instances": [],
         "Parents": [
           {
@@ -58303,7 +58303,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 58.19193649291992,
+        "Confidence": 48.19193649291992,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -58318,7 +58318,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Musician",
-        "Confidence": 58.19193649291992,
+        "Confidence": 48.19193649291992,
         "Instances": [],
         "Parents": [
           {
@@ -58349,7 +58349,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Night Club",
-        "Confidence": 50.356258392333984,
+        "Confidence": 20.356258392333984,
         "Instances": [],
         "Parents": [
           {
@@ -58368,7 +58368,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 51.34303665161133,
+        "Confidence": 41.34303665161133,
         "Instances": [],
         "Parents": [
           {
@@ -58387,7 +58387,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Party",
-        "Confidence": 51.60382080078125,
+        "Confidence": 31.60382080078125,
         "Instances": [],
         "Parents": [
           {
@@ -58515,7 +58515,7 @@
               "Left": 0.7207791805267334,
               "Top": 0.17657162249088287
             },
-            "Confidence": 53.33684539794922
+            "Confidence": 33.33684539794922
           },
           {
             "BoundingBox": {
@@ -58524,7 +58524,7 @@
               "Left": 0.6721562147140503,
               "Top": 0.0005435180501081049
             },
-            "Confidence": 52.038490295410156
+            "Confidence": 42.038490295410156
           }
         ],
         "Parents": [],
@@ -58569,7 +58569,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 50.1219596862793,
+        "Confidence": 30.1219596862793,
         "Instances": [],
         "Parents": [
           {

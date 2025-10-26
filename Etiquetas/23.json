@@ -38,7 +38,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Floor",
-        "Confidence": 59.28276062011719,
+        "Confidence": 49.28276062011719,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -68,7 +68,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 52.728397369384766,
+        "Confidence": 42.728397369384766,
         "Instances": [],
         "Parents": [
           {
@@ -212,7 +212,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 50.15005874633789,
+        "Confidence": 30.15005874633789,
         "Instances": [],
         "Parents": [
           {
@@ -269,7 +269,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Shower",
-        "Confidence": 50.642845153808594,
+        "Confidence": 30.642845153808594,
         "Instances": [],
         "Parents": [
           {
@@ -348,7 +348,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Basin",
-        "Confidence": 52.673011779785156,
+        "Confidence": 42.673011779785156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -385,7 +385,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Cleaning",
-        "Confidence": 52.91343688964844,
+        "Confidence": 22.91343688964844,
         "Instances": [],
         "Parents": [
           {
@@ -434,7 +434,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Person",
-        "Confidence": 52.91343688964844,
+        "Confidence": 42.91343688964844,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -507,7 +507,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Basin",
-        "Confidence": 58.46925354003906,
+        "Confidence": 38.46925354003906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -778,7 +778,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Bathroom",
-        "Confidence": 52.30966567993164,
+        "Confidence": 42.30966567993164,
         "Instances": [],
         "Parents": [
           {
@@ -800,7 +800,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 53.4263801574707,
+        "Confidence": 33.4263801574707,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -815,7 +815,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Room",
-        "Confidence": 52.30966567993164,
+        "Confidence": 32.30966567993164,
         "Instances": [],
         "Parents": [
           {
@@ -971,7 +971,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Tap",
-        "Confidence": 50.92600631713867,
+        "Confidence": 40.92600631713867,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1211,7 +1211,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Tap",
-        "Confidence": 50.10081481933594,
+        "Confidence": 40.10081481933594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1254,7 +1254,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 57.09856414794922,
+        "Confidence": 27.09856414794922,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1288,7 +1288,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.587459564208984,
+        "Confidence": 41.587459564208984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1325,7 +1325,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Person",
-        "Confidence": 51.587459564208984,
+        "Confidence": 31.587459564208984,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1403,7 +1403,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Basin",
-        "Confidence": 52.86415100097656,
+        "Confidence": 42.86415100097656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1478,7 +1478,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Device",
-        "Confidence": 51.267181396484375,
+        "Confidence": 41.267181396484375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1530,7 +1530,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 50.96099853515625,
+        "Confidence": 40.96099853515625,
         "Instances": [],
         "Parents": [
           {
@@ -1555,7 +1555,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Kitchen Peeler",
-        "Confidence": 52.15061569213867,
+        "Confidence": 32.15061569213867,
         "Instances": [],
         "Parents": [
           {
@@ -1574,7 +1574,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Kitchen Utensil",
-        "Confidence": 52.15061569213867,
+        "Confidence": 42.15061569213867,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1589,7 +1589,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Pen",
-        "Confidence": 52.16584014892578,
+        "Confidence": 22.16584014892578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1723,7 +1723,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Washing Hands",
-        "Confidence": 50.84070587158203,
+        "Confidence": 30.84070587158203,
         "Instances": [],
         "Parents": [
           {
@@ -1766,7 +1766,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 59.11213684082031,
+        "Confidence": 29.11213684082031,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1818,7 +1818,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Person",
-        "Confidence": 59.11213684082031,
+        "Confidence": 39.11213684082031,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1881,7 +1881,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Washing Hands",
-        "Confidence": 54.30155944824219,
+        "Confidence": 44.30155944824219,
         "Instances": [],
         "Parents": [
           {
@@ -2272,7 +2272,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 58.60783767700195,
+        "Confidence": 38.60783767700195,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2309,7 +2309,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Mortar Shell",
-        "Confidence": 58.53861999511719,
+        "Confidence": 38.53861999511719,
         "Instances": [
           {
             "BoundingBox": {
@@ -2347,7 +2347,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Person",
-        "Confidence": 58.60783767700195,
+        "Confidence": 48.60783767700195,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -2391,7 +2391,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Sink Faucet",
-        "Confidence": 55.01666259765625,
+        "Confidence": 35.01666259765625,
         "Instances": [],
         "Parents": [
           {
@@ -2410,7 +2410,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Tap",
-        "Confidence": 50.789772033691406,
+        "Confidence": 40.789772033691406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2425,7 +2425,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Washing Hands",
-        "Confidence": 51.53864669799805,
+        "Confidence": 41.53864669799805,
         "Instances": [],
         "Parents": [
           {
@@ -2587,7 +2587,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Sink Faucet",
-        "Confidence": 56.920677185058594,
+        "Confidence": 26.920677185058594,
         "Instances": [],
         "Parents": [
           {
@@ -2606,7 +2606,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Tap",
-        "Confidence": 52.66267395019531,
+        "Confidence": 32.66267395019531,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2690,7 +2690,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Baby",
-        "Confidence": 59.271087646484375,
+        "Confidence": 39.271087646484375,
         "Instances": [
           {
             "BoundingBox": {
@@ -2768,7 +2768,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Ceiling Fan",
-        "Confidence": 51.111541748046875,
+        "Confidence": 31.111541748046875,
         "Instances": [
           {
             "BoundingBox": {
@@ -2803,7 +2803,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Device",
-        "Confidence": 59.28782653808594,
+        "Confidence": 39.28782653808594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2818,7 +2818,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Electrical Device",
-        "Confidence": 59.01739501953125,
+        "Confidence": 49.01739501953125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2957,7 +2957,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Sink Faucet",
-        "Confidence": 56.13555908203125,
+        "Confidence": 46.13555908203125,
         "Instances": [],
         "Parents": [
           {
@@ -3082,7 +3082,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Beverage",
-        "Confidence": 55.49216842651367,
+        "Confidence": 25.49216842651367,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -3116,7 +3116,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Food",
-        "Confidence": 53.422550201416016,
+        "Confidence": 23.422550201416016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3162,7 +3162,7 @@
               "Left": 0.0012611249694600701,
               "Top": 0.48908206820487976
             },
-            "Confidence": 55.376129150390625
+            "Confidence": 45.376129150390625
           }
         ],
         "Parents": [
@@ -3436,7 +3436,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Milk",
-        "Confidence": 58.081932067871094,
+        "Confidence": 28.081932067871094,
         "Instances": [
           {
             "BoundingBox": {
@@ -3445,7 +3445,7 @@
               "Left": 0.0,
               "Top": 0.4874058663845062
             },
-            "Confidence": 58.143699645996094
+            "Confidence": 38.143699645996094
           }
         ],
         "Parents": [
@@ -3509,7 +3509,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Sink Faucet",
-        "Confidence": 55.17707443237305,
+        "Confidence": 35.17707443237305,
         "Instances": [],
         "Parents": [
           {
@@ -3686,7 +3686,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Milk",
-        "Confidence": 51.38737869262695,
+        "Confidence": 31.38737869262695,
         "Instances": [],
         "Parents": [
           {
@@ -3768,7 +3768,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Tap",
-        "Confidence": 50.619102478027344,
+        "Confidence": 30.619102478027344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3811,7 +3811,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Alcohol",
-        "Confidence": 50.32375717163086,
+        "Confidence": 20.32375717163086,
         "Instances": [],
         "Parents": [
           {
@@ -3864,7 +3864,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 56.8647575378418,
+        "Confidence": 46.8647575378418,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3924,7 +3924,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 50.30111312866211,
+        "Confidence": 20.30111312866211,
         "Instances": [],
         "Parents": [
           {
@@ -3943,7 +3943,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Egg",
-        "Confidence": 53.83039474487305,
+        "Confidence": 33.83039474487305,
         "Instances": [],
         "Parents": [
           {
@@ -4241,7 +4241,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Cooking Oil",
-        "Confidence": 52.83224105834961,
+        "Confidence": 42.83224105834961,
         "Instances": [],
         "Parents": [
           {
@@ -4286,7 +4286,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 52.630863189697266,
+        "Confidence": 22.630863189697266,
         "Instances": [],
         "Parents": [
           {
@@ -4358,7 +4358,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 52.630863189697266,
+        "Confidence": 32.630863189697266,
         "Instances": [],
         "Parents": [
           {
@@ -4441,7 +4441,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Poached Egg",
-        "Confidence": 51.20447540283203,
+        "Confidence": 21.20447540283203,
         "Instances": [],
         "Parents": [
           {
@@ -4548,7 +4548,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Boiling",
-        "Confidence": 50.72471618652344,
+        "Confidence": 40.72471618652344,
         "Instances": [],
         "Parents": [
           {
@@ -4604,7 +4604,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Cream",
-        "Confidence": 53.532073974609375,
+        "Confidence": 43.532073974609375,
         "Instances": [],
         "Parents": [
           {
@@ -4630,7 +4630,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 53.532073974609375,
+        "Confidence": 33.532073974609375,
         "Instances": [],
         "Parents": [
           {
@@ -4803,7 +4803,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Poached Egg",
-        "Confidence": 51.98584747314453,
+        "Confidence": 31.98584747314453,
         "Instances": [],
         "Parents": [
           {
@@ -4876,7 +4876,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Beverage",
-        "Confidence": 53.306026458740234,
+        "Confidence": 33.306026458740234,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -4958,7 +4958,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 52.97030258178711,
+        "Confidence": 22.97030258178711,
         "Instances": [],
         "Parents": [
           {
@@ -5083,7 +5083,7 @@
               "Left": 0.0,
               "Top": 0.002795600797981024
             },
-            "Confidence": 52.37950134277344
+            "Confidence": 42.37950134277344
           }
         ],
         "Parents": [
@@ -5205,7 +5205,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Blending Ingredients",
-        "Confidence": 50.86391067504883,
+        "Confidence": 20.86391067504883,
         "Instances": [],
         "Parents": [
           {
@@ -5325,7 +5325,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Egg",
-        "Confidence": 58.3042106628418,
+        "Confidence": 28.3042106628418,
         "Instances": [],
         "Parents": [
           {
@@ -5359,7 +5359,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Food Presentation",
-        "Confidence": 50.737831115722656,
+        "Confidence": 40.737831115722656,
         "Instances": [],
         "Parents": [
           {
@@ -5432,7 +5432,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Poached Egg",
-        "Confidence": 50.55135726928711,
+        "Confidence": 40.55135726928711,
         "Instances": [],
         "Parents": [
           {
@@ -5454,7 +5454,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Pouring Food",
-        "Confidence": 52.77924728393555,
+        "Confidence": 42.77924728393555,
         "Instances": [],
         "Parents": [
           {
@@ -5514,7 +5514,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Boiling",
-        "Confidence": 50.564971923828125,
+        "Confidence": 20.564971923828125,
         "Instances": [],
         "Parents": [
           {
@@ -5570,7 +5570,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Egg",
-        "Confidence": 55.72900390625,
+        "Confidence": 35.72900390625,
         "Instances": [],
         "Parents": [
           {
@@ -5661,7 +5661,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Soaking Ingredients",
-        "Confidence": 51.691349029541016,
+        "Confidence": 41.691349029541016,
         "Instances": [],
         "Parents": [
           {
@@ -5767,7 +5767,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Sink",
-        "Confidence": 50.7974967956543,
+        "Confidence": 40.7974967956543,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5835,7 +5835,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Egg",
-        "Confidence": 53.8133544921875,
+        "Confidence": 23.8133544921875,
         "Instances": [],
         "Parents": [
           {
@@ -5884,7 +5884,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Sink Faucet",
-        "Confidence": 52.68402862548828,
+        "Confidence": 42.68402862548828,
         "Instances": [],
         "Parents": [
           {
@@ -6012,7 +6012,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Person",
-        "Confidence": 51.08905029296875,
+        "Confidence": 41.08905029296875,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6046,7 +6046,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Sink Faucet",
-        "Confidence": 55.357059478759766,
+        "Confidence": 35.357059478759766,
         "Instances": [],
         "Parents": [
           {
@@ -6206,7 +6206,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Cooking Oil",
-        "Confidence": 52.45895004272461,
+        "Confidence": 32.45895004272461,
         "Instances": [],
         "Parents": [
           {
@@ -6225,7 +6225,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Egg",
-        "Confidence": 50.38209915161133,
+        "Confidence": 40.38209915161133,
         "Instances": [],
         "Parents": [
           {
@@ -6486,7 +6486,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Bowl",
-        "Confidence": 50.922969818115234,
+        "Confidence": 30.922969818115234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6542,7 +6542,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Building Flooding",
-        "Confidence": 50.29840087890625,
+        "Confidence": 40.29840087890625,
         "Instances": [],
         "Parents": [
           {
@@ -6620,7 +6620,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Home Damage",
-        "Confidence": 50.405025482177734,
+        "Confidence": 40.405025482177734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6635,7 +6635,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 56.212257385253906,
+        "Confidence": 36.212257385253906,
         "Instances": [],
         "Parents": [
           {
@@ -6770,7 +6770,7 @@
               "Left": 0.2721429765224457,
               "Top": 0.24862349033355713
             },
-            "Confidence": 56.791297912597656
+            "Confidence": 46.791297912597656
           }
         ],
         "Parents": [
@@ -7218,7 +7218,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Soaking Ingredients",
-        "Confidence": 53.572017669677734,
+        "Confidence": 43.572017669677734,
         "Instances": [],
         "Parents": [
           {
@@ -7447,7 +7447,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Bowl",
-        "Confidence": 50.83710479736328,
+        "Confidence": 30.83710479736328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7477,7 +7477,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Egg",
-        "Confidence": 51.05683135986328,
+        "Confidence": 31.05683135986328,
         "Instances": [],
         "Parents": [
           {
@@ -7586,7 +7586,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Cat",
-        "Confidence": 51.77265548706055,
+        "Confidence": 31.77265548706055,
         "Instances": [
           {
             "BoundingBox": {
@@ -7662,7 +7662,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 52.044952392578125,
+        "Confidence": 12.044952392578125,
         "Instances": [],
         "Parents": [
           {
@@ -7681,7 +7681,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Food",
-        "Confidence": 59.353050231933594,
+        "Confidence": 29.353050231933594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7831,7 +7831,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Egg",
-        "Confidence": 50.66836929321289,
+        "Confidence": 30.66836929321289,
         "Instances": [],
         "Parents": [
           {
@@ -7850,7 +7850,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Food",
-        "Confidence": 58.742942810058594,
+        "Confidence": 48.742942810058594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7928,7 +7928,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Cooking Oil",
-        "Confidence": 51.81745910644531,
+        "Confidence": 41.81745910644531,
         "Instances": [],
         "Parents": [
           {
@@ -7947,7 +7947,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Egg",
-        "Confidence": 53.688236236572266,
+        "Confidence": 43.688236236572266,
         "Instances": [],
         "Parents": [
           {
@@ -7981,7 +7981,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Sink",
-        "Confidence": 54.207942962646484,
+        "Confidence": 34.207942962646484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7996,7 +7996,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Sink Faucet",
-        "Confidence": 52.87862014770508,
+        "Confidence": 32.87862014770508,
         "Instances": [],
         "Parents": [
           {
@@ -8015,7 +8015,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Boiling",
-        "Confidence": 52.206119537353516,
+        "Confidence": 22.206119537353516,
         "Instances": [],
         "Parents": [
           {
@@ -8052,7 +8052,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Cooking Oil",
-        "Confidence": 54.986385345458984,
+        "Confidence": 44.986385345458984,
         "Instances": [],
         "Parents": [
           {
@@ -8105,7 +8105,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Poached Egg",
-        "Confidence": 53.799217224121094,
+        "Confidence": 23.799217224121094,
         "Instances": [],
         "Parents": [
           {
@@ -8127,7 +8127,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Alcohol",
-        "Confidence": 53.13405990600586,
+        "Confidence": 43.13405990600586,
         "Instances": [],
         "Parents": [
           {
@@ -8194,7 +8194,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 51.98386764526367,
+        "Confidence": 21.98386764526367,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8333,7 +8333,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Tap",
-        "Confidence": 53.4354362487793,
+        "Confidence": 13.4354362487793,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8452,7 +8452,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Boiling",
-        "Confidence": 50.23416519165039,
+        "Confidence": 40.23416519165039,
         "Instances": [],
         "Parents": [
           {
@@ -8511,7 +8511,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Cup",
-        "Confidence": 53.12704849243164,
+        "Confidence": 33.12704849243164,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -8530,7 +8530,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Female",
-        "Confidence": 54.9102783203125,
+        "Confidence": 34.9102783203125,
         "Instances": [
           {
             "BoundingBox": {
@@ -8559,7 +8559,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Food",
-        "Confidence": 56.319915771484375,
+        "Confidence": 16.319915771484375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8574,7 +8574,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Glass",
-        "Confidence": 50.555091857910156,
+        "Confidence": 40.555091857910156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8589,7 +8589,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 54.8255615234375,
+        "Confidence": 34.8255615234375,
         "Instances": [],
         "Parents": [
           {
@@ -8626,7 +8626,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Lager",
-        "Confidence": 53.27048873901367,
+        "Confidence": 23.27048873901367,
         "Instances": [],
         "Parents": [
           {
@@ -8721,7 +8721,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Sink",
-        "Confidence": 59.037376403808594,
+        "Confidence": 39.037376403808594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8736,7 +8736,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Sink Faucet",
-        "Confidence": 57.826751708984375,
+        "Confidence": 37.826751708984375,
         "Instances": [
           {
             "BoundingBox": {
@@ -8745,7 +8745,7 @@
               "Left": 0.3876746594905853,
               "Top": 0.5348825454711914
             },
-            "Confidence": 50.5150146484375
+            "Confidence": 30.5150146484375
           }
         ],
         "Parents": [
@@ -8765,7 +8765,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 50.58542251586914,
+        "Confidence": 20.58542251586914,
         "Instances": [],
         "Parents": [
           {
@@ -8787,7 +8787,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Tap",
-        "Confidence": 54.75209426879883,
+        "Confidence": 44.75209426879883,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8981,7 +8981,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Coffee",
-        "Confidence": 50.372615814208984,
+        "Confidence": 40.372615814208984,
         "Instances": [],
         "Parents": [
           {
@@ -9037,7 +9037,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Cooking Oil",
-        "Confidence": 51.58620834350586,
+        "Confidence": 31.58620834350586,
         "Instances": [],
         "Parents": [
           {
@@ -9082,7 +9082,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Cup",
-        "Confidence": 53.32963943481445,
+        "Confidence": 43.32963943481445,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -9120,7 +9120,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Egg",
-        "Confidence": 50.172645568847656,
+        "Confidence": 40.172645568847656,
         "Instances": [],
         "Parents": [
           {
@@ -9169,7 +9169,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 56.649288177490234,
+        "Confidence": 36.649288177490234,
         "Instances": [],
         "Parents": [
           {
@@ -9231,7 +9231,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 51.13972091674805,
+        "Confidence": 31.13972091674805,
         "Instances": [],
         "Parents": [
           {
@@ -9303,7 +9303,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Liquor",
-        "Confidence": 52.014095306396484,
+        "Confidence": 42.014095306396484,
         "Instances": [],
         "Parents": [
           {
@@ -9376,7 +9376,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 51.3436164855957,
+        "Confidence": 31.3436164855957,
         "Instances": [],
         "Parents": [
           {
@@ -9410,7 +9410,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Sink Faucet",
-        "Confidence": 52.12691879272461,
+        "Confidence": 32.12691879272461,
         "Instances": [],
         "Parents": [
           {
@@ -9448,7 +9448,7 @@
       "Timestamp": 20520,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 51.3436164855957,
+        "Confidence": 41.3436164855957,
         "Instances": [],
         "Parents": [
           {
@@ -9504,7 +9504,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Baby",
-        "Confidence": 51.934242248535156,
+        "Confidence": 41.934242248535156,
         "Instances": [
           {
             "BoundingBox": {
@@ -9589,7 +9589,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Boiling",
-        "Confidence": 52.575439453125,
+        "Confidence": 42.575439453125,
         "Instances": [],
         "Parents": [
           {
@@ -9640,7 +9640,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Cocktail",
-        "Confidence": 52.18074417114258,
+        "Confidence": 22.18074417114258,
         "Instances": [],
         "Parents": [
           {
@@ -9662,7 +9662,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 54.054115295410156,
+        "Confidence": 24.054115295410156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9696,7 +9696,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Cream",
-        "Confidence": 50.44813537597656,
+        "Confidence": 40.44813537597656,
         "Instances": [],
         "Parents": [
           {
@@ -9741,7 +9741,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Dessert",
-        "Confidence": 50.44813537597656,
+        "Confidence": 20.44813537597656,
         "Instances": [],
         "Parents": [
           {
@@ -9812,7 +9812,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Ice Cream",
-        "Confidence": 50.44813537597656,
+        "Confidence": 10.44813537597656,
         "Instances": [],
         "Parents": [
           {
@@ -9881,7 +9881,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Liquor",
-        "Confidence": 52.3543701171875,
+        "Confidence": 42.3543701171875,
         "Instances": [],
         "Parents": [
           {
@@ -9932,7 +9932,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Sake",
-        "Confidence": 52.53553009033203,
+        "Confidence": 32.53553009033203,
         "Instances": [],
         "Parents": [
           {
@@ -9954,7 +9954,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 51.91904067993164,
+        "Confidence": 41.91904067993164,
         "Instances": [],
         "Parents": [
           {
@@ -9973,7 +9973,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Sink",
-        "Confidence": 51.385887145996094,
+        "Confidence": 31.385887145996094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9988,7 +9988,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Soaking Ingredients",
-        "Confidence": 52.43389892578125,
+        "Confidence": 32.43389892578125,
         "Instances": [],
         "Parents": [
           {
@@ -10055,7 +10055,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 51.91904067993164,
+        "Confidence": 31.91904067993164,
         "Instances": [],
         "Parents": [
           {
@@ -10077,7 +10077,7 @@
       "Timestamp": 21000,
       "Label": {
         "Name": "Tin",
-        "Confidence": 53.4615364074707,
+        "Confidence": 23.4615364074707,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10203,7 +10203,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Cocktail",
-        "Confidence": 52.32791519165039,
+        "Confidence": 42.32791519165039,
         "Instances": [],
         "Parents": [
           {
@@ -10240,7 +10240,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Cooking Oil",
-        "Confidence": 53.52972412109375,
+        "Confidence": 33.52972412109375,
         "Instances": [],
         "Parents": [
           {
@@ -10259,7 +10259,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Cup",
-        "Confidence": 51.07634353637695,
+        "Confidence": 31.07634353637695,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -10349,7 +10349,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Lager",
-        "Confidence": 51.74394226074219,
+        "Confidence": 41.74394226074219,
         "Instances": [],
         "Parents": [
           {
@@ -10415,7 +10415,7 @@
       "Timestamp": 21520,
       "Label": {
         "Name": "Sake",
-        "Confidence": 50.85075759887695,
+        "Confidence": 30.85075759887695,
         "Instances": [],
         "Parents": [
           {
@@ -10471,7 +10471,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Alcohol",
-        "Confidence": 54.24505615234375,
+        "Confidence": 44.24505615234375,
         "Instances": [],
         "Parents": [
           {
@@ -10524,7 +10524,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Cooking Oil",
-        "Confidence": 51.50426483154297,
+        "Confidence": 41.50426483154297,
         "Instances": [],
         "Parents": [
           {
@@ -10647,7 +10647,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Sink",
-        "Confidence": 55.878421783447266,
+        "Confidence": 25.878421783447266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10681,7 +10681,7 @@
       "Timestamp": 22000,
       "Label": {
         "Name": "Tap",
-        "Confidence": 54.14277267456055,
+        "Confidence": 44.14277267456055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10725,7 +10725,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Basin",
-        "Confidence": 52.48796081542969,
+        "Confidence": 32.48796081542969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10759,7 +10759,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 56.02351760864258,
+        "Confidence": 46.02351760864258,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10789,7 +10789,7 @@
       "Timestamp": 22520,
       "Label": {
         "Name": "Hand",
-        "Confidence": 56.02351760864258,
+        "Confidence": 36.02351760864258,
         "Instances": [],
         "Parents": [
           {
@@ -10902,7 +10902,7 @@
               "Left": 0.5073758959770203,
               "Top": 0.15171949565410614
             },
-            "Confidence": 51.77901840209961
+            "Confidence": 41.77901840209961
           }
         ],
         "Parents": [
@@ -11030,7 +11030,7 @@
       "Timestamp": 23000,
       "Label": {
         "Name": "Hand",
-        "Confidence": 53.671993255615234,
+        "Confidence": 43.671993255615234,
         "Instances": [],
         "Parents": [
           {
@@ -11061,7 +11061,7 @@
               "Left": 0.6514132618904114,
               "Top": 0.18619300425052643
             },
-            "Confidence": 56.81772994995117
+            "Confidence": 26.81772994995117
           }
         ],
         "Parents": [
@@ -11216,7 +11216,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Basin",
-        "Confidence": 53.23947525024414,
+        "Confidence": 33.23947525024414,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11265,7 +11265,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 52.35558319091797,
+        "Confidence": 32.35558319091797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11280,7 +11280,7 @@
       "Timestamp": 23520,
       "Label": {
         "Name": "Food",
-        "Confidence": 55.86634063720703,
+        "Confidence": 45.86634063720703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],

@@ -16,7 +16,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 51.18976974487305,
+        "Confidence": 41.18976974487305,
         "Instances": [],
         "Parents": [
           {
@@ -110,7 +110,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Swing",
-        "Confidence": 54.73584747314453,
+        "Confidence": 44.73584747314453,
         "Instances": [],
         "Parents": [
           {
@@ -248,7 +248,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Swing",
-        "Confidence": 55.814517974853516,
+        "Confidence": 25.814517974853516,
         "Instances": [],
         "Parents": [
           {
@@ -415,7 +415,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Swing",
-        "Confidence": 54.83505630493164,
+        "Confidence": 44.83505630493164,
         "Instances": [],
         "Parents": [
           {
@@ -553,7 +553,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Swing",
-        "Confidence": 55.474212646484375,
+        "Confidence": 25.474212646484375,
         "Instances": [],
         "Parents": [
           {
@@ -967,7 +967,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Swing",
-        "Confidence": 55.790069580078125,
+        "Confidence": 45.790069580078125,
         "Instances": [],
         "Parents": [
           {
@@ -1057,7 +1057,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Swing",
-        "Confidence": 57.071617126464844,
+        "Confidence": 47.071617126464844,
         "Instances": [],
         "Parents": [
           {
@@ -1091,7 +1091,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 51.28641128540039,
+        "Confidence": 31.28641128540039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1125,7 +1125,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "House",
-        "Confidence": 51.19093704223633,
+        "Confidence": 21.19093704223633,
         "Instances": [],
         "Parents": [
           {
@@ -1150,7 +1150,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Housing",
-        "Confidence": 51.24502182006836,
+        "Confidence": 31.24502182006836,
         "Instances": [],
         "Parents": [
           {
@@ -1228,7 +1228,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Swing",
-        "Confidence": 57.2476806640625,
+        "Confidence": 37.2476806640625,
         "Instances": [],
         "Parents": [
           {
@@ -1408,7 +1408,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Swing",
-        "Confidence": 56.59081268310547,
+        "Confidence": 26.59081268310547,
         "Instances": [],
         "Parents": [
           {
@@ -1442,7 +1442,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.98511505126953,
+        "Confidence": 10.98511505126953,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1517,7 +1517,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Swing",
-        "Confidence": 57.313148498535156,
+        "Confidence": 47.313148498535156,
         "Instances": [],
         "Parents": [
           {
@@ -1551,7 +1551,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.3656120300293,
+        "Confidence": 20.3656120300293,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1626,7 +1626,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Swing",
-        "Confidence": 58.249027252197266,
+        "Confidence": 28.249027252197266,
         "Instances": [],
         "Parents": [
           {

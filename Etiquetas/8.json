@@ -255,7 +255,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 58.03154373168945,
+        "Confidence": 18.03154373168945,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -558,7 +558,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Table",
-        "Confidence": 57.4202766418457,
+        "Confidence": 47.4202766418457,
         "Instances": [],
         "Parents": [
           {
@@ -710,7 +710,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Desk",
-        "Confidence": 55.17650604248047,
+        "Confidence": 35.17650604248047,
         "Instances": [],
         "Parents": [
           {
@@ -732,7 +732,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Desktop",
-        "Confidence": 50.408531188964844,
+        "Confidence": 20.408531188964844,
         "Instances": [],
         "Parents": [
           {
@@ -772,7 +772,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Executive",
-        "Confidence": 50.02045822143555,
+        "Confidence": 20.02045822143555,
         "Instances": [],
         "Parents": [
           {
@@ -895,7 +895,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 55.627281188964844,
+        "Confidence": 25.627281188964844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -973,7 +973,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Mouse",
-        "Confidence": 52.2331657409668,
+        "Confidence": 42.2331657409668,
         "Instances": [],
         "Parents": [
           {
@@ -1218,7 +1218,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Animal",
-        "Confidence": 54.298397064208984,
+        "Confidence": 24.298397064208984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1302,7 +1302,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Desk",
-        "Confidence": 52.84603500366211,
+        "Confidence": 22.84603500366211,
         "Instances": [],
         "Parents": [
           {
@@ -1339,154 +1339,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Executive",
-        "Confidence": 56.019386291503906,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Profession"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 1000,
-      "Label": {
-        "Name": "Face",
-        "Confidence": 86.72097778320312,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Head"
-          },
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Person Description"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 1000,
-      "Label": {
-        "Name": "Female",
-        "Confidence": 99.89298248291016,
-        "Instances": [
-          {
-            "BoundingBox": {
-              "Width": 0.6721438765525818,
-              "Height": 0.7016004920005798,
-              "Left": 0.2200126200914383,
-              "Top": 0.29651662707328796
-            },
-            "Confidence": 99.93524169921875
-          },
-          {
-            "BoundingBox": {
-              "Width": 0.13502062857151031,
-              "Height": 0.2169051468372345,
-              "Left": 0.5853960514068604,
-              "Top": 0.32312533259391785
-            },
-            "Confidence": 57.046836853027344
-          }
-        ],
-        "Parents": [
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Person Description"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 1000,
-      "Label": {
-        "Name": "Furniture",
-        "Confidence": 68.4124526977539,
-        "Instances": [],
-        "Parents": [],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Furniture and Furnishings"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 1000,
-      "Label": {
-        "Name": "Hardware",
-        "Confidence": 95.36420440673828,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Electronics"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 1000,
-      "Label": {
-        "Name": "Head",
-        "Confidence": 92.91004943847656,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Person Description"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 1000,
-      "Label": {
-        "Name": "Indoors",
-        "Confidence": 78.09593200683594,
-        "Instances": [],
-        "Parents": [],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Home and Indoors"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 1000,
-      "Label": {
-        "Name": "Laptop",
-        "Confidence": 52.27307891845703,
+        "Confidence": 42.27307891845703,
         "Instances": [],
         "Parents": [
           {
@@ -1511,7 +1364,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 53.165069580078125,
+        "Confidence": 43.165069580078125,
         "Instances": [],
         "Parents": [
           {
@@ -1587,7 +1440,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Office",
-        "Confidence": 50.525936126708984,
+        "Confidence": 40.525936126708984,
         "Instances": [],
         "Parents": [
           {
@@ -1879,7 +1732,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Computer Keyboard",
-        "Confidence": 54.01999282836914,
+        "Confidence": 44.01999282836914,
         "Instances": [],
         "Parents": [
           {
@@ -2091,7 +1944,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Laptop",
-        "Confidence": 52.04811477661133,
+        "Confidence": 22.04811477661133,
         "Instances": [],
         "Parents": [
           {
@@ -2192,7 +2045,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Music",
-        "Confidence": 51.2912712097168,
+        "Confidence": 41.2912712097168,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2222,7 +2075,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Musician",
-        "Confidence": 51.2912712097168,
+        "Confidence": 21.2912712097168,
         "Instances": [],
         "Parents": [
           {
@@ -2253,7 +2106,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Office",
-        "Confidence": 51.91975402832031,
+        "Confidence": 11.91975402832031,
         "Instances": [],
         "Parents": [
           {
@@ -2351,7 +2204,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Phone",
-        "Confidence": 50.060855865478516,
+        "Confidence": 10.060855865478516,
         "Instances": [],
         "Parents": [
           {
@@ -2460,7 +2313,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.0267448425293,
+        "Confidence": 40.0267448425293,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2655,7 +2508,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Desk",
-        "Confidence": 56.65872573852539,
+        "Confidence": 46.65872573852539,
         "Instances": [],
         "Parents": [
           {
@@ -2830,25 +2683,6 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 52.431182861328125,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Indoors"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Home and Indoors"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 2000,
-      "Label": {
-        "Name": "Laptop",
         "Confidence": 53.28824996948242,
         "Instances": [],
         "Parents": [
@@ -2931,96 +2765,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Office",
-        "Confidence": 53.48904037475586,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Indoors"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Offices and Workspaces"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 2000,
-      "Label": {
-        "Name": "Pc",
-        "Confidence": 55.84270477294922,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Computer"
-          },
-          {
-            "Name": "Electronics"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 2000,
-      "Label": {
-        "Name": "Person",
-        "Confidence": 95.59080505371094,
-        "Instances": [
-          {
-            "BoundingBox": {
-              "Width": 0.7390698790550232,
-              "Height": 0.7380709648132324,
-              "Left": 0.22620317339897156,
-              "Top": 0.2614244520664215
-            },
-            "Confidence": 99.94013214111328
-          }
-        ],
-        "Parents": [],
-        "Aliases": [
-          {
-            "Name": "Human"
-          }
-        ],
-        "Categories": [
-          {
-            "Name": "Person Description"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 2000,
-      "Label": {
-        "Name": "Screen",
-        "Confidence": 95.1948471069336,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Electronics"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 2000,
-      "Label": {
-        "Name": "Sitting",
-        "Confidence": 52.305564880371094,
+        "Confidence": 22.305564880371094,
         "Instances": [],
         "Parents": [
           {
@@ -3091,7 +2836,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Vandalism",
-        "Confidence": 51.252235412597656,
+        "Confidence": 11.252235412597656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3141,21 +2886,6 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Chart",
-        "Confidence": 50.166343688964844,
-        "Instances": [],
-        "Parents": [],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Text and Documents"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 2520,
-      "Label": {
-        "Name": "Clothing",
         "Confidence": 50.339351654052734,
         "Instances": [],
         "Parents": [],
@@ -3216,35 +2946,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Computer Keyboard",
-        "Confidence": 51.91951370239258,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Computer"
-          },
-          {
-            "Name": "Computer Hardware"
-          },
-          {
-            "Name": "Electronics"
-          },
-          {
-            "Name": "Hardware"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 2520,
-      "Label": {
-        "Name": "Courtroom",
-        "Confidence": 50.02425765991211,
+        "Confidence": 40.02425765991211,
         "Instances": [],
         "Parents": [
           {
@@ -3270,7 +2972,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Desk",
-        "Confidence": 54.90863800048828,
+        "Confidence": 14.90863800048828,
         "Instances": [],
         "Parents": [
           {
@@ -3307,7 +3009,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Executive",
-        "Confidence": 53.00126647949219,
+        "Confidence": 23.00126647949219,
         "Instances": [],
         "Parents": [
           {
@@ -3360,7 +3062,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Head",
-        "Confidence": 53.49201965332031,
+        "Confidence": 43.49201965332031,
         "Instances": [],
         "Parents": [
           {
@@ -3379,7 +3081,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Hood",
-        "Confidence": 50.339351654052734,
+        "Confidence": 40.339351654052734,
         "Instances": [],
         "Parents": [
           {
@@ -3590,7 +3292,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Room",
-        "Confidence": 50.2714958190918,
+        "Confidence": 20.2714958190918,
         "Instances": [],
         "Parents": [
           {
@@ -3628,7 +3330,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Speaker",
-        "Confidence": 51.82872772216797,
+        "Confidence": 21.82872772216797,
         "Instances": [],
         "Parents": [
           {
@@ -3651,7 +3353,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "TV",
-        "Confidence": 51.37681198120117,
+        "Confidence": 41.37681198120117,
         "Instances": [],
         "Parents": [
           {
@@ -3743,7 +3445,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Clothing",
-        "Confidence": 50.18092727661133,
+        "Confidence": 30.18092727661133,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -3831,7 +3533,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Desk",
-        "Confidence": 56.452266693115234,
+        "Confidence": 36.452266693115234,
         "Instances": [],
         "Parents": [
           {
@@ -3868,7 +3570,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Executive",
-        "Confidence": 53.68967056274414,
+        "Confidence": 13.68967056274414,
         "Instances": [],
         "Parents": [
           {
@@ -3887,7 +3589,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Face",
-        "Confidence": 50.53755187988281,
+        "Confidence": 30.53755187988281,
         "Instances": [],
         "Parents": [
           {
@@ -3972,7 +3674,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Head",
-        "Confidence": 53.56405258178711,
+        "Confidence": 23.56405258178711,
         "Instances": [],
         "Parents": [
           {
@@ -3991,7 +3693,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Hood",
-        "Confidence": 50.18092727661133,
+        "Confidence": 40.18092727661133,
         "Instances": [],
         "Parents": [
           {
@@ -4025,26 +3727,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 50.704132080078125,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Indoors"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Home and Indoors"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 3000,
-      "Label": {
-        "Name": "Laptop",
-        "Confidence": 58.463714599609375,
+        "Confidence": 38.463714599609375,
         "Instances": [],
         "Parents": [
           {
@@ -4069,7 +3752,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Machine",
-        "Confidence": 50.36051940917969,
+        "Confidence": 20.36051940917969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4166,7 +3849,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Office",
-        "Confidence": 50.166168212890625,
+        "Confidence": 40.166168212890625,
         "Instances": [],
         "Parents": [
           {
@@ -4225,7 +3908,7 @@
               "Left": 0.3402189314365387,
               "Top": 0.808682918548584
             },
-            "Confidence": 52.54179763793945
+            "Confidence": 32.54179763793945
           }
         ],
         "Parents": [],
@@ -4264,7 +3947,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "TV",
-        "Confidence": 51.772056579589844,
+        "Confidence": 41.772056579589844,
         "Instances": [],
         "Parents": [
           {
@@ -4432,7 +4115,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Computer Keyboard",
-        "Confidence": 52.62751388549805,
+        "Confidence": 42.62751388549805,
         "Instances": [],
         "Parents": [
           {
@@ -4460,7 +4143,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Desk",
-        "Confidence": 54.750694274902344,
+        "Confidence": 44.750694274902344,
         "Instances": [],
         "Parents": [
           {
@@ -4497,7 +4180,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Executive",
-        "Confidence": 56.034934997558594,
+        "Confidence": 36.034934997558594,
         "Instances": [],
         "Parents": [
           {
@@ -4576,7 +4259,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 57.65376663208008,
+        "Confidence": 27.65376663208008,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4679,7 +4362,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Machine",
-        "Confidence": 50.351531982421875,
+        "Confidence": 40.351531982421875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4791,7 +4474,7 @@
               "Left": 0.3432809114456177,
               "Top": 0.823551595211029
             },
-            "Confidence": 55.4903564453125
+            "Confidence": 45.4903564453125
           }
         ],
         "Parents": [],
@@ -4830,7 +4513,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 50.702484130859375,
+        "Confidence": 40.702484130859375,
         "Instances": [],
         "Parents": [
           {
@@ -4849,7 +4532,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Speaker",
-        "Confidence": 58.353519439697266,
+        "Confidence": 28.353519439697266,
         "Instances": [
           {
             "BoundingBox": {
@@ -4882,7 +4565,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Table",
-        "Confidence": 57.60784149169922,
+        "Confidence": 27.60784149169922,
         "Instances": [],
         "Parents": [
           {
@@ -4901,7 +4584,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 50.93324661254883,
+        "Confidence": 30.93324661254883,
         "Instances": [],
         "Parents": [
           {
@@ -4938,7 +4621,7 @@
               "Left": 0.3432809114456177,
               "Top": 0.823551595211029
             },
-            "Confidence": 55.4903564453125
+            "Confidence": 25.4903564453125
           }
         ],
         "Parents": [
@@ -5043,7 +4726,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Computer",
-        "Confidence": 57.657875061035156,
+        "Confidence": 27.657875061035156,
         "Instances": [],
         "Parents": [
           {
@@ -5084,7 +4767,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Computer Keyboard",
-        "Confidence": 52.462921142578125,
+        "Confidence": 42.462921142578125,
         "Instances": [],
         "Parents": [
           {
@@ -5112,7 +4795,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Desk",
-        "Confidence": 53.91120529174805,
+        "Confidence": 13.91120529174805,
         "Instances": [],
         "Parents": [
           {
@@ -5149,7 +4832,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Executive",
-        "Confidence": 57.41701889038086,
+        "Confidence": 37.41701889038086,
         "Instances": [],
         "Parents": [
           {
@@ -5287,7 +4970,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Laptop",
-        "Confidence": 51.89955520629883,
+        "Confidence": 21.89955520629883,
         "Instances": [],
         "Parents": [
           {
@@ -5388,7 +5071,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Pc",
-        "Confidence": 55.00857925415039,
+        "Confidence": 45.00857925415039,
         "Instances": [],
         "Parents": [
           {
@@ -5613,7 +5296,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Cat",
-        "Confidence": 57.828556060791016,
+        "Confidence": 37.828556060791016,
         "Instances": [
           {
             "BoundingBox": {
@@ -5689,34 +5372,6 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Computer Keyboard",
-        "Confidence": 52.02383041381836,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Computer"
-          },
-          {
-            "Name": "Computer Hardware"
-          },
-          {
-            "Name": "Electronics"
-          },
-          {
-            "Name": "Hardware"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 4520,
-      "Label": {
-        "Name": "Desk",
         "Confidence": 53.82023620605469,
         "Instances": [],
         "Parents": [
@@ -5739,7 +5394,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Driving",
-        "Confidence": 50.3033332824707,
+        "Confidence": 40.3033332824707,
         "Instances": [],
         "Parents": [
           {
@@ -5779,7 +5434,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Executive",
-        "Confidence": 57.168975830078125,
+        "Confidence": 47.168975830078125,
         "Instances": [],
         "Parents": [
           {
@@ -5849,7 +5504,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 58.16581344604492,
+        "Confidence": 48.16581344604492,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6037,7 +5692,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Pc",
-        "Confidence": 56.76713562011719,
+        "Confidence": 46.76713562011719,
         "Instances": [],
         "Parents": [
           {
@@ -6126,7 +5781,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 56.68442153930664,
+        "Confidence": 36.68442153930664,
         "Instances": [],
         "Parents": [
           {
@@ -6145,7 +5800,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Speaker",
-        "Confidence": 56.89452362060547,
+        "Confidence": 26.89452362060547,
         "Instances": [
           {
             "BoundingBox": {
@@ -6197,7 +5852,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.3033332824707,
+        "Confidence": 30.3033332824707,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6212,7 +5867,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.3033332824707,
+        "Confidence": 40.3033332824707,
         "Instances": [],
         "Parents": [
           {
@@ -6231,130 +5886,6 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 50.14796829223633,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Actions"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 4520,
-      "Label": {
-        "Name": "Woman",
-        "Confidence": 99.89410400390625,
-        "Instances": [
-          {
-            "BoundingBox": {
-              "Width": 0.7119798064231873,
-              "Height": 0.8546586632728577,
-              "Left": 0.284860759973526,
-              "Top": 0.14225201308727264
-            },
-            "Confidence": 99.88443756103516
-          }
-        ],
-        "Parents": [
-          {
-            "Name": "Adult"
-          },
-          {
-            "Name": "Female"
-          },
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Person Description"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5000,
-      "Label": {
-        "Name": "Adult",
-        "Confidence": 99.8497085571289,
-        "Instances": [
-          {
-            "BoundingBox": {
-              "Width": 0.7106016874313354,
-              "Height": 0.8250786662101746,
-              "Left": 0.2835807800292969,
-              "Top": 0.17492027580738068
-            },
-            "Confidence": 99.84089660644531
-          }
-        ],
-        "Parents": [
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Person Description"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5000,
-      "Label": {
-        "Name": "Computer",
-        "Confidence": 66.45405578613281,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Electronics"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5000,
-      "Label": {
-        "Name": "Computer Hardware",
-        "Confidence": 95.81082916259766,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Electronics"
-          },
-          {
-            "Name": "Hardware"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5000,
-      "Label": {
-        "Name": "Computer Keyboard",
         "Confidence": 52.81871795654297,
         "Instances": [],
         "Parents": [
@@ -6383,7 +5914,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Desk",
-        "Confidence": 54.05033493041992,
+        "Confidence": 24.05033493041992,
         "Instances": [],
         "Parents": [
           {
@@ -6445,76 +5976,6 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Executive",
-        "Confidence": 57.131858825683594,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Profession"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5000,
-      "Label": {
-        "Name": "Face",
-        "Confidence": 81.33020782470703,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Head"
-          },
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Person Description"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5000,
-      "Label": {
-        "Name": "Female",
-        "Confidence": 99.8497085571289,
-        "Instances": [
-          {
-            "BoundingBox": {
-              "Width": 0.7106016874313354,
-              "Height": 0.8250786662101746,
-              "Left": 0.2835807800292969,
-              "Top": 0.17492027580738068
-            },
-            "Confidence": 99.84089660644531
-          }
-        ],
-        "Parents": [
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Person Description"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5000,
-      "Label": {
-        "Name": "Furniture",
         "Confidence": 59.948272705078125,
         "Instances": [],
         "Parents": [],
@@ -6745,7 +6206,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 57.774559020996094,
+        "Confidence": 27.774559020996094,
         "Instances": [],
         "Parents": [
           {
@@ -6797,7 +6258,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Table",
-        "Confidence": 58.70148849487305,
+        "Confidence": 48.70148849487305,
         "Instances": [],
         "Parents": [
           {
@@ -6816,7 +6277,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.879432678222656,
+        "Confidence": 30.879432678222656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6831,7 +6292,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.879432678222656,
+        "Confidence": 30.879432678222656,
         "Instances": [],
         "Parents": [
           {
@@ -6850,7 +6311,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 51.50014114379883,
+        "Confidence": 21.50014114379883,
         "Instances": [],
         "Parents": [
           {
@@ -6942,7 +6403,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Animal",
-        "Confidence": 52.071102142333984,
+        "Confidence": 42.071102142333984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6957,48 +6418,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Computer",
-        "Confidence": 54.20279312133789,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Electronics"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5520,
-      "Label": {
-        "Name": "Computer Hardware",
-        "Confidence": 95.29039764404297,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Electronics"
-          },
-          {
-            "Name": "Hardware"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5520,
-      "Label": {
-        "Name": "Computer Keyboard",
-        "Confidence": 51.398773193359375,
+        "Confidence": 21.398773193359375,
         "Instances": [],
         "Parents": [
           {
@@ -7026,7 +6446,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Desk",
-        "Confidence": 50.57778549194336,
+        "Confidence": 20.57778549194336,
         "Instances": [],
         "Parents": [
           {
@@ -7088,7 +6508,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Executive",
-        "Confidence": 56.261295318603516,
+        "Confidence": 26.261295318603516,
         "Instances": [],
         "Parents": [
           {
@@ -7235,25 +6655,6 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 50.51292419433594,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Indoors"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Home and Indoors"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 5520,
-      "Label": {
-        "Name": "Leisure Activities",
         "Confidence": 54.38294982910156,
         "Instances": [],
         "Parents": [],
@@ -7273,7 +6674,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 52.071102142333984,
+        "Confidence": 22.071102142333984,
         "Instances": [],
         "Parents": [
           {
@@ -7364,7 +6765,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 54.38294982910156,
+        "Confidence": 44.38294982910156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7429,7 +6830,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Pc",
-        "Confidence": 51.80564880371094,
+        "Confidence": 41.80564880371094,
         "Instances": [],
         "Parents": [
           {
@@ -7451,7 +6852,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Performer",
-        "Confidence": 54.624515533447266,
+        "Confidence": 24.624515533447266,
         "Instances": [],
         "Parents": [
           {
@@ -7579,7 +6980,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Table",
-        "Confidence": 51.28777313232422,
+        "Confidence": 31.28777313232422,
         "Instances": [],
         "Parents": [
           {
@@ -7598,7 +6999,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 53.957237243652344,
+        "Confidence": 23.957237243652344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7632,7 +7033,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 55.02827835083008,
+        "Confidence": 35.02827835083008,
         "Instances": [],
         "Parents": [
           {
@@ -7789,7 +7190,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Computer",
-        "Confidence": 54.92134094238281,
+        "Confidence": 14.92134094238281,
         "Instances": [],
         "Parents": [
           {
@@ -7880,7 +7281,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Driving",
-        "Confidence": 51.4150505065918,
+        "Confidence": 21.4150505065918,
         "Instances": [],
         "Parents": [
           {
@@ -7920,7 +7321,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Executive",
-        "Confidence": 56.161006927490234,
+        "Confidence": 16.161006927490234,
         "Instances": [],
         "Parents": [
           {
@@ -8163,7 +7564,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Music",
-        "Confidence": 51.280677795410156,
+        "Confidence": 31.280677795410156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8224,7 +7625,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Pc",
-        "Confidence": 52.09275436401367,
+        "Confidence": 12.09275436401367,
         "Instances": [],
         "Parents": [
           {
@@ -8246,7 +7647,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Performer",
-        "Confidence": 51.310874938964844,
+        "Confidence": 21.310874938964844,
         "Instances": [],
         "Parents": [
           {
@@ -8322,7 +7723,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Sitting",
-        "Confidence": 58.25178909301758,
+        "Confidence": 48.25178909301758,
         "Instances": [],
         "Parents": [
           {
@@ -8374,25 +7775,6 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Table",
-        "Confidence": 52.04882049560547,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Furniture"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Furniture and Furnishings"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 6000,
-      "Label": {
-        "Name": "Transportation",
         "Confidence": 51.4150505065918,
         "Instances": [],
         "Parents": [],
@@ -8408,7 +7790,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 51.4150505065918,
+        "Confidence": 21.4150505065918,
         "Instances": [],
         "Parents": [
           {
@@ -8427,7 +7809,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 51.05580139160156,
+        "Confidence": 41.05580139160156,
         "Instances": [],
         "Parents": [
           {
@@ -8569,7 +7951,7 @@
               "Left": 0.33811965584754944,
               "Top": 0.5597555637359619
             },
-            "Confidence": 50.724430084228516
+            "Confidence": 30.724430084228516
           }
         ],
         "Parents": [
@@ -8598,7 +7980,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Desk",
-        "Confidence": 50.794288635253906,
+        "Confidence": 40.794288635253906,
         "Instances": [],
         "Parents": [
           {
@@ -8635,7 +8017,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Executive",
-        "Confidence": 53.81483840942383,
+        "Confidence": 43.81483840942383,
         "Instances": [],
         "Parents": [
           {
@@ -8714,7 +8096,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 57.36262130737305,
+        "Confidence": 27.36262130737305,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8782,7 +8164,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Laptop",
-        "Confidence": 51.25870132446289,
+        "Confidence": 41.25870132446289,
         "Instances": [],
         "Parents": [
           {
@@ -8807,7 +8189,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 51.79022216796875,
+        "Confidence": 21.79022216796875,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -8898,7 +8280,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Musical Instrument",
-        "Confidence": 51.79812240600586,
+        "Confidence": 41.79812240600586,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8913,7 +8295,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Musician",
-        "Confidence": 51.79022216796875,
+        "Confidence": 21.79022216796875,
         "Instances": [],
         "Parents": [
           {
@@ -8944,7 +8326,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Pc",
-        "Confidence": 54.14974594116211,
+        "Confidence": 44.14974594116211,
         "Instances": [],
         "Parents": [
           {
@@ -8966,83 +8348,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Performer",
-        "Confidence": 51.805320739746094,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Person"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Profession"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 6520,
-      "Label": {
-        "Name": "Person",
-        "Confidence": 97.54817962646484,
-        "Instances": [
-          {
-            "BoundingBox": {
-              "Width": 0.36412063241004944,
-              "Height": 0.7790889739990234,
-              "Left": 0.5479610562324524,
-              "Top": 0.20993083715438843
-            },
-            "Confidence": 99.96908569335938
-          },
-          {
-            "BoundingBox": {
-              "Width": 0.4625451862812042,
-              "Height": 0.7477177381515503,
-              "Left": 0.29896801710128784,
-              "Top": 0.25057339668273926
-            },
-            "Confidence": 99.78175354003906
-          }
-        ],
-        "Parents": [],
-        "Aliases": [
-          {
-            "Name": "Human"
-          }
-        ],
-        "Categories": [
-          {
-            "Name": "Person Description"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 6520,
-      "Label": {
-        "Name": "Screen",
-        "Confidence": 96.94963073730469,
-        "Instances": [],
-        "Parents": [
-          {
-            "Name": "Electronics"
-          }
-        ],
-        "Aliases": [],
-        "Categories": [
-          {
-            "Name": "Technology and Computing"
-          }
-        ]
-      }
-    },
-    {
-      "Timestamp": 6520,
-      "Label": {
-        "Name": "Sitting",
-        "Confidence": 55.583316802978516,
+        "Confidence": 45.583316802978516,
         "Instances": [],
         "Parents": [
           {
@@ -9094,7 +8400,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Table",
-        "Confidence": 53.82412338256836,
+        "Confidence": 23.82412338256836,
         "Instances": [],
         "Parents": [
           {
@@ -9113,7 +8419,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 51.448646545410156,
+        "Confidence": 11.448646545410156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9128,7 +8434,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 51.448646545410156,
+        "Confidence": 41.448646545410156,
         "Instances": [],
         "Parents": [
           {
@@ -9147,7 +8453,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 51.521934509277344,
+        "Confidence": 21.521934509277344,
         "Instances": [],
         "Parents": [
           {
@@ -9449,7 +8755,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 57.65535354614258,
+        "Confidence": 27.65535354614258,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9464,7 +8770,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Laptop",
-        "Confidence": 58.31293869018555,
+        "Confidence": 28.31293869018555,
         "Instances": [],
         "Parents": [
           {
@@ -9758,7 +9064,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Desk",
-        "Confidence": 51.739322662353516,
+        "Confidence": 21.739322662353516,
         "Instances": [],
         "Parents": [
           {
@@ -10109,7 +9415,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 52.292015075683594,
+        "Confidence": 32.292015075683594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10159,7 +9465,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Computer",
-        "Confidence": 58.77824020385742,
+        "Confidence": 18.77824020385742,
         "Instances": [],
         "Parents": [
           {
@@ -10200,7 +9506,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Computer Keyboard",
-        "Confidence": 51.9542236328125,
+        "Confidence": 41.9542236328125,
         "Instances": [],
         "Parents": [
           {
@@ -10265,7 +9571,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Female",
-        "Confidence": 55.11421585083008,
+        "Confidence": 35.11421585083008,
         "Instances": [
           {
             "BoundingBox": {
@@ -10274,7 +9580,7 @@
               "Left": 0.5170749425888062,
               "Top": 0.0015658569755032659
             },
-            "Confidence": 59.212684631347656
+            "Confidence": 49.212684631347656
           }
         ],
         "Parents": [
@@ -10294,7 +9600,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 52.24147415161133,
+        "Confidence": 22.24147415161133,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10362,7 +9668,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Laptop",
-        "Confidence": 53.36844253540039,
+        "Confidence": 23.36844253540039,
         "Instances": [],
         "Parents": [
           {
@@ -10466,7 +9772,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "People",
-        "Confidence": 50.954158782958984,
+        "Confidence": 40.954158782958984,
         "Instances": [],
         "Parents": [
           {
@@ -10552,7 +9858,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "TV",
-        "Confidence": 57.86888122558594,
+        "Confidence": 47.86888122558594,
         "Instances": [],
         "Parents": [
           {
@@ -10587,7 +9893,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Table",
-        "Confidence": 52.24147415161133,
+        "Confidence": 12.24147415161133,
         "Instances": [],
         "Parents": [
           {
@@ -10606,7 +9912,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Woman",
-        "Confidence": 55.11421585083008,
+        "Confidence": 45.11421585083008,
         "Instances": [
           {
             "BoundingBox": {
@@ -10615,7 +9921,7 @@
               "Left": 0.5170749425888062,
               "Top": 0.0015658569755032659
             },
-            "Confidence": 59.212684631347656
+            "Confidence": 29.212684631347656
           }
         ],
         "Parents": [

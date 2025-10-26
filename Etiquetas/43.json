@@ -80,7 +80,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Knife",
-        "Confidence": 53.530517578125,
+        "Confidence": 33.530517578125,
         "Instances": [],
         "Parents": [
           {
@@ -136,7 +136,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Blade",
-        "Confidence": 53.21729278564453,
+        "Confidence": 33.21729278564453,
         "Instances": [],
         "Parents": [
           {
@@ -237,7 +237,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Person",
-        "Confidence": 50.83253479003906,
+        "Confidence": 40.83253479003906,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -256,7 +256,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 53.21729278564453,
+        "Confidence": 13.21729278564453,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -458,7 +458,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Food",
-        "Confidence": 55.714073181152344,
+        "Confidence": 15.714073181152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -573,7 +573,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 53.193626403808594,
+        "Confidence": 33.193626403808594,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -621,7 +621,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Blade",
-        "Confidence": 53.57828903198242,
+        "Confidence": 33.57828903198242,
         "Instances": [],
         "Parents": [
           {
@@ -655,7 +655,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Food",
-        "Confidence": 55.7424201965332,
+        "Confidence": 35.7424201965332,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -815,7 +815,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 53.57828903198242,
+        "Confidence": 43.57828903198242,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -943,7 +943,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Jar",
-        "Confidence": 55.49069595336914,
+        "Confidence": 35.49069595336914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -958,7 +958,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Ketchup",
-        "Confidence": 50.260189056396484,
+        "Confidence": 30.260189056396484,
         "Instances": [],
         "Parents": [
           {
@@ -1011,7 +1011,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Sprinkling",
-        "Confidence": 51.17549514770508,
+        "Confidence": 41.17549514770508,
         "Instances": [],
         "Parents": [
           {
@@ -1103,7 +1103,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Food",
-        "Confidence": 55.795982360839844,
+        "Confidence": 25.795982360839844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1118,7 +1118,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Jar",
-        "Confidence": 54.01504898071289,
+        "Confidence": 44.01504898071289,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1345,7 +1345,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Blade",
-        "Confidence": 50.768653869628906,
+        "Confidence": 30.768653869628906,
         "Instances": [],
         "Parents": [
           {
@@ -1428,7 +1428,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.768653869628906,
+        "Confidence": 40.768653869628906,
         "Instances": [],
         "Parents": [
           {
@@ -1506,7 +1506,7 @@
               "Left": 0.4376278817653656,
               "Top": 0.03487338870763779
             },
-            "Confidence": 52.72578048706055
+            "Confidence": 42.72578048706055
           }
         ],
         "Parents": [
@@ -1565,7 +1565,7 @@
               "Left": 0.4376278817653656,
               "Top": 0.03487338870763779
             },
-            "Confidence": 52.72578048706055
+            "Confidence": 42.72578048706055
           }
         ],
         "Parents": [],
@@ -1623,7 +1623,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 50.08380126953125,
+        "Confidence": 30.08380126953125,
         "Instances": [],
         "Parents": [
           {
@@ -1645,7 +1645,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.768653869628906,
+        "Confidence": 40.768653869628906,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1698,7 +1698,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Food",
-        "Confidence": 54.37776565551758,
+        "Confidence": 14.37776565551758,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1787,7 +1787,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Person",
-        "Confidence": 52.89910125732422,
+        "Confidence": 22.89910125732422,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1883,7 +1883,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Blade",
-        "Confidence": 50.417022705078125,
+        "Confidence": 40.417022705078125,
         "Instances": [],
         "Parents": [
           {
@@ -1947,7 +1947,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.417022705078125,
+        "Confidence": 40.417022705078125,
         "Instances": [],
         "Parents": [
           {
@@ -1969,7 +1969,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Male",
-        "Confidence": 58.771766662597656,
+        "Confidence": 48.771766662597656,
         "Instances": [
           {
             "BoundingBox": {
@@ -2066,7 +2066,7 @@
               "Left": 0.08886294066905975,
               "Top": 0.18650206923484802
             },
-            "Confidence": 54.18611145019531
+            "Confidence": 44.18611145019531
           }
         ],
         "Parents": [],
@@ -2086,7 +2086,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.417022705078125,
+        "Confidence": 20.417022705078125,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -2143,7 +2143,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Blade",
-        "Confidence": 50.66450119018555,
+        "Confidence": 40.66450119018555,
         "Instances": [],
         "Parents": [
           {
@@ -2346,7 +2346,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Sprinkling",
-        "Confidence": 50.22964096069336,
+        "Confidence": 30.22964096069336,
         "Instances": [],
         "Parents": [
           {
@@ -2481,7 +2481,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Jar",
-        "Confidence": 55.68362045288086,
+        "Confidence": 45.68362045288086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2515,7 +2515,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.58280563354492,
+        "Confidence": 40.58280563354492,
         "Instances": [],
         "Parents": [
           {
@@ -2634,7 +2634,7 @@
               "Left": 0.4498079717159271,
               "Top": 0.003163452260196209
             },
-            "Confidence": 57.385562896728516
+            "Confidence": 47.385562896728516
           }
         ],
         "Parents": [],
@@ -2654,7 +2654,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 50.28333282470703,
+        "Confidence": 40.28333282470703,
         "Instances": [],
         "Parents": [
           {
@@ -2673,7 +2673,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 50.28333282470703,
+        "Confidence": 30.28333282470703,
         "Instances": [],
         "Parents": [
           {
@@ -2714,7 +2714,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Adult",
-        "Confidence": 51.30607986450195,
+        "Confidence": 31.30607986450195,
         "Instances": [
           {
             "BoundingBox": {
@@ -2723,7 +2723,7 @@
               "Left": 0.3552035093307495,
               "Top": 0.13570895791053772
             },
-            "Confidence": 52.663536071777344
+            "Confidence": 22.663536071777344
           }
         ],
         "Parents": [
@@ -2758,7 +2758,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Food",
-        "Confidence": 53.18419647216797,
+        "Confidence": 43.18419647216797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2773,7 +2773,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Jar",
-        "Confidence": 51.95769500732422,
+        "Confidence": 21.95769500732422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2812,7 +2812,7 @@
               "Left": 0.3552035093307495,
               "Top": 0.13570895791053772
             },
-            "Confidence": 52.663536071777344
+            "Confidence": 42.663536071777344
           }
         ],
         "Parents": [],
@@ -2919,7 +2919,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Head",
-        "Confidence": 55.213130950927734,
+        "Confidence": 35.213130950927734,
         "Instances": [],
         "Parents": [
           {
@@ -3021,7 +3021,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Food",
-        "Confidence": 53.808326721191406,
+        "Confidence": 33.808326721191406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3100,7 +3100,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Food",
-        "Confidence": 54.93285369873047,
+        "Confidence": 44.93285369873047,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3183,7 +3183,7 @@
               "Left": 0.6608470678329468,
               "Top": 0.0
             },
-            "Confidence": 57.69480514526367
+            "Confidence": 37.69480514526367
           }
         ],
         "Parents": [
@@ -3203,7 +3203,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 55.12886428833008,
+        "Confidence": 15.12886428833008,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3233,7 +3233,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Jar",
-        "Confidence": 52.2874870300293,
+        "Confidence": 42.2874870300293,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3351,7 +3351,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Jar",
-        "Confidence": 52.66080093383789,
+        "Confidence": 42.66080093383789,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3366,7 +3366,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Male",
-        "Confidence": 54.37657928466797,
+        "Confidence": 34.37657928466797,
         "Instances": [
           {
             "BoundingBox": {
@@ -3493,7 +3493,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 55.97645950317383,
+        "Confidence": 15.97645950317383,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3523,7 +3523,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Head",
-        "Confidence": 56.95824432373047,
+        "Confidence": 36.95824432373047,
         "Instances": [],
         "Parents": [
           {
@@ -3630,7 +3630,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 51.66819763183594,
+        "Confidence": 11.66819763183594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3738,7 +3738,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 50.59238815307617,
+        "Confidence": 20.59238815307617,
         "Instances": [],
         "Parents": [
           {
@@ -3789,7 +3789,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 52.82432556152344,
+        "Confidence": 42.82432556152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3804,7 +3804,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Food",
-        "Confidence": 54.10739517211914,
+        "Confidence": 44.10739517211914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3992,7 +3992,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 53.8596305847168,
+        "Confidence": 33.8596305847168,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4056,7 +4056,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 58.327449798583984,
+        "Confidence": 48.327449798583984,
         "Instances": [],
         "Parents": [
           {
@@ -4109,7 +4109,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Pet",
-        "Confidence": 54.17356491088867,
+        "Confidence": 34.17356491088867,
         "Instances": [],
         "Parents": [
           {
@@ -4128,7 +4128,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Adult",
-        "Confidence": 51.54469299316406,
+        "Confidence": 41.54469299316406,
         "Instances": [
           {
             "BoundingBox": {
@@ -4157,7 +4157,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 51.66334533691406,
+        "Confidence": 31.66334533691406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4217,7 +4217,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Person",
-        "Confidence": 58.560333251953125,
+        "Confidence": 38.560333251953125,
         "Instances": [
           {
             "BoundingBox": {
@@ -4226,7 +4226,7 @@
               "Left": 0.6694431900978088,
               "Top": 0.0014109993353486061
             },
-            "Confidence": 50.684200286865234
+            "Confidence": 20.684200286865234
           }
         ],
         "Parents": [],
@@ -4325,7 +4325,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 52.91035842895508,
+        "Confidence": 42.91035842895508,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4355,7 +4355,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Head",
-        "Confidence": 56.918678283691406,
+        "Confidence": 46.918678283691406,
         "Instances": [],
         "Parents": [
           {
@@ -4445,7 +4445,7 @@
               "Left": 0.07488742470741272,
               "Top": 0.21027153730392456
             },
-            "Confidence": 53.18473434448242
+            "Confidence": 43.18473434448242
           }
         ],
         "Parents": [
@@ -4504,7 +4504,7 @@
               "Left": 0.07488742470741272,
               "Top": 0.21027153730392456
             },
-            "Confidence": 53.18473434448242
+            "Confidence": 43.18473434448242
           }
         ],
         "Parents": [],
@@ -4553,7 +4553,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 51.48992919921875,
+        "Confidence": 11.48992919921875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4763,7 +4763,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 53.822547912597656,
+        "Confidence": 43.822547912597656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4778,7 +4778,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Cookware",
-        "Confidence": 50.9570426940918,
+        "Confidence": 20.9570426940918,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4808,7 +4808,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.00263977050781,
+        "Confidence": 21.00263977050781,
         "Instances": [],
         "Parents": [
           {
@@ -4933,7 +4933,7 @@
               "Left": 0.0753297284245491,
               "Top": 0.20844131708145142
             },
-            "Confidence": 58.1627197265625
+            "Confidence": 28.1627197265625
           }
         ],
         "Parents": [
@@ -4983,7 +4983,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.73433303833008,
+        "Confidence": 40.73433303833008,
         "Instances": [],
         "Parents": [
           {
@@ -5046,7 +5046,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Man",
-        "Confidence": 51.634117126464844,
+        "Confidence": 31.634117126464844,
         "Instances": [
           {
             "BoundingBox": {
@@ -5055,7 +5055,7 @@
               "Left": 0.0753297284245491,
               "Top": 0.20844131708145142
             },
-            "Confidence": 58.1627197265625
+            "Confidence": 28.1627197265625
           }
         ],
         "Parents": [
@@ -5105,7 +5105,7 @@
               "Left": 0.0753297284245491,
               "Top": 0.20844131708145142
             },
-            "Confidence": 58.1627197265625
+            "Confidence": 38.1627197265625
           }
         ],
         "Parents": [],
@@ -5232,7 +5232,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.55047607421875,
+        "Confidence": 30.55047607421875,
         "Instances": [],
         "Parents": [
           {
@@ -5251,7 +5251,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Jar",
-        "Confidence": 56.09215545654297,
+        "Confidence": 46.09215545654297,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5275,7 +5275,7 @@
               "Left": 0.07713405787944794,
               "Top": 0.20896679162979126
             },
-            "Confidence": 56.66030502319336
+            "Confidence": 46.66030502319336
           }
         ],
         "Parents": [
@@ -5295,7 +5295,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Man",
-        "Confidence": 50.34443283081055,
+        "Confidence": 10.34443283081055,
         "Instances": [
           {
             "BoundingBox": {
@@ -5304,7 +5304,7 @@
               "Left": 0.07713405787944794,
               "Top": 0.20896679162979126
             },
-            "Confidence": 56.66030502319336
+            "Confidence": 36.66030502319336
           }
         ],
         "Parents": [
@@ -5383,7 +5383,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Spice",
-        "Confidence": 52.06121826171875,
+        "Confidence": 32.06121826171875,
         "Instances": [],
         "Parents": [
           {
@@ -5503,7 +5503,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Person",
-        "Confidence": 57.6413459777832,
+        "Confidence": 27.6413459777832,
         "Instances": [
           {
             "BoundingBox": {
@@ -5512,7 +5512,7 @@
               "Left": 0.6318168640136719,
               "Top": 0.009140167385339737
             },
-            "Confidence": 51.19052505493164
+            "Confidence": 41.19052505493164
           }
         ],
         "Parents": [],
@@ -5576,7 +5576,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.762508392333984,
+        "Confidence": 21.762508392333984,
         "Instances": [],
         "Parents": [
           {
@@ -5673,7 +5673,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Cookware",
-        "Confidence": 50.28167724609375,
+        "Confidence": 20.28167724609375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5688,7 +5688,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Cup",
-        "Confidence": 51.09804916381836,
+        "Confidence": 41.09804916381836,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -5732,7 +5732,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Food",
-        "Confidence": 59.23728561401367,
+        "Confidence": 49.23728561401367,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5803,7 +5803,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.76653289794922,
+        "Confidence": 11.76653289794922,
         "Instances": [],
         "Parents": [
           {
@@ -5935,7 +5935,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Money",
-        "Confidence": 51.897701263427734,
+        "Confidence": 41.897701263427734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5994,7 +5994,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.3634147644043,
+        "Confidence": 30.3634147644043,
         "Instances": [],
         "Parents": [
           {
@@ -6057,7 +6057,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Cookware",
-        "Confidence": 50.37107467651367,
+        "Confidence": 10.37107467651367,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6087,7 +6087,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.45565414428711,
+        "Confidence": 31.45565414428711,
         "Instances": [],
         "Parents": [
           {
@@ -6121,7 +6121,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Male",
-        "Confidence": 56.055992126464844,
+        "Confidence": 36.055992126464844,
         "Instances": [
           {
             "BoundingBox": {
@@ -6159,7 +6159,7 @@
               "Left": 0.5802928805351257,
               "Top": 0.005437660031020641
             },
-            "Confidence": 55.52944564819336
+            "Confidence": 35.52944564819336
           }
         ],
         "Parents": [
@@ -6229,7 +6229,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Pot",
-        "Confidence": 50.28102111816406,
+        "Confidence": 10.28102111816406,
         "Instances": [],
         "Parents": [
           {
@@ -6248,7 +6248,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.814605712890625,
+        "Confidence": 31.814605712890625,
         "Instances": [],
         "Parents": [
           {
@@ -6267,7 +6267,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Adult",
-        "Confidence": 59.849971771240234,
+        "Confidence": 49.849971771240234,
         "Instances": [
           {
             "BoundingBox": {
@@ -6276,7 +6276,7 @@
               "Left": 0.8599873781204224,
               "Top": 0.5844545960426331
             },
-            "Confidence": 57.64159393310547
+            "Confidence": 27.64159393310547
           },
           {
             "BoundingBox": {
@@ -6305,7 +6305,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 53.59368133544922,
+        "Confidence": 33.59368133544922,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6384,7 +6384,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Male",
-        "Confidence": 59.849971771240234,
+        "Confidence": 39.849971771240234,
         "Instances": [
           {
             "BoundingBox": {
@@ -6402,7 +6402,7 @@
               "Left": 0.5938481092453003,
               "Top": 0.006303176749497652
             },
-            "Confidence": 56.22654724121094
+            "Confidence": 26.22654724121094
           }
         ],
         "Parents": [
@@ -6422,7 +6422,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Man",
-        "Confidence": 59.849971771240234,
+        "Confidence": 39.849971771240234,
         "Instances": [
           {
             "BoundingBox": {
@@ -6431,7 +6431,7 @@
               "Left": 0.8599873781204224,
               "Top": 0.5844545960426331
             },
-            "Confidence": 57.64159393310547
+            "Confidence": 37.64159393310547
           },
           {
             "BoundingBox": {
@@ -6601,7 +6601,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Cup",
-        "Confidence": 51.49164962768555,
+        "Confidence": 31.49164962768555,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -6777,7 +6777,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 51.0199089050293,
+        "Confidence": 31.0199089050293,
         "Instances": [],
         "Parents": [
           {
@@ -6885,7 +6885,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 50.121849060058594,
+        "Confidence": 40.121849060058594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6900,7 +6900,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 58.145259857177734,
+        "Confidence": 28.145259857177734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6952,7 +6952,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.46561813354492,
+        "Confidence": 31.46561813354492,
         "Instances": [],
         "Parents": [
           {
@@ -7213,7 +7213,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Food",
-        "Confidence": 59.45771408081055,
+        "Confidence": 29.45771408081055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7247,7 +7247,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.52452087402344,
+        "Confidence": 30.52452087402344,
         "Instances": [],
         "Parents": [
           {
@@ -7281,7 +7281,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Mammal",
-        "Confidence": 52.01283264160156,
+        "Confidence": 22.01283264160156,
         "Instances": [],
         "Parents": [
           {
@@ -7392,7 +7392,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Baby",
-        "Confidence": 59.322017669677734,
+        "Confidence": 49.322017669677734,
         "Instances": [
           {
             "BoundingBox": {
@@ -7440,7 +7440,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 55.033329010009766,
+        "Confidence": 45.033329010009766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7470,7 +7470,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.407108306884766,
+        "Confidence": 41.407108306884766,
         "Instances": [],
         "Parents": [
           {
@@ -7504,7 +7504,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Knife",
-        "Confidence": 51.91671371459961,
+        "Confidence": 31.91671371459961,
         "Instances": [],
         "Parents": [
           {
@@ -7643,7 +7643,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 50.4632453918457,
+        "Confidence": 20.4632453918457,
         "Instances": [],
         "Parents": [
           {
@@ -7662,7 +7662,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.46892547607422,
+        "Confidence": 41.46892547607422,
         "Instances": [],
         "Parents": [
           {
@@ -7703,7 +7703,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.91671371459961,
+        "Confidence": 41.91671371459961,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -7898,7 +7898,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Mason Jar",
-        "Confidence": 54.48882293701172,
+        "Confidence": 34.48882293701172,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8024,7 +8024,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Cafe",
-        "Confidence": 50.50245666503906,
+        "Confidence": 20.50245666503906,
         "Instances": [],
         "Parents": [
           {
@@ -8065,7 +8065,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Coffee Cup",
-        "Confidence": 50.096553802490234,
+        "Confidence": 30.096553802490234,
         "Instances": [],
         "Parents": [
           {
@@ -8087,7 +8087,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 57.52704620361328,
+        "Confidence": 47.52704620361328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8270,7 +8270,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Ketchup",
-        "Confidence": 52.58019256591797,
+        "Confidence": 32.58019256591797,
         "Instances": [],
         "Parents": [
           {
@@ -8353,7 +8353,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Mashing Food",
-        "Confidence": 52.603050231933594,
+        "Confidence": 22.603050231933594,
         "Instances": [],
         "Parents": [
           {
@@ -8372,7 +8372,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Money",
-        "Confidence": 50.75630187988281,
+        "Confidence": 40.75630187988281,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8416,7 +8416,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Restaurant",
-        "Confidence": 50.50245666503906,
+        "Confidence": 10.50245666503906,
         "Instances": [],
         "Parents": [
           {
@@ -8664,7 +8664,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Cup",
-        "Confidence": 50.333133697509766,
+        "Confidence": 40.333133697509766,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -8698,7 +8698,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Egg",
-        "Confidence": 50.70354461669922,
+        "Confidence": 40.70354461669922,
         "Instances": [],
         "Parents": [
           {
@@ -8788,7 +8788,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.11464309692383,
+        "Confidence": 30.11464309692383,
         "Instances": [],
         "Parents": [
           {
@@ -8822,7 +8822,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Ketchup",
-        "Confidence": 51.59336471557617,
+        "Confidence": 21.59336471557617,
         "Instances": [],
         "Parents": [
           {
@@ -9018,7 +9018,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Pet",
-        "Confidence": 57.67546081542969,
+        "Confidence": 37.67546081542969,
         "Instances": [],
         "Parents": [
           {
@@ -9052,7 +9052,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.832008361816406,
+        "Confidence": 40.832008361816406,
         "Instances": [],
         "Parents": [
           {
@@ -9071,7 +9071,7 @@
       "Timestamp": 19200,
       "Label": {
         "Name": "Tool",
-        "Confidence": 52.675086975097656,
+        "Confidence": 32.675086975097656,
         "Instances": [],
         "Parents": [
           {
@@ -9118,7 +9118,7 @@
               "Left": 0.5620635747909546,
               "Top": 0.0
             },
-            "Confidence": 55.58945083618164
+            "Confidence": 25.58945083618164
           }
         ],
         "Parents": [
@@ -9138,7 +9138,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Blade",
-        "Confidence": 50.154541015625,
+        "Confidence": 30.154541015625,
         "Instances": [],
         "Parents": [
           {
@@ -9221,7 +9221,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.154541015625,
+        "Confidence": 20.154541015625,
         "Instances": [],
         "Parents": [
           {
@@ -9388,7 +9388,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Food",
-        "Confidence": 58.65272521972656,
+        "Confidence": 48.65272521972656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9403,7 +9403,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.25629806518555,
+        "Confidence": 40.25629806518555,
         "Instances": [],
         "Parents": [
           {
@@ -9503,7 +9503,7 @@
       "Timestamp": 19720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.00649642944336,
+        "Confidence": 41.00649642944336,
         "Instances": [],
         "Parents": [
           {
@@ -9541,7 +9541,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Adult",
-        "Confidence": 53.226959228515625,
+        "Confidence": 43.226959228515625,
         "Instances": [
           {
             "BoundingBox": {
@@ -9550,7 +9550,7 @@
               "Left": 0.3554861843585968,
               "Top": 0.003258552635088563
             },
-            "Confidence": 54.373104095458984
+            "Confidence": 44.373104095458984
           }
         ],
         "Parents": [
@@ -9619,7 +9619,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Cup",
-        "Confidence": 51.58149337768555,
+        "Confidence": 41.58149337768555,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -9653,7 +9653,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Grain",
-        "Confidence": 50.44361114501953,
+        "Confidence": 20.44361114501953,
         "Instances": [],
         "Parents": [
           {
@@ -9675,7 +9675,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.59483337402344,
+        "Confidence": 20.59483337402344,
         "Instances": [],
         "Parents": [
           {
@@ -9697,7 +9697,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.39556884765625,
+        "Confidence": 41.39556884765625,
         "Instances": [],
         "Parents": [
           {
@@ -9731,7 +9731,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Knife",
-        "Confidence": 51.607303619384766,
+        "Confidence": 41.607303619384766,
         "Instances": [],
         "Parents": [
           {
@@ -9753,7 +9753,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Male",
-        "Confidence": 52.790122985839844,
+        "Confidence": 32.790122985839844,
         "Instances": [
           {
             "BoundingBox": {
@@ -9762,7 +9762,7 @@
               "Left": 0.3554861843585968,
               "Top": 0.003258552635088563
             },
-            "Confidence": 54.373104095458984
+            "Confidence": 44.373104095458984
           }
         ],
         "Parents": [
@@ -9856,7 +9856,7 @@
               "Left": 0.3554861843585968,
               "Top": 0.003258552635088563
             },
-            "Confidence": 54.373104095458984
+            "Confidence": 34.373104095458984
           }
         ],
         "Parents": [],
@@ -9939,7 +9939,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.10988235473633,
+        "Confidence": 41.10988235473633,
         "Instances": [],
         "Parents": [
           {
@@ -9958,7 +9958,7 @@
       "Timestamp": 20200,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 52.05778884887695,
+        "Confidence": 42.05778884887695,
         "Instances": [],
         "Parents": [
           {
@@ -10028,7 +10028,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Blade",
-        "Confidence": 50.04318618774414,
+        "Confidence": 40.04318618774414,
         "Instances": [],
         "Parents": [
           {
@@ -10096,7 +10096,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.82633590698242,
+        "Confidence": 41.82633590698242,
         "Instances": [],
         "Parents": [
           {
@@ -10279,7 +10279,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.346981048583984,
+        "Confidence": 20.346981048583984,
         "Instances": [],
         "Parents": [
           {
@@ -10320,7 +10320,7 @@
       "Timestamp": 20720,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.04318618774414,
+        "Confidence": 30.04318618774414,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -10339,7 +10339,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Adult",
-        "Confidence": 57.66022491455078,
+        "Confidence": 37.66022491455078,
         "Instances": [
           {
             "BoundingBox": {
@@ -10368,7 +10368,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Baby",
-        "Confidence": 54.52824401855469,
+        "Confidence": 24.52824401855469,
         "Instances": [
           {
             "BoundingBox": {
@@ -10427,7 +10427,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Cup",
-        "Confidence": 51.430503845214844,
+        "Confidence": 31.430503845214844,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -10486,7 +10486,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Hand",
-        "Confidence": 50.335750579833984,
+        "Confidence": 20.335750579833984,
         "Instances": [],
         "Parents": [
           {
@@ -10508,7 +10508,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.05849838256836,
+        "Confidence": 20.05849838256836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10557,7 +10557,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Male",
-        "Confidence": 57.66022491455078,
+        "Confidence": 47.66022491455078,
         "Instances": [
           {
             "BoundingBox": {
@@ -10678,7 +10678,7 @@
               "Left": 0.07558123767375946,
               "Top": 0.20955508947372437
             },
-            "Confidence": 51.424320220947266
+            "Confidence": 31.424320220947266
           }
         ],
         "Parents": [],
@@ -10698,7 +10698,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 51.539466857910156,
+        "Confidence": 31.539466857910156,
         "Instances": [],
         "Parents": [
           {
@@ -10717,7 +10717,7 @@
       "Timestamp": 21200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.775630950927734,
+        "Confidence": 20.775630950927734,
         "Instances": [],
         "Parents": [
           {
@@ -10787,7 +10787,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Blade",
-        "Confidence": 51.643768310546875,
+        "Confidence": 21.643768310546875,
         "Instances": [],
         "Parents": [
           {
@@ -10806,7 +10806,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 57.74346923828125,
+        "Confidence": 47.74346923828125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10855,7 +10855,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.44419860839844,
+        "Confidence": 21.44419860839844,
         "Instances": [],
         "Parents": [
           {
@@ -11079,7 +11079,7 @@
       "Timestamp": 21720,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.643768310546875,
+        "Confidence": 21.643768310546875,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -11358,7 +11358,7 @@
               "Left": 0.050738513469696045,
               "Top": 0.00033634185092523694
             },
-            "Confidence": 58.29038619995117
+            "Confidence": 28.29038619995117
           }
         ],
         "Parents": [
@@ -11408,7 +11408,7 @@
               "Left": 0.050738513469696045,
               "Top": 0.00033634185092523694
             },
-            "Confidence": 58.29038619995117
+            "Confidence": 48.29038619995117
           }
         ],
         "Parents": [],
@@ -11447,7 +11447,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 50.755577087402344,
+        "Confidence": 20.755577087402344,
         "Instances": [],
         "Parents": [
           {
@@ -11485,7 +11485,7 @@
       "Timestamp": 22200,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 50.755577087402344,
+        "Confidence": 40.755577087402344,
         "Instances": [],
         "Parents": [
           {
@@ -11726,7 +11726,7 @@
       "Timestamp": 22720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.903499603271484,
+        "Confidence": 40.903499603271484,
         "Instances": [],
         "Parents": [
           {
@@ -11789,7 +11789,7 @@
               "Left": 0.5646043419837952,
               "Top": 0.006686592008918524
             },
-            "Confidence": 56.637428283691406
+            "Confidence": 26.637428283691406
           }
         ],
         "Parents": [
@@ -11809,7 +11809,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 51.87065124511719,
+        "Confidence": 41.87065124511719,
         "Instances": [],
         "Parents": [
           {
@@ -11828,7 +11828,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 55.41384506225586,
+        "Confidence": 45.41384506225586,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11858,7 +11858,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.599578857421875,
+        "Confidence": 40.599578857421875,
         "Instances": [],
         "Parents": [
           {
@@ -11914,7 +11914,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Male",
-        "Confidence": 56.071102142333984,
+        "Confidence": 46.071102142333984,
         "Instances": [
           {
             "BoundingBox": {
@@ -11923,7 +11923,7 @@
               "Left": 0.5646043419837952,
               "Top": 0.006686592008918524
             },
-            "Confidence": 56.637428283691406
+            "Confidence": 46.637428283691406
           }
         ],
         "Parents": [
@@ -11952,7 +11952,7 @@
               "Left": 0.5646043419837952,
               "Top": 0.006686592008918524
             },
-            "Confidence": 56.637428283691406
+            "Confidence": 46.637428283691406
           }
         ],
         "Parents": [
@@ -12002,7 +12002,7 @@
               "Left": 0.5646043419837952,
               "Top": 0.006686592008918524
             },
-            "Confidence": 56.637428283691406
+            "Confidence": 36.637428283691406
           }
         ],
         "Parents": [],
@@ -12022,7 +12022,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.225711822509766,
+        "Confidence": 41.225711822509766,
         "Instances": [],
         "Parents": [
           {
@@ -12041,7 +12041,7 @@
       "Timestamp": 23200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.87065124511719,
+        "Confidence": 41.87065124511719,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -12132,7 +12132,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 54.58936309814453,
+        "Confidence": 44.58936309814453,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12147,7 +12147,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Cup",
-        "Confidence": 50.38497543334961,
+        "Confidence": 20.38497543334961,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -12359,7 +12359,7 @@
       "Timestamp": 23720,
       "Label": {
         "Name": "Money",
-        "Confidence": 51.95378494262695,
+        "Confidence": 31.95378494262695,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12460,7 +12460,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 50.72861862182617,
+        "Confidence": 20.72861862182617,
         "Instances": [],
         "Parents": [
           {
@@ -12479,7 +12479,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Body Part",
-        "Confidence": 55.331504821777344,
+        "Confidence": 25.331504821777344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12691,7 +12691,7 @@
       "Timestamp": 24200,
       "Label": {
         "Name": "Mason Jar",
-        "Confidence": 59.437217712402344,
+        "Confidence": 39.437217712402344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12802,7 +12802,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Blade",
-        "Confidence": 50.142845153808594,
+        "Confidence": 40.142845153808594,
         "Instances": [],
         "Parents": [
           {
@@ -12851,7 +12851,7 @@
       "Timestamp": 24720,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.40584182739258,
+        "Confidence": 41.40584182739258,
         "Instances": [],
         "Parents": [
           {
@@ -13120,7 +13120,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 51.01285171508789,
+        "Confidence": 41.01285171508789,
         "Instances": [],
         "Parents": [
           {
@@ -13263,7 +13263,7 @@
               "Left": 0.653369128704071,
               "Top": 0.0
             },
-            "Confidence": 52.283470153808594
+            "Confidence": 32.283470153808594
           }
         ],
         "Parents": [
@@ -13313,7 +13313,7 @@
               "Left": 0.653369128704071,
               "Top": 0.0
             },
-            "Confidence": 52.283470153808594
+            "Confidence": 42.283470153808594
           }
         ],
         "Parents": [],
@@ -13352,7 +13352,7 @@
       "Timestamp": 25200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.01285171508789,
+        "Confidence": 21.01285171508789,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -13492,7 +13492,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.87187576293945,
+        "Confidence": 10.87187576293945,
         "Instances": [],
         "Parents": [
           {
@@ -13650,7 +13650,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.408790588378906,
+        "Confidence": 31.408790588378906,
         "Instances": [],
         "Parents": [
           {
@@ -13669,7 +13669,7 @@
       "Timestamp": 25720,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.87187576293945,
+        "Confidence": 40.87187576293945,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -13726,7 +13726,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 51.92403030395508,
+        "Confidence": 41.92403030395508,
         "Instances": [],
         "Parents": [
           {
@@ -13790,7 +13790,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Device",
-        "Confidence": 50.9479866027832,
+        "Confidence": 30.9479866027832,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13867,7 +13867,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 53.69614028930664,
+        "Confidence": 43.69614028930664,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13901,7 +13901,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Interior Design",
-        "Confidence": 53.366024017333984,
+        "Confidence": 23.366024017333984,
         "Instances": [],
         "Parents": [
           {
@@ -13935,7 +13935,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Ketchup",
-        "Confidence": 51.48109817504883,
+        "Confidence": 31.48109817504883,
         "Instances": [],
         "Parents": [
           {
@@ -14111,7 +14111,7 @@
       "Timestamp": 26200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.92403030395508,
+        "Confidence": 41.92403030395508,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -14193,7 +14193,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 57.20680236816406,
+        "Confidence": 27.20680236816406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14227,7 +14227,7 @@
       "Timestamp": 26720,
       "Label": {
         "Name": "Finger",
-        "Confidence": 54.277984619140625,
+        "Confidence": 44.277984619140625,
         "Instances": [],
         "Parents": [
           {
@@ -14614,7 +14614,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Food",
-        "Confidence": 58.418514251708984,
+        "Confidence": 48.418514251708984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14644,7 +14644,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.22245788574219,
+        "Confidence": 30.22245788574219,
         "Instances": [],
         "Parents": [
           {
@@ -14729,7 +14729,7 @@
       "Timestamp": 27200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.22245788574219,
+        "Confidence": 40.22245788574219,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -14777,7 +14777,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Blade",
-        "Confidence": 50.79935836791992,
+        "Confidence": 30.79935836791992,
         "Instances": [],
         "Parents": [
           {
@@ -14879,7 +14879,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.79935836791992,
+        "Confidence": 20.79935836791992,
         "Instances": [],
         "Parents": [
           {
@@ -14964,7 +14964,7 @@
       "Timestamp": 27720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.27747344970703,
+        "Confidence": 41.27747344970703,
         "Instances": [],
         "Parents": [
           {
@@ -15024,7 +15024,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Baby",
-        "Confidence": 55.57997131347656,
+        "Confidence": 45.57997131347656,
         "Instances": [
           {
             "BoundingBox": {
@@ -15033,7 +15033,7 @@
               "Left": 0.4969750642776489,
               "Top": 0.0
             },
-            "Confidence": 58.78467559814453
+            "Confidence": 28.78467559814453
           }
         ],
         "Parents": [
@@ -15053,7 +15053,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 51.13835144042969,
+        "Confidence": 21.13835144042969,
         "Instances": [],
         "Parents": [
           {
@@ -15087,7 +15087,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Food",
-        "Confidence": 58.932411193847656,
+        "Confidence": 38.932411193847656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15183,7 +15183,7 @@
       "Timestamp": 28200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.787025451660156,
+        "Confidence": 40.787025451660156,
         "Instances": [],
         "Parents": [
           {
@@ -15333,7 +15333,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.55840301513672,
+        "Confidence": 30.55840301513672,
         "Instances": [],
         "Parents": [
           {
@@ -15463,7 +15463,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 50.372337341308594,
+        "Confidence": 20.372337341308594,
         "Instances": [],
         "Parents": [
           {
@@ -15482,7 +15482,7 @@
       "Timestamp": 28720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.795867919921875,
+        "Confidence": 30.795867919921875,
         "Instances": [],
         "Parents": [
           {
@@ -15625,7 +15625,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Knife",
-        "Confidence": 51.2995719909668,
+        "Confidence": 41.2995719909668,
         "Instances": [],
         "Parents": [
           {
@@ -15691,7 +15691,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 50.28437805175781,
+        "Confidence": 30.28437805175781,
         "Instances": [],
         "Parents": [
           {
@@ -15729,7 +15729,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 50.28437805175781,
+        "Confidence": 20.28437805175781,
         "Instances": [],
         "Parents": [
           {
@@ -15751,7 +15751,7 @@
       "Timestamp": 29200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.2995719909668,
+        "Confidence": 21.2995719909668,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -15876,7 +15876,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.16658401489258,
+        "Confidence": 21.16658401489258,
         "Instances": [],
         "Parents": [
           {
@@ -15910,7 +15910,7 @@
       "Timestamp": 29720,
       "Label": {
         "Name": "Knife",
-        "Confidence": 51.53403854370117,
+        "Confidence": 41.53403854370117,
         "Instances": [],
         "Parents": [
           {
@@ -16157,7 +16157,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 52.23184585571289,
+        "Confidence": 22.23184585571289,
         "Instances": [],
         "Parents": [
           {
@@ -16319,7 +16319,7 @@
               "Left": 0.3552984595298767,
               "Top": 0.0037521361373364925
             },
-            "Confidence": 54.83708953857422
+            "Confidence": 44.83708953857422
           }
         ],
         "Parents": [
@@ -16389,7 +16389,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 51.2216911315918,
+        "Confidence": 31.2216911315918,
         "Instances": [],
         "Parents": [
           {
@@ -16449,7 +16449,7 @@
       "Timestamp": 30200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.23184585571289,
+        "Confidence": 42.23184585571289,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -16580,7 +16580,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Knife",
-        "Confidence": 51.68076705932617,
+        "Confidence": 21.68076705932617,
         "Instances": [],
         "Parents": [
           {
@@ -16710,7 +16710,7 @@
       "Timestamp": 30720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.28636932373047,
+        "Confidence": 41.28636932373047,
         "Instances": [],
         "Parents": [
           {
@@ -16797,7 +16797,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.03086471557617,
+        "Confidence": 40.03086471557617,
         "Instances": [],
         "Parents": [
           {
@@ -16916,7 +16916,7 @@
       "Timestamp": 31200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.269405364990234,
+        "Confidence": 30.269405364990234,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -16964,7 +16964,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Blade",
-        "Confidence": 50.64290237426758,
+        "Confidence": 30.64290237426758,
         "Instances": [],
         "Parents": [
           {
@@ -17013,7 +17013,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Grain",
-        "Confidence": 50.067989349365234,
+        "Confidence": 10.067989349365234,
         "Instances": [],
         "Parents": [
           {
@@ -17069,7 +17069,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.64290237426758,
+        "Confidence": 40.64290237426758,
         "Instances": [],
         "Parents": [
           {
@@ -17091,7 +17091,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Male",
-        "Confidence": 58.142051696777344,
+        "Confidence": 38.142051696777344,
         "Instances": [
           {
             "BoundingBox": {
@@ -17199,7 +17199,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Produce",
-        "Confidence": 50.067989349365234,
+        "Confidence": 20.067989349365234,
         "Instances": [],
         "Parents": [
           {
@@ -17218,7 +17218,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 50.444419860839844,
+        "Confidence": 20.444419860839844,
         "Instances": [],
         "Parents": [
           {
@@ -17237,7 +17237,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Seed",
-        "Confidence": 50.067989349365234,
+        "Confidence": 20.067989349365234,
         "Instances": [],
         "Parents": [
           {
@@ -17303,7 +17303,7 @@
       "Timestamp": 31720,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.64290237426758,
+        "Confidence": 30.64290237426758,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -17322,7 +17322,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Adult",
-        "Confidence": 59.88956832885742,
+        "Confidence": 29.88956832885742,
         "Instances": [
           {
             "BoundingBox": {
@@ -17400,7 +17400,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Food Presentation",
-        "Confidence": 51.219947814941406,
+        "Confidence": 41.219947814941406,
         "Instances": [],
         "Parents": [
           {
@@ -17441,7 +17441,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Jam",
-        "Confidence": 51.20913314819336,
+        "Confidence": 21.20913314819336,
         "Instances": [],
         "Parents": [
           {
@@ -17494,7 +17494,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Knife",
-        "Confidence": 51.32002258300781,
+        "Confidence": 21.32002258300781,
         "Instances": [],
         "Parents": [
           {
@@ -17545,7 +17545,7 @@
       "Timestamp": 32200,
       "Label": {
         "Name": "Man",
-        "Confidence": 59.88956832885742,
+        "Confidence": 19.88956832885742,
         "Instances": [
           {
             "BoundingBox": {
@@ -17554,7 +17554,7 @@
               "Left": 0.07331900298595428,
               "Top": 0.00021881103748455644
             },
-            "Confidence": 58.423973083496094
+            "Confidence": 38.423973083496094
           }
         ],
         "Parents": [
@@ -17623,7 +17623,7 @@
               "Left": 0.07331900298595428,
               "Top": 0.00021881103748455644
             },
-            "Confidence": 58.423973083496094
+            "Confidence": 48.423973083496094
           }
         ],
         "Parents": [],
@@ -17850,7 +17850,7 @@
       "Timestamp": 32720,
       "Label": {
         "Name": "Knife",
-        "Confidence": 52.500003814697266,
+        "Confidence": 22.500003814697266,
         "Instances": [],
         "Parents": [
           {
@@ -17936,7 +17936,7 @@
       "Timestamp": 32720,
       "Label": {
         "Name": "Mason Jar",
-        "Confidence": 54.994422912597656,
+        "Confidence": 24.994422912597656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18065,7 +18065,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 52.89216232299805,
+        "Confidence": 32.89216232299805,
         "Instances": [],
         "Parents": [
           {
@@ -18099,7 +18099,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 55.134769439697266,
+        "Confidence": 45.134769439697266,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18195,7 +18195,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.847564697265625,
+        "Confidence": 30.847564697265625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18367,7 +18367,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Mason Jar",
-        "Confidence": 52.53767395019531,
+        "Confidence": 42.53767395019531,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18409,7 +18409,7 @@
               "Left": 0.7274782061576843,
               "Top": 0.31760403513908386
             },
-            "Confidence": 57.027713775634766
+            "Confidence": 37.027713775634766
           }
         ],
         "Parents": [],
@@ -18448,7 +18448,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.61688232421875,
+        "Confidence": 20.61688232421875,
         "Instances": [],
         "Parents": [
           {
@@ -18467,7 +18467,7 @@
       "Timestamp": 33200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.89216232299805,
+        "Confidence": 22.89216232299805,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -18539,7 +18539,7 @@
       "Timestamp": 33720,
       "Label": {
         "Name": "Food",
-        "Confidence": 59.4827880859375,
+        "Confidence": 39.4827880859375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18783,7 +18783,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.17123794555664,
+        "Confidence": 20.17123794555664,
         "Instances": [],
         "Parents": [
           {
@@ -18802,7 +18802,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Jar",
-        "Confidence": 57.9179573059082,
+        "Confidence": 37.9179573059082,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18817,7 +18817,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Male",
-        "Confidence": 55.3715934753418,
+        "Confidence": 35.3715934753418,
         "Instances": [
           {
             "BoundingBox": {
@@ -18846,7 +18846,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Man",
-        "Confidence": 55.3715934753418,
+        "Confidence": 35.3715934753418,
         "Instances": [
           {
             "BoundingBox": {
@@ -18925,7 +18925,7 @@
       "Timestamp": 34200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.43488693237305,
+        "Confidence": 41.43488693237305,
         "Instances": [],
         "Parents": [
           {
@@ -18993,7 +18993,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Jar",
-        "Confidence": 59.55793762207031,
+        "Confidence": 39.55793762207031,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19008,7 +19008,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Knife",
-        "Confidence": 53.960174560546875,
+        "Confidence": 33.960174560546875,
         "Instances": [],
         "Parents": [
           {
@@ -19083,7 +19083,7 @@
       "Timestamp": 34720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.19898223876953,
+        "Confidence": 40.19898223876953,
         "Instances": [],
         "Parents": [
           {
@@ -19150,7 +19150,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 52.283145904541016,
+        "Confidence": 42.283145904541016,
         "Instances": [],
         "Parents": [
           {
@@ -19184,7 +19184,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Food",
-        "Confidence": 57.89143753051758,
+        "Confidence": 37.89143753051758,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19233,7 +19233,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.3195686340332,
+        "Confidence": 30.3195686340332,
         "Instances": [],
         "Parents": [
           {
@@ -19286,7 +19286,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Knife",
-        "Confidence": 52.283145904541016,
+        "Confidence": 12.283145904541016,
         "Instances": [],
         "Parents": [
           {
@@ -19391,7 +19391,7 @@
       "Timestamp": 35200,
       "Label": {
         "Name": "Mason Jar",
-        "Confidence": 54.79486083984375,
+        "Confidence": 24.79486083984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19454,7 +19454,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Adult",
-        "Confidence": 55.645965576171875,
+        "Confidence": 25.645965576171875,
         "Instances": [
           {
             "BoundingBox": {
@@ -19463,7 +19463,7 @@
               "Left": 0.8531103730201721,
               "Top": 0.0
             },
-            "Confidence": 50.38358688354492
+            "Confidence": 30.38358688354492
           }
         ],
         "Parents": [
@@ -19517,7 +19517,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Food",
-        "Confidence": 57.64613342285156,
+        "Confidence": 37.64613342285156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19532,7 +19532,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Head",
-        "Confidence": 57.19940948486328,
+        "Confidence": 47.19940948486328,
         "Instances": [],
         "Parents": [
           {
@@ -19597,7 +19597,7 @@
               "Left": 0.8531103730201721,
               "Top": 0.0
             },
-            "Confidence": 50.38358688354492
+            "Confidence": 10.38358688354492
           }
         ],
         "Parents": [
@@ -19696,7 +19696,7 @@
       "Timestamp": 35720,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.5736083984375,
+        "Confidence": 31.5736083984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -19763,7 +19763,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 57.6228141784668,
+        "Confidence": 47.6228141784668,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19778,7 +19778,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Food",
-        "Confidence": 58.1233024597168,
+        "Confidence": 38.1233024597168,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19946,7 +19946,7 @@
               "Left": 0.6682412028312683,
               "Top": 0.0006369161419570446
             },
-            "Confidence": 59.55439376831055
+            "Confidence": 39.55439376831055
           }
         ],
         "Parents": [],
@@ -19985,7 +19985,7 @@
       "Timestamp": 36200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 51.70886993408203,
+        "Confidence": 21.70886993408203,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -20022,7 +20022,7 @@
               "Left": 0.07913322746753693,
               "Top": 0.004255485720932484
             },
-            "Confidence": 52.390628814697266
+            "Confidence": 22.390628814697266
           }
         ],
         "Parents": [
@@ -20114,7 +20114,7 @@
       "Timestamp": 36720,
       "Label": {
         "Name": "Food",
-        "Confidence": 57.84097671508789,
+        "Confidence": 37.84097671508789,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -20218,7 +20218,7 @@
               "Left": 0.07913322746753693,
               "Top": 0.004255485720932484
             },
-            "Confidence": 52.390628814697266
+            "Confidence": 22.390628814697266
           }
         ],
         "Parents": [],
@@ -20238,7 +20238,7 @@
       "Timestamp": 36720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.90093994140625,
+        "Confidence": 20.90093994140625,
         "Instances": [],
         "Parents": [
           {
@@ -20257,7 +20257,7 @@
       "Timestamp": 36720,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 50.81502151489258,
+        "Confidence": 40.81502151489258,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -20294,7 +20294,7 @@
               "Left": 0.07913322746753693,
               "Top": 0.004255485720932484
             },
-            "Confidence": 52.390628814697266
+            "Confidence": 32.390628814697266
           }
         ],
         "Parents": [
@@ -20434,7 +20434,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Device",
-        "Confidence": 50.25871276855469,
+        "Confidence": 40.25871276855469,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -20637,7 +20637,7 @@
       "Timestamp": 37200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 52.26083755493164,
+        "Confidence": 22.26083755493164,
         "Instances": [],
         "Parents": [
           {
@@ -21075,7 +21075,7 @@
               "Left": 0.6682299375534058,
               "Top": 0.01700870506465435
             },
-            "Confidence": 59.14116668701172
+            "Confidence": 19.14116668701172
           }
         ],
         "Parents": [
@@ -21095,7 +21095,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Blade",
-        "Confidence": 52.189231872558594,
+        "Confidence": 32.189231872558594,
         "Instances": [],
         "Parents": [
           {
@@ -21129,7 +21129,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Food",
-        "Confidence": 58.6280632019043,
+        "Confidence": 28.6280632019043,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21181,7 +21181,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Male",
-        "Confidence": 57.923187255859375,
+        "Confidence": 47.923187255859375,
         "Instances": [
           {
             "BoundingBox": {
@@ -21210,7 +21210,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Man",
-        "Confidence": 57.923187255859375,
+        "Confidence": 37.923187255859375,
         "Instances": [
           {
             "BoundingBox": {
@@ -21298,7 +21298,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 51.380855560302734,
+        "Confidence": 41.380855560302734,
         "Instances": [],
         "Parents": [
           {
@@ -21317,7 +21317,7 @@
       "Timestamp": 38200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.189231872558594,
+        "Confidence": 32.189231872558594,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -21336,7 +21336,7 @@
       "Timestamp": 38720,
       "Label": {
         "Name": "Adult",
-        "Confidence": 54.907325744628906,
+        "Confidence": 44.907325744628906,
         "Instances": [],
         "Parents": [
           {
@@ -21494,7 +21494,7 @@
       "Timestamp": 38720,
       "Label": {
         "Name": "Seasoning",
-        "Confidence": 50.35358810424805,
+        "Confidence": 30.35358810424805,
         "Instances": [],
         "Parents": [
           {
@@ -21513,7 +21513,7 @@
       "Timestamp": 38720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.37353515625,
+        "Confidence": 20.37353515625,
         "Instances": [],
         "Parents": [
           {
@@ -21651,7 +21651,7 @@
       "Timestamp": 39200,
       "Label": {
         "Name": "Grain",
-        "Confidence": 50.951412200927734,
+        "Confidence": 30.951412200927734,
         "Instances": [],
         "Parents": [
           {
@@ -21856,7 +21856,7 @@
       "Timestamp": 39200,
       "Label": {
         "Name": "Seed",
-        "Confidence": 50.931602478027344,
+        "Confidence": 20.931602478027344,
         "Instances": [],
         "Parents": [
           {
@@ -21900,7 +21900,7 @@
       "Timestamp": 39200,
       "Label": {
         "Name": "Weapon",
-        "Confidence": 52.113040924072266,
+        "Confidence": 42.113040924072266,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -21919,7 +21919,7 @@
       "Timestamp": 39720,
       "Label": {
         "Name": "Adult",
-        "Confidence": 52.45369338989258,
+        "Confidence": 12.45369338989258,
         "Instances": [
           {
             "BoundingBox": {
@@ -22085,7 +22085,7 @@
       "Timestamp": 40200,
       "Label": {
         "Name": "Cooking",
-        "Confidence": 56.79954528808594,
+        "Confidence": 36.79954528808594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22100,7 +22100,7 @@
       "Timestamp": 40200,
       "Label": {
         "Name": "Food",
-        "Confidence": 59.07167053222656,
+        "Confidence": 29.07167053222656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -22130,7 +22130,7 @@
       "Timestamp": 40200,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.85209655761719,
+        "Confidence": 20.85209655761719,
         "Instances": [],
         "Parents": [
           {
@@ -22196,7 +22196,7 @@
       "Timestamp": 40200,
       "Label": {
         "Name": "Spice",
-        "Confidence": 52.03327560424805,
+        "Confidence": 42.03327560424805,
         "Instances": [],
         "Parents": [
           {
@@ -22331,7 +22331,7 @@
       "Timestamp": 40720,
       "Label": {
         "Name": "Jam",
-        "Confidence": 50.270416259765625,
+        "Confidence": 30.270416259765625,
         "Instances": [],
         "Parents": [
           {
@@ -22365,7 +22365,7 @@
       "Timestamp": 40720,
       "Label": {
         "Name": "Ketchup",
-        "Confidence": 50.4709587097168,
+        "Confidence": 40.4709587097168,
         "Instances": [],
         "Parents": [
           {
@@ -22384,7 +22384,7 @@
       "Timestamp": 40720,
       "Label": {
         "Name": "Knife",
-        "Confidence": 50.360626220703125,
+        "Confidence": 30.360626220703125,
         "Instances": [],
         "Parents": [
           {
@@ -22470,7 +22470,7 @@
       "Timestamp": 40720,
       "Label": {
         "Name": "Mashing Food",
-        "Confidence": 50.17159652709961,
+        "Confidence": 40.17159652709961,
         "Instances": [],
         "Parents": [
           {
@@ -22552,7 +22552,7 @@
       "Timestamp": 40720,
       "Label": {
         "Name": "Spice",
-        "Confidence": 50.4273681640625,
+        "Confidence": 30.4273681640625,
         "Instances": [],
         "Parents": [
           {
@@ -22571,7 +22571,7 @@
       "Timestamp": 40720,
       "Label": {
         "Name": "Syrup",
-        "Confidence": 50.532875061035156,
+        "Confidence": 30.532875061035156,
         "Instances": [],
         "Parents": [
           {

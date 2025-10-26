@@ -54,7 +54,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 54.32441329956055,
+        "Confidence": 64.32441329956055,
         "Instances": [],
         "Parents": [
           {
@@ -99,7 +99,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 56.47148513793945,
+        "Confidence": 16.47148513793945,
         "Instances": [],
         "Parents": [
           {
@@ -124,7 +124,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.39617919921875,
+        "Confidence": 16.39617919921875,
         "Instances": [],
         "Parents": [
           {
@@ -152,7 +152,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 53.479793548583984,
+        "Confidence": 43.479793548583984,
         "Instances": [],
         "Parents": [
           {
@@ -230,8 +230,8 @@
     {
       "Timestamp": 0,
       "Label": {
-        "Name": "Fitness",
-        "Confidence": 55.35906982421875,
+        "Name": "Sneakers",
+        "Confidence": 75.35906982421875,
         "Instances": [],
         "Parents": [
           {
@@ -253,7 +253,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Game",
-        "Confidence": 54.32441329956055,
+        "Confidence": 74.32441329956055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -267,7 +267,7 @@
     {
       "Timestamp": 0,
       "Label": {
-        "Name": "Gym",
+        "Name": "Informal apparel",
         "Confidence": 55.35906982421875,
         "Instances": [],
         "Parents": [
@@ -385,7 +385,7 @@
               "Left": 0.0,
               "Top": 0.4844164252281189
             },
-            "Confidence": 54.35614013671875
+            "Confidence": 34.35614013671875
           }
         ],
         "Parents": [],
@@ -424,7 +424,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 65.27620697021484,
+        "Confidence": 25.27620697021484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -439,7 +439,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Urban",
-        "Confidence": 53.97195816040039,
+        "Confidence": 23.97195816040039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -454,7 +454,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "VR Headset",
-        "Confidence": 59.84112548828125,
+        "Confidence": 29.84112548828125,
         "Instances": [
           {
             "BoundingBox": {
@@ -463,7 +463,7 @@
               "Left": 0.504700243473053,
               "Top": 0.07530859112739563
             },
-            "Confidence": 54.66609573364258
+            "Confidence": 34.66609573364258
           }
         ],
         "Parents": [],
@@ -479,7 +479,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 65.27620697021484,
+        "Confidence": 15.27620697021484,
         "Instances": [],
         "Parents": [
           {
@@ -498,7 +498,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 51.63685607910156,
+        "Confidence": 41.63685607910156,
         "Instances": [],
         "Parents": [
           {
@@ -561,7 +561,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Working Out",
-        "Confidence": 56.23271942138672,
+        "Confidence": 6.23271942138672,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -618,7 +618,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 53.530887603759766,
+        "Confidence": 63.530887603759766,
         "Instances": [],
         "Parents": [
           {
@@ -663,7 +663,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 56.84285354614258,
+        "Confidence": 16.84285354614258,
         "Instances": [],
         "Parents": [
           {
@@ -688,7 +688,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.705631256103516,
+        "Confidence": 16.705631256103516,
         "Instances": [],
         "Parents": [
           {
@@ -810,8 +810,8 @@
     {
       "Timestamp": 520,
       "Label": {
-        "Name": "Fitness",
-        "Confidence": 55.544517517089844,
+        "Name": "Sneakers",
+        "Confidence": 75.544517517089844,
         "Instances": [],
         "Parents": [
           {
@@ -833,7 +833,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Game",
-        "Confidence": 53.530887603759766,
+        "Confidence": 73.530887603759766,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -847,7 +847,7 @@
     {
       "Timestamp": 520,
       "Label": {
-        "Name": "Gym",
+        "Name": "Informal apparel",
         "Confidence": 55.544517517089844,
         "Instances": [],
         "Parents": [
@@ -873,7 +873,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Head",
-        "Confidence": 80.04954528808594,
+        "Confidence": 20.04954528808594,
         "Instances": [],
         "Parents": [
           {
@@ -1028,7 +1028,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 68.0008544921875,
+        "Confidence": 28.0008544921875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1092,7 +1092,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 68.0008544921875,
+        "Confidence": 18.0008544921875,
         "Instances": [],
         "Parents": [
           {
@@ -1111,7 +1111,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 51.36469268798828,
+        "Confidence": 41.36469268798828,
         "Instances": [],
         "Parents": [
           {
@@ -1165,7 +1165,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Working Out",
-        "Confidence": 56.11126708984375,
+        "Confidence": 16.11126708984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1222,7 +1222,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 51.73609924316406,
+        "Confidence": 61.73609924316406,
         "Instances": [],
         "Parents": [
           {
@@ -1267,7 +1267,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 65.9154281616211,
+        "Confidence": 25.9154281616211,
         "Instances": [],
         "Parents": [
           {
@@ -1292,7 +1292,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 64.79257202148438,
+        "Confidence": 24.79257202148438,
         "Instances": [],
         "Parents": [
           {
@@ -1320,7 +1320,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 52.91754913330078,
+        "Confidence": 22.91754913330078,
         "Instances": [],
         "Parents": [
           {
@@ -1398,8 +1398,8 @@
     {
       "Timestamp": 1000,
       "Label": {
-        "Name": "Fitness",
-        "Confidence": 51.03536605834961,
+        "Name": "Sneakers",
+        "Confidence": 71.03536605834961,
         "Instances": [],
         "Parents": [
           {
@@ -1421,7 +1421,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Game",
-        "Confidence": 51.73609924316406,
+        "Confidence": 71.73609924316406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1435,8 +1435,8 @@
     {
       "Timestamp": 1000,
       "Label": {
-        "Name": "Gym",
-        "Confidence": 51.03536605834961,
+        "Name": "Informal apparel",
+        "Confidence": 31.03536605834961,
         "Instances": [],
         "Parents": [
           {
@@ -1461,7 +1461,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Head",
-        "Confidence": 87.02510833740234,
+        "Confidence": 27.02510833740234,
         "Instances": [],
         "Parents": [
           {
@@ -1542,7 +1542,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Sport",
-        "Confidence": 51.03536605834961,
+        "Confidence": 41.03536605834961,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1616,7 +1616,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 77.28984832763672,
+        "Confidence": 17.28984832763672,
         "Instances": [],
         "Parents": [
           {
@@ -1698,7 +1698,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Working Out",
-        "Confidence": 51.996788024902344,
+        "Confidence": 1.996788024902344,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -1746,7 +1746,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 51.94999694824219,
+        "Confidence": 61.94999694824219,
         "Instances": [],
         "Parents": [
           {
@@ -1791,7 +1791,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 66.56317138671875,
+        "Confidence": 26.56317138671875,
         "Instances": [],
         "Parents": [
           {
@@ -1816,7 +1816,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 66.12987518310547,
+        "Confidence": 26.12987518310547,
         "Instances": [],
         "Parents": [
           {
@@ -1863,7 +1863,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Driving",
-        "Confidence": 51.779361724853516,
+        "Confidence": 41.779361724853516,
         "Instances": [],
         "Parents": [
           {
@@ -1938,8 +1938,8 @@
     {
       "Timestamp": 1520,
       "Label": {
-        "Name": "Fitness",
-        "Confidence": 53.13800048828125,
+        "Name": "Sneakers",
+        "Confidence": 73.13800048828125,
         "Instances": [],
         "Parents": [
           {
@@ -1961,7 +1961,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Game",
-        "Confidence": 51.94999694824219,
+        "Confidence": 71.94999694824219,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1975,7 +1975,7 @@
     {
       "Timestamp": 1520,
       "Label": {
-        "Name": "Gym",
+        "Name": "Informal apparel",
         "Confidence": 53.13800048828125,
         "Instances": [],
         "Parents": [
@@ -2154,7 +2154,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 78.84322357177734,
+        "Confidence": 18.84322357177734,
         "Instances": [],
         "Parents": [
           {
@@ -2208,7 +2208,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Working Out",
-        "Confidence": 53.93427276611328,
+        "Confidence": 3.93427276611328,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -2263,7 +2263,7 @@
               "Left": 0.1810305267572403,
               "Top": 0.16920755803585052
             },
-            "Confidence": 57.800865173339844
+            "Confidence": 47.800865173339844
           }
         ],
         "Parents": [
@@ -2283,7 +2283,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 50.709922790527344,
+        "Confidence": 80.709922790527344,
         "Instances": [],
         "Parents": [
           {
@@ -2328,7 +2328,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 65.72896575927734,
+        "Confidence": 25.72896575927734,
         "Instances": [],
         "Parents": [
           {
@@ -2353,7 +2353,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 63.98710250854492,
+        "Confidence": 23.98710250854492,
         "Instances": [],
         "Parents": [
           {
@@ -2502,8 +2502,8 @@
     {
       "Timestamp": 2000,
       "Label": {
-        "Name": "Fitness",
-        "Confidence": 52.322879791259766,
+        "Name": "Sneakers",
+        "Confidence": 82.322879791259766,
         "Instances": [],
         "Parents": [
           {
@@ -2525,7 +2525,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Game",
-        "Confidence": 50.709922790527344,
+        "Confidence": 70.709922790527344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2539,8 +2539,8 @@
     {
       "Timestamp": 2000,
       "Label": {
-        "Name": "Gym",
-        "Confidence": 52.322879791259766,
+        "Name": "Informal apparel",
+        "Confidence": 42.322879791259766,
         "Instances": [],
         "Parents": [
           {
@@ -2653,7 +2653,7 @@
               "Left": 0.1810305267572403,
               "Top": 0.16920755803585052
             },
-            "Confidence": 57.800865173339844
+            "Confidence": 17.800865173339844
           }
         ],
         "Parents": [],
@@ -2673,7 +2673,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Sport",
-        "Confidence": 52.322879791259766,
+        "Confidence": 22.322879791259766,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -2741,7 +2741,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 79.5353775024414,
+        "Confidence": 19.5353775024414,
         "Instances": [],
         "Parents": [
           {
@@ -2796,7 +2796,7 @@
               "Left": 0.1810305267572403,
               "Top": 0.16920755803585052
             },
-            "Confidence": 57.800865173339844
+            "Confidence": 27.800865173339844
           }
         ],
         "Parents": [
@@ -2822,7 +2822,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Working Out",
-        "Confidence": 53.179534912109375,
+        "Confidence": 3.179534912109375,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -2896,7 +2896,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 64.29077911376953,
+        "Confidence": 24.29077911376953,
         "Instances": [],
         "Parents": [
           {
@@ -2921,7 +2921,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 61.6871223449707,
+        "Confidence": 21.6871223449707,
         "Instances": [],
         "Parents": [
           {
@@ -2949,7 +2949,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 50.93167495727539,
+        "Confidence": 40.93167495727539,
         "Instances": [],
         "Parents": [
           {
@@ -3015,7 +3015,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Head",
-        "Confidence": 87.6644058227539,
+        "Confidence": 47.6644058227539,
         "Instances": [],
         "Parents": [
           {
@@ -3078,7 +3078,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Man",
-        "Confidence": 53.88187026977539,
+        "Confidence": 33.88187026977539,
         "Instances": [
           {
             "BoundingBox": {
@@ -3200,7 +3200,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 84.11184692382812,
+        "Confidence": 24.11184692382812,
         "Instances": [],
         "Parents": [
           {
@@ -3283,7 +3283,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 69.18165588378906,
+        "Confidence": 29.18165588378906,
         "Instances": [],
         "Parents": [
           {
@@ -3308,7 +3308,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 66.27840423583984,
+        "Confidence": 26.27840423583984,
         "Instances": [],
         "Parents": [
           {
@@ -3561,7 +3561,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 88.23872375488281,
+        "Confidence": 28.23872375488281,
         "Instances": [],
         "Parents": [
           {
@@ -3716,7 +3716,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 66.98917388916016,
+        "Confidence": 26.98917388916016,
         "Instances": [],
         "Parents": [
           {
@@ -3741,7 +3741,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 63.997154235839844,
+        "Confidence": 23.997154235839844,
         "Instances": [],
         "Parents": [
           {
@@ -3788,7 +3788,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Driving",
-        "Confidence": 53.70548629760742,
+        "Confidence": 33.70548629760742,
         "Instances": [],
         "Parents": [
           {
@@ -3862,7 +3862,7 @@
               "Left": 0.37163278460502625,
               "Top": 0.26424381136894226
             },
-            "Confidence": 58.83120346069336
+            "Confidence": 48.83120346069336
           }
         ],
         "Parents": [
@@ -3882,7 +3882,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Head",
-        "Confidence": 86.90547180175781,
+        "Confidence": 26.90547180175781,
         "Instances": [],
         "Parents": [
           {
@@ -3901,7 +3901,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 51.466522216796875,
+        "Confidence": 21.466522216796875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4012,7 +4012,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 88.78038024902344,
+        "Confidence": 28.78038024902344,
         "Instances": [],
         "Parents": [
           {
@@ -4031,7 +4031,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 50.99824142456055,
+        "Confidence": 20.99824142456055,
         "Instances": [],
         "Parents": [
           {
@@ -4176,7 +4176,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 65.32708740234375,
+        "Confidence": 25.32708740234375,
         "Instances": [],
         "Parents": [
           {
@@ -4201,7 +4201,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 61.8292121887207,
+        "Confidence": 21.8292121887207,
         "Instances": [],
         "Parents": [
           {
@@ -4229,7 +4229,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 50.48352813720703,
+        "Confidence": 40.48352813720703,
         "Instances": [],
         "Parents": [
           {
@@ -4313,7 +4313,7 @@
               "Left": 0.37013158202171326,
               "Top": 0.2471110224723816
             },
-            "Confidence": 58.97759246826172
+            "Confidence": 28.97759246826172
           },
           {
             "BoundingBox": {
@@ -4322,7 +4322,7 @@
               "Left": 0.23378580808639526,
               "Top": 0.22524136304855347
             },
-            "Confidence": 58.02119445800781
+            "Confidence": 18.02119445800781
           }
         ],
         "Parents": [
@@ -4342,7 +4342,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Head",
-        "Confidence": 85.68893432617188,
+        "Confidence": 25.68893432617188,
         "Instances": [],
         "Parents": [
           {
@@ -4361,7 +4361,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 50.48352813720703,
+        "Confidence": 30.48352813720703,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4472,7 +4472,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 88.6139144897461,
+        "Confidence": 28.6139144897461,
         "Instances": [],
         "Parents": [
           {
@@ -4491,7 +4491,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 50.72368621826172,
+        "Confidence": 20.72368621826172,
         "Instances": [],
         "Parents": [
           {
@@ -4590,7 +4590,7 @@
               "Left": 0.3735181987285614,
               "Top": 0.23479773104190826
             },
-            "Confidence": 53.820289611816406
+            "Confidence": 33.820289611816406
           },
           {
             "BoundingBox": {
@@ -4599,7 +4599,7 @@
               "Left": 0.4107634425163269,
               "Top": 0.18266944587230682
             },
-            "Confidence": 50.46322250366211
+            "Confidence": 30.46322250366211
           }
         ],
         "Parents": [
@@ -4645,7 +4645,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 65.11690521240234,
+        "Confidence": 25.11690521240234,
         "Instances": [],
         "Parents": [
           {
@@ -4670,7 +4670,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 63.14238357543945,
+        "Confidence": 23.14238357543945,
         "Instances": [],
         "Parents": [
           {
@@ -4782,7 +4782,7 @@
               "Left": 0.23917090892791748,
               "Top": 0.2096071094274521
             },
-            "Confidence": 54.580360412597656
+            "Confidence": 44.580360412597656
           },
           {
             "BoundingBox": {
@@ -4791,7 +4791,7 @@
               "Left": 0.3735181987285614,
               "Top": 0.23479773104190826
             },
-            "Confidence": 53.820289611816406
+            "Confidence": 33.820289611816406
           },
           {
             "BoundingBox": {
@@ -4800,7 +4800,7 @@
               "Left": 0.4107634425163269,
               "Top": 0.18266944587230682
             },
-            "Confidence": 50.46322250366211
+            "Confidence": 40.46322250366211
           }
         ],
         "Parents": [
@@ -4820,7 +4820,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Head",
-        "Confidence": 83.24259185791016,
+        "Confidence": 33.24259185791016,
         "Instances": [],
         "Parents": [
           {
@@ -4839,7 +4839,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 50.020503997802734,
+        "Confidence": 40.020503997802734,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4928,8 +4928,8 @@
     {
       "Timestamp": 4520,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.667747497558594,
+        "Name": "Neon",
+        "Confidence": 80.667747497558594,
         "Instances": [],
         "Parents": [
           {
@@ -4948,7 +4948,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 86.70291137695312,
+        "Confidence": 16.70291137695312,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4988,7 +4988,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 86.70291137695312,
+        "Confidence": 26.70291137695312,
         "Instances": [],
         "Parents": [
           {
@@ -5025,7 +5025,7 @@
               "Left": 0.23917090892791748,
               "Top": 0.2096071094274521
             },
-            "Confidence": 54.580360412597656
+            "Confidence": 44.580360412597656
           },
           {
             "BoundingBox": {
@@ -5107,7 +5107,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Boy",
-        "Confidence": 54.19484329223633,
+        "Confidence": 44.19484329223633,
         "Instances": [
           {
             "BoundingBox": {
@@ -5165,7 +5165,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 56.78015899658203,
+        "Confidence": 16.78015899658203,
         "Instances": [],
         "Parents": [
           {
@@ -5190,7 +5190,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.413536071777344,
+        "Confidence": 16.413536071777344,
         "Instances": [],
         "Parents": [
           {
@@ -5311,7 +5311,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Head",
-        "Confidence": 88.53790283203125,
+        "Confidence": 38.53790283203125,
         "Instances": [],
         "Parents": [
           {
@@ -5414,8 +5414,8 @@
     {
       "Timestamp": 5000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 53.04404830932617,
+        "Name": "Neon",
+        "Confidence": 83.04404830932617,
         "Instances": [],
         "Parents": [
           {
@@ -5449,7 +5449,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.83974838256836,
+        "Confidence": 41.83974838256836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5489,7 +5489,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 74.50482177734375,
+        "Confidence": 14.50482177734375,
         "Instances": [],
         "Parents": [
           {
@@ -5590,7 +5590,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 51.6146240234375,
+        "Confidence": 81.6146240234375,
         "Instances": [],
         "Parents": [
           {
@@ -5609,7 +5609,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Boy",
-        "Confidence": 55.0611457824707,
+        "Confidence": 35.0611457824707,
         "Instances": [
           {
             "BoundingBox": {
@@ -5667,7 +5667,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 56.987098693847656,
+        "Confidence": 16.987098693847656,
         "Instances": [],
         "Parents": [
           {
@@ -5692,7 +5692,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.89482116699219,
+        "Confidence": 16.89482116699219,
         "Instances": [],
         "Parents": [
           {
@@ -5753,7 +5753,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 50.51542663574219,
+        "Confidence": 40.51542663574219,
         "Instances": [],
         "Parents": [
           {
@@ -5823,7 +5823,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Game",
-        "Confidence": 51.6146240234375,
+        "Confidence": 71.6146240234375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5838,7 +5838,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Head",
-        "Confidence": 88.42356872558594,
+        "Confidence": 68.42356872558594,
         "Instances": [],
         "Parents": [
           {
@@ -6000,8 +6000,8 @@
     {
       "Timestamp": 5520,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 51.00754928588867,
+        "Name": "Neon",
+        "Confidence": 91.00754928588867,
         "Instances": [],
         "Parents": [
           {
@@ -6075,7 +6075,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 78.52454376220703,
+        "Confidence": 18.52454376220703,
         "Instances": [],
         "Parents": [
           {
@@ -6156,7 +6156,7 @@
               "Left": 0.6007954478263855,
               "Top": 0.1602931171655655
             },
-            "Confidence": 50.25576400756836
+            "Confidence": 20.25576400756836
           }
         ],
         "Parents": [
@@ -6176,7 +6176,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 51.19932556152344,
+        "Confidence": 61.19932556152344,
         "Instances": [],
         "Parents": [
           {
@@ -6195,7 +6195,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Boy",
-        "Confidence": 54.33673858642578,
+        "Confidence": 44.33673858642578,
         "Instances": [
           {
             "BoundingBox": {
@@ -6253,7 +6253,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 56.152671813964844,
+        "Confidence": 16.152671813964844,
         "Instances": [],
         "Parents": [
           {
@@ -6278,7 +6278,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.06975555419922,
+        "Confidence": 16.06975555419922,
         "Instances": [],
         "Parents": [
           {
@@ -6423,7 +6423,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Game",
-        "Confidence": 51.19932556152344,
+        "Confidence": 71.19932556152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6556,7 +6556,7 @@
               "Left": 0.6007954478263855,
               "Top": 0.1602931171655655
             },
-            "Confidence": 50.25576400756836
+            "Confidence": 40.25576400756836
           }
         ],
         "Parents": [],
@@ -6575,8 +6575,8 @@
     {
       "Timestamp": 6000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 52.11154556274414,
+        "Name": "Neon",
+        "Confidence": 92.11154556274414,
         "Instances": [],
         "Parents": [
           {
@@ -6610,7 +6610,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 52.74947738647461,
+        "Confidence": 42.74947738647461,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6650,7 +6650,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 75.07403564453125,
+        "Confidence": 15.07403564453125,
         "Instances": [],
         "Parents": [
           {
@@ -6786,7 +6786,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 56.31694412231445,
+        "Confidence": 16.31694412231445,
         "Instances": [],
         "Parents": [
           {
@@ -6811,7 +6811,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.1511116027832,
+        "Confidence": 16.1511116027832,
         "Instances": [],
         "Parents": [
           {
@@ -6890,7 +6890,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.801204681396484,
+        "Confidence": 32.801204681396484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7013,7 +7013,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Party",
-        "Confidence": 50.8717155456543,
+        "Confidence": 20.8717155456543,
         "Instances": [],
         "Parents": [
           {
@@ -7087,8 +7087,8 @@
     {
       "Timestamp": 6520,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 51.59305191040039,
+        "Name": "Neon",
+        "Confidence": 91.59305191040039,
         "Instances": [],
         "Parents": [
           {
@@ -7122,7 +7122,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 53.67611312866211,
+        "Confidence": 33.67611312866211,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7171,7 +7171,7 @@
       "Timestamp": 6520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 76.16516876220703,
+        "Confidence": 16.16516876220703,
         "Instances": [],
         "Parents": [
           {
@@ -7307,7 +7307,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 60.659095764160156,
+        "Confidence": 20.659095764160156,
         "Instances": [],
         "Parents": [
           {
@@ -7332,7 +7332,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 59.33244705200195,
+        "Confidence": 19.33244705200195,
         "Instances": [],
         "Parents": [
           {
@@ -7360,7 +7360,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 50.375396728515625,
+        "Confidence": 20.375396728515625,
         "Instances": [],
         "Parents": [
           {
@@ -7476,7 +7476,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 50.375396728515625,
+        "Confidence": 40.375396728515625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7589,8 +7589,8 @@
     {
       "Timestamp": 7000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.877357482910156,
+        "Name": "Neon",
+        "Confidence": 90.877357482910156,
         "Instances": [],
         "Parents": [
           {
@@ -7624,7 +7624,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 51.91484069824219,
+        "Confidence": 41.91484069824219,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7673,7 +7673,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 80.94271850585938,
+        "Confidence": 20.94271850585938,
         "Instances": [],
         "Parents": [
           {
@@ -7827,7 +7827,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 56.545921325683594,
+        "Confidence": 16.545921325683594,
         "Instances": [],
         "Parents": [
           {
@@ -7852,7 +7852,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.27548599243164,
+        "Confidence": 16.27548599243164,
         "Instances": [],
         "Parents": [
           {
@@ -7929,7 +7929,7 @@
               "Left": 0.23725198209285736,
               "Top": 0.21046632528305054
             },
-            "Confidence": 58.39984893798828
+            "Confidence": 28.39984893798828
           }
         ],
         "Parents": [
@@ -7949,7 +7949,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 54.465492248535156,
+        "Confidence": 34.465492248535156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8008,7 +8008,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.97349548339844,
+        "Confidence": 10.97349548339844,
         "Instances": [],
         "Parents": [
           {
@@ -8027,7 +8027,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Party",
-        "Confidence": 50.97398376464844,
+        "Confidence": 40.97398376464844,
         "Instances": [],
         "Parents": [
           {
@@ -8091,7 +8091,7 @@
               "Left": 0.23725198209285736,
               "Top": 0.21046632528305054
             },
-            "Confidence": 58.39984893798828
+            "Confidence": 48.39984893798828
           }
         ],
         "Parents": [],
@@ -8110,8 +8110,8 @@
     {
       "Timestamp": 7520,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.48115539550781,
+        "Name": "Neon",
+        "Confidence": 90.48115539550781,
         "Instances": [],
         "Parents": [
           {
@@ -8145,7 +8145,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 70.33576202392578,
+        "Confidence": 50.33576202392578,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8185,7 +8185,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 78.38089752197266,
+        "Confidence": 18.38089752197266,
         "Instances": [],
         "Parents": [
           {
@@ -8330,7 +8330,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 56.71177673339844,
+        "Confidence": 16.71177673339844,
         "Instances": [],
         "Parents": [
           {
@@ -8355,7 +8355,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.41965103149414,
+        "Confidence": 16.41965103149414,
         "Instances": [],
         "Parents": [
           {
@@ -8452,7 +8452,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 53.43648147583008,
+        "Confidence": 13.43648147583008,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8511,7 +8511,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Party",
-        "Confidence": 50.71080780029297,
+        "Confidence": 40.71080780029297,
         "Instances": [],
         "Parents": [
           {
@@ -8594,8 +8594,8 @@
     {
       "Timestamp": 8000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.02492904663086,
+        "Name": "Neon",
+        "Confidence": 90.02492904663086,
         "Instances": [],
         "Parents": [
           {
@@ -8644,7 +8644,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 80.3958740234375,
+        "Confidence": 20.3958740234375,
         "Instances": [],
         "Parents": [
           {
@@ -8734,7 +8734,7 @@
               "Left": 0.39604252576828003,
               "Top": 0.19587039947509766
             },
-            "Confidence": 51.93121337890625
+            "Confidence": 31.93121337890625
           }
         ],
         "Parents": [
@@ -8780,7 +8780,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 58.97969055175781,
+        "Confidence": 18.97969055175781,
         "Instances": [],
         "Parents": [
           {
@@ -8805,7 +8805,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 57.21339416503906,
+        "Confidence": 17.21339416503906,
         "Instances": [],
         "Parents": [
           {
@@ -8892,7 +8892,7 @@
               "Left": 0.39604252576828003,
               "Top": 0.19587039947509766
             },
-            "Confidence": 51.93121337890625
+            "Confidence": 41.93121337890625
           }
         ],
         "Parents": [
@@ -8912,7 +8912,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.168556213378906,
+        "Confidence": 22.168556213378906,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8927,7 +8927,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Game",
-        "Confidence": 50.0208854675293,
+        "Confidence": 70.0208854675293,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8976,7 +8976,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Limo",
-        "Confidence": 50.33841323852539,
+        "Confidence": 30.33841323852539,
         "Instances": [],
         "Parents": [
           {
@@ -9019,7 +9019,7 @@
               "Left": 0.39604252576828003,
               "Top": 0.19587039947509766
             },
-            "Confidence": 51.93121337890625
+            "Confidence": 31.93121337890625
           }
         ],
         "Parents": [],
@@ -9054,7 +9054,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 54.69541931152344,
+        "Confidence": 44.69541931152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9069,7 +9069,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 79.51911926269531,
+        "Confidence": 19.51911926269531,
         "Instances": [],
         "Parents": [
           {
@@ -9205,7 +9205,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 57.06984329223633,
+        "Confidence": 17.06984329223633,
         "Instances": [],
         "Parents": [
           {
@@ -9230,7 +9230,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.67534637451172,
+        "Confidence": 16.67534637451172,
         "Instances": [],
         "Parents": [
           {
@@ -9258,7 +9258,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 51.61603546142578,
+        "Confidence": 21.61603546142578,
         "Instances": [],
         "Parents": [
           {
@@ -9336,8 +9336,8 @@
     {
       "Timestamp": 9000,
       "Label": {
-        "Name": "Fitness",
-        "Confidence": 50.38606262207031,
+        "Name": "Sneakers",
+        "Confidence": 80.38606262207031,
         "Instances": [],
         "Parents": [
           {
@@ -9359,7 +9359,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 50.06387710571289,
+        "Confidence": 20.06387710571289,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9373,7 +9373,7 @@
     {
       "Timestamp": 9000,
       "Label": {
-        "Name": "Gym",
+        "Name": "Informal apparel",
         "Confidence": 50.38606262207031,
         "Instances": [],
         "Parents": [
@@ -9399,7 +9399,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Head",
-        "Confidence": 88.99095153808594,
+        "Confidence": 48.99095153808594,
         "Instances": [],
         "Parents": [
           {
@@ -9433,7 +9433,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Limo",
-        "Confidence": 50.00114440917969,
+        "Confidence": 30.00114440917969,
         "Instances": [],
         "Parents": [
           {
@@ -9577,8 +9577,8 @@
     {
       "Timestamp": 9000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.16145324707031,
+        "Name": "Neon",
+        "Confidence": 90.16145324707031,
         "Instances": [],
         "Parents": [
           {
@@ -9597,7 +9597,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Sport",
-        "Confidence": 50.38606262207031,
+        "Confidence": 40.38606262207031,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -9631,7 +9631,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 53.10710144042969,
+        "Confidence": 33.10710144042969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9671,7 +9671,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 74.83291625976562,
+        "Confidence": 14.83291625976562,
         "Instances": [],
         "Parents": [
           {
@@ -9727,7 +9727,7 @@
               "Left": 0.23727713525295258,
               "Top": 0.22048228979110718
             },
-            "Confidence": 54.688961029052734
+            "Confidence": 44.688961029052734
           }
         ],
         "Parents": [
@@ -9753,7 +9753,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Working Out",
-        "Confidence": 50.89080810546875,
+        "Confidence": 0.89080810546875,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -9836,7 +9836,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 60.79000473022461,
+        "Confidence": 20.79000473022461,
         "Instances": [],
         "Parents": [
           {
@@ -9861,7 +9861,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 59.17164611816406,
+        "Confidence": 19.17164611816406,
         "Instances": [],
         "Parents": [
           {
@@ -9993,7 +9993,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Head",
-        "Confidence": 86.20714569091797,
+        "Confidence": 46.20714569091797,
         "Instances": [],
         "Parents": [
           {
@@ -10155,7 +10155,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 79.32859802246094,
+        "Confidence": 19.32859802246094,
         "Instances": [],
         "Parents": [
           {
@@ -10174,7 +10174,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 50.0985107421875,
+        "Confidence": 30.0985107421875,
         "Instances": [],
         "Parents": [
           {
@@ -10264,7 +10264,7 @@
               "Left": 0.1912919133901596,
               "Top": 0.17757125198841095
             },
-            "Confidence": 57.38697814941406
+            "Confidence": 27.38697814941406
           },
           {
             "BoundingBox": {
@@ -10273,7 +10273,7 @@
               "Left": 0.1885816603899002,
               "Top": 0.4375549852848053
             },
-            "Confidence": 52.92979049682617
+            "Confidence": 42.92979049682617
           }
         ],
         "Parents": [
@@ -10319,7 +10319,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 55.277183532714844,
+        "Confidence": 15.277183532714844,
         "Instances": [],
         "Parents": [
           {
@@ -10344,7 +10344,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 55.02901077270508,
+        "Confidence": 15.02901077270508,
         "Instances": [],
         "Parents": [
           {
@@ -10372,7 +10372,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Face",
-        "Confidence": 68.8451919555664,
+        "Confidence": 48.8451919555664,
         "Instances": [],
         "Parents": [
           {
@@ -10412,7 +10412,7 @@
               "Left": 0.1912919133901596,
               "Top": 0.17757125198841095
             },
-            "Confidence": 57.38697814941406
+            "Confidence": 37.38697814941406
           },
           {
             "BoundingBox": {
@@ -10421,7 +10421,7 @@
               "Left": 0.1885816603899002,
               "Top": 0.4375549852848053
             },
-            "Confidence": 52.92979049682617
+            "Confidence": 32.92979049682617
           }
         ],
         "Parents": [
@@ -10441,7 +10441,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 50.51020050048828,
+        "Confidence": 20.51020050048828,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10456,7 +10456,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 51.24494934082031,
+        "Confidence": 21.24494934082031,
         "Instances": [],
         "Parents": [
           {
@@ -10596,7 +10596,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.25492477416992,
+        "Confidence": 10.25492477416992,
         "Instances": [],
         "Parents": [
           {
@@ -10670,8 +10670,8 @@
     {
       "Timestamp": 10000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 51.859703063964844,
+        "Name": "Neon",
+        "Confidence": 91.859703063964844,
         "Instances": [],
         "Parents": [
           {
@@ -10705,7 +10705,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 55.47482681274414,
+        "Confidence": 25.47482681274414,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10745,7 +10745,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 71.59708404541016,
+        "Confidence": 11.59708404541016,
         "Instances": [],
         "Parents": [
           {
@@ -10791,7 +10791,7 @@
               "Left": 0.1885816603899002,
               "Top": 0.4375549852848053
             },
-            "Confidence": 52.92979049682617
+            "Confidence": 42.92979049682617
           }
         ],
         "Parents": [
@@ -10890,7 +10890,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 57.2398681640625,
+        "Confidence": 17.2398681640625,
         "Instances": [],
         "Parents": [
           {
@@ -10915,7 +10915,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.59303283691406,
+        "Confidence": 16.59303283691406,
         "Instances": [],
         "Parents": [
           {
@@ -10943,7 +10943,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Face",
-        "Confidence": 77.67940521240234,
+        "Confidence": 67.67940521240234,
         "Instances": [],
         "Parents": [
           {
@@ -11012,7 +11012,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 51.09817123413086,
+        "Confidence": 21.09817123413086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11071,7 +11071,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Laughing",
-        "Confidence": 51.06268310546875,
+        "Confidence": 41.06268310546875,
         "Instances": [],
         "Parents": [
           {
@@ -11103,7 +11103,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 51.133827209472656,
+        "Confidence": 11.133827209472656,
         "Instances": [],
         "Parents": [
           {
@@ -11193,7 +11193,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 56.785797119140625,
+        "Confidence": 26.785797119140625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11242,7 +11242,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 78.14998626708984,
+        "Confidence": 18.14998626708984,
         "Instances": [],
         "Parents": [
           {
@@ -11387,7 +11387,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 55.509727478027344,
+        "Confidence": 15.509727478027344,
         "Instances": [],
         "Parents": [
           {
@@ -11412,7 +11412,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 55.245758056640625,
+        "Confidence": 15.245758056640625,
         "Instances": [],
         "Parents": [
           {
@@ -11440,7 +11440,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Face",
-        "Confidence": 76.76850891113281,
+        "Confidence": 66.76850891113281,
         "Instances": [],
         "Parents": [
           {
@@ -11489,7 +11489,7 @@
               "Left": 0.2347819209098816,
               "Top": 0.2389611154794693
             },
-            "Confidence": 58.65781784057617
+            "Confidence": 38.65781784057617
           }
         ],
         "Parents": [
@@ -11549,7 +11549,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Head",
-        "Confidence": 81.02046966552734,
+        "Confidence": 21.02046966552734,
         "Instances": [],
         "Parents": [
           {
@@ -11600,7 +11600,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 51.23591613769531,
+        "Confidence": 11.23591613769531,
         "Instances": [],
         "Parents": [
           {
@@ -11619,7 +11619,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Party",
-        "Confidence": 50.80923080444336,
+        "Confidence": 40.80923080444336,
         "Instances": [],
         "Parents": [
           {
@@ -11683,7 +11683,7 @@
               "Left": 0.2347819209098816,
               "Top": 0.2389611154794693
             },
-            "Confidence": 58.65781784057617
+            "Confidence": 38.65781784057617
           }
         ],
         "Parents": [],
@@ -11718,7 +11718,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 56.89967727661133,
+        "Confidence": 26.89967727661133,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11758,7 +11758,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 73.69322204589844,
+        "Confidence": 13.69322204589844,
         "Instances": [],
         "Parents": [
           {
@@ -11804,7 +11804,7 @@
               "Left": 0.2347819209098816,
               "Top": 0.2389611154794693
             },
-            "Confidence": 58.65781784057617
+            "Confidence": 38.65781784057617
           }
         ],
         "Parents": [
@@ -11857,7 +11857,7 @@
               "Left": 0.3364512026309967,
               "Top": 0.11013195663690567
             },
-            "Confidence": 57.44374465942383
+            "Confidence": 27.44374465942383
           },
           {
             "BoundingBox": {
@@ -11866,7 +11866,7 @@
               "Left": 0.18408221006393433,
               "Top": 0.6015894412994385
             },
-            "Confidence": 56.35060501098633
+            "Confidence": 46.35060501098633
           }
         ],
         "Parents": [
@@ -11912,7 +11912,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 58.02556228637695,
+        "Confidence": 18.02556228637695,
         "Instances": [],
         "Parents": [
           {
@@ -11937,7 +11937,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.97847366333008,
+        "Confidence": 16.97847366333008,
         "Instances": [],
         "Parents": [
           {
@@ -11990,7 +11990,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Face",
-        "Confidence": 58.95030212402344,
+        "Confidence": 24.95030212402344,
         "Instances": [],
         "Parents": [
           {
@@ -12059,7 +12059,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 50.53583908081055,
+        "Confidence": 20.53583908081055,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12074,7 +12074,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.42042922973633,
+        "Confidence": 40.42042922973633,
         "Instances": [],
         "Parents": [
           {
@@ -12099,7 +12099,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Head",
-        "Confidence": 84.59234619140625,
+        "Confidence": 54.59234619140625,
         "Instances": [],
         "Parents": [
           {
@@ -12221,7 +12221,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Urban",
-        "Confidence": 53.71231460571289,
+        "Confidence": 33.71231460571289,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12261,7 +12261,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 79.70453643798828,
+        "Confidence": 19.70453643798828,
         "Instances": [],
         "Parents": [
           {
@@ -12298,7 +12298,7 @@
               "Left": 0.3364512026309967,
               "Top": 0.11013195663690567
             },
-            "Confidence": 57.44374465942383
+            "Confidence": 37.44374465942383
           },
           {
             "BoundingBox": {
@@ -12397,7 +12397,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 58.96171951293945,
+        "Confidence": 18.96171951293945,
         "Instances": [],
         "Parents": [
           {
@@ -12422,7 +12422,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 57.18880844116211,
+        "Confidence": 17.18880844116211,
         "Instances": [],
         "Parents": [
           {
@@ -12469,7 +12469,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Driving",
-        "Confidence": 50.20856857299805,
+        "Confidence": 40.20856857299805,
         "Instances": [],
         "Parents": [
           {
@@ -12494,7 +12494,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Face",
-        "Confidence": 79.8191146850586,
+        "Confidence": 69.8191146850586,
         "Instances": [],
         "Parents": [
           {
@@ -12554,7 +12554,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Head",
-        "Confidence": 88.99395751953125,
+        "Confidence": 38.99395751953125,
         "Instances": [],
         "Parents": [
           {
@@ -12573,7 +12573,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 50.44876480102539,
+        "Confidence": 20.44876480102539,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12659,7 +12659,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Urban",
-        "Confidence": 55.33611297607422,
+        "Confidence": 15.33611297607422,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -12699,7 +12699,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 80.47245025634766,
+        "Confidence": 20.47245025634766,
         "Instances": [],
         "Parents": [
           {
@@ -12863,7 +12863,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 56.28982162475586,
+        "Confidence": 16.28982162475586,
         "Instances": [],
         "Parents": [
           {
@@ -12888,7 +12888,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 55.862667083740234,
+        "Confidence": 15.862667083740234,
         "Instances": [],
         "Parents": [
           {
@@ -12993,8 +12993,8 @@
     {
       "Timestamp": 12520,
       "Label": {
-        "Name": "Fitness",
-        "Confidence": 50.63165283203125,
+        "Name": "Sneakers",
+        "Confidence": 80.63165283203125,
         "Instances": [],
         "Parents": [
           {
@@ -13015,7 +13015,7 @@
     {
       "Timestamp": 12520,
       "Label": {
-        "Name": "Gym",
+        "Name": "Informal apparel",
         "Confidence": 50.63165283203125,
         "Instances": [],
         "Parents": [
@@ -13117,7 +13117,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 50.820247650146484,
+        "Confidence": 10.820247650146484,
         "Instances": [],
         "Parents": [
           {
@@ -13190,7 +13190,7 @@
               "Left": 0.38720703125,
               "Top": 0.1674892157316208
             },
-            "Confidence": 59.3968505859375
+            "Confidence": 39.3968505859375
           }
         ],
         "Parents": [],
@@ -13284,7 +13284,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 77.55354309082031,
+        "Confidence": 17.55354309082031,
         "Instances": [],
         "Parents": [
           {
@@ -13303,7 +13303,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 50.18624496459961,
+        "Confidence": 30.18624496459961,
         "Instances": [],
         "Parents": [
           {
@@ -13358,7 +13358,7 @@
               "Left": 0.38720703125,
               "Top": 0.1674892157316208
             },
-            "Confidence": 59.3968505859375
+            "Confidence": 39.3968505859375
           }
         ],
         "Parents": [
@@ -13384,7 +13384,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Working Out",
-        "Confidence": 50.63165283203125,
+        "Confidence": 0.63165283203125,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -13485,7 +13485,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 57.90449523925781,
+        "Confidence": 17.90449523925781,
         "Instances": [],
         "Parents": [
           {
@@ -13510,7 +13510,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 56.3788948059082,
+        "Confidence": 16.3788948059082,
         "Instances": [],
         "Parents": [
           {
@@ -13616,7 +13616,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Fun",
-        "Confidence": 52.650535583496094,
+        "Confidence": 22.650535583496094,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13650,7 +13650,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Limo",
-        "Confidence": 50.179534912109375,
+        "Confidence": 30.179534912109375,
         "Instances": [],
         "Parents": [
           {
@@ -13675,7 +13675,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 51.91876220703125,
+        "Confidence": 11.91876220703125,
         "Instances": [],
         "Parents": [
           {
@@ -13823,7 +13823,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 77.73114776611328,
+        "Confidence": 17.73114776611328,
         "Instances": [],
         "Parents": [
           {
@@ -13897,7 +13897,7 @@
               "Left": 0.10049734264612198,
               "Top": 0.4752783477306366
             },
-            "Confidence": 50.600807189941406
+            "Confidence": 40.600807189941406
           }
         ],
         "Parents": [
@@ -13996,7 +13996,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Car - Interior",
-        "Confidence": 54.8594856262207,
+        "Confidence": 14.8594856262207,
         "Instances": [],
         "Parents": [
           {
@@ -14021,7 +14021,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Car Seat",
-        "Confidence": 54.6811408996582,
+        "Confidence": 14.6811408996582,
         "Instances": [],
         "Parents": [
           {
@@ -14089,7 +14089,7 @@
               "Left": 0.19148236513137817,
               "Top": 0.16770592331886292
             },
-            "Confidence": 53.09836959838867
+            "Confidence": 23.09836959838867
           }
         ],
         "Parents": [
@@ -14109,7 +14109,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 53.700801849365234,
+        "Confidence": 13.700801849365234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14124,7 +14124,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.86761474609375,
+        "Confidence": 40.86761474609375,
         "Instances": [],
         "Parents": [
           {
@@ -14168,7 +14168,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Laughing",
-        "Confidence": 50.86761474609375,
+        "Confidence": 40.86761474609375,
         "Instances": [],
         "Parents": [
           {
@@ -14264,7 +14264,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 52.11879348754883,
+        "Confidence": 12.11879348754883,
         "Instances": [],
         "Parents": [
           {
@@ -14338,8 +14338,8 @@
     {
       "Timestamp": 13520,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.65108108520508,
+        "Name": "Neon",
+        "Confidence": 90.65108108520508,
         "Instances": [],
         "Parents": [
           {
@@ -14388,7 +14388,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 72.85356140136719,
+        "Confidence": 12.85356140136719,
         "Instances": [],
         "Parents": [
           {
@@ -14508,7 +14508,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 50.354068756103516,
+        "Confidence": 60.354068756103516,
         "Instances": [],
         "Parents": [
           {
@@ -14565,7 +14565,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.74516296386719,
+        "Confidence": 42.74516296386719,
         "Instances": [],
         "Parents": [
           {
@@ -14657,7 +14657,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Game",
-        "Confidence": 53.142486572265625,
+        "Confidence": 73.142486572265625,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14755,7 +14755,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 67.92001342773438,
+        "Confidence": 47.92001342773438,
         "Instances": [],
         "Parents": [
           {
@@ -14774,7 +14774,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Party",
-        "Confidence": 52.02208709716797,
+        "Confidence": 22.02208709716797,
         "Instances": [],
         "Parents": [
           {
@@ -14857,8 +14857,8 @@
     {
       "Timestamp": 14000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 52.07617950439453,
+        "Name": "Neon",
+        "Confidence": 92.07617950439453,
         "Instances": [],
         "Parents": [
           {
@@ -14877,7 +14877,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 53.2186279296875,
+        "Confidence": 13.2186279296875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14932,7 +14932,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.2186279296875,
+        "Confidence": 13.2186279296875,
         "Instances": [],
         "Parents": [
           {
@@ -15093,7 +15093,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Car",
-        "Confidence": 54.38001251220703,
+        "Confidence": 44.38001251220703,
         "Instances": [],
         "Parents": [
           {
@@ -15236,7 +15236,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Game",
-        "Confidence": 50.27633285522461,
+        "Confidence": 70.27633285522461,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15327,7 +15327,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Limo",
-        "Confidence": 50.16962814331055,
+        "Confidence": 40.16962814331055,
         "Instances": [],
         "Parents": [
           {
@@ -15425,7 +15425,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 58.52191925048828,
+        "Confidence": 18.52191925048828,
         "Instances": [],
         "Parents": [
           {
@@ -15444,7 +15444,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.305152893066406,
+        "Confidence": 23.305152893066406,
         "Instances": [],
         "Parents": [
           {
@@ -15536,8 +15536,8 @@
     {
       "Timestamp": 14520,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 51.23046112060547,
+        "Name": "Neon",
+        "Confidence": 91.23046112060547,
         "Instances": [],
         "Parents": [
           {
@@ -15556,7 +15556,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 54.575904846191406,
+        "Confidence": 14.575904846191406,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15611,7 +15611,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 54.575904846191406,
+        "Confidence": 14.575904846191406,
         "Instances": [],
         "Parents": [
           {
@@ -15630,7 +15630,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 51.752166748046875,
+        "Confidence": 41.752166748046875,
         "Instances": [],
         "Parents": [
           {
@@ -15749,7 +15749,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 51.07001495361328,
+        "Confidence": 81.07001495361328,
         "Instances": [],
         "Parents": [
           {
@@ -15768,7 +15768,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Car",
-        "Confidence": 53.8026237487793,
+        "Confidence": 23.8026237487793,
         "Instances": [],
         "Parents": [
           {
@@ -15843,7 +15843,7 @@
               "Left": 0.18996897339820862,
               "Top": 0.16655108332633972
             },
-            "Confidence": 57.18287658691406
+            "Confidence": 47.18287658691406
           }
         ],
         "Parents": [
@@ -15878,7 +15878,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Game",
-        "Confidence": 52.379234313964844,
+        "Confidence": 72.379234313964844,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15912,7 +15912,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 59.28376007080078,
+        "Confidence": 19.28376007080078,
         "Instances": [],
         "Parents": [
           {
@@ -15931,7 +15931,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.83262252807617,
+        "Confidence": 23.83262252807617,
         "Instances": [],
         "Parents": [
           {
@@ -16014,8 +16014,8 @@
     {
       "Timestamp": 15000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.117431640625,
+        "Name": "Neon",
+        "Confidence": 90.117431640625,
         "Instances": [],
         "Parents": [
           {
@@ -16034,7 +16034,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 53.8026237487793,
+        "Confidence": 13.8026237487793,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16089,7 +16089,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.8026237487793,
+        "Confidence": 13.8026237487793,
         "Instances": [],
         "Parents": [
           {
@@ -16154,7 +16154,7 @@
               "Left": 0.18996897339820862,
               "Top": 0.16655108332633972
             },
-            "Confidence": 57.18287658691406
+            "Confidence": 37.18287658691406
           }
         ],
         "Parents": [
@@ -16236,7 +16236,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.93479919433594,
+        "Confidence": 41.93479919433594,
         "Instances": [],
         "Parents": [
           {
@@ -16346,7 +16346,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Game",
-        "Confidence": 52.17578125,
+        "Confidence": 72.17578125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16399,7 +16399,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Party",
-        "Confidence": 56.37575149536133,
+        "Confidence": 46.37575149536133,
         "Instances": [],
         "Parents": [
           {
@@ -16463,7 +16463,7 @@
               "Left": 0.41959771513938904,
               "Top": 0.16605240106582642
             },
-            "Confidence": 51.40037536621094
+            "Confidence": 41.40037536621094
           }
         ],
         "Parents": [],
@@ -16483,7 +16483,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 51.93479919433594,
+        "Confidence": 11.93479919433594,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16538,7 +16538,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 51.93479919433594,
+        "Confidence": 11.93479919433594,
         "Instances": [],
         "Parents": [
           {
@@ -16557,7 +16557,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 51.181827545166016,
+        "Confidence": 21.181827545166016,
         "Instances": [],
         "Parents": [
           {
@@ -16665,7 +16665,7 @@
               "Left": 0.19580316543579102,
               "Top": 0.16529498994350433
             },
-            "Confidence": 55.46532440185547
+            "Confidence": 35.46532440185547
           }
         ],
         "Parents": [
@@ -16685,7 +16685,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Car",
-        "Confidence": 51.63193130493164,
+        "Confidence": 41.63193130493164,
         "Instances": [],
         "Parents": [
           {
@@ -16804,7 +16804,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Game",
-        "Confidence": 50.65218734741211,
+        "Confidence": 70.65218734741211,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16838,7 +16838,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 59.256263732910156,
+        "Confidence": 19.256263732910156,
         "Instances": [],
         "Parents": [
           {
@@ -16857,7 +16857,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Party",
-        "Confidence": 55.9132080078125,
+        "Confidence": 45.9132080078125,
         "Instances": [],
         "Parents": [
           {
@@ -16921,7 +16921,7 @@
               "Left": 0.19580316543579102,
               "Top": 0.16529498994350433
             },
-            "Confidence": 55.46532440185547
+            "Confidence": 25.46532440185547
           }
         ],
         "Parents": [],
@@ -16940,8 +16940,8 @@
     {
       "Timestamp": 16000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.048763275146484,
+        "Name": "Neon",
+        "Confidence": 80.048763275146484,
         "Instances": [],
         "Parents": [
           {
@@ -16960,7 +16960,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 51.63193130493164,
+        "Confidence": 11.63193130493164,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17024,7 +17024,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 51.63193130493164,
+        "Confidence": 11.63193130493164,
         "Instances": [],
         "Parents": [
           {
@@ -17098,7 +17098,7 @@
               "Left": 0.19580316543579102,
               "Top": 0.16529498994350433
             },
-            "Confidence": 55.46532440185547
+            "Confidence": 45.46532440185547
           }
         ],
         "Parents": [
@@ -17171,7 +17171,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 50.583187103271484,
+        "Confidence": 80.583187103271484,
         "Instances": [],
         "Parents": [
           {
@@ -17190,7 +17190,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Car",
-        "Confidence": 52.599666595458984,
+        "Confidence": 32.599666595458984,
         "Instances": [],
         "Parents": [
           {
@@ -17291,7 +17291,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Game",
-        "Confidence": 53.6041145324707,
+        "Confidence": 73.6041145324707,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17389,7 +17389,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 60.006080627441406,
+        "Confidence": 40.006080627441406,
         "Instances": [],
         "Parents": [
           {
@@ -17408,7 +17408,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Party",
-        "Confidence": 54.100990295410156,
+        "Confidence": 44.100990295410156,
         "Instances": [],
         "Parents": [
           {
@@ -17482,8 +17482,8 @@
     {
       "Timestamp": 16520,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 51.65953826904297,
+        "Name": "Neon",
+        "Confidence": 81.65953826904297,
         "Instances": [],
         "Parents": [
           {
@@ -17502,7 +17502,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.599666595458984,
+        "Confidence": 12.599666595458984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17541,7 +17541,7 @@
               "Left": 0.5128399133682251,
               "Top": 0.08141959458589554
             },
-            "Confidence": 55.23228454589844
+            "Confidence": 25.23228454589844
           }
         ],
         "Parents": [],
@@ -17557,7 +17557,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.599666595458984,
+        "Confidence": 12.599666595458984,
         "Instances": [],
         "Parents": [
           {
@@ -17576,7 +17576,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 50.98963928222656,
+        "Confidence": 40.98963928222656,
         "Instances": [],
         "Parents": [
           {
@@ -17639,7 +17639,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Working Out",
-        "Confidence": 51.892333984375,
+        "Confidence": 1.892333984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -17685,7 +17685,7 @@
               "Left": 0.2546384036540985,
               "Top": 0.6875379681587219
             },
-            "Confidence": 54.4656982421875
+            "Confidence": 14.4656982421875
           }
         ],
         "Parents": [
@@ -17771,7 +17771,7 @@
               "Left": 0.2546384036540985,
               "Top": 0.6875379681587219
             },
-            "Confidence": 54.4656982421875
+            "Confidence": 44.4656982421875
           }
         ],
         "Parents": [
@@ -17806,7 +17806,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Game",
-        "Confidence": 53.68740463256836,
+        "Confidence": 73.68740463256836,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17923,7 +17923,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Party",
-        "Confidence": 55.340972900390625,
+        "Confidence": 45.340972900390625,
         "Instances": [],
         "Parents": [
           {
@@ -17997,8 +17997,8 @@
     {
       "Timestamp": 17000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 51.417179107666016,
+        "Name": "Neon",
+        "Confidence": 81.417179107666016,
         "Instances": [],
         "Parents": [
           {
@@ -18017,7 +18017,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.11126708984375,
+        "Confidence": 10.11126708984375,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18072,7 +18072,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.11126708984375,
+        "Confidence": 10.11126708984375,
         "Instances": [],
         "Parents": [
           {
@@ -18091,7 +18091,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 50.9110107421875,
+        "Confidence": 30.9110107421875,
         "Instances": [],
         "Parents": [
           {
@@ -18192,7 +18192,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 50.329593658447266,
+        "Confidence": 70.329593658447266,
         "Instances": [],
         "Parents": [
           {
@@ -18211,7 +18211,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Casino",
-        "Confidence": 50.88656997680664,
+        "Confidence": 10.88656997680664,
         "Instances": [],
         "Parents": [
           {
@@ -18336,7 +18336,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Game",
-        "Confidence": 54.90888214111328,
+        "Confidence": 74.90888214111328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18389,7 +18389,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Party",
-        "Confidence": 54.623939514160156,
+        "Confidence": 44.623939514160156,
         "Instances": [],
         "Parents": [
           {
@@ -18444,7 +18444,7 @@
               "Left": 0.19617120921611786,
               "Top": 0.16973154246807098
             },
-            "Confidence": 50.02245330810547
+            "Confidence": 40.02245330810547
           }
         ],
         "Parents": [],
@@ -18463,8 +18463,8 @@
     {
       "Timestamp": 17520,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.179264068603516,
+        "Name": "Neon",
+        "Confidence": 80.179264068603516,
         "Instances": [],
         "Parents": [
           {
@@ -18633,7 +18633,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Baby",
-        "Confidence": 50.937477111816406,
+        "Confidence": 40.937477111816406,
         "Instances": [
           {
             "BoundingBox": {
@@ -18642,7 +18642,7 @@
               "Left": 0.3880497217178345,
               "Top": 0.1579171121120453
             },
-            "Confidence": 54.13916778564453
+            "Confidence": 34.13916778564453
           }
         ],
         "Parents": [
@@ -18693,7 +18693,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Dancing",
-        "Confidence": 50.11171340942383,
+        "Confidence": 30.11171340942383,
         "Instances": [],
         "Parents": [
           {
@@ -18794,7 +18794,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Gambling",
-        "Confidence": 50.041683197021484,
+        "Confidence": 40.041683197021484,
         "Instances": [],
         "Parents": [
           {
@@ -18813,7 +18813,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Game",
-        "Confidence": 53.467960357666016,
+        "Confidence": 73.467960357666016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18847,7 +18847,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Leisure Activities",
-        "Confidence": 50.11171340942383,
+        "Confidence": 20.11171340942383,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -18866,7 +18866,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 65.81885528564453,
+        "Confidence": 45.81885528564453,
         "Instances": [],
         "Parents": [
           {
@@ -18885,7 +18885,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Party",
-        "Confidence": 55.524803161621094,
+        "Confidence": 45.524803161621094,
         "Instances": [],
         "Parents": [
           {
@@ -18949,7 +18949,7 @@
               "Left": 0.42267224192619324,
               "Top": 0.16402310132980347
             },
-            "Confidence": 51.86128616333008
+            "Confidence": 31.86128616333008
           }
         ],
         "Parents": [],
@@ -18968,8 +18968,8 @@
     {
       "Timestamp": 18000,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 50.531211853027344,
+        "Name": "Neon",
+        "Confidence": 80.531211853027344,
         "Instances": [],
         "Parents": [
           {
@@ -19129,7 +19129,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Arcade Game Machine",
-        "Confidence": 50.91731262207031,
+        "Confidence": 60.91731262207031,
         "Instances": [],
         "Parents": [
           {
@@ -19222,7 +19222,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Drinking",
-        "Confidence": 50.37213134765625,
+        "Confidence": 40.37213134765625,
         "Instances": [],
         "Parents": [
           {
@@ -19303,8 +19303,8 @@
     {
       "Timestamp": 18520,
       "Label": {
-        "Name": "Fitness",
-        "Confidence": 55.72819137573242,
+        "Name": "Sneakers",
+        "Confidence": 85.72819137573242,
         "Instances": [],
         "Parents": [
           {
@@ -19326,7 +19326,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Fun",
-        "Confidence": 59.059783935546875,
+        "Confidence": 29.059783935546875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19341,7 +19341,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Game",
-        "Confidence": 51.63683319091797,
+        "Confidence": 61.63683319091797,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19355,8 +19355,8 @@
     {
       "Timestamp": 18520,
       "Label": {
-        "Name": "Gym",
-        "Confidence": 55.6795654296875,
+        "Name": "Informal apparel",
+        "Confidence": 75.6795654296875,
         "Instances": [],
         "Parents": [
           {
@@ -19381,7 +19381,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Gym Weights",
-        "Confidence": 51.75310134887695,
+        "Confidence": 41.75310134887695,
         "Instances": [],
         "Parents": [
           {
@@ -19485,7 +19485,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Night Life",
-        "Confidence": 56.35545349121094,
+        "Confidence": 16.35545349121094,
         "Instances": [],
         "Parents": [
           {
@@ -19504,7 +19504,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Party",
-        "Confidence": 53.15654754638672,
+        "Confidence": 43.15654754638672,
         "Instances": [],
         "Parents": [
           {
@@ -19578,8 +19578,8 @@
     {
       "Timestamp": 18520,
       "Label": {
-        "Name": "Reality Show Judges Panel",
-        "Confidence": 51.22917175292969,
+        "Name": "Neon",
+        "Confidence": 81.22917175292969,
         "Instances": [],
         "Parents": [
           {
@@ -19598,7 +19598,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Sport",
-        "Confidence": 55.72819137573242,
+        "Confidence": 15.72819137573242,
         "Instances": [],
         "Parents": [],
         "Aliases": [
@@ -19617,7 +19617,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.03202438354492,
+        "Confidence": 12.03202438354492,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19647,7 +19647,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.03202438354492,
+        "Confidence": 12.03202438354492,
         "Instances": [],
         "Parents": [
           {
@@ -19666,7 +19666,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Video Gaming",
-        "Confidence": 51.684722900390625,
+        "Confidence": 21.684722900390625,
         "Instances": [],
         "Parents": [
           {
@@ -19729,7 +19729,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Working Out",
-        "Confidence": 61.066162109375,
+        "Confidence": 11.066162109375,
         "Instances": [],
         "Parents": [],
         "Aliases": [

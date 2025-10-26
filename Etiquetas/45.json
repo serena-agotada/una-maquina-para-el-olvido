@@ -475,7 +475,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.00646209716797,
+        "Confidence": 30.00646209716797,
         "Instances": [],
         "Parents": [
           {
@@ -522,7 +522,7 @@
       "Timestamp": 0,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.45781326293945,
+        "Confidence": 32.45781326293945,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -986,7 +986,7 @@
       "Timestamp": 520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.12001419067383,
+        "Confidence": 42.12001419067383,
         "Instances": [],
         "Parents": [
           {
@@ -1073,7 +1073,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Building",
-        "Confidence": 50.173805236816406,
+        "Confidence": 10.173805236816406,
         "Instances": [],
         "Parents": [
           {
@@ -1271,7 +1271,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 50.173805236816406,
+        "Confidence": 20.173805236816406,
         "Instances": [],
         "Parents": [
           {
@@ -1334,7 +1334,7 @@
               "Left": 0.5106240510940552,
               "Top": 0.6327186226844788
             },
-            "Confidence": 50.610679626464844
+            "Confidence": 20.610679626464844
           }
         ],
         "Parents": [
@@ -1512,7 +1512,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.332557678222656,
+        "Confidence": 30.332557678222656,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -1527,7 +1527,7 @@
       "Timestamp": 1000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.332557678222656,
+        "Confidence": 30.332557678222656,
         "Instances": [],
         "Parents": [
           {
@@ -1614,7 +1614,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Building",
-        "Confidence": 53.761634826660156,
+        "Confidence": 33.761634826660156,
         "Instances": [],
         "Parents": [
           {
@@ -1709,7 +1709,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 50.5931282043457,
+        "Confidence": 40.5931282043457,
         "Instances": [],
         "Parents": [
           {
@@ -1728,7 +1728,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Driving",
-        "Confidence": 51.665958404541016,
+        "Confidence": 41.665958404541016,
         "Instances": [],
         "Parents": [
           {
@@ -1775,7 +1775,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.87574768066406,
+        "Confidence": 20.87574768066406,
         "Instances": [],
         "Parents": [
           {
@@ -1819,7 +1819,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 52.21664810180664,
+        "Confidence": 42.21664810180664,
         "Instances": [],
         "Parents": [
           {
@@ -2053,7 +2053,7 @@
               "Left": 0.5125826597213745,
               "Top": 0.6485207676887512
             },
-            "Confidence": 52.206398010253906
+            "Confidence": 32.206398010253906
           }
         ],
         "Parents": [],
@@ -2134,7 +2134,7 @@
       "Timestamp": 1520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.87574768066406,
+        "Confidence": 30.87574768066406,
         "Instances": [],
         "Parents": [
           {
@@ -2352,7 +2352,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 58.99553680419922,
+        "Confidence": 48.99553680419922,
         "Instances": [],
         "Parents": [
           {
@@ -2459,7 +2459,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 52.40238952636719,
+        "Confidence": 32.40238952636719,
         "Instances": [],
         "Parents": [
           {
@@ -2496,7 +2496,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 52.203311920166016,
+        "Confidence": 42.203311920166016,
         "Instances": [],
         "Parents": [
           {
@@ -2551,7 +2551,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 51.78384017944336,
+        "Confidence": 21.78384017944336,
         "Instances": [],
         "Parents": [
           {
@@ -2808,7 +2808,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Tub",
-        "Confidence": 52.16020202636719,
+        "Confidence": 42.16020202636719,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -2823,7 +2823,7 @@
       "Timestamp": 2000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.364986419677734,
+        "Confidence": 42.364986419677734,
         "Instances": [],
         "Parents": [
           {
@@ -2886,7 +2886,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 50.501888275146484,
+        "Confidence": 40.501888275146484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3143,7 +3143,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 50.501888275146484,
+        "Confidence": 40.501888275146484,
         "Instances": [],
         "Parents": [
           {
@@ -3165,7 +3165,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 51.526763916015625,
+        "Confidence": 11.526763916015625,
         "Instances": [],
         "Parents": [
           {
@@ -3338,7 +3338,7 @@
       "Timestamp": 2520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.065093994140625,
+        "Confidence": 10.065093994140625,
         "Instances": [],
         "Parents": [
           {
@@ -3624,7 +3624,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 53.34300994873047,
+        "Confidence": 13.34300994873047,
         "Instances": [],
         "Parents": [
           {
@@ -3862,7 +3862,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.465274810791016,
+        "Confidence": 32.465274810791016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3877,7 +3877,7 @@
       "Timestamp": 3000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.465274810791016,
+        "Confidence": 32.465274810791016,
         "Instances": [],
         "Parents": [
           {
@@ -3958,7 +3958,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 52.688777923583984,
+        "Confidence": 22.688777923583984,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -3973,7 +3973,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Building",
-        "Confidence": 52.688777923583984,
+        "Confidence": 12.688777923583984,
         "Instances": [],
         "Parents": [
           {
@@ -4068,7 +4068,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 52.966766357421875,
+        "Confidence": 42.966766357421875,
         "Instances": [],
         "Parents": [
           {
@@ -4087,7 +4087,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Driving",
-        "Confidence": 53.78581619262695,
+        "Confidence": 33.78581619262695,
         "Instances": [],
         "Parents": [
           {
@@ -4178,7 +4178,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 55.21056365966797,
+        "Confidence": 35.21056365966797,
         "Instances": [],
         "Parents": [
           {
@@ -4215,7 +4215,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 52.688777923583984,
+        "Confidence": 32.688777923583984,
         "Instances": [],
         "Parents": [
           {
@@ -4287,7 +4287,7 @@
               "Left": 0.6703101992607117,
               "Top": 0.8118051290512085
             },
-            "Confidence": 52.99558639526367
+            "Confidence": 42.99558639526367
           }
         ],
         "Parents": [
@@ -4406,7 +4406,7 @@
               "Left": 0.6703101992607117,
               "Top": 0.8118051290512085
             },
-            "Confidence": 52.99558639526367
+            "Confidence": 22.99558639526367
           }
         ],
         "Parents": [],
@@ -4445,7 +4445,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 55.546390533447266,
+        "Confidence": 15.546390533447266,
         "Instances": [],
         "Parents": [
           {
@@ -4487,7 +4487,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.699275970458984,
+        "Confidence": 40.699275970458984,
         "Instances": [],
         "Parents": [
           {
@@ -4534,7 +4534,7 @@
       "Timestamp": 3520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 53.78581619262695,
+        "Confidence": 43.78581619262695,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -4681,7 +4681,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 58.71647262573242,
+        "Confidence": 38.71647262573242,
         "Instances": [],
         "Parents": [
           {
@@ -4741,7 +4741,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Driving",
-        "Confidence": 52.440364837646484,
+        "Confidence": 32.440364837646484,
         "Instances": [],
         "Parents": [
           {
@@ -4866,7 +4866,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 50.66140365600586,
+        "Confidence": 20.66140365600586,
         "Instances": [],
         "Parents": [
           {
@@ -5020,7 +5020,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 58.71647262573242,
+        "Confidence": 38.71647262573242,
         "Instances": [],
         "Parents": [
           {
@@ -5039,7 +5039,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 51.2762336730957,
+        "Confidence": 41.2762336730957,
         "Instances": [],
         "Parents": [
           {
@@ -5081,7 +5081,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.440364837646484,
+        "Confidence": 32.440364837646484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5096,7 +5096,7 @@
       "Timestamp": 4000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.440364837646484,
+        "Confidence": 32.440364837646484,
         "Instances": [],
         "Parents": [
           {
@@ -5159,7 +5159,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 53.43600845336914,
+        "Confidence": 33.43600845336914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5335,7 +5335,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.5446891784668,
+        "Confidence": 20.5446891784668,
         "Instances": [],
         "Parents": [
           {
@@ -5438,7 +5438,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 50.63050842285156,
+        "Confidence": 40.63050842285156,
         "Instances": [],
         "Parents": [
           {
@@ -5592,7 +5592,7 @@
       "Timestamp": 4520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 57.48160934448242,
+        "Confidence": 37.48160934448242,
         "Instances": [],
         "Parents": [
           {
@@ -5733,7 +5733,7 @@
               "Left": 0.6563886404037476,
               "Top": 0.8461650013923645
             },
-            "Confidence": 51.15629577636719
+            "Confidence": 41.15629577636719
           }
         ],
         "Parents": [
@@ -5768,7 +5768,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 51.238243103027344,
+        "Confidence": 11.238243103027344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -5969,7 +5969,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 52.35893249511719,
+        "Confidence": 32.35893249511719,
         "Instances": [],
         "Parents": [
           {
@@ -6028,7 +6028,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 50.955589294433594,
+        "Confidence": 40.955589294433594,
         "Instances": [],
         "Parents": [
           {
@@ -6126,7 +6126,7 @@
               "Left": 0.6563886404037476,
               "Top": 0.8461650013923645
             },
-            "Confidence": 51.15629577636719
+            "Confidence": 21.15629577636719
           }
         ],
         "Parents": [
@@ -6290,7 +6290,7 @@
       "Timestamp": 5000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.99207305908203,
+        "Confidence": 23.99207305908203,
         "Instances": [],
         "Parents": [
           {
@@ -6309,7 +6309,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Adult",
-        "Confidence": 56.913394927978516,
+        "Confidence": 46.913394927978516,
         "Instances": [
           {
             "BoundingBox": {
@@ -6353,7 +6353,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 51.51153564453125,
+        "Confidence": 41.51153564453125,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -6646,7 +6646,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 50.95768356323242,
+        "Confidence": 10.95768356323242,
         "Instances": [],
         "Parents": [
           {
@@ -6678,7 +6678,7 @@
               "Left": 0.008120842278003693,
               "Top": 0.5122852921485901
             },
-            "Confidence": 54.24696350097656
+            "Confidence": 34.24696350097656
           }
         ],
         "Parents": [
@@ -6717,7 +6717,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Man",
-        "Confidence": 56.913394927978516,
+        "Confidence": 36.913394927978516,
         "Instances": [
           {
             "BoundingBox": {
@@ -6726,7 +6726,7 @@
               "Left": 0.008120842278003693,
               "Top": 0.5122852921485901
             },
-            "Confidence": 54.24696350097656
+            "Confidence": 24.24696350097656
           }
         ],
         "Parents": [
@@ -6819,7 +6819,7 @@
       "Timestamp": 5520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 51.362972259521484,
+        "Confidence": 31.362972259521484,
         "Instances": [],
         "Parents": [
           {
@@ -6959,7 +6959,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 50.15299987792969,
+        "Confidence": 20.15299987792969,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7003,7 +7003,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Building",
-        "Confidence": 50.15299987792969,
+        "Confidence": 40.15299987792969,
         "Instances": [],
         "Parents": [
           {
@@ -7257,7 +7257,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 51.139869689941406,
+        "Confidence": 41.139869689941406,
         "Instances": [],
         "Parents": [
           {
@@ -7486,7 +7486,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.31094741821289,
+        "Confidence": 42.31094741821289,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -7501,7 +7501,7 @@
       "Timestamp": 6000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.31094741821289,
+        "Confidence": 42.31094741821289,
         "Instances": [],
         "Parents": [
           {
@@ -7949,7 +7949,7 @@
               "Left": 0.5145859718322754,
               "Top": 0.6629706025123596
             },
-            "Confidence": 59.478336334228516
+            "Confidence": 49.478336334228516
           }
         ],
         "Parents": [
@@ -8018,7 +8018,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Building",
-        "Confidence": 51.88087463378906,
+        "Confidence": 41.88087463378906,
         "Instances": [],
         "Parents": [
           {
@@ -8282,7 +8282,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Hot Tub",
-        "Confidence": 58.95586013793945,
+        "Confidence": 38.95586013793945,
         "Instances": [
           {
             "BoundingBox": {
@@ -8515,7 +8515,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 50.455142974853516,
+        "Confidence": 30.455142974853516,
         "Instances": [],
         "Parents": [
           {
@@ -8562,7 +8562,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.665958404541016,
+        "Confidence": 40.665958404541016,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8577,7 +8577,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Tub",
-        "Confidence": 58.980648040771484,
+        "Confidence": 28.980648040771484,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -8592,7 +8592,7 @@
       "Timestamp": 7000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.665958404541016,
+        "Confidence": 20.665958404541016,
         "Instances": [],
         "Parents": [
           {
@@ -8699,7 +8699,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Building",
-        "Confidence": 51.63609313964844,
+        "Confidence": 31.63609313964844,
         "Instances": [],
         "Parents": [
           {
@@ -8841,7 +8841,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 51.302650451660156,
+        "Confidence": 21.302650451660156,
         "Instances": [],
         "Parents": [
           {
@@ -8922,7 +8922,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 51.63609313964844,
+        "Confidence": 41.63609313964844,
         "Instances": [],
         "Parents": [
           {
@@ -9149,7 +9149,7 @@
       "Timestamp": 7520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 51.302650451660156,
+        "Confidence": 31.302650451660156,
         "Instances": [],
         "Parents": [
           {
@@ -9289,7 +9289,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 52.97661590576172,
+        "Confidence": 22.97661590576172,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -9603,7 +9603,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 52.97661590576172,
+        "Confidence": 32.97661590576172,
         "Instances": [],
         "Parents": [
           {
@@ -9817,7 +9817,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Sad",
-        "Confidence": 50.9855842590332,
+        "Confidence": 30.9855842590332,
         "Instances": [],
         "Parents": [
           {
@@ -9931,7 +9931,7 @@
       "Timestamp": 8000,
       "Label": {
         "Name": "Tub",
-        "Confidence": 59.20132827758789,
+        "Confidence": 49.20132827758789,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10024,7 +10024,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Baby",
-        "Confidence": 50.284507751464844,
+        "Confidence": 10.284507751464844,
         "Instances": [],
         "Parents": [
           {
@@ -10157,7 +10157,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Driving",
-        "Confidence": 52.24173355102539,
+        "Confidence": 42.24173355102539,
         "Instances": [],
         "Parents": [
           {
@@ -10285,7 +10285,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 50.357730865478516,
+        "Confidence": 10.357730865478516,
         "Instances": [],
         "Parents": [
           {
@@ -10480,7 +10480,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 51.87628173828125,
+        "Confidence": 41.87628173828125,
         "Instances": [],
         "Parents": [
           {
@@ -10527,7 +10527,7 @@
       "Timestamp": 8520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.24173355102539,
+        "Confidence": 22.24173355102539,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -10658,7 +10658,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Building",
-        "Confidence": 53.20940399169922,
+        "Confidence": 43.20940399169922,
         "Instances": [],
         "Parents": [
           {
@@ -10740,7 +10740,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 55.288997650146484,
+        "Confidence": 45.288997650146484,
         "Instances": [],
         "Parents": [
           {
@@ -10781,7 +10781,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 51.40900421142578,
+        "Confidence": 41.40900421142578,
         "Instances": [],
         "Parents": [
           {
@@ -10968,7 +10968,7 @@
               "Left": 0.6651269197463989,
               "Top": 0.7964799404144287
             },
-            "Confidence": 51.07551956176758
+            "Confidence": 31.07551956176758
           }
         ],
         "Parents": [
@@ -11078,7 +11078,7 @@
               "Left": 0.6651269197463989,
               "Top": 0.7964799404144287
             },
-            "Confidence": 51.07551956176758
+            "Confidence": 31.07551956176758
           }
         ],
         "Parents": [],
@@ -11117,7 +11117,7 @@
       "Timestamp": 9000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 55.288997650146484,
+        "Confidence": 45.288997650146484,
         "Instances": [],
         "Parents": [
           {
@@ -11290,7 +11290,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 53.63455581665039,
+        "Confidence": 33.63455581665039,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11324,7 +11324,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Building",
-        "Confidence": 53.63455581665039,
+        "Confidence": 33.63455581665039,
         "Instances": [],
         "Parents": [
           {
@@ -11378,7 +11378,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Clinic",
-        "Confidence": 50.46253967285156,
+        "Confidence": 40.46253967285156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11393,7 +11393,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Crying",
-        "Confidence": 50.45652770996094,
+        "Confidence": 40.45652770996094,
         "Instances": [],
         "Parents": [
           {
@@ -11462,7 +11462,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 52.11716842651367,
+        "Confidence": 22.11716842651367,
         "Instances": [],
         "Parents": [
           {
@@ -11591,7 +11591,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 53.601654052734375,
+        "Confidence": 23.601654052734375,
         "Instances": [],
         "Parents": [
           {
@@ -11650,7 +11650,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.46253967285156,
+        "Confidence": 30.46253967285156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -11748,7 +11748,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Medical Procedure",
-        "Confidence": 50.46253967285156,
+        "Confidence": 40.46253967285156,
         "Instances": [],
         "Parents": [
           {
@@ -11868,7 +11868,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 55.35515594482422,
+        "Confidence": 35.35515594482422,
         "Instances": [],
         "Parents": [
           {
@@ -11887,7 +11887,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Sad",
-        "Confidence": 50.45652770996094,
+        "Confidence": 30.45652770996094,
         "Instances": [],
         "Parents": [
           {
@@ -11916,7 +11916,7 @@
       "Timestamp": 9520,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 50.81016540527344,
+        "Confidence": 40.81016540527344,
         "Instances": [],
         "Parents": [
           {
@@ -12162,7 +12162,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Crying",
-        "Confidence": 51.19364929199219,
+        "Confidence": 21.19364929199219,
         "Instances": [],
         "Parents": [
           {
@@ -12190,7 +12190,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 53.92523193359375,
+        "Confidence": 33.92523193359375,
         "Instances": [],
         "Parents": [
           {
@@ -12250,7 +12250,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Driving",
-        "Confidence": 50.980918884277344,
+        "Confidence": 40.980918884277344,
         "Instances": [],
         "Parents": [
           {
@@ -12559,7 +12559,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Sad",
-        "Confidence": 51.19364929199219,
+        "Confidence": 31.19364929199219,
         "Instances": [],
         "Parents": [
           {
@@ -12673,7 +12673,7 @@
       "Timestamp": 10000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.980918884277344,
+        "Confidence": 40.980918884277344,
         "Instances": [],
         "Parents": [
           {
@@ -12898,7 +12898,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 52.826236724853516,
+        "Confidence": 22.826236724853516,
         "Instances": [],
         "Parents": [
           {
@@ -13084,7 +13084,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.6707649230957,
+        "Confidence": 40.6707649230957,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13200,7 +13200,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Medical Procedure",
-        "Confidence": 50.6707649230957,
+        "Confidence": 40.6707649230957,
         "Instances": [],
         "Parents": [
           {
@@ -13290,7 +13290,7 @@
               "Left": 0.6521311402320862,
               "Top": 0.8180647492408752
             },
-            "Confidence": 52.53877639770508
+            "Confidence": 42.53877639770508
           }
         ],
         "Parents": [],
@@ -13329,7 +13329,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 54.03744888305664,
+        "Confidence": 44.03744888305664,
         "Instances": [],
         "Parents": [
           {
@@ -13348,7 +13348,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Sad",
-        "Confidence": 50.40747833251953,
+        "Confidence": 30.40747833251953,
         "Instances": [],
         "Parents": [
           {
@@ -13377,7 +13377,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 50.72844696044922,
+        "Confidence": 30.72844696044922,
         "Instances": [],
         "Parents": [
           {
@@ -13434,7 +13434,7 @@
       "Timestamp": 10520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.23766326904297,
+        "Confidence": 12.23766326904297,
         "Instances": [],
         "Parents": [
           {
@@ -13506,7 +13506,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 52.89463424682617,
+        "Confidence": 12.89463424682617,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -13575,7 +13575,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Crying",
-        "Confidence": 50.344940185546875,
+        "Confidence": 40.344940185546875,
         "Instances": [],
         "Parents": [
           {
@@ -13644,7 +13644,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 52.610740661621094,
+        "Confidence": 42.610740661621094,
         "Instances": [],
         "Parents": [
           {
@@ -13663,7 +13663,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Driving",
-        "Confidence": 52.021358489990234,
+        "Confidence": 12.021358489990234,
         "Instances": [],
         "Parents": [
           {
@@ -13754,7 +13754,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 54.38552474975586,
+        "Confidence": 34.38552474975586,
         "Instances": [],
         "Parents": [
           {
@@ -14052,7 +14052,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 50.995243072509766,
+        "Confidence": 40.995243072509766,
         "Instances": [],
         "Parents": [
           {
@@ -14122,7 +14122,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 52.021358489990234,
+        "Confidence": 42.021358489990234,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14152,7 +14152,7 @@
       "Timestamp": 11000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 52.021358489990234,
+        "Confidence": 42.021358489990234,
         "Instances": [],
         "Parents": [
           {
@@ -14215,7 +14215,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 53.91475296020508,
+        "Confidence": 43.91475296020508,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14230,7 +14230,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Building",
-        "Confidence": 53.91475296020508,
+        "Confidence": 33.91475296020508,
         "Instances": [],
         "Parents": [
           {
@@ -14303,7 +14303,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Crying",
-        "Confidence": 50.1655387878418,
+        "Confidence": 20.1655387878418,
         "Instances": [],
         "Parents": [
           {
@@ -14372,7 +14372,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 53.952205657958984,
+        "Confidence": 33.952205657958984,
         "Instances": [],
         "Parents": [
           {
@@ -14453,7 +14453,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 51.5363883972168,
+        "Confidence": 31.5363883972168,
         "Instances": [],
         "Parents": [
           {
@@ -14791,7 +14791,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 51.5363883972168,
+        "Confidence": 31.5363883972168,
         "Instances": [],
         "Parents": [
           {
@@ -14838,7 +14838,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 51.0797233581543,
+        "Confidence": 41.0797233581543,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14868,7 +14868,7 @@
       "Timestamp": 11520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 51.0797233581543,
+        "Confidence": 41.0797233581543,
         "Instances": [],
         "Parents": [
           {
@@ -14931,7 +14931,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 53.43947982788086,
+        "Confidence": 33.43947982788086,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -14946,7 +14946,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Building",
-        "Confidence": 53.43947982788086,
+        "Confidence": 23.43947982788086,
         "Instances": [],
         "Parents": [
           {
@@ -15019,7 +15019,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 51.933677673339844,
+        "Confidence": 41.933677673339844,
         "Instances": [],
         "Parents": [
           {
@@ -15060,7 +15060,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 54.479461669921875,
+        "Confidence": 14.479461669921875,
         "Instances": [],
         "Parents": [
           {
@@ -15079,7 +15079,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Driving",
-        "Confidence": 50.5048942565918,
+        "Confidence": 40.5048942565918,
         "Instances": [],
         "Parents": [
           {
@@ -15126,7 +15126,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Furniture",
-        "Confidence": 50.40454864501953,
+        "Confidence": 40.40454864501953,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -15141,7 +15141,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.42171859741211,
+        "Confidence": 40.42171859741211,
         "Instances": [],
         "Parents": [
           {
@@ -15244,7 +15244,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Hugging",
-        "Confidence": 50.360626220703125,
+        "Confidence": 30.360626220703125,
         "Instances": [],
         "Parents": [
           {
@@ -15417,7 +15417,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 51.26646041870117,
+        "Confidence": 41.26646041870117,
         "Instances": [],
         "Parents": [
           {
@@ -15502,7 +15502,7 @@
       "Timestamp": 12000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.5048942565918,
+        "Confidence": 40.5048942565918,
         "Instances": [],
         "Parents": [
           {
@@ -15598,7 +15598,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Building",
-        "Confidence": 53.9652214050293,
+        "Confidence": 43.9652214050293,
         "Instances": [],
         "Parents": [
           {
@@ -15652,7 +15652,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Chair",
-        "Confidence": 50.85697937011719,
+        "Confidence": 40.85697937011719,
         "Instances": [],
         "Parents": [
           {
@@ -15740,7 +15740,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 51.697086334228516,
+        "Confidence": 21.697086334228516,
         "Instances": [],
         "Parents": [
           {
@@ -15821,7 +15821,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 50.983375549316406,
+        "Confidence": 10.983375549316406,
         "Instances": [],
         "Parents": [
           {
@@ -15902,7 +15902,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 53.9652214050293,
+        "Confidence": 43.9652214050293,
         "Instances": [],
         "Parents": [
           {
@@ -16017,7 +16017,7 @@
               "Left": 0.6660540103912354,
               "Top": 0.7842927575111389
             },
-            "Confidence": 59.35962677001953
+            "Confidence": 39.35962677001953
           }
         ],
         "Parents": [
@@ -16070,7 +16070,7 @@
               "Left": 0.6660540103912354,
               "Top": 0.7842927575111389
             },
-            "Confidence": 59.35962677001953
+            "Confidence": 39.35962677001953
           }
         ],
         "Parents": [],
@@ -16128,7 +16128,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Sad",
-        "Confidence": 50.204227447509766,
+        "Confidence": 30.204227447509766,
         "Instances": [],
         "Parents": [
           {
@@ -16157,7 +16157,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 52.904449462890625,
+        "Confidence": 32.904449462890625,
         "Instances": [],
         "Parents": [
           {
@@ -16242,7 +16242,7 @@
       "Timestamp": 12520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.49403762817383,
+        "Confidence": 43.49403762817383,
         "Instances": [],
         "Parents": [
           {
@@ -16279,7 +16279,7 @@
               "Left": 0.6642310619354248,
               "Top": 0.7778513431549072
             },
-            "Confidence": 54.0123405456543
+            "Confidence": 24.0123405456543
           }
         ],
         "Parents": [
@@ -16314,7 +16314,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 54.166908264160156,
+        "Confidence": 24.166908264160156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -16329,7 +16329,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Building",
-        "Confidence": 54.166908264160156,
+        "Confidence": 24.166908264160156,
         "Instances": [],
         "Parents": [
           {
@@ -16383,7 +16383,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Crying",
-        "Confidence": 50.32158279418945,
+        "Confidence": 40.32158279418945,
         "Instances": [],
         "Parents": [
           {
@@ -16411,7 +16411,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 52.945133209228516,
+        "Confidence": 42.945133209228516,
         "Instances": [],
         "Parents": [
           {
@@ -16452,7 +16452,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 51.03264617919922,
+        "Confidence": 11.03264617919922,
         "Instances": [],
         "Parents": [
           {
@@ -16518,7 +16518,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 51.39388656616211,
+        "Confidence": 41.39388656616211,
         "Instances": [],
         "Parents": [
           {
@@ -16696,7 +16696,7 @@
               "Left": 0.6642310619354248,
               "Top": 0.7778513431549072
             },
-            "Confidence": 54.0123405456543
+            "Confidence": 34.0123405456543
           }
         ],
         "Parents": [
@@ -16779,7 +16779,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 52.945133209228516,
+        "Confidence": 32.945133209228516,
         "Instances": [],
         "Parents": [
           {
@@ -16798,7 +16798,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Sad",
-        "Confidence": 50.32158279418945,
+        "Confidence": 40.32158279418945,
         "Instances": [],
         "Parents": [
           {
@@ -16850,7 +16850,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 51.39388656616211,
+        "Confidence": 11.39388656616211,
         "Instances": [],
         "Parents": [
           {
@@ -16912,7 +16912,7 @@
       "Timestamp": 13000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 51.83543395996094,
+        "Confidence": 21.83543395996094,
         "Instances": [],
         "Parents": [
           {
@@ -16990,7 +16990,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Building",
-        "Confidence": 53.19141387939453,
+        "Confidence": 13.19141387939453,
         "Instances": [],
         "Parents": [
           {
@@ -17132,7 +17132,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Driving",
-        "Confidence": 51.37245559692383,
+        "Confidence": 41.37245559692383,
         "Instances": [],
         "Parents": [
           {
@@ -17198,7 +17198,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 52.41321563720703,
+        "Confidence": 32.41321563720703,
         "Instances": [],
         "Parents": [
           {
@@ -17583,7 +17583,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 51.37245559692383,
+        "Confidence": 31.37245559692383,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17613,7 +17613,7 @@
       "Timestamp": 13520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 51.37245559692383,
+        "Confidence": 21.37245559692383,
         "Instances": [],
         "Parents": [
           {
@@ -17647,7 +17647,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 55.8082160949707,
+        "Confidence": 25.8082160949707,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17691,7 +17691,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Building",
-        "Confidence": 55.8082160949707,
+        "Confidence": 25.8082160949707,
         "Instances": [],
         "Parents": [
           {
@@ -17745,7 +17745,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Clinic",
-        "Confidence": 50.82661056518555,
+        "Confidence": 30.82661056518555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -17829,7 +17829,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 53.878475189208984,
+        "Confidence": 23.878475189208984,
         "Instances": [],
         "Parents": [
           {
@@ -17908,7 +17908,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 52.327850341796875,
+        "Confidence": 22.327850341796875,
         "Instances": [],
         "Parents": [
           {
@@ -18044,7 +18044,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Indoors",
-        "Confidence": 50.82661056518555,
+        "Confidence": 30.82661056518555,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -18078,7 +18078,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Medical Procedure",
-        "Confidence": 50.82661056518555,
+        "Confidence": 30.82661056518555,
         "Instances": [],
         "Parents": [
           {
@@ -18122,7 +18122,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Operating Theatre",
-        "Confidence": 50.82661056518555,
+        "Confidence": 30.82661056518555,
         "Instances": [],
         "Parents": [
           {
@@ -18198,7 +18198,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 51.57834243774414,
+        "Confidence": 21.57834243774414,
         "Instances": [],
         "Parents": [
           {
@@ -18217,7 +18217,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Sad",
-        "Confidence": 50.86060333251953,
+        "Confidence": 40.86060333251953,
         "Instances": [],
         "Parents": [
           {
@@ -18269,7 +18269,7 @@
       "Timestamp": 14000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 52.327850341796875,
+        "Confidence": 42.327850341796875,
         "Instances": [],
         "Parents": [
           {
@@ -18482,7 +18482,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Crying",
-        "Confidence": 50.66202926635742,
+        "Confidence": 30.66202926635742,
         "Instances": [],
         "Parents": [
           {
@@ -18692,7 +18692,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 54.72635269165039,
+        "Confidence": 34.72635269165039,
         "Instances": [],
         "Parents": [
           {
@@ -18881,7 +18881,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 51.32185363769531,
+        "Confidence": 21.32185363769531,
         "Instances": [],
         "Parents": [
           {
@@ -18952,7 +18952,7 @@
       "Timestamp": 14520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 53.282371520996094,
+        "Confidence": 23.282371520996094,
         "Instances": [],
         "Parents": [
           {
@@ -19058,7 +19058,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Baby",
-        "Confidence": 58.4995231628418,
+        "Confidence": 28.4995231628418,
         "Instances": [
           {
             "BoundingBox": {
@@ -19141,7 +19141,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Crying",
-        "Confidence": 50.35820007324219,
+        "Confidence": 30.35820007324219,
         "Instances": [],
         "Parents": [
           {
@@ -19169,7 +19169,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 52.583106994628906,
+        "Confidence": 22.583106994628906,
         "Instances": [],
         "Parents": [
           {
@@ -19270,7 +19270,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 52.885711669921875,
+        "Confidence": 32.885711669921875,
         "Instances": [],
         "Parents": [
           {
@@ -19507,7 +19507,7 @@
               "Left": 0.6211868524551392,
               "Top": 0.6776705980300903
             },
-            "Confidence": 57.25372314453125
+            "Confidence": 47.25372314453125
           }
         ],
         "Parents": [],
@@ -19546,7 +19546,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Romantic",
-        "Confidence": 52.583106994628906,
+        "Confidence": 42.583106994628906,
         "Instances": [],
         "Parents": [
           {
@@ -19617,7 +19617,7 @@
       "Timestamp": 15000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 52.885711669921875,
+        "Confidence": 22.885711669921875,
         "Instances": [],
         "Parents": [
           {
@@ -19697,7 +19697,7 @@
               "Left": 0.5904106497764587,
               "Top": 0.5942064523696899
             },
-            "Confidence": 59.4077033996582
+            "Confidence": 39.4077033996582
           }
         ],
         "Parents": [
@@ -19747,7 +19747,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Building",
-        "Confidence": 52.81678771972656,
+        "Confidence": 32.81678771972656,
         "Instances": [],
         "Parents": [
           {
@@ -19801,7 +19801,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 52.40068817138672,
+        "Confidence": 22.40068817138672,
         "Instances": [],
         "Parents": [
           {
@@ -19861,7 +19861,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Electronics",
-        "Confidence": 52.96290969848633,
+        "Confidence": 32.96290969848633,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19917,7 +19917,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Happy",
-        "Confidence": 52.55039978027344,
+        "Confidence": 22.55039978027344,
         "Instances": [],
         "Parents": [
           {
@@ -19983,7 +19983,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 55.97819900512695,
+        "Confidence": 45.97819900512695,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -19998,7 +19998,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 52.81678771972656,
+        "Confidence": 22.81678771972656,
         "Instances": [],
         "Parents": [
           {
@@ -20172,7 +20172,7 @@
               "Left": 0.5904106497764587,
               "Top": 0.5942064523696899
             },
-            "Confidence": 59.4077033996582
+            "Confidence": 39.4077033996582
           }
         ],
         "Parents": [],
@@ -20230,7 +20230,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 51.41051483154297,
+        "Confidence": 21.41051483154297,
         "Instances": [],
         "Parents": [
           {
@@ -20253,7 +20253,7 @@
       "Timestamp": 15520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 52.55039978027344,
+        "Confidence": 42.55039978027344,
         "Instances": [],
         "Parents": [
           {
@@ -20457,7 +20457,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Crying",
-        "Confidence": 50.43450164794922,
+        "Confidence": 30.43450164794922,
         "Instances": [],
         "Parents": [
           {
@@ -20507,7 +20507,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 56.0943489074707,
+        "Confidence": 46.0943489074707,
         "Instances": [],
         "Parents": [
           {
@@ -20567,7 +20567,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 50.06606674194336,
+        "Confidence": 30.06606674194336,
         "Instances": [],
         "Parents": [
           {
@@ -20630,7 +20630,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 51.31343460083008,
+        "Confidence": 11.31343460083008,
         "Instances": [],
         "Parents": [
           {
@@ -20848,7 +20848,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Sad",
-        "Confidence": 50.43450164794922,
+        "Confidence": 30.43450164794922,
         "Instances": [],
         "Parents": [
           {
@@ -20877,7 +20877,7 @@
       "Timestamp": 16000,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 51.52007293701172,
+        "Confidence": 41.52007293701172,
         "Instances": [],
         "Parents": [
           {
@@ -20965,7 +20965,7 @@
               "Left": 0.5887191295623779,
               "Top": 0.6129007339477539
             },
-            "Confidence": 59.17365646362305
+            "Confidence": 29.17365646362305
           }
         ],
         "Parents": [
@@ -21097,7 +21097,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 52.39200973510742,
+        "Confidence": 42.39200973510742,
         "Instances": [],
         "Parents": [
           {
@@ -21179,7 +21179,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 50.575347900390625,
+        "Confidence": 30.575347900390625,
         "Instances": [],
         "Parents": [
           {
@@ -21242,7 +21242,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 51.29188919067383,
+        "Confidence": 41.29188919067383,
         "Instances": [],
         "Parents": [
           {
@@ -21264,7 +21264,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 54.88844680786133,
+        "Confidence": 44.88844680786133,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21352,7 +21352,7 @@
               "Left": 0.5887191295623779,
               "Top": 0.6129007339477539
             },
-            "Confidence": 59.17365646362305
+            "Confidence": 39.17365646362305
           }
         ],
         "Parents": [
@@ -21563,7 +21563,7 @@
       "Timestamp": 16520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 52.3826904296875,
+        "Confidence": 32.3826904296875,
         "Instances": [],
         "Parents": [
           {
@@ -21687,7 +21687,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 50.74384307861328,
+        "Confidence": 30.74384307861328,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -21702,7 +21702,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Building",
-        "Confidence": 50.74384307861328,
+        "Confidence": 30.74384307861328,
         "Instances": [],
         "Parents": [
           {
@@ -21730,7 +21730,7 @@
               "Left": 0.04180154949426651,
               "Top": 0.44808778166770935
             },
-            "Confidence": 55.211551666259766
+            "Confidence": 35.211551666259766
           }
         ],
         "Parents": [
@@ -21756,7 +21756,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 52.17232131958008,
+        "Confidence": 12.17232131958008,
         "Instances": [],
         "Parents": [
           {
@@ -21819,7 +21819,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 52.57868957519531,
+        "Confidence": 32.57868957519531,
         "Instances": [],
         "Parents": [
           {
@@ -21882,7 +21882,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 50.778228759765625,
+        "Confidence": 40.778228759765625,
         "Instances": [],
         "Parents": [
           {
@@ -21919,7 +21919,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 50.74384307861328,
+        "Confidence": 30.74384307861328,
         "Instances": [],
         "Parents": [
           {
@@ -22168,7 +22168,7 @@
       "Timestamp": 17000,
       "Label": {
         "Name": "Smile",
-        "Confidence": 52.2838020324707,
+        "Confidence": 22.2838020324707,
         "Instances": [],
         "Parents": [
           {
@@ -22384,7 +22384,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Dentist",
-        "Confidence": 50.83005142211914,
+        "Confidence": 40.83005142211914,
         "Instances": [],
         "Parents": [
           {
@@ -22507,7 +22507,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 52.0323486328125,
+        "Confidence": 42.0323486328125,
         "Instances": [],
         "Parents": [
           {
@@ -22544,7 +22544,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 51.92770004272461,
+        "Confidence": 21.92770004272461,
         "Instances": [],
         "Parents": [
           {
@@ -22566,7 +22566,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Hot Tub",
-        "Confidence": 56.065147399902344,
+        "Confidence": 46.065147399902344,
         "Instances": [
           {
             "BoundingBox": {
@@ -22741,7 +22741,7 @@
       "Timestamp": 17520,
       "Label": {
         "Name": "Operating Theatre",
-        "Confidence": 50.20491409301758,
+        "Confidence": 30.20491409301758,
         "Instances": [],
         "Parents": [
           {
@@ -22965,7 +22965,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 52.325401306152344,
+        "Confidence": 42.325401306152344,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23085,7 +23085,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 56.577064514160156,
+        "Confidence": 36.577064514160156,
         "Instances": [],
         "Parents": [
           {
@@ -23230,7 +23230,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 56.577064514160156,
+        "Confidence": 36.577064514160156,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23245,7 +23245,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 52.325401306152344,
+        "Confidence": 12.325401306152344,
         "Instances": [],
         "Parents": [
           {
@@ -23426,7 +23426,7 @@
       "Timestamp": 18000,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 50.734230041503906,
+        "Confidence": 30.734230041503906,
         "Instances": [],
         "Parents": [
           {
@@ -23514,7 +23514,7 @@
               "Left": 0.0073493062518537045,
               "Top": 0.4383942782878876
             },
-            "Confidence": 59.995704650878906
+            "Confidence": 39.995704650878906
           }
         ],
         "Parents": [
@@ -23549,7 +23549,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 51.08799362182617,
+        "Confidence": 21.08799362182617,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23640,7 +23640,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Cushion",
-        "Confidence": 59.53571319580078,
+        "Confidence": 49.53571319580078,
         "Instances": [],
         "Parents": [
           {
@@ -23681,7 +23681,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 51.97479248046875,
+        "Confidence": 31.97479248046875,
         "Instances": [],
         "Parents": [
           {
@@ -23766,7 +23766,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Home Decor",
-        "Confidence": 59.53571319580078,
+        "Confidence": 19.53571319580078,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -23781,7 +23781,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 51.08799362182617,
+        "Confidence": 31.08799362182617,
         "Instances": [],
         "Parents": [
           {
@@ -23803,7 +23803,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Hot Tub",
-        "Confidence": 50.98400115966797,
+        "Confidence": 40.98400115966797,
         "Instances": [
           {
             "BoundingBox": {
@@ -23854,7 +23854,7 @@
               "Left": 0.0073493062518537045,
               "Top": 0.4383942782878876
             },
-            "Confidence": 59.995704650878906
+            "Confidence": 39.995704650878906
           }
         ],
         "Parents": [
@@ -23911,7 +23911,7 @@
               "Left": 0.0073493062518537045,
               "Top": 0.4383942782878876
             },
-            "Confidence": 59.995704650878906
+            "Confidence": 29.995704650878906
           }
         ],
         "Parents": [
@@ -24036,7 +24036,7 @@
       "Timestamp": 18520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 52.36122131347656,
+        "Confidence": 32.36122131347656,
         "Instances": [],
         "Parents": [
           {
@@ -24142,7 +24142,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Architecture",
-        "Confidence": 50.38742446899414,
+        "Confidence": 30.38742446899414,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -24157,7 +24157,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Building",
-        "Confidence": 50.38742446899414,
+        "Confidence": 30.38742446899414,
         "Instances": [],
         "Parents": [
           {
@@ -24299,7 +24299,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 50.47393035888672,
+        "Confidence": 40.47393035888672,
         "Instances": [],
         "Parents": [
           {
@@ -24362,7 +24362,7 @@
       "Timestamp": 19000,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 52.523258209228516,
+        "Confidence": 32.523258209228516,
         "Instances": [],
         "Parents": [
           {
@@ -24743,7 +24743,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Building",
-        "Confidence": 50.53712844848633,
+        "Confidence": 20.53712844848633,
         "Instances": [],
         "Parents": [
           {
@@ -24838,7 +24838,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Driving",
-        "Confidence": 50.68307876586914,
+        "Confidence": 40.68307876586914,
         "Instances": [],
         "Parents": [
           {
@@ -24885,7 +24885,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Fallen Person",
-        "Confidence": 50.64591598510742,
+        "Confidence": 40.64591598510742,
         "Instances": [],
         "Parents": [
           {
@@ -25184,7 +25184,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Sleeping",
-        "Confidence": 51.385009765625,
+        "Confidence": 21.385009765625,
         "Instances": [],
         "Parents": [
           {
@@ -25207,7 +25207,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Smile",
-        "Confidence": 52.50337219238281,
+        "Confidence": 32.50337219238281,
         "Instances": [],
         "Parents": [
           {
@@ -25254,7 +25254,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 50.68307876586914,
+        "Confidence": 20.68307876586914,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25269,7 +25269,7 @@
       "Timestamp": 19520,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 50.68307876586914,
+        "Confidence": 30.68307876586914,
         "Instances": [],
         "Parents": [
           {
@@ -25356,7 +25356,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Building",
-        "Confidence": 51.49553298950195,
+        "Confidence": 21.49553298950195,
         "Instances": [],
         "Parents": [
           {
@@ -25410,7 +25410,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Cuddling",
-        "Confidence": 53.81987762451172,
+        "Confidence": 43.81987762451172,
         "Instances": [],
         "Parents": [
           {
@@ -25517,7 +25517,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Happy",
-        "Confidence": 51.44233322143555,
+        "Confidence": 31.44233322143555,
         "Instances": [],
         "Parents": [
           {
@@ -25561,7 +25561,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Headrest",
-        "Confidence": 53.06330490112305,
+        "Confidence": 43.06330490112305,
         "Instances": [],
         "Parents": [
           {
@@ -25598,7 +25598,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Hospital",
-        "Confidence": 51.49553298950195,
+        "Confidence": 31.49553298950195,
         "Instances": [],
         "Parents": [
           {
@@ -25867,7 +25867,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Transportation",
-        "Confidence": 53.510467529296875,
+        "Confidence": 23.510467529296875,
         "Instances": [],
         "Parents": [],
         "Aliases": [],
@@ -25882,7 +25882,7 @@
       "Timestamp": 20000,
       "Label": {
         "Name": "Vehicle",
-        "Confidence": 53.510467529296875,
+        "Confidence": 33.510467529296875,
         "Instances": [],
         "Parents": [
           {
