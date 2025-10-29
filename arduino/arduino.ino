@@ -2,8 +2,12 @@
 #define outputB 7
 #define boton 8
 
+int cant_videos = 65;
+
 int redpin = 11; // pin for red signal
 int greenpin = 10; // pin for green signal
+int bluepin = 12;
+
 int val_r;
 int val_g;
 int dir_r, dir_g;
@@ -16,6 +20,8 @@ int nitidez_ant = 0;
 
 int inactividad = 0;
 
+int max_valores_dial;
+
 void setup() {
   pinMode (outputA,INPUT);
   pinMode (outputB,INPUT);
@@ -23,6 +29,7 @@ void setup() {
 
   pinMode(redpin, OUTPUT);
 	pinMode(greenpin, OUTPUT);
+  pinMode(bluepin, OUTPUT);
 
   Serial.begin (9600);
   aLastState = digitalRead(outputA);   //Leemos el valor incial
@@ -30,11 +37,12 @@ void setup() {
   val_r = 0;
   val_g = 255;
 
+  max_valores_dial = 4+((cant_videos+1) * 10);
 }
 
 void loop() {
   aState = digitalRead(outputA);
-  nitidez = map(analogRead(A0), 0, 673, 0, 1023);
+  nitidez = analogRead(A0);
 
   if (aState != aLastState )
     {
@@ -43,13 +51,13 @@ void loop() {
         else
             counter --;
 
-        if ( counter == 59*30 )
+        if ( counter >= max_valores_dial )
         { 
           counter = 0 ;
         }
-        else if ( counter == -1 )
+        else if ( counter <= -1 )
         { 
-          counter = 59*30-1 ;
+          counter = max_valores_dial ;
         }
 
         Serial.print(counter);
@@ -68,7 +76,7 @@ void loop() {
       Serial.print(" ");
       Serial.println(inactividad);
 
-      if(abs(nitidez - nitidez_ant) > 3) inactividad = 0;
+      if(abs(nitidez - nitidez_ant) > 16) inactividad = 0;
 
       nitidez_ant = nitidez;
       
@@ -100,6 +108,7 @@ void loop() {
       }
 
       analogWrite(redpin, val_r); 
+      analogWrite(bluepin, val_g); 
       analogWrite(greenpin, val_g); 
     }
   

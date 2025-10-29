@@ -8,7 +8,7 @@ Serial myPort;
 OscP5 oscP5;
 
 int cantVideos = 65;
-int max_dial = (cantVideos+1)*30;
+int max_dial = (cantVideos+1)*10;
 int cantImgsPorVideo = 4;
 int limite_inactividad = 10;
 
@@ -79,7 +79,7 @@ void setup() {
       imgs[i][si].resize(width, height);
       //imgs[i][si].loadPixels();
 
-      //println("imagen: " + i + "_" + si + " cargada");
+      println("imagen: " + i + "_" + si + " cargada");
     }
 
     puntos_nitidez[i] = int(random(1023));
@@ -218,6 +218,8 @@ void draw() {
   monitorearActividad();
   fill(0, oscuridad);
   rect(0, 0, width, height);
+  
+  barra_inferior();
 
 
   //dibujarGrillaReferencia();
@@ -390,7 +392,7 @@ void serialEvent(Serial myPort) {
 
       if (sNitidez != datos[1]) {
 
-        if ( abs(sNitidez - datos[1]) > 3) actividad = true; // registro actividad si el cambio es grande
+        //if ( abs(sNitidez - datos[1]) > 3) actividad = true; // registro actividad si el cambio es grande
 
         sNitidez = datos[1];
       }
@@ -409,6 +411,40 @@ void oscEvent(OscMessage mensajeOscEntrante) {
       println("indice recibido: ", indice_recibido);
     }
   }
+}
+
+// ------------------------------------------------------------------------------------------------------
+void barra_inferior(){
+  int ancho_barra = width;
+  int alto_barra = 20;
+  int xSensor = int(map(sVideo, 0, max_dial, 0, ancho_barra)); // valor traducido en x del sensor
+  float div = ((float)ancho_barra / (float)(cantVideos - 1));
+    
+  // fondo barra inferior
+  fill(0);
+  rect(0, height-alto_barra, width, alto_barra);
+
+  for (int i = 0; i < cantVideos; i++) {
+    
+    int xSints = int(i * div);
+      
+    // marcas de sintonizacion
+    if( abs(xSensor - xSints) < div*0.19 ){
+      // verde de sintonizacion
+      fill(0, 255, 0);
+      rect(xSints-div*0.25, height-alto_barra, div*0.5, alto_barra);
+        
+      //text("0x"+ ofToString(currentVideoIndex) + "ae" + ofToString(distSintVideo) + "c" + ofToString((int) ofMap(distortionAmount, 0, 1, 100, 999)) , xSints-5, ofGetHeight()-alto_barra-10);
+    }
+    else{
+      // puntos no sintonizados
+      fill(180);
+      rect(xSints-div*0.15, height-alto_barra, div*0.3, alto_barra);
+    }
+  }
+  // barra valor sensor
+  fill(255, 0, 0);
+  rect(xSensor, height-alto_barra, 3, alto_barra);
 }
 
 
